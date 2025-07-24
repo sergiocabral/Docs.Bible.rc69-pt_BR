@@ -1,0 +1,115 @@
+extends: base
+font:
+  catalog:
+    Noto Serif:
+      normal: NotoSerif/NotoSerif-Regular.ttf
+      bold: NotoSerif/NotoSerif-Bold.ttf
+      italic: NotoSerif/NotoSerif-Italic.ttf
+      bold_italic: NotoSerif/NotoSerif-BoldItalic.ttf
+    M+ 1mn:
+      normal: M+1mn/mplus-1mn-regular.ttf
+      bold: M+1mn/mplus-1mn-bold.ttf
+      italic: M+1mn/mplus-1mn-regular.ttf
+      bold_italic: M+1mn/mplus-1mn-bold.ttf
+    Oswald:
+      normal: Oswald/static/Oswald-Regular.ttf
+      bold: Oswald/static/Oswald-Bold.ttf
+      italic: Oswald/static/Oswald-Regular.ttf
+      bold_italic: Oswald/static/Oswald-Bold.ttf
+    Rubik:
+      normal: Rubik/static/Rubik-Regular.ttf
+      bold: Rubik/static/Rubik-Bold.ttf
+      italic: Rubik/static/Rubik-Italic.ttf
+      bold_italic: Rubik/static/Rubik-Bold.ttf
+    Inconsolata:
+      normal: Inconsolata/static/Inconsolata/Inconsolata-Regular.ttf
+      bold: Inconsolata/static/Inconsolata/Inconsolata-Bold.ttf
+      italic: Inconsolata/static/Inconsolata/Inconsolata-SemiBold.ttf
+      bold_italic: Inconsolata/static/Inconsolata/Inconsolata-Black.ttf
+page:
+  layout: portrait
+  margin: [1.5cm, 1.75cm, 1.5cm, 1.75cm]
+  size: A4
+  initial-zoom: Fit
+base:
+  font_color: #000000
+  font_family: Rubik
+  font_size: 12
+  align: justify
+  line_height_length: 14
+  line_height: $base_line_height_length / $base_font_size
+vertical_spacing: $base_line_height_length
+heading:
+  font_color: #333333
+  font_family: Oswald
+  font_size: 22
+  font_style: bold
+  line_height: 1.2
+  margin_bottom: $vertical_spacing
+link:
+  font_color: #002FA7
+list:
+  indent: $base_font_size * 1.5
+title_page:
+  align: center
+  title:
+    font_family: Oswald
+    font_size: 48 # Aumenta para dar mais impacto
+    font_color: D6E0D7 # Um tom claro esverdeado, suave e moderno
+    margin_top: -140px
+    margin_bottom: 20px
+  subtitle:
+    font_family: Oswald
+    font_size: 30
+    font_style: bold
+    font_color: C0C0C0 # Cinza mais suave, destacando do fundo
+    margin_bottom: 120px
+  authors:
+    font_family: Rubik
+    font_size: 14
+    font_color: 888888
+    text_transform: uppercase
+    margin_top: -50px
+  revision:
+    font_family: Rubik
+    font_size: 12
+    font_color: C0C0C0
+    margin_top: 30px
+    margin_top: 10px
+admonition:
+  padding: [0, 0.25cm, 0, 0.25cm]
+  font_family: Rubik
+  font_size: 10
+  font_color: 888888
+  icon:
+    note:
+      size: 18
+    tip:
+      size: 18
+    warning:
+      size: 18
+    important:
+      size: 18
+    caution:
+      size: 18
+mark:
+  background_color: FFFF7C
+  border_offset: ~
+example:
+  font_family: Inconsolata
+role:
+  gray:
+    font_color: 999999
+  green-background:
+    background_color: 54FF82
+  red-background:
+    background_color: FF8254
+  blue-background:
+    background_color: 69B5FF
+  grey-background:
+    background_color: d0d0d0
+  gray-background:
+    background_color: d0d0d0
+  black-background:
+    background_color: 000000
+    font_color: FFFFFF

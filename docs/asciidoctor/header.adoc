@@ -1,0 +1,65 @@
+////
+MODELO PARA book.adoc
+    = Título do livro: Sub-título do livro
+    :revnumber: 1.0.0
+    :revdate: jul/2025
+    :revremark: Primeira Edição
+    :basedir: ../../../../../..
+    include::{basedir}/docs/asciidoctor/header.adoc[]
+
+    :leveloffset: 1
+    include::index.adoc[]
+
+CONFIGURANDO O AMBIENTE
+    1. Instale Ruby e tenha o comando `gem` ao PATH
+    2. Execute: `gem install bundler asciidoctor asciidoctor-pdf asciidoctor-epub3`
+    3. Compile usando os comandos:
+        - `asciidoctor book.adoc`
+        - `asciidoctor-pdf book.adoc`
+        - `asciidoctor-epub3 book.adoc`
+////
+:email: contato@raciocinios.com.br
+:author: sergiocabral.dev
+:homepage: https://www.raciocinios.com.br/
+ifndef::basedir[]
+:basedir: ../..
+endif::[]
+:front-cover-image!:
+:title-page-background-image: image:{basedir}/docs/asciidoctor/assets/cover-pdf.jpg[Cover]
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+:doctype: book
+:source-highlighter: highlightjs
+:allow-uri-read:
+:data-uri:
+:icons: font
+:sectanchors:
+:sectlinks:
+:docinfodir: {basedir}/docs/asciidoctor
+:docinfo: shared
+//Manual da versão atual: https://github.com/asciidoctor/asciidoctor-pdf/blob/main/docs/theming-guide.adoc - Tema padrão: https://github.com/asciidoctor/asciidoctor-pdf/blob/main/data/themes/default-theme.yml
+:pdf-themesdir: {basedir}/docs/asciidoctor
+:pdf-theme: custom
+:pdf-stylesdir: {basedir}/docs/asciidoctor
+:pdf-style: custom
+:stylesdir: {basedir}/docs/asciidoctor
+:stylesheet: custom-theme.css
+:pdf-fontsdir: {basedir}/docs/asciidoctor/fonts
+// Traduções
+:toc-title: Índice
+:chapter-label: 
+:table-caption: Tabela
+:figure-caption: Figura
+:tip-caption: Dica
+:note-caption: Nota
+:important-caption: Importante
+:warning-caption: Atenção
+:caution-caption: Cuidado
+:version-label: Versão
+:last-update-label: Última publicação
+
+ifndef::backend-pdf[]
+image::{basedir}/docs/asciidoctor/assets/cover-html.jpg[Logo,width=100%]
+endif::[]
