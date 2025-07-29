@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v12-15-0]]
+=== 2 Reis, 15
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v12-15-1]]
+
+^<<v12-15-1,1>>^ NO ano vinte e sete de Jeroboão, rei de Israel, começou a reinar Azarias, filho de Amazias, rei de Judá.
+
+[[v12-15-2]]
+
+^<<v12-15-2,2>>^ Tinha dezesseis anos quando começou a reinar, e cinquenta e dois anos reinou em Jerusalém: e era  o nome de sua mãe Jecolia, de Jerusalém.
+
+[[v12-15-3]]
+
+^<<v12-15-3,3>>^ E fez o que era  reto aos olhos do Senhor, conforme tudo o que fizera Amazias, seu pai.
+
+[[v12-15-4]]
+
+^<<v12-15-4,4>>^ Tão somente os altos se não tiraram: porque  ainda o povo sacrificava e queimava incenso nos altos.
+
+[[v12-15-5]]
+
+^<<v12-15-5,5>>^ E o Senhor feriu o rei, e ficou leproso até ao dia da sua morte; e habitou numa casa separada: porém Jotão, filho do rei, tinha o cargo da casa, julgando o povo da terra.
+
+[[v12-15-6]]
+
+^<<v12-15-6,6>>^ Ora o mais dos sucessos de Azarias, e tudo o que fez, porventura  não está  escrito no livro das crônicas dos reis de Judá?
+
+[[v12-15-7]]
+
+^<<v12-15-7,7>>^ E Azarias dormiu com seus pais, e o sepultaram junto a seus pais, na cidade de Davi: e Jotão, seu filho, reinou em seu lugar.
+
+[[v12-15-8]]
+
+^<<v12-15-8,8>>^ No ano trinta e oito de Azarias, rei de Judá, reinou Zacarias, filho de Jeroboão, sobre Israel, em Samaria, seis meses.
+
+[[v12-15-9]]
+
+^<<v12-15-9,9>>^ E  fez o que parecia  mal aos olhos do Senhor, como tinham feito seus pais: nunca se apartou dos pecados de Jeroboão, filho de Nebate, que fez pecar a Israel.
+
+[[v12-15-10]]
+
+^<<v12-15-10,10>>^ E Salum, filho de Jabes, conspirou contra ele e o feriu diante do povo, e o matou; e reinou em seu lugar.
+
+[[v12-15-11]]
+
+^<<v12-15-11,11>>^ Ora o mais dos sucessos de Zacarias, eis que está  escrito no livro das crônicas dos reis de Israel.
+
+[[v12-15-12]]
+
+^<<v12-15-12,12>>^ Esta foi  a palavra do Senhor, que falou a Jeú, dizendo: Teus filhos, até à quarta geração , se assentarão sobre o trono de Israel. E assim foi.
+
+[[v12-15-13]]
+
+^<<v12-15-13,13>>^ Salum, filho de Jabes, começou a reinar no ano trinta e nove de Uzias, rei de Judá: e reinou um mês inteiro em Samaria.
+
+[[v12-15-14]]
+
+^<<v12-15-14,14>>^ Porque Menaém filho de Gadi, subiu de Tirzá, e veio a Samaria; e feriu a Salum, filho de Jabes, em Samaria, e o matou, e reinou em seu lugar.
+
+[[v12-15-15]]
+
+^<<v12-15-15,15>>^ Ora o mais dos sucessos de Salum, e a conspiração que fez, eis que está  escrito no livro das crônicas dos reis de Israel.
+
+[[v12-15-16]]
+
+^<<v12-15-16,16>>^ Então Menaém feriu a Tifsa, e a todos os que nela havia  como também a seus termos desde Tirzá, porque não lha  tinham aberto; e os feriu pois, e  a todas as mulheres grávidas fendeu pelo meio.
+
+[[v12-15-17]]
+
+^<<v12-15-17,17>>^ Desde o ano trinta e nove de Azarias, rei de Judá, Menaém, filho de Gadi, começou a reinar sobre Israel, e reinou dez anos em Samaria.
+
+[[v12-15-18]]
+
+^<<v12-15-18,18>>^ E fez o que parecia  mal aos olhos do Senhor: todos os seus dias se não apartou dos pecados de Jeroboão, filho de Nebate, que fez pecar a Israel.
+
+[[v12-15-19]]
+
+^<<v12-15-19,19>>^ Então  veio Pul, rei da Assíria, contra a terra: e Menaém deu a Pul mil talentos de prata, para que a sua mão fosse com ele, a fim de firmar o reino na sua mão.
+
+[[v12-15-20]]
+
+^<<v12-15-20,20>>^ E Menaém tirou este dinheiro de Israel, de todos os poderosos e ricos, para o dar ao rei da Assíria, por cada homem cinquenta siclos de prata: assim voltou o rei da Assíria, e não ficou ali na terra.
+
+[[v12-15-21]]
+
+^<<v12-15-21,21>>^ Ora o mais dos sucessos de Menaém, e tudo quanto fez, porventura  não está  escrito no livro das crônicas dos reis de Israel?
+
+[[v12-15-22]]
+
+^<<v12-15-22,22>>^ E Menaém dormiu com seus pais: e Pecaia, seu filho, reinou em seu lugar.
+
+[[v12-15-23]]
+
+^<<v12-15-23,23>>^ No ano cinquenta de Azarias, rei de Judá, começou a reinar Pecaia, filho de Menaém, e reinou sobre Israel, em Samaria, dois anos.
+
+[[v12-15-24]]
+
+^<<v12-15-24,24>>^ E fez o que parecia  mal aos olhos do Senhor: nunca se apartou dos pecados de Jeroboão, filho de Nebate, que fez pecar a Israel.
+
+[[v12-15-25]]
+
+^<<v12-15-25,25>>^ E Peca, filho de Remalias, seu capitão, conspirou contra ele, e o feriu em Samaria, no paço da casa do rei, juntamente com Argobe e com Arié; e com ele estavam cinquenta homens dos filhos de gileaditas: e o matou, e reinou em seu lugar.
+
+[[v12-15-26]]
+
+^<<v12-15-26,26>>^ Ora o mais dos sucessos de Pecaia, e tudo quanto fez, eis que está  escrito no livro das crônicas dos reis de Israel.
+
+[[v12-15-27]]
+
+^<<v12-15-27,27>>^ No ano cinquenta e dois de Azarias, rei de Judá, começou a reinar Peca, filho de Remalias, e reinou sobre Israel, em Samaria, vinte anos.
+
+[[v12-15-28]]
+
+^<<v12-15-28,28>>^ E fez o que parecia  mal aos olhos do Senhor: nunca se apartou dos pecados de Jeroboão, filho de Nebate, que fez pecar a Israel.
+
+[[v12-15-29]]
+
+^<<v12-15-29,29>>^ Nos dias de Peca, rei de Israel, veio Tiglate-Pileser, rei da Assíria, e tomou a Ijom, e Abel-Bete-Maaca, e a Janoa, e a Quedes, e a Hazor, e a Gileade, e a Galileia, e a toda a terra de Naftali, e os levou para a Assíria.
+
+[[v12-15-30]]
+
+^<<v12-15-30,30>>^ E Oseias, filho de Ela, conspirou contra Peca, filho de Remalias, e o feriu, e o matou, e reinou em seu lugar, no vigésimo ano de Jotão, filho de Uzias.
+
+[[v12-15-31]]
+
+^<<v12-15-31,31>>^ Ora o mais dos sucessos de Peca, e tudo quanto fez, eis que está  escrito no livro das crônicas dos reis de Israel.
+
+[[v12-15-32]]
+
+^<<v12-15-32,32>>^ No ano segundo de Peca, filho de Remalias, rei de Israel, começou a reinar Jotão, filho de Uzias, rei de Judá.
+
+[[v12-15-33]]
+
+^<<v12-15-33,33>>^ Tinha vinte e cinco anos de idade quando começou a reinar, e reinou dezesseis anos em Jerusalém: e era  o nome de sua mãe Jerusa, filha de Zadoque.
+
+[[v12-15-34]]
+
+^<<v12-15-34,34>>^ E fez o que era  reto aos olhos do Senhor, fez conforme tudo quanto fizera seu pai Uzias.
+
+[[v12-15-35]]
+
+^<<v12-15-35,35>>^ Tão somente os altos se não tiraram; porque  ainda o povo sacrificava e queimava incenso nos altos: este edificou a porta alta da casa do Senhor.
+
+[[v12-15-36]]
+
+^<<v12-15-36,36>>^ Ora o mais dos sucessos de Jotão e tudo quanto fez, porventura  não está  escrito no livro das crônicas dos reis de Judá?
+
+[[v12-15-37]]
+
+^<<v12-15-37,37>>^ Naqueles dias começou o Senhor a enviar contra Judá a Resim, rei da Síria, e a Peca, filho de Remalias.
+
+[[v12-15-38]]
+
+^<<v12-15-38,38>>^ E Jotão dormiu com seus pais, e foi sepultado junto a seus pais, na cidade de Davi, seu pai: e Acaz, seu filho, reinou em seu lugar.
+
+'''
+
+xref:012-2-reis/012-2-reis-014.adoc#v12-14-0[&#60; Capítulo Anterior] | <<v12-15-0,Topo>> | xref:012-2-reis/012-2-reis-016.adoc#v12-16-0[Próximo Capítulo &#62;]

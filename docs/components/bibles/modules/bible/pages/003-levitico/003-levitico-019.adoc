@@ -1,0 +1,157 @@
+include::./index.adoc[]
+
+[[v3-19-0]]
+=== Levítico, 19
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v3-19-1]]
+
+^<<v3-19-1,1>>^ FALOU mais o Senhor a Moisés, dizendo:
+
+[[v3-19-2]]
+
+^<<v3-19-2,2>>^ Fala a toda a congregação dos filhos de Israel, e dize-lhes: Santos sereis, porque eu, o Senhor vosso Deus, sou  santo.
+
+[[v3-19-3]]
+
+^<<v3-19-3,3>>^ Cada um temerá a sua mãe e a seu pai, e guardará os meus sábados: Eu sou  o Senhor vosso Deus.
+
+[[v3-19-4]]
+
+^<<v3-19-4,4>>^ Não vos virareis para os ídolos, nem vos fareis deuses de fundição: Eu sou  o Senhor vosso Deus.
+
+[[v3-19-5]]
+
+^<<v3-19-5,5>>^ E, quando sacrificardes sacrifício pacífico ao Senhor, da vossa própria vontade o sacrificareis.
+
+[[v3-19-6]]
+
+^<<v3-19-6,6>>^ No dia em que o sacrificardes, e no dia seguinte, se comerá; mas o que sobejar ao terceiro dia será queimado com fogo.
+
+[[v3-19-7]]
+
+^<<v3-19-7,7>>^ E, se alguma cousa dele for comida ao terceiro dia, cousa abominável é: não será aceita.
+
+[[v3-19-8]]
+
+^<<v3-19-8,8>>^ E qualquer  que o comer levará a sua iniquidade, porquanto profanou a santidade do Senhor; por isso tal alma será extirpada do seu povo.
+
+[[v3-19-9]]
+
+^<<v3-19-9,9>>^ Quando também segardes a sega da vossa terra, o canto do teu campo não segarás totalmente, nem as espigas caídas colherás da tua sega.
+
+[[v3-19-10]]
+
+^<<v3-19-10,10>>^ Semelhantemente não rabiscarás a tua vinha, nem colherás os bagos caídos da tua vinha: deixá-los-ás ao pobre e ao estrangeiro: Eu sou  o Senhor vosso Deus.
+
+[[v3-19-11]]
+
+^<<v3-19-11,11>>^ Não furtareis, nem mentireis, nem usareis de falsidade cada um com o seu próximo;
+
+[[v3-19-12]]
+
+^<<v3-19-12,12>>^ Nem jurareis falso pelo meu nome, pois profanaríeis o nome do vosso Deus: Eu sou  o Senhor.
+
+[[v3-19-13]]
+
+^<<v3-19-13,13>>^ Não oprimirás o teu próximo, nem o roubarás: a paga do jornaleiro não ficará contigo até à manhã.
+
+[[v3-19-14]]
+
+^<<v3-19-14,14>>^ Não amaldiçoarás ao surdo, nem porás tropeço diante do cego: mas terás temor do teu Deus: Eu sou  o Senhor.
+
+[[v3-19-15]]
+
+^<<v3-19-15,15>>^ Não fareis injustiça no juízo: não aceitarás o pobre, nem respeitarás o grande; com justiça julgarás o teu próximo.
+
+[[v3-19-16]]
+
+^<<v3-19-16,16>>^ Não andarás como mexeriqueiro entre os teus povos: não te porás contra o sangue do teu próximo: Eu sou  o Senhor.
+
+[[v3-19-17]]
+
+^<<v3-19-17,17>>^ Não aborrecerás a teu irmão no teu coração: não deixarás de repreender o teu próximo, e nele não sofrerás pecado.
+
+[[v3-19-18]]
+
+^<<v3-19-18,18>>^ Não te vingarás nem guardarás ira  contra os filhos do teu povo; mas amarás o teu próximo como a ti mesmo: Eu sou  o Senhor.
+
+[[v3-19-19]]
+
+^<<v3-19-19,19>>^ Guardareis os meus estatutos: não permitirás que se ajuntem misturadamente os teus animais de diferente espécie: no teu campo não semearás semente de  mistura, e vestido de diversos estofos misturados não vestireis.
+
+[[v3-19-20]]
+
+^<<v3-19-20,20>>^ E, quando um homem se deitar com uma mulher que for serva desposada do homem, e não for resgatada, nem se lhe houver dado liberdade, então serão açoitados; não morrerão, pois não foi libertada.
+
+[[v3-19-21]]
+
+^<<v3-19-21,21>>^ E, por  expiação da sua culpa, trará ao Senhor, à porta da tenda da congregação, um carneiro para expiação,
+
+[[v3-19-22]]
+
+^<<v3-19-22,22>>^ E, com o carneiro da expiação da culpa, o sacerdote fará propiciação por ele perante o Senhor, pelo seu pecado que pecou; e o seu pecado, que pecou, lhe será perdoado.
+
+[[v3-19-23]]
+
+^<<v3-19-23,23>>^ E, quando tiverdes entrado na terra, e plantardes toda a árvore de comer, ser-vos-á incircunciso o seu fruto; três anos vos será incircunciso; dele  não se comerá.
+
+[[v3-19-24]]
+
+^<<v3-19-24,24>>^ Porém no quarto ano todo o seu fruto será santo para dar louvores ao Senhor.
+
+[[v3-19-25]]
+
+^<<v3-19-25,25>>^ E no quinto ano comereis o seu fruto, para que vos faça crescer a sua novidade: Eu sou  o Senhor vosso Deus.
+
+[[v3-19-26]]
+
+^<<v3-19-26,26>>^ Não comereis cousa alguma  com sangue; não agourareis nem adivinhareis.
+
+[[v3-19-27]]
+
+^<<v3-19-27,27>>^ Não cortareis o cabelo, arredondando os cantos da vossa cabeça, nem danificarás a ponta da tua barba.
+
+[[v3-19-28]]
+
+^<<v3-19-28,28>>^ Pelos mortos não dareis golpes na vossa carne: nem fareis marca alguma sobre vós: Eu sou  o Senhor.
+
+[[v3-19-29]]
+
+^<<v3-19-29,29>>^ Não contaminarás a tua filha, fazendo-a prostituir-se: para que a terra não se prostitua nem se encha de maldade.
+
+[[v3-19-30]]
+
+^<<v3-19-30,30>>^ Guardareis os meus sábados, e o meu santuário reverenciareis: Eu sou  o Senhor.
+
+[[v3-19-31]]
+
+^<<v3-19-31,31>>^ Não vos virareis para os adivinhadores e encantadores; não os busqueis, contaminando-vos com eles: Eu sou  o Senhor vosso Deus.
+
+[[v3-19-32]]
+
+^<<v3-19-32,32>>^ Diante das cãs te levantarás, e honrarás a face do velho; e terás temor do teu Deus: Eu sou  o Senhor.
+
+[[v3-19-33]]
+
+^<<v3-19-33,33>>^ E quando o estrangeiro peregrinar contigo na vossa terra, não o oprimireis.
+
+[[v3-19-34]]
+
+^<<v3-19-34,34>>^ Como um natural entre vós será o estrangeiro que peregrina convosco: amá-lo-ás como a ti mesmo, pois estrangeiros fostes na terra do Egito: Eu sou  o Senhor vosso Deus.
+
+[[v3-19-35]]
+
+^<<v3-19-35,35>>^ Não cometereis injustiça no juízo, nem na vara, nem no peso, nem na medida.
+
+[[v3-19-36]]
+
+^<<v3-19-36,36>>^ Balanças justas, pedras justas, efa justa, e justo him tereis: Eu sou  o Senhor vosso Deus, que vos tirei da terra do Egito.
+
+[[v3-19-37]]
+
+^<<v3-19-37,37>>^ Pelo que guardareis todos os meus estatutos, e todos os meus juízos, e os cumprireis: Eu sou  o Senhor.
+
+'''
+
+xref:003-levitico/003-levitico-018.adoc#v3-18-0[&#60; Capítulo Anterior] | <<v3-19-0,Topo>> | xref:003-levitico/003-levitico-020.adoc#v3-20-0[Próximo Capítulo &#62;]

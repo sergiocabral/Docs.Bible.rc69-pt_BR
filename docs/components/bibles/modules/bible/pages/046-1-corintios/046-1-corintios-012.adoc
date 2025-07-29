@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v46-12-0]]
+=== 1 Coríntios, 12
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v46-12-1]]
+
+^<<v46-12-1,1>>^ ACERCA dos dons  espirituais, não quero, irmãos, que sejais ignorantes.
+
+[[v46-12-2]]
+
+^<<v46-12-2,2>>^ Vós bem sabeis que éreis gentios, levados aos ídolos mudos, conforme éreis guiados.
+
+[[v46-12-3]]
+
+^<<v46-12-3,3>>^ Portanto vos quero fazer compreender que ninguém que fala pelo Espírito de Deus diz: Jesus é anátema, e ninguém pode dizer que Jesus é  o Senhor, senão pelo Espírito Santo.
+
+[[v46-12-4]]
+
+^<<v46-12-4,4>>^ Ora há diversidade de dons, mas o Espírito é  o mesmo.
+
+[[v46-12-5]]
+
+^<<v46-12-5,5>>^ E há diversidade de ministérios, mas o Senhor é  o mesmo.
+
+[[v46-12-6]]
+
+^<<v46-12-6,6>>^ E há diversidade de operações, mas é o mesmo Deus que opera tudo em todos.
+
+[[v46-12-7]]
+
+^<<v46-12-7,7>>^ Mas a manifestação do Espírito é dada a cada um, para o que for útil.
+
+[[v46-12-8]]
+
+^<<v46-12-8,8>>^ Porque a um pelo Espírito é dada a palavra da sabedoria; e a outro, pelo mesmo Espírito, a palavra da ciência;
+
+[[v46-12-9]]
+
+^<<v46-12-9,9>>^ E a outro, pelo mesmo Espírito, a fé; e a outro, pelo mesmo Espírito, os dons de curar;
+
+[[v46-12-10]]
+
+^<<v46-12-10,10>>^ E a outro a operação de maravilhas: e a outro a profecia; e a outro o dom  de discernir os espíritos; e a outro a variedade de línguas; e a outro a interpretação das línguas.
+
+[[v46-12-11]]
+
+^<<v46-12-11,11>>^ Mas um só e o mesmo Espírito opera todas estas coisas, repartindo particularmente a cada um como quer.
+
+[[v46-12-12]]
+
+^<<v46-12-12,12>>^ Porque, assim como o corpo é um, e tem muitos membros, e todos os membros, sendo muitos, são um só  corpo assim é  Cristo também.
+
+[[v46-12-13]]
+
+^<<v46-12-13,13>>^ Pois todos nós fomos batizados em um Espírito formando um corpo, quer judeus, quer gregos, quer servos, quer livres, e todos temos bebido de um Espírito.
+
+[[v46-12-14]]
+
+^<<v46-12-14,14>>^ Porque também o corpo não é um só  membro, mas muitos.
+
+[[v46-12-15]]
+
+^<<v46-12-15,15>>^ Se o pé disser: Porque não sou mão, não sou do corpo; não será por isso do corpo?
+
+[[v46-12-16]]
+
+^<<v46-12-16,16>>^ E se a orelha disser: Porque não sou olho não sou do corpo; não será por isso do corpo?
+
+[[v46-12-17]]
+
+^<<v46-12-17,17>>^ Se todo o corpo fosse  olho, onde estaria  o ouvido? Se todo fosse  ouvido, onde estaria  o olfato?
+
+[[v46-12-18]]
+
+^<<v46-12-18,18>>^ Mas agora Deus colocou os membros no corpo, cada um deles como quis.
+
+[[v46-12-19]]
+
+^<<v46-12-19,19>>^ E, se todos fossem um só  membro, onde estaria  o corpo?
+
+[[v46-12-20]]
+
+^<<v46-12-20,20>>^ Agora pois há muitos membros, mas um corpo.
+
+[[v46-12-21]]
+
+^<<v46-12-21,21>>^ E o olho não pode dizer à mão: Não tenho necessidade de ti: nem ainda a cabeça aos pés: Não tenho necessidade de vós.
+
+[[v46-12-22]]
+
+^<<v46-12-22,22>>^ Antes, os membros do corpo que parecem ser os mais fracos são necessários.
+
+[[v46-12-23]]
+
+^<<v46-12-23,23>>^ E os que reputamos serem menos honrosos no corpo, a esses honramos muito mais; e aos que em nós são menos decorosos damos muito mais honra.
+
+[[v46-12-24]]
+
+^<<v46-12-24,24>>^ Porque os que em nós são mais honestos não têm necessidade disso, mas Deus assim formou o corpo, dando muito mais honra ao que tinha falta dela ;
+
+[[v46-12-25]]
+
+^<<v46-12-25,25>>^ Para que não haja divisão no corpo, mas antes tenham os membros igual cuidado uns dos outros.
+
+[[v46-12-26]]
+
+^<<v46-12-26,26>>^ De maneira que, se um membro padece, todos os membros padecem com ele; e, se um membro é honrado, todos os membros se regozijam com ele.
+
+[[v46-12-27]]
+
+^<<v46-12-27,27>>^ Ora vós sois o corpo de Cristo, e seus membros em particular.
+
+[[v46-12-28]]
+
+^<<v46-12-28,28>>^ E a uns pôs Deus na igreja, primeiramente apóstolos, em segundo lugar profetas, em terceiro doutores, depois milagres, depois dons de curar, socorros, governos, variedades de línguas.
+
+[[v46-12-29]]
+
+^<<v46-12-29,29>>^ Porventura são  todos apóstolos? são  todos profetas? são  todos doutores? são  todos operadores de milagres?
+
+[[v46-12-30]]
+
+^<<v46-12-30,30>>^ Têm todos o dom de curar? falam todos diversas  línguas? interpretam todos?
+
+[[v46-12-31]]
+
+^<<v46-12-31,31>>^ Portanto, procurai com zelo os melhores dons; e eu vos mostrarei um caminho ainda mais excelente.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-011.adoc#v46-11-0[&#60; Capítulo Anterior] | <<v46-12-0,Topo>> | xref:046-1-corintios/046-1-corintios-013.adoc#v46-13-0[Próximo Capítulo &#62;]

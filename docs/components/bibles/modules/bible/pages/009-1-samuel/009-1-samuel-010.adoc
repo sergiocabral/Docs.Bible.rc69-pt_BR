@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v9-10-0]]
+=== 1 Samuel, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-10-1]]
+
+^<<v9-10-1,1>>^ ENTÃO tomou Samuel um  vaso de azeite, e lho derramou sobre a cabeça, e o beijou, e disse: Porventura  te não tem ungido o Senhor por  capitão sobre a sua herdade.
+
+[[v9-10-2]]
+
+^<<v9-10-2,2>>^ Partindo-te hoje de mim, acharás dois homens junto ao sepulcro de Raquel, no termo de Benjamim, em Zelsa, os quais te dirão: Acharam-se as jumentas que foste buscar, e eis que já o teu pai deixou o negócio das jumentas, e anda aflito por causa de vós, dizendo: Que farei eu por meu filho?
+
+[[v9-10-3]]
+
+^<<v9-10-3,3>>^ E quando dali passares mais adiante, e chegares ao carvalho de Tabor, ali te encontrarão três homens, que vão subindo a Deus a Betel: um levando três cabritos, o outro três bolos de pão, e o outro um odre de vinho.
+
+[[v9-10-4]]
+
+^<<v9-10-4,4>>^ E te perguntarão como estás, e te darão dois pães, que tomarás da sua mão.
+
+[[v9-10-5]]
+
+^<<v9-10-5,5>>^ Então virás ao outeiro de Deus, onde está  a guarnição dos filisteus; e há de ser que, entrando ali na cidade, encontrarás um rancho de profetas que descem do alto, e trazem  diante de si saltérios, e tambores, e flautas, e harpas; e profetizarão.
+
+[[v9-10-6]]
+
+^<<v9-10-6,6>>^ E o espírito do Senhor se apoderará de ti, e profetizarás com eles, e te mudarás em outro homem.
+
+[[v9-10-7]]
+
+^<<v9-10-7,7>>^ E há de ser que, quando estes sinais te vierem, faze o que achar a tua mão, porque Deus é  contigo.
+
+[[v9-10-8]]
+
+^<<v9-10-8,8>>^ Tu porém descerás diante de mim a Gilgal, e eis que eu descerei a ti, para sacrificar holocaustos, e  para oferecer ofertas pacíficas: ali  sete dias esperarás, até que eu venha a ti, e te declare o que hás de fazer.
+
+[[v9-10-9]]
+
+^<<v9-10-9,9>>^ Sucedeu pois que, virando ele as costas para partir de Samuel, Deus lhe mudou o coração em  outro: e todos aqueles sinais aconteceram aquele mesmo  dia.
+
+[[v9-10-10]]
+
+^<<v9-10-10,10>>^ E, chegando eles ao outeiro, eis que um  rancho de profetas lhes saiu ao encontro: e o espírito do Senhor se apoderou dele, e profetizou no meio deles.
+
+[[v9-10-11]]
+
+^<<v9-10-11,11>>^ E aconteceu que, como todos os que dantes o conheciam viram que eis que com os profetas profetizava, então disse o povo, cada qual ao seu companheiro: Que é o que  sucedeu ao filho de Quis? Está também Saul entre os profetas?
+
+[[v9-10-12]]
+
+^<<v9-10-12,12>>^ Então um homem  dali respondeu, e disse: Pois quem é  o pai deles? Pelo que se tornou em provérbio: Está  também Saul entre os profetas?
+
+[[v9-10-13]]
+
+^<<v9-10-13,13>>^ E, acabando de profetizar, veio ao alto.
+
+[[v9-10-14]]
+
+^<<v9-10-14,14>>^ E disse-lhe o tio de Saul, a ele e ao seu moço: Aonde fostes? E disse ele: A buscar as jumentas, e, vendo que não apareciam , viemos a Samuel.
+
+[[v9-10-15]]
+
+^<<v9-10-15,15>>^ Então disse o tio de Saul: Declara-me, peço-te, que é o que  vos disse Samuel?
+
+[[v9-10-16]]
+
+^<<v9-10-16,16>>^ E disse Saul a seu tio: Declarou-nos, na verdade, que as jumentas se acharam. Porém o negócio do reino, de que Samuel falara, lhe não declarou.
+
+[[v9-10-17]]
+
+^<<v9-10-17,17>>^ Convocou pois Samuel o povo ao Senhor em Mizpá.
+
+[[v9-10-18]]
+
+^<<v9-10-18,18>>^ E disse aos filhos de Israel: Assim disse o Senhor Deus de Israel: Eu fiz subir a Israel do Egito, e livrei-vos da mão dos egípcios e da mão de todos os reinos que vos oprimiam.
+
+[[v9-10-19]]
+
+^<<v9-10-19,19>>^ Mas vós tendes rejeitado hoje a vosso Deus, que vos livrou de todos os vossos males e trabalhos, e lhe tendes dito: Põe um  rei sobre nós: agora, pois, ponde-vos perante o Senhor, pelas vossas tribos e pelos vossos milhares.
+
+[[v9-10-20]]
+
+^<<v9-10-20,20>>^ Fazendo pois chegar Samuel todas as tribos, tomou-se a tribo de Benjamim.
+
+[[v9-10-21]]
+
+^<<v9-10-21,21>>^ E, fazendo chegar a tribo de Benjamim pelas suas famílias, tomou-se a família de Matri: e dela  se tomou Saul, filho de Quis; e o buscaram, porém não se achou.
+
+[[v9-10-22]]
+
+^<<v9-10-22,22>>^ Então tornaram a perguntar ao Senhor se aquele homem ainda viria ali. E disse o Senhor: Eis que se escondeu entre a bagagem.
+
+[[v9-10-23]]
+
+^<<v9-10-23,23>>^ E correram, e o tomaram dali, e pôs-se no meio do povo: e era mais alto do que todo o povo desde o ombro para cima.
+
+[[v9-10-24]]
+
+^<<v9-10-24,24>>^ Então disse Samuel a todo o povo: Vedes já a quem o Senhor tem elegido? pois em todo o povo não há  nenhum semelhante a ele. Então jubilou todo o povo, e disseram: Viva o rei!
+
+[[v9-10-25]]
+
+^<<v9-10-25,25>>^ E declarou Samuel ao povo o direito do reino, e escreveu- o  num livro, e pô- lo  perante o Senhor: então enviou Samuel a todo o povo, cada um  para sua casa.
+
+[[v9-10-26]]
+
+^<<v9-10-26,26>>^ E foi também Saul para sua casa, a Gibeá: e foram com ele do exército aqueles  cujos corações Deus tocara.
+
+[[v9-10-27]]
+
+^<<v9-10-27,27>>^ Mas os filhos de Belial disseram: É  este o que nos há de livrar? E o desprezaram, e não lhe trouxeram presentes: porém ele se fez como surdo.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-009.adoc#v9-9-0[&#60; Capítulo Anterior] | <<v9-10-0,Topo>> | xref:009-1-samuel/009-1-samuel-011.adoc#v9-11-0[Próximo Capítulo &#62;]

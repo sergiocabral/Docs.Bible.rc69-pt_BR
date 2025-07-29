@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v4-2-0]]
+=== Números, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-2-1]]
+
+^<<v4-2-1,1>>^ E FALOU o Senhor a Moisés e a Aarão, dizendo:
+
+[[v4-2-2]]
+
+^<<v4-2-2,2>>^ Os filhos de Israel assentarão as suas tendas, cada um debaixo da sua bandeira, segundo as insígnias da casa de seus pais; ao redor, defronte da tenda da congregação, assentarão as suas  tendas.
+
+[[v4-2-3]]
+
+^<<v4-2-3,3>>^ Os que assentarem as suas  tendas da banda do oriente, para o nascente, serão os da  bandeira do exército de Judá, segundo os seus esquadrões; e Naassom, filho de Aminadabe, será  príncipe dos filhos de Judá.
+
+[[v4-2-4]]
+
+^<<v4-2-4,4>>^ E o seu exército, e os que foram  contados deles, foram  setenta e quatro mil e seiscentos.
+
+[[v4-2-5]]
+
+^<<v4-2-5,5>>^ E junto a ele assentará as suas tendas a tribo de Issacar; e Natanael, filho de Suar, será  príncipe dos filhos de Issacar.
+
+[[v4-2-6]]
+
+^<<v4-2-6,6>>^ E o seu exército, e os que foram  contados deles, foram  cinquenta e quatro mil e quatrocentos.
+
+[[v4-2-7]]
+
+^<<v4-2-7,7>>^ Depois a tribo de Zebulom; e Eliabe, filho de Helom, será  príncipe dos filhos de Zebulom.
+
+[[v4-2-8]]
+
+^<<v4-2-8,8>>^ E o seu exército, e os que foram  contados deles, foram  cinquenta e sete mil e quatrocentos.
+
+[[v4-2-9]]
+
+^<<v4-2-9,9>>^ Todos os que foram  contados do exército de Judá, cento e oitenta e seis mil e quatrocentos, segundo os seus esquadrões, estes  marcharão primeiro.
+
+[[v4-2-10]]
+
+^<<v4-2-10,10>>^ A bandeira do exército de Rúben, segundo os seus esquadrões, estará  para a banda do sul: e Eliasur, filho de Sedeur, será  príncipe dos filhos de Rúben.
+
+[[v4-2-11]]
+
+^<<v4-2-11,11>>^ E o seu exército, e os que foram  contados deles foram  quarenta e seis mil e quinhentos.
+
+[[v4-2-12]]
+
+^<<v4-2-12,12>>^ E junto a ele assentará as suas  tendas a tribo de Simeão; e Selumiel, filho de Surisadai, será  príncipe dos filhos de Simeão.
+
+[[v4-2-13]]
+
+^<<v4-2-13,13>>^ E o seu exército, e os que foram  contados deles, foram  cinquenta e nove mil e trezentos.
+
+[[v4-2-14]]
+
+^<<v4-2-14,14>>^ Depois a tribo de Gade; e Eliasafe, filho de Reuel, será  príncipe dos filhos de Gade.
+
+[[v4-2-15]]
+
+^<<v4-2-15,15>>^ E o seu exército, e os que foram  contados deles, foram  quarenta e cinco mil e seiscentos e cinquenta.
+
+[[v4-2-16]]
+
+^<<v4-2-16,16>>^ Todos os que foram  contados no exército de Rúben foram  cento e cinquenta e um mil e quatrocentos e cinquenta, segundo os seus esquadrões: e estes  marcharão em segundo lugar.
+
+[[v4-2-17]]
+
+^<<v4-2-17,17>>^ Então partirá a tenda da congregação com  o exército dos levitas no meio dos exércitos: como assentaram as suas  tendas, assim marcharão, cada um no seu lugar, segundo as suas bandeiras.
+
+[[v4-2-18]]
+
+^<<v4-2-18,18>>^ A bandeira do exército de Efraim, segundo os seus esquadrões estará  para a banda do ocidente; e Elisama, filho de Amiúde, será  príncipe dos filhos de Efraim.
+
+[[v4-2-19]]
+
+^<<v4-2-19,19>>^ E o seu exército, e os que foram  contados deles, foram  quarenta mil e quinhentos.
+
+[[v4-2-20]]
+
+^<<v4-2-20,20>>^ E junto a ele a tribo de Manassés; e Gamaliel, filho de Pedazur, será  príncipe dos filhos de Manassés.
+
+[[v4-2-21]]
+
+^<<v4-2-21,21>>^ E o seu exército, e os que foram  contados deles, foram  trinta e dois mil e duzentos.
+
+[[v4-2-22]]
+
+^<<v4-2-22,22>>^ Depois a tribo de Benjamim: e Abidã, filho de Gideôni, será  príncipe dos filhos de Benjamim;
+
+[[v4-2-23]]
+
+^<<v4-2-23,23>>^ E o seu exército, e os que foram  contados deles, foram  trinta e cinco mil e quatrocentos.
+
+[[v4-2-24]]
+
+^<<v4-2-24,24>>^ Todos os que foram  contados no exército de Efraim foram  cento e oito mil e cem, segundo os seus esquadrões: e estes  marcharão em terceiro lugar.
+
+[[v4-2-25]]
+
+^<<v4-2-25,25>>^ A bandeira do exército de Dã estará  para o norte, segundo os seus esquadrões: e Aiezer, filho de Amisadai, será  príncipe dos filhos de Dã.
+
+[[v4-2-26]]
+
+^<<v4-2-26,26>>^ E o seu exército, e os que foram  contados deles, foram  sessenta e dois mil e setecentos.
+
+[[v4-2-27]]
+
+^<<v4-2-27,27>>^ E junto a ele assentará as suas  tendas a tribo de Aser: e Pagiel, filho de Ocrã, será  príncipe dos filhos de Aser.
+
+[[v4-2-28]]
+
+^<<v4-2-28,28>>^ E o seu exército, e os que foram  contados deles, foram  quarenta e um mil e quinhentos.
+
+[[v4-2-29]]
+
+^<<v4-2-29,29>>^ Depois a tribo de Naftali: e Aíra, filho de Enã, será  príncipe dos filhos de Naftali.
+
+[[v4-2-30]]
+
+^<<v4-2-30,30>>^ E o seu exército, e os que foram  contados deles, foram  cinquenta e três mil e quatrocentos.
+
+[[v4-2-31]]
+
+^<<v4-2-31,31>>^ Todos os que foram  contados no exército de Dã, foram  cento e cinquenta e sete mil e seiscentos: estes  marcharão no último lugar; segundo as suas bandeiras.
+
+[[v4-2-32]]
+
+^<<v4-2-32,32>>^ Estes são os  que foram contados dos filhos de Israel, segundo a casa de seus pais: todos os que foram  contados dos exércitos pelos seus esquadrões foram  seiscentos e três mil e quinhentos e cinquenta.
+
+[[v4-2-33]]
+
+^<<v4-2-33,33>>^ Mas os levitas não foram contados entre os filhos de Israel, como o Senhor ordenara a Moisés.
+
+[[v4-2-34]]
+
+^<<v4-2-34,34>>^ E os filhos de Israel fizeram conforme a tudo o que o Senhor ordenara a Moisés; assim assentaram o arraial segundo as suas bandeiras, e assim marcharam, cada qual segundo as suas gerações, segundo a casa de seus pais.
+
+'''
+
+xref:004-numeros/004-numeros-001.adoc#v4-1-0[&#60; Capítulo Anterior] | <<v4-2-0,Topo>> | xref:004-numeros/004-numeros-003.adoc#v4-3-0[Próximo Capítulo &#62;]

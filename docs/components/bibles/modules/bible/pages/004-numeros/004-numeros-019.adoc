@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v4-19-0]]
+=== Números, 19
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-19-1]]
+
+^<<v4-19-1,1>>^ FALOU mais o Senhor a Moisés e a Aarão, dizendo:
+
+[[v4-19-2]]
+
+^<<v4-19-2,2>>^ Este é o estatuto da lei, que o Senhor ordenou, dizendo: Dize aos filhos de Israel que te tragam uma bezerra ruiva sem defeito, que não tenha  mancha, e  sobre que não subiu jugo.
+
+[[v4-19-3]]
+
+^<<v4-19-3,3>>^ E a dareis a Eleazar, o sacerdote; e a tirará fora do arraial, e se degolará diante dele.
+
+[[v4-19-4]]
+
+^<<v4-19-4,4>>^ E Eleazar, o sacerdote, tomará do seu sangue com o seu dedo, e dele espargirá para a frente da tenda da congregação sete vezes.
+
+[[v4-19-5]]
+
+^<<v4-19-5,5>>^ Então queimará a bezerra perante os seus olhos; o seu couro, e a sua carne, e o seu sangue, com o seu esterco se queimará.
+
+[[v4-19-6]]
+
+^<<v4-19-6,6>>^ E o sacerdote tomará pau de cedro, e hissopo, e carmesim, e os  lançará no meio do incêndio da bezerra.
+
+[[v4-19-7]]
+
+^<<v4-19-7,7>>^ Então o sacerdote lavará os seus vestidos, e banhará a sua carne em água e depois entrará no arraial, e o sacerdote será imundo até à tarde.
+
+[[v4-19-8]]
+
+^<<v4-19-8,8>>^ Também o que a queimou lavará os seus vestidos com água, e em água banhará a sua carne, e imundo será até à tarde.
+
+[[v4-19-9]]
+
+^<<v4-19-9,9>>^ E um homem limpo ajuntará a cinza da bezerra, e a porá fora do arraial, num lugar limpo, e estará ela  em guarda para a congregação dos filhos de Israel, para a água da separação: expiação é.
+
+[[v4-19-10]]
+
+^<<v4-19-10,10>>^ E o que apanhou a cinza da bezerra lavará os seus vestidos, e será imundo até à tarde: isto será por estatuto perpétuo aos filhos de Israel e ao estrangeiro que peregrina no meio deles.
+
+[[v4-19-11]]
+
+^<<v4-19-11,11>>^ Aquele que tocar a algum morto, cadáver dalgum homem, imundo será sete dias.
+
+[[v4-19-12]]
+
+^<<v4-19-12,12>>^ Ao terceiro dia se purificará, com ela, e ao sétimo dia será limpo: mas, se ao terceiro dia se não purificar, não será limpo ao sétimo dia.
+
+[[v4-19-13]]
+
+^<<v4-19-13,13>>^ Todo aquele que tocar a algum morto, cadáver dalgum homem que estiver morto, e não se purificar, contamina o tabernáculo do Senhor: e aquela alma será extirpada de Israel: porque a água da separação não foi espargida sobre ele, imundo será: está nele ainda a sua imundícia.
+
+[[v4-19-14]]
+
+^<<v4-19-14,14>>^ Esta é  a lei, quando morrer algum homem em alguma tenda: todo aquele que entrar naquela tenda, e todo aquele que estiver  naquela tenda, será imundo sete dias.
+
+[[v4-19-15]]
+
+^<<v4-19-15,15>>^ Também todo o vaso aberto, sobre que não houver pano atado, será imundo.
+
+[[v4-19-16]]
+
+^<<v4-19-16,16>>^ E todo aquele que sobre a face do campo tocar a algum  que for morto pela espada, ou outro morto, ou aos ossos dalgum homem, ou a uma sepultura, será imundo sete dias.
+
+[[v4-19-17]]
+
+^<<v4-19-17,17>>^ Para um imundo pois tomarão do pó da queima da expiação, e sobre ele porão água viva num vaso.
+
+[[v4-19-18]]
+
+^<<v4-19-18,18>>^ E um homem limpo tomará hissopo, e o molhará naquela água, e a espargirá sobre aquela tenda, e sobre todo o fato, e sobre as almas que ali estiverem: como também sobre aquele que tocar os ossos, ou a algum  que foi morto, ou que faleceu, ou uma sepultura.
+
+[[v4-19-19]]
+
+^<<v4-19-19,19>>^ E o limpo ao terceiro e sétimo dia espargirá sobre o imundo: e ao sétimo dia o purificará; e lavará os seus vestidos, e se banhará na água, e à tarde será limpo.
+
+[[v4-19-20]]
+
+^<<v4-19-20,20>>^ Porém o que for imundo, e se não purificar, a tal alma do meio da congregação será extirpada; porquanto contaminou o santuário do Senhor: água de separação sobre ele não foi espargida; imundo é.
+
+[[v4-19-21]]
+
+^<<v4-19-21,21>>^ Isto lhes será por estatuto perpétuo: e o que espargir a água da separação lavará os seus vestidos; e o que tocar a água da separação será imundo até à tarde.
+
+[[v4-19-22]]
+
+^<<v4-19-22,22>>^ E tudo o que o imundo tocar também será imundo; e a alma que o tocar será imunda até à tarde.
+
+'''
+
+xref:004-numeros/004-numeros-018.adoc#v4-18-0[&#60; Capítulo Anterior] | <<v4-19-0,Topo>> | xref:004-numeros/004-numeros-020.adoc#v4-20-0[Próximo Capítulo &#62;]

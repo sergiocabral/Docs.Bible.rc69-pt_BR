@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v32-4-0]]
+=== Jonas, 4
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v32-4-1]]
+
+^<<v32-4-1,1>>^ MAS desgostou-se Jonas extremamente disso, e ficou todo ressentido.
+
+[[v32-4-2]]
+
+^<<v32-4-2,2>>^ E orou ao Senhor, e disse: Ah! Senhor! não foi isso o que eu disse, estando ainda na minha terra? por isso me preveni, fugindo para Tarsis, pois sabia que és Deus piedoso, e misericordioso, longânimo e grande em benignidade, e que te arrependes do mal.
+
+[[v32-4-3]]
+
+^<<v32-4-3,3>>^ Peço-te, pois, ó Senhor, tira-me a minha vida, porque melhor me é morrer do que viver.
+
+[[v32-4-4]]
+
+^<<v32-4-4,4>>^ E disse o Senhor: É razoável esse teu ressentimento?
+
+[[v32-4-5]]
+
+^<<v32-4-5,5>>^ Então Jonas saiu da cidade, e assentou-se ao oriente da cidade: e ali fez uma cabana, e se assentou debaixo dela, à sombra, até ver o que aconteceria à cidade.
+
+[[v32-4-6]]
+
+^<<v32-4-6,6>>^ E fez o Senhor Deus nascer uma aboboreira, que subiu por cima de Jonas, para que fizesse sombra sobre a sua cabeça, a fim de o livrar do seu enfado: e Jonas se alegrou em extremo por causa da aboboreira.
+
+[[v32-4-7]]
+
+^<<v32-4-7,7>>^ Mas Deus enviou um bicho, no dia seguinte ao subir da alva, o qual feriu a aboboreira, e esta se secou.
+
+[[v32-4-8]]
+
+^<<v32-4-8,8>>^ E aconteceu que, aparecendo o sol, Deus mandou um vento calmoso, oriental, e o sol feriu a cabeça de Jonas; e ele desmaiou, e desejou com toda a sua alma morrer, dizendo: Melhor me é  morrer do que viver.
+
+[[v32-4-9]]
+
+^<<v32-4-9,9>>^ Então disse Deus a Jonas: É acaso razoável que assim te enfades por causa da aboboreira? E ele disse: É justo que me enfade a ponto de desejar a morte.
+
+[[v32-4-10]]
+
+^<<v32-4-10,10>>^ E disse o Senhor: Tiveste compaixão da aboboreira, na qual não trabalhaste, nem a fizeste crescer; que numa noite nasceu, e numa noite pereceu;
+
+[[v32-4-11]]
+
+^<<v32-4-11,11>>^ E não hei de eu ter compaixão da grande cidade de Nínive em que estão mais de cento e vinte mil homens, que não sabem discernir entre a sua mão direita e a sua mão esquerda, e também muitos animais?
+
+'''
+
+xref:032-jonas/032-jonas-003.adoc#v32-3-0[&#60; Capítulo Anterior] | <<v32-4-0,Topo>> | xref:033-miqueias/033-miqueias-001.adoc#v33-1-0[Próximo Capítulo &#62;]

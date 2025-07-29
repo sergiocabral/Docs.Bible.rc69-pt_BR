@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-66-0]]
+=== Salmos, 66
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-66-1]]
+
+^<<v19-66-1,1>>^ LOUVAI a Deus com brados de júbilo, todas as terras.
+
+[[v19-66-2]]
+
+^<<v19-66-2,2>>^ Cantai a glória do seu nome; dai glória ao seu louvor.
+
+[[v19-66-3]]
+
+^<<v19-66-3,3>>^ Dizei a Deus: Quão terrível és tu nas  tuas obras! pela grandeza do teu poder se submeterão a ti os teus inimigos.
+
+[[v19-66-4]]
+
+^<<v19-66-4,4>>^ Toda a terra te adorará e te cantará louvores: eles cantarão o teu nome. (Selá.)
+
+[[v19-66-5]]
+
+^<<v19-66-5,5>>^ Vinde, e vede as obras de Deus; é  terrível nos seus  feitos para com os filhos dos homens.
+
+[[v19-66-6]]
+
+^<<v19-66-6,6>>^ Converteu o mar em terra  seca; passaram o rio a pé; ali nos alegramos nele.
+
+[[v19-66-7]]
+
+^<<v19-66-7,7>>^ Ele domina eternamente pelo seu poder: os seus olhos estão sobre as nações; não se exaltem os rebeldes. (Selá.)
+
+[[v19-66-8]]
+
+^<<v19-66-8,8>>^ Bendizei, povos, ao nosso Deus, e fazei ouvir a voz do seu louvor:
+
+[[v19-66-9]]
+
+^<<v19-66-9,9>>^ Ao que sustenta com vida a nossa alma, e não consente que resvalem os nossos pés.
+
+[[v19-66-10]]
+
+^<<v19-66-10,10>>^ Pois tu, ó Deus, nos provaste; tu nos afinaste como se afina a prata.
+
+[[v19-66-11]]
+
+^<<v19-66-11,11>>^ Tu nos meteste na rede; afligiste os nossos lombos.
+
+[[v19-66-12]]
+
+^<<v19-66-12,12>>^ Fizeste com que os homens cavalgassem sobre as nossas cabeças; passamos pelo fogo e pela água; mas trouxeste-nos a um  lugar de abundância.
+
+[[v19-66-13]]
+
+^<<v19-66-13,13>>^ Entrarei em tua casa com holocaustos; pagar-te-ei os meus votos,
+
+[[v19-66-14]]
+
+^<<v19-66-14,14>>^ Que haviam pronunciado os meus lábios, e dissera a minha boca, quando eu estava na angústia.
+
+[[v19-66-15]]
+
+^<<v19-66-15,15>>^ Oferecer-te-ei holocaustos de animais nédios, com odorante fumo de carneiros; oferecerei novilhos com cabritos. (Selá.)
+
+[[v19-66-16]]
+
+^<<v19-66-16,16>>^ Vinde, e ouvi, todos os que temeis a Deus, e eu contarei o que ele tem feito à minha alma.
+
+[[v19-66-17]]
+
+^<<v19-66-17,17>>^ A ele clamei com a minha boca, e ele foi exaltado pela minha língua.
+
+[[v19-66-18]]
+
+^<<v19-66-18,18>>^ Se eu atender à iniquidade no meu coração, o Senhor não me  ouvirá;
+
+[[v19-66-19]]
+
+^<<v19-66-19,19>>^ Mas , na verdade, Deus me  ouviu; atendeu à voz da minha oração.
+
+[[v19-66-20]]
+
+^<<v19-66-20,20>>^ Bendito seja  Deus, que não rejeitou a minha oração, nem desviou  de mim a sua misericórdia.
+
+'''
+
+xref:019-salmos/019-salmos-065.adoc#v19-65-0[&#60; Capítulo Anterior] | <<v19-66-0,Topo>> | xref:019-salmos/019-salmos-067.adoc#v19-67-0[Próximo Capítulo &#62;]

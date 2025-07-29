@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v18-9-0]]
+=== Jó, 9
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v18-9-1]]
+
+^<<v18-9-1,1>>^ ENTÃO Jó respondeu, e disse:
+
+[[v18-9-2]]
+
+^<<v18-9-2,2>>^ Na verdade sei que assim é ; porque como se justificaria o homem para com Deus?
+
+[[v18-9-3]]
+
+^<<v18-9-3,3>>^ Se quiser contender com ele, nem a uma de mil cousas  lhe poderá responder.
+
+[[v18-9-4]]
+
+^<<v18-9-4,4>>^ Ele é  sábio de coração, poderoso em forças; quem se endureceu contra ele, e teve paz?
+
+[[v18-9-5]]
+
+^<<v18-9-5,5>>^ Ele é  o que transporta as montanhas, sem que o sintam, e  o que as transtorna no seu furor.
+
+[[v18-9-6]]
+
+^<<v18-9-6,6>>^ O que remove a terra do seu lugar, e as suas colunas estremecem.
+
+[[v18-9-7]]
+
+^<<v18-9-7,7>>^ O que fala ao sol, e ele não sai, e sela as estrelas.
+
+[[v18-9-8]]
+
+^<<v18-9-8,8>>^ O que só estende os céus, e anda sobre os altos do mar.
+
+[[v18-9-9]]
+
+^<<v18-9-9,9>>^ O que faz a Ursa, o Órion, e o Sete-estrelo, e as recâmaras do sul.
+
+[[v18-9-10]]
+
+^<<v18-9-10,10>>^ O que faz cousas grandes, que se não podem esquadrinhar, e maravilhas tais  que se não podem contar.
+
+[[v18-9-11]]
+
+^<<v18-9-11,11>>^ Eis que passa por diante de mim, e não o  vejo; e torna a passar perante mim, e não o sinto.
+
+[[v18-9-12]]
+
+^<<v18-9-12,12>>^ Eis que arrebata a presa; quem lha fará restituir? Quem lhe dirá: Que fazes?
+
+[[v18-9-13]]
+
+^<<v18-9-13,13>>^ Deus não revogará a sua ira; debaixo dele se encurvam os auxiliadores soberbos.
+
+[[v18-9-14]]
+
+^<<v18-9-14,14>>^ Quanto menos lhe poderei eu responder ou  escolher diante dele as minhas palavras!
+
+[[v18-9-15]]
+
+^<<v18-9-15,15>>^ A ele, ainda que eu fosse justo, lhe não responderia; antes  ao meu juiz pediria misericórdia.
+
+[[v18-9-16]]
+
+^<<v18-9-16,16>>^ Ainda que chamasse, e ele me respondesse, nem por isso  creria que desse ouvidos à minha voz.
+
+[[v18-9-17]]
+
+^<<v18-9-17,17>>^ Porque me quebranta com uma tempestade, e multiplica as minhas chagas sem causa.
+
+[[v18-9-18]]
+
+^<<v18-9-18,18>>^ Nem me permite respirar, antes me farta de amarguras.
+
+[[v18-9-19]]
+
+^<<v18-9-19,19>>^ Quanto às forças, eis que ele é o forte; e, quanto ao juízo, quem me citará com ele ?
+
+[[v18-9-20]]
+
+^<<v18-9-20,20>>^ Se eu me justificar, a minha boca me condenará; se reto me disser, então me declarará perverso.
+
+[[v18-9-21]]
+
+^<<v18-9-21,21>>^ Ainda que perfeito, não estimo a minha alma; desprezo a minha vida.
+
+[[v18-9-22]]
+
+^<<v18-9-22,22>>^ A cousa é esta ; por isso eu digo que ele consome ao reto e ao ímpio.
+
+[[v18-9-23]]
+
+^<<v18-9-23,23>>^ Matando o açoite de repente, então se ri da prova dos inocentes.
+
+[[v18-9-24]]
+
+^<<v18-9-24,24>>^ A terra é entregue às mãos do ímpio; ele cobre o rosto dos juízes; se não é ele, quem é  logo?
+
+[[v18-9-25]]
+
+^<<v18-9-25,25>>^ E os meus dias são mais velozes do que um correio; fugiram, e  nunca viram o bem.
+
+[[v18-9-26]]
+
+^<<v18-9-26,26>>^ Passam como navios veleiros; como águia que  se lança à comida.
+
+[[v18-9-27]]
+
+^<<v18-9-27,27>>^ Se eu disser: Eu me esquecerei da minha queixa, mudarei o meu rosto, e tomarei alento;
+
+[[v18-9-28]]
+
+^<<v18-9-28,28>>^ Receio todas as minhas dores, porque bem  sei que me não terás por inocente.
+
+[[v18-9-29]]
+
+^<<v18-9-29,29>>^ E , sendo eu ímpio, por que trabalharei em vão?
+
+[[v18-9-30]]
+
+^<<v18-9-30,30>>^ Ainda que me lave com água de neve, e purifique as minhas mãos com sabão,
+
+[[v18-9-31]]
+
+^<<v18-9-31,31>>^ Mesmo assim me submergirás no fosso, e os meus próprios vestidos me abominarão.
+
+[[v18-9-32]]
+
+^<<v18-9-32,32>>^ Porque ele não é  homem, como eu, a quem eu responda, vindo juntamente a juízo.
+
+[[v18-9-33]]
+
+^<<v18-9-33,33>>^ Não há entre nós árbitro que ponha a mão sobre nós ambos.
+
+[[v18-9-34]]
+
+^<<v18-9-34,34>>^ Tire ele a sua vara de cima de mim, e não me amedronte o seu terror.
+
+[[v18-9-35]]
+
+^<<v18-9-35,35>>^ Então  falarei, e não o temerei; porque assim não estou em mim.
+
+'''
+
+xref:018-jo/018-jo-008.adoc#v18-8-0[&#60; Capítulo Anterior] | <<v18-9-0,Topo>> | xref:018-jo/018-jo-010.adoc#v18-10-0[Próximo Capítulo &#62;]

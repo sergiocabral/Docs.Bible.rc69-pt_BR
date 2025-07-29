@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v3-27-0]]
+=== Levítico, 27
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v3-27-1]]
+
+^<<v3-27-1,1>>^ FALOU mais o Senhor a Moisés, dizendo:
+
+[[v3-27-2]]
+
+^<<v3-27-2,2>>^ Fala aos filhos de Israel, e dize-lhes: Quando alguém fizer particular voto, segundo a tua avaliação serão  as pessoas ao Senhor.
+
+[[v3-27-3]]
+
+^<<v3-27-3,3>>^ Se for a tua avaliação dum varão, da idade de vinte anos até à idade de sessenta, será a tua avaliação de cinquenta siclos de prata, segundo o siclo do santuário.
+
+[[v3-27-4]]
+
+^<<v3-27-4,4>>^ Porém se for fêmea, a tua avaliação será de trinta siclos.
+
+[[v3-27-5]]
+
+^<<v3-27-5,5>>^ E, se for  de cinco anos até vinte, a tua avaliação dum varão será de vinte siclos, e da fêmea dez siclos.
+
+[[v3-27-6]]
+
+^<<v3-27-6,6>>^ E, se for  dum mês até cinco anos, a tua avaliação dum varão será de cinco siclos de prata, e a tua avaliação pela fêmea será  de três siclos de prata.
+
+[[v3-27-7]]
+
+^<<v3-27-7,7>>^ E, se for  de sessenta anos e acima pelo varão a tua avaliação será de quinze siclos, e pela fêmea dez siclos.
+
+[[v3-27-8]]
+
+^<<v3-27-8,8>>^ Mas, se for  mais pobre do que a tua avaliação, então apresentar-se-á diante do sacerdote, para que o sacerdote o avalie: conforme ao que alcançar a mão do que fez o voto, o avaliará o sacerdote.
+
+[[v3-27-9]]
+
+^<<v3-27-9,9>>^ E, se for  animal de que se oferece oferta ao Senhor, tudo quanto der dele ao Senhor será santo.
+
+[[v3-27-10]]
+
+^<<v3-27-10,10>>^ Não o mudará, nem o trocará bom por mau, ou mau por bom: se porém em alguma maneira trocar animal por animal, o tal e o trocado serão ambos  santos.
+
+[[v3-27-11]]
+
+^<<v3-27-11,11>>^ E, se for  algum animal imundo, dos que se não oferecem em oferta ao Senhor, então apresentará o animal diante do sacerdote.
+
+[[v3-27-12]]
+
+^<<v3-27-12,12>>^ E o sacerdote o avaliará, seja bom ou seja mau: segundo a avaliação do sacerdote, assim será.
+
+[[v3-27-13]]
+
+^<<v3-27-13,13>>^ Porém, se em alguma maneira o resgatar, então acrescentará o seu quinto além da tua avaliação.
+
+[[v3-27-14]]
+
+^<<v3-27-14,14>>^ E quando algum santificar a sua casa para ser  santa ao Senhor, o sacerdote a avaliará, seja boa ou seja má: como o sacerdote a avaliar, assim será.
+
+[[v3-27-15]]
+
+^<<v3-27-15,15>>^ Mas, se o que santificou resgatar a sua casa, então acrescentará o quinto a mais do dinheiro da tua avaliação, e será sua.
+
+[[v3-27-16]]
+
+^<<v3-27-16,16>>^ Se também algum santificar ao Senhor uma parte do campo da sua possessão, então a tua avaliação será segundo a sua semente: um ômer de semente de cevada será avaliado  por cinquenta siclos de prata.
+
+[[v3-27-17]]
+
+^<<v3-27-17,17>>^ Se santificar o seu campo desde o ano do jubileu, conforme à tua avaliação ficará.
+
+[[v3-27-18]]
+
+^<<v3-27-18,18>>^ Mas, se santificar o seu campo depois do ano do jubileu, então o sacerdote lhe contará o dinheiro conforme aos anos restantes até ao ano do jubileu, e isto  se abaterá da tua avaliação.
+
+[[v3-27-19]]
+
+^<<v3-27-19,19>>^ E se aquele que santificou o campo dalguma maneira o resgatar, então acrescentará o quinto, a mais do dinheiro da tua avaliação, e ficará seu.
+
+[[v3-27-20]]
+
+^<<v3-27-20,20>>^ E se não resgatar o campo, ou se vender o campo a outro homem, nunca mais se resgatará.
+
+[[v3-27-21]]
+
+^<<v3-27-21,21>>^ Porém, havendo o campo saído no ano do  jubileu, será santo ao Senhor, como campo consagrado: a possessão dele será do sacerdote.
+
+[[v3-27-22]]
+
+^<<v3-27-22,22>>^ E se santificar ao Senhor o campo que comprou, e não for  do campo da sua possessão,
+
+[[v3-27-23]]
+
+^<<v3-27-23,23>>^ Então o sacerdote lhe contará a soma da tua avaliação até ao ano do jubileu; e no mesmo dia dará a tua avaliação por santidade ao Senhor.
+
+[[v3-27-24]]
+
+^<<v3-27-24,24>>^ No ano do jubileu o campo tornará àquele de quem o comprou àquele de quem era a possessão do campo.
+
+[[v3-27-25]]
+
+^<<v3-27-25,25>>^ E toda a tua avaliação se fará conforme ao siclo do santuário: o siclo será de vinte geras.
+
+[[v3-27-26]]
+
+^<<v3-27-26,26>>^ Mas o primogênito dum animal, por já ser do Senhor, ninguém o santificará; seja boi ou gado miúdo, do Senhor é.
+
+[[v3-27-27]]
+
+^<<v3-27-27,27>>^ Mas, se for  dum animal imundo, o resgatará, segundo a tua estimação, e sobre ele acrescentará o seu quinto: e, se não se resgatar, vender-se-á segundo a tua estimação.
+
+[[v3-27-28]]
+
+^<<v3-27-28,28>>^ Todavia, nenhuma cousa consagrada, que alguém consagrar ao Senhor de tudo o que tem, de homem, ou de animal, ou do campo da sua possessão, se venderá nem resgatará: toda a cousa consagrada será uma cousa santíssima ao Senhor.
+
+[[v3-27-29]]
+
+^<<v3-27-29,29>>^ Toda a cousa consagrada que for consagrada do homem, não será resgatada: certamente morrerá.
+
+[[v3-27-30]]
+
+^<<v3-27-30,30>>^ Também todas as dízimas do campo, da semente do campo, do fruto das árvores, são do Senhor: santas são  ao Senhor.
+
+[[v3-27-31]]
+
+^<<v3-27-31,31>>^ Porém, se alguém das suas dízimas resgatar alguma cousa , acrescentará o seu quinto sobre ela.
+
+[[v3-27-32]]
+
+^<<v3-27-32,32>>^ Tocante a todas as dízimas de vacas e ovelhas, de tudo o que passar debaixo da vara, o dízimo será santo ao Senhor.
+
+[[v3-27-33]]
+
+^<<v3-27-33,33>>^ Não esquadrinhará entre o bom e o mau, nem o trocará: mas, se em alguma maneira o trocar, o tal e o trocado serão santos; não serão resgatados.
+
+[[v3-27-34]]
+
+^<<v3-27-34,34>>^ Estes são  os mandamentos que o Senhor ordenou a Moisés, para os filhos de Israel, no monte de Sinai.
+
+'''
+
+xref:003-levitico/003-levitico-026.adoc#v3-26-0[&#60; Capítulo Anterior] | <<v3-27-0,Topo>> | xref:004-numeros/004-numeros-001.adoc#v4-1-0[Próximo Capítulo &#62;]

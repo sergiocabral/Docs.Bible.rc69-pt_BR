@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v17-2-0]]
+=== Ester, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v17-2-1]]
+
+^<<v17-2-1,1>>^ PASSADAS estas cousas, e apaziguado já o furor do rei Assuero, lembrou-se de Vasti, e do que fizera, e do que se tinha decretado a seu respeito.
+
+[[v17-2-2]]
+
+^<<v17-2-2,2>>^ Então disseram os mancebos do rei que lhe serviam: Busquem-se para o rei moças virgens, formosas à vista.
+
+[[v17-2-3]]
+
+^<<v17-2-3,3>>^ E ponha o rei comissários em todas as províncias do seu reino, que reúnam todas as moças virgens, formosas à vista, na fortaleza de Susã, na casa das mulheres, debaixo da mão de Hegai, eunuco do rei, guarda das mulheres, e deem-se-lhes os seus enfeites.
+
+[[v17-2-4]]
+
+^<<v17-2-4,4>>^ E a moça que parecer bem aos olhos do rei, reine em lugar de Vasti. E isto pareceu bem aos olhos do rei, e assim fez.
+
+[[v17-2-5]]
+
+^<<v17-2-5,5>>^ Havia então um homem judeu na fortaleza de Susã, cujo nome era  Mardoqueu, filho de Jair, filho de Simei, filho de Quis, homem benjamita,
+
+[[v17-2-6]]
+
+^<<v17-2-6,6>>^ Que fora transportado de Jerusalém, com os cativos que foram levados com Jeconias, rei de Judá, o qual transportara Nabucodonosor, rei de Babilônia.
+
+[[v17-2-7]]
+
+^<<v17-2-7,7>>^ Este criara a Hadassa (que é  Ester, filha do seu tio), porque não tinha pai nem mãe; e era moça bela de parecer, e formosa à vista; e, morrendo seu pai e sua mãe, Mardoqueu a tomara por sua filha.
+
+[[v17-2-8]]
+
+^<<v17-2-8,8>>^ Sucedeu pois que, divulgando-se o mandado do rei e a sua lei, e ajuntando-se muitas moças na fortaleza de Susã, debaixo da mão de Hegai, também levaram Ester à casa do rei, debaixo da mão de Hegai, guarda das mulheres.
+
+[[v17-2-9]]
+
+^<<v17-2-9,9>>^ E a moça pareceu formosa aos seus olhos, e alcançou graça perante ele; pelo que se apressou a dar-lhe os seus enfeites, e os seus alimentos, como também em lhe dar sete moças de respeito da casa do rei; e a fez passar com as suas moças ao melhor lugar  da casa das mulheres.
+
+[[v17-2-10]]
+
+^<<v17-2-10,10>>^ Ester porém não declarou o seu povo e a sua parentela; porque Mardoqueu lhe tinha ordenado que o não declarasse.
+
+[[v17-2-11]]
+
+^<<v17-2-11,11>>^ E passeava Mardoqueu cada dia diante do pátio da casa das mulheres, para se informar de como Ester passava, e do que lhe sucederia.
+
+[[v17-2-12]]
+
+^<<v17-2-12,12>>^ E, chegando já a vez de cada moça, para vir ao rei Assuero, depois que fora feito a cada uma segundo a lei das mulheres, por doze meses (porque assim se cumpriam os dias das suas purificações, seis meses com óleo de mirra e seis meses com especiarias, e com as cousas para a purificação das mulheres).
+
+[[v17-2-13]]
+
+^<<v17-2-13,13>>^ Desta maneira pois entrava a moça ao rei; tudo quanto ela desejava se lhe dava, para ir da casa das mulheres à casa do rei;
+
+[[v17-2-14]]
+
+^<<v17-2-14,14>>^ À tarde entrava, e pela manhã tornava à segunda casa das mulheres, debaixo da mão de Saazgaz, eunuco do rei, guarda das concubinas; não tornava mais ao rei, salvo se o rei a desejasse, e fosse chamada por nome.
+
+[[v17-2-15]]
+
+^<<v17-2-15,15>>^ Chegando pois a vez de Ester, filha de Abigail, tio de Mardoqueu (que a tomara por sua filha), para ir ao rei, cousa nenhuma pediu, senão o que disse Hegai, eunuco do rei, guarda das mulheres; e alcançava Ester graça aos olhos de todos quantos a viam.
+
+[[v17-2-16]]
+
+^<<v17-2-16,16>>^ Assim foi levada Ester ao rei Assuero, à sua casa real, no décimo mês, que é  o mês de tebete, no sétimo ano do seu reinado.
+
+[[v17-2-17]]
+
+^<<v17-2-17,17>>^ E o rei amou a Ester mais do que a todas as mulheres, e ela alcançou perante ele graça e benevolência mais do que todas as virgens: e pôs a coroa real na sua cabeça, e a fez rainha em lugar de Vasti.
+
+[[v17-2-18]]
+
+^<<v17-2-18,18>>^ Então o rei fez um  grande convite a todos os seus príncipes e aos seus servos para a festa de Ester; e deu repouso às províncias, e fez presentes segundo o estado do rei.
+
+[[v17-2-19]]
+
+^<<v17-2-19,19>>^ E reunindo-se segunda vez as virgens, Mardoqueu estava assentado à porta do rei.
+
+[[v17-2-20]]
+
+^<<v17-2-20,20>>^ Ester porém  não declarava a sua parentela e o seu povo, como Mardoqueu lhe ordenara; porque Ester cumpria o mandado de Mardoqueu, como quando a criara.
+
+[[v17-2-21]]
+
+^<<v17-2-21,21>>^ Naqueles dias, assentando-se Mardoqueu à porta do rei, dois eunucos do rei, dos guardas da porta, Bigtã e Teres, grandemente se indignaram, e procuraram pôr as mãos no rei Assuero.
+
+[[v17-2-22]]
+
+^<<v17-2-22,22>>^ E veio isto ao conhecimento de Mardoqueu e ele o fez saber à rainha Ester, e Ester o disse ao rei, em nome de Mardoqueu.
+
+[[v17-2-23]]
+
+^<<v17-2-23,23>>^ E inquiriu-se o negócio, e se descobriu, e ambos foram enforcados numa forca; e foi escrito nas crônicas perante o rei.
+
+'''
+
+xref:017-ester/017-ester-001.adoc#v17-1-0[&#60; Capítulo Anterior] | <<v17-2-0,Topo>> | xref:017-ester/017-ester-003.adoc#v17-3-0[Próximo Capítulo &#62;]

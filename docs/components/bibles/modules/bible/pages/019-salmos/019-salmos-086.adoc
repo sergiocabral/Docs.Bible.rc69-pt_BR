@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-86-0]]
+=== Salmos, 86
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-86-1]]
+
+^<<v19-86-1,1>>^ INCLINA, Senhor, os teus ouvidos, e  ouve-me, porque estou  necessitado e aflito.
+
+[[v19-86-2]]
+
+^<<v19-86-2,2>>^ Guarda a minha alma, pois sou santo, ó Deus meu, salva o teu servo, que em ti confia.
+
+[[v19-86-3]]
+
+^<<v19-86-3,3>>^ Tem misericórdia de mim, ó Senhor, pois a ti clamo todo o dia.
+
+[[v19-86-4]]
+
+^<<v19-86-4,4>>^ Alegra a alma do teu servo, pois a ti, Senhor, levanto a minha alma.
+
+[[v19-86-5]]
+
+^<<v19-86-5,5>>^ Pois tu, Senhor, és  bom e pronto a perdoar, e abundante em benignidade para com todos os que te invocam.
+
+[[v19-86-6]]
+
+^<<v19-86-6,6>>^ Dá ouvidos, Senhor, à minha oração, e atende à voz das minhas súplicas.
+
+[[v19-86-7]]
+
+^<<v19-86-7,7>>^ No dia da minha angústia clamarei a ti, porquanto me respondes.
+
+[[v19-86-8]]
+
+^<<v19-86-8,8>>^ Entre os deuses não há  semelhante a ti, Senhor, nem há  obras como as tuas.
+
+[[v19-86-9]]
+
+^<<v19-86-9,9>>^ Todas as nações que fizeste virão e se prostrarão perante a tua face, Senhor, e glorificarão o teu nome.
+
+[[v19-86-10]]
+
+^<<v19-86-10,10>>^ Porque tu és  grande e operas maravilhas; só tu és  Deus.
+
+[[v19-86-11]]
+
+^<<v19-86-11,11>>^ Ensina-me, Senhor, o teu caminho, e  andarei na tua verdade; une o meu coração ao temor do teu nome.
+
+[[v19-86-12]]
+
+^<<v19-86-12,12>>^ Louvar-te-ei, Senhor Deus meu, com todo o meu coração, e glorificarei o teu nome para sempre.
+
+[[v19-86-13]]
+
+^<<v19-86-13,13>>^ Pois grande é  a tua misericórdia para comigo; e livraste a minha alma do mais profundo da sepultura.
+
+[[v19-86-14]]
+
+^<<v19-86-14,14>>^ Ó Deus, os soberbos se levantaram contra mim, e as assembleias dos tiranos procuraram a minha morte; e não te puseram perante os seus olhos.
+
+[[v19-86-15]]
+
+^<<v19-86-15,15>>^ Mas tu, Senhor, és  um Deus cheio de compaixão, e piedoso, sofredor, e grande em benignidade e em verdade.
+
+[[v19-86-16]]
+
+^<<v19-86-16,16>>^ Volta-te para mim, e tem misericórdia de mim; dá a tua fortaleza ao teu servo, e salva ao filho da tua serva.
+
+[[v19-86-17]]
+
+^<<v19-86-17,17>>^ Mostra-me um sinal para bem, para que o  vejam aqueles que me aborrecem, e se confundam, quando tu, Senhor, me ajudares e consolares.
+
+'''
+
+xref:019-salmos/019-salmos-085.adoc#v19-85-0[&#60; Capítulo Anterior] | <<v19-86-0,Topo>> | xref:019-salmos/019-salmos-087.adoc#v19-87-0[Próximo Capítulo &#62;]

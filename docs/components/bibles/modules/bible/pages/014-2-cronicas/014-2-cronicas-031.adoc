@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v14-31-0]]
+=== 2 Crônicas, 31
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v14-31-1]]
+
+^<<v14-31-1,1>>^ E ACABANDO tudo isto, todos os israelitas que ali  se achavam saíram às cidades de Judá e quebraram as estátuas, cortaram os bosques, e derribaram os altos e altares por toda Judá e Benjamim, como também em Efraim e Manassés, até que tudo destruíram: então tornaram todos os filhos de Israel, cada um para sua possessão, para as cidades deles.
+
+[[v14-31-2]]
+
+^<<v14-31-2,2>>^ E estabeleceu Ezequias as turmas dos sacerdotes e levitas, segundo as suas turmas, a cada um segundo o seu ministério; aos sacerdotes e levitas para o holocausto e para as ofertas pacíficas; para ministrarem, e louvarem, e cantarem, às portas dos arraiais do Senhor.
+
+[[v14-31-3]]
+
+^<<v14-31-3,3>>^ Também estabeleceu a parte da fazenda do rei para os holocaustos, para os holocaustos da manhã e da tarde, e para os holocaustos dos sábados, e das luas novas, e das solenidades; como está  escrito na lei do Senhor.
+
+[[v14-31-4]]
+
+^<<v14-31-4,4>>^ E ordenou ao povo, aos moradores de Jerusalém, que dessem a parte dos sacerdotes e levitas; para que se pudessem dedicar à lei do Senhor.
+
+[[v14-31-5]]
+
+^<<v14-31-5,5>>^ E, depois que este dito se divulgou, os filhos de Israel trouxeram muitas primícias de trigo, mosto, e azeite, e mel, e de toda a novidade do campo: também os dízimos de tudo trouxeram em abundância.
+
+[[v14-31-6]]
+
+^<<v14-31-6,6>>^ E os filhos de Israel e de Judá, que habitavam na cidade de Judá, também trouxeram dízimos das vacas e das ovelhas, e dízimos das cousas sagradas que foram consagradas ao Senhor seu Deus: e fizeram muitos montões.
+
+[[v14-31-7]]
+
+^<<v14-31-7,7>>^ No terceiro mês começaram a fazer os primeiros montões: e no sétimo mês acabaram.
+
+[[v14-31-8]]
+
+^<<v14-31-8,8>>^ Vindo pois Ezequias e os príncipes, e vendo aqueles montões, bendisseram ao Senhor e ao seu povo Israel.
+
+[[v14-31-9]]
+
+^<<v14-31-9,9>>^ E perguntou Ezequias aos sacerdotes e aos levitas acerca daqueles montões.
+
+[[v14-31-10]]
+
+^<<v14-31-10,10>>^ E Azarias, o sumo sacerdote da casa de Zadoque, lhe falou, dizendo: Desde que esta oferta se começou a trazer à casa do Senhor, houve que comer e de que se fartar, e ainda sobejo em abundância; porque o Senhor abençoou ao seu povo, e sobejou esta abastança.
+
+[[v14-31-11]]
+
+^<<v14-31-11,11>>^ Então disse Ezequias que se preparassem câmaras na casa do Senhor, e as  prepararam.
+
+[[v14-31-12]]
+
+^<<v14-31-12,12>>^ Ali meteram fielmente as ofertas, e os dízimos, e as cousas consagradas; e tinha cargo disto Conanias, o levita maioral, e Simei, seu irmão, o segundo.
+
+[[v14-31-13]]
+
+^<<v14-31-13,13>>^ E Jeiel, e Azarias, e Naate, e Asael, e Jerimote, e Jozabade, e Eliel, e Ismaquias, e Maate, e Benaia eram  superintendentes debaixo da mão de Conanias e Simei seu irmão, por mandado do rei Ezequias, e de Azarias, maioral da casa de Deus.
+
+[[v14-31-14]]
+
+^<<v14-31-14,14>>^ E Coré filho de Imná, o levita, porteiro da banda do oriente, tinha cargo das ofertas voluntárias de Deus, para distribuir as ofertas alçadas do Senhor e as cousas santíssimas.
+
+[[v14-31-15]]
+
+^<<v14-31-15,15>>^ E debaixo das suas ordens estavam  Éden, e Miniamim, e Jesua, e Semaías, Amorias, e Secanias, nas cidades dos sacerdotes, para distribuírem com fidelidade a seus irmãos, segundo as suas turmas, tanto aos pequenos como aos grandes;
+
+[[v14-31-16]]
+
+^<<v14-31-16,16>>^ Além dos que estavam contados pelas genealogias dos varões, da idade de três anos e daí  para cima, a todos os que entravam na casa do Senhor, para a obra de cada dia no seu dia pelo seu ministério nas suas guardas, segundo as suas turmas.
+
+[[v14-31-17]]
+
+^<<v14-31-17,17>>^ E os que estavam contados pelas genealogias dos sacerdotes, segundo a casa de seus pais; como também os levitas, da idade de vinte anos e daí  para cima, nas suas guardas, segundo as suas turmas:
+
+[[v14-31-18]]
+
+^<<v14-31-18,18>>^ Como também conforme às genealogias, com todas as suas crianças, suas mulheres, e seus filhos, e suas filhas, por toda a congregação: porque com fidelidade estes se santificavam nas cousas consagradas.
+
+[[v14-31-19]]
+
+^<<v14-31-19,19>>^ Também dentre os filhos de Aarão havia sacerdotes nos campos dos arrabaldes das suas cidades, em cada cidade, homens que foram contados pelos seus nomes para distribuírem as porções a todo o varão entre os sacerdotes e a todos os que estavam contados pelas genealogias entre os levitas.
+
+[[v14-31-20]]
+
+^<<v14-31-20,20>>^ E assim fez Ezequias em todo o Judá: e fez o que era  bom, e reto, e verdadeiro, perante o Senhor seu Deus.
+
+[[v14-31-21]]
+
+^<<v14-31-21,21>>^ E em toda a obra que começou no serviço da casa de Deus, e na lei, e nos mandamentos, para buscar a seu Deus, com todo o seu coração o fez, e prosperou.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-030.adoc#v14-30-0[&#60; Capítulo Anterior] | <<v14-31-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-032.adoc#v14-32-0[Próximo Capítulo &#62;]

@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v28-14-0]]
+=== Oséias, 14
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v28-14-1]]
+
+^<<v28-14-1,1>>^ CONVERTE-TE, ó Israel, ao Senhor teu Deus; porque pelos teus pecados tens caído.
+
+[[v28-14-2]]
+
+^<<v28-14-2,2>>^ Tomai convosco palavras, e convertei-vos ao Senhor; dizei-lhe: Expulsa toda a iniquidade, e recebe o bem; e daremos como bezerros os sacrifícios dos nossos lábios.
+
+[[v28-14-3]]
+
+^<<v28-14-3,3>>^ Não nos salvará a Assíria, não iremos montados em cavalos, e à obra das nossas mãos não diremos mais: Tu és  o nosso Deus; porque por ti o órfão alcançará misericórdia.
+
+[[v28-14-4]]
+
+^<<v28-14-4,4>>^ Eu sararei a sua perversão, eu voluntariamente os amarei; porque a minha ira se apartou dele.
+
+[[v28-14-5]]
+
+^<<v28-14-5,5>>^ Eu serei, para Israel como orvalho, ele florescerá como o lírio, e espalhará as suas raízes como o Líbano.
+
+[[v28-14-6]]
+
+^<<v28-14-6,6>>^ Estender-se-ão as suas vergônteas, e a sua glória será como a da oliveira, o seu odor como o do Líbano.
+
+[[v28-14-7]]
+
+^<<v28-14-7,7>>^ Voltarão os que se assentarem à sua sombra; serão vivificados como  o trigo, e florescerão como a vide; a sua memória será como o vinho do Líbano.
+
+[[v28-14-8]]
+
+^<<v28-14-8,8>>^ Efraim dirá : Que mais tenho eu com os ídolos? eu o tenho ouvido, e isso considerarei; eu sou como a faia verde: de mim é achado o teu fruto.
+
+[[v28-14-9]]
+
+^<<v28-14-9,9>>^ Quem é  sábio, para que entenda estas cousas? prudente, para que as saiba? porque os caminhos do Senhor são  retos, e os justos andarão neles, mas os transgressores neles cairão.
+
+'''
+
+xref:028-oseias/028-oseias-013.adoc#v28-13-0[&#60; Capítulo Anterior] | <<v28-14-0,Topo>> | xref:029-joel/029-joel-001.adoc#v29-1-0[Próximo Capítulo &#62;]

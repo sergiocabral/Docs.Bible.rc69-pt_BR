@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v16-10-0]]
+=== Neemias, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v16-10-1]]
+
+^<<v16-10-1,1>>^ E OS que selaram foram  Neemias, o tirsata, filho de Hacalias, e Zedequias,
+
+[[v16-10-2]]
+
+^<<v16-10-2,2>>^ Seraías, Azarias, Jeremias,
+
+[[v16-10-3]]
+
+^<<v16-10-3,3>>^ Pasur, Amarias, Malquias,
+
+[[v16-10-4]]
+
+^<<v16-10-4,4>>^ Hatus, Sebanias, Maluque,
+
+[[v16-10-5]]
+
+^<<v16-10-5,5>>^ Harim, Meremote, Obadias,
+
+[[v16-10-6]]
+
+^<<v16-10-6,6>>^ Daniel, Ginetom, Baruque,
+
+[[v16-10-7]]
+
+^<<v16-10-7,7>>^ Mesulão, Abias, Miamim,
+
+[[v16-10-8]]
+
+^<<v16-10-8,8>>^ Maaseias, Bilgai, Semaías; estes foram  os sacerdotes.
+
+[[v16-10-9]]
+
+^<<v16-10-9,9>>^ E os levitas: Jesua, filho de Azanias, Binuí, dos filhos de Henadade, Cadmiel;
+
+[[v16-10-10]]
+
+^<<v16-10-10,10>>^ E seus irmãos: Sebanias, Hodias, Quelita, Pelaías, Hanã,
+
+[[v16-10-11]]
+
+^<<v16-10-11,11>>^ Mica, Reobe, Hasabias,
+
+[[v16-10-12]]
+
+^<<v16-10-12,12>>^ Zacur, Serebias, Sebanias,
+
+[[v16-10-13]]
+
+^<<v16-10-13,13>>^ Hodias, Bani, Beninu.
+
+[[v16-10-14]]
+
+^<<v16-10-14,14>>^ Os chefes do povo: Parós, Paate-Moabe, Elão, Zatu, Bani,
+
+[[v16-10-15]]
+
+^<<v16-10-15,15>>^ Buni, Asgade, Bebai,
+
+[[v16-10-16]]
+
+^<<v16-10-16,16>>^ Adonias, Bigvai, Adim,
+
+[[v16-10-17]]
+
+^<<v16-10-17,17>>^ Ater, Hisquias, Azur,
+
+[[v16-10-18]]
+
+^<<v16-10-18,18>>^ Hodias, Hasum, Besai,
+
+[[v16-10-19]]
+
+^<<v16-10-19,19>>^ Harife, Anatote, Nebai,
+
+[[v16-10-20]]
+
+^<<v16-10-20,20>>^ Magpias, Mesulão, Hezir,
+
+[[v16-10-21]]
+
+^<<v16-10-21,21>>^ Mezezabel, Zadoque, Jadua,
+
+[[v16-10-22]]
+
+^<<v16-10-22,22>>^ Pelatias, Hanã, Anaias,
+
+[[v16-10-23]]
+
+^<<v16-10-23,23>>^ Oseias, Hananias, Hasube,
+
+[[v16-10-24]]
+
+^<<v16-10-24,24>>^ Holoes, Pilha, Sobeque,
+
+[[v16-10-25]]
+
+^<<v16-10-25,25>>^ Reum, Hasabna, Maaseias;
+
+[[v16-10-26]]
+
+^<<v16-10-26,26>>^ E Aías, Hanã, Anã,
+
+[[v16-10-27]]
+
+^<<v16-10-27,27>>^ Maluque, Harim, Baana.
+
+[[v16-10-28]]
+
+^<<v16-10-28,28>>^ E o resto do povo, os sacerdotes, os levitas, os porteiros, os cantores, os netineus e todos os que se tinham separado dos povos das terras para a lei de Deus, suas mulheres, seus filhos, e suas filhas; todos os sábios e  entendidos;
+
+[[v16-10-29]]
+
+^<<v16-10-29,29>>^ Firmemente aderiram a seus irmãos os mais nobres de entre eles, e convieram num anátema e num juramento, de que andariam na lei de Deus, que foi dada pelo ministério de Moisés, servo de Deus; e de que guardariam e cumpririam todos os mandamentos do Senhor, nosso Senhor, e os seus juízos e os seus estatutos;
+
+[[v16-10-30]]
+
+^<<v16-10-30,30>>^ E que não daríamos as nossas filhas aos povos da terra, nem tomaríamos as filhas deles para os nossos filhos;
+
+[[v16-10-31]]
+
+^<<v16-10-31,31>>^ E que, trazendo os povos da terra no dia de sábado algumas fazendas, e qualquer grão para venderem, nada tomaríamos deles no sábado, nem no dia santificado; e livre deixaríamos o ano sétimo, e toda e qualquer cobrança.
+
+[[v16-10-32]]
+
+^<<v16-10-32,32>>^ Também sobre nós pusemos preceitos, impondo-nos cada ano a terça parte dum siclo, para o ministério da casa do nosso Deus;
+
+[[v16-10-33]]
+
+^<<v16-10-33,33>>^ Para os pães da proposição, e para a contínua oferta de manjares, e para o contínuo holocausto dos sábados, das luas novas, para as festas solenes, e para as cousas  sagradas, e para os sacrifícios pelo pecado, para reconciliar a Israel, e para  toda a obra da casa do nosso Deus.
+
+[[v16-10-34]]
+
+^<<v16-10-34,34>>^ Também lançamos as sortes entre os sacerdotes, levitas, e o povo, acerca da oferta da lenha que se havia de trazer à casa do nosso Deus, segundo as casas de nossos pais, a tempos determinados, de ano em ano, para se queimar sobre o altar do Senhor nosso Deus, como está  escrito na lei.
+
+[[v16-10-35]]
+
+^<<v16-10-35,35>>^ E que também traríamos as primeiras novidades da nossa terra, e todos os primeiros frutos de todas as árvores, de ano em ano, à casa do Senhor.
+
+[[v16-10-36]]
+
+^<<v16-10-36,36>>^ E os primogênitos dos nossos filhos, e os do nosso gado, como está  escrito na lei; e que os primogênitos das nossas vacas e das nossas ovelhas traríamos à casa do nosso Deus, aos sacerdotes, que ministram na casa do nosso Deus.
+
+[[v16-10-37]]
+
+^<<v16-10-37,37>>^ E que  as primícias da nossa massa, e as nossas ofertas alçadas, e o fruto de toda a árvore, o mosto e o azeite, traríamos aos sacerdotes, às câmaras da casa do nosso Deus; e os dízimos da nossa terra aos levitas; e que os levitas pagariam os dízimos em todas as cidades da nossa lavoura.
+
+[[v16-10-38]]
+
+^<<v16-10-38,38>>^ E que o sacerdote, filho de Aarão, estaria com os levitas quando os levitas recebessem os dízimos, e que os levitas trariam os dízimos dos dízimos à casa do nosso Deus, às câmaras da casa do tesouro.
+
+[[v16-10-39]]
+
+^<<v16-10-39,39>>^ Porque àquelas câmaras os filhos de Israel e os filhos de Levi devem trazer ofertas alçadas do grão, do mosto e do azeite; porquanto ali estão os vasos do santuário, como também os sacerdotes que ministram, e os porteiros, e os cantores; e que assim não desampararíamos a casa do nosso Deus.
+
+'''
+
+xref:016-neemias/016-neemias-009.adoc#v16-9-0[&#60; Capítulo Anterior] | <<v16-10-0,Topo>> | xref:016-neemias/016-neemias-011.adoc#v16-11-0[Próximo Capítulo &#62;]

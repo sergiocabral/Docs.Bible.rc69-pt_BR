@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v48-3-0]]
+=== Gálatas, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v48-3-1]]
+
+^<<v48-3-1,1>>^ Ó INSENSATOS gálatas! quem vos fascinou para não obedecerdes à verdade, a vós, perante os olhos de quem Jesus Cristo foi já  representado como  crucificado?
+
+[[v48-3-2]]
+
+^<<v48-3-2,2>>^ Só quisera saber isto de vós: recebestes o Espírito pelas obras da lei ou pela pregação da fé?
+
+[[v48-3-3]]
+
+^<<v48-3-3,3>>^ Sois vós tão insensatos que, tendo começado pelo Espírito, acabeis agora pela carne?
+
+[[v48-3-4]]
+
+^<<v48-3-4,4>>^ Será em vão que tenhais padecido tanto? Se é  que isso também foi  em vão.
+
+[[v48-3-5]]
+
+^<<v48-3-5,5>>^ Aquele pois que vos dá o Espírito, e que obra maravilhas entre vós, fá-lo  pelas obras da lei, ou pela pregação da fé?
+
+[[v48-3-6]]
+
+^<<v48-3-6,6>>^ Assim como Abraão creu em Deus, e isso lhe foi imputado como justiça.
+
+[[v48-3-7]]
+
+^<<v48-3-7,7>>^ Sabei pois que os que são da fé são filhos de Abraão.
+
+[[v48-3-8]]
+
+^<<v48-3-8,8>>^ Ora, tendo a Escritura previsto que Deus havia de justificar pela fé os gentios, anunciou primeiro o evangelho a Abraão, dizendo : Todas as nações serão benditas em ti.
+
+[[v48-3-9]]
+
+^<<v48-3-9,9>>^ De sorte que os que são da fé são benditos com o crente Abraão.
+
+[[v48-3-10]]
+
+^<<v48-3-10,10>>^ Todos aqueles pois que são das obras da lei estão debaixo da maldição; porque escrito está: Maldito todo aquele que não permanecer em todas as coisas que estão escritas no livro da lei, para fazê-las.
+
+[[v48-3-11]]
+
+^<<v48-3-11,11>>^ E é  evidente que pela lei ninguém será justificado diante de Deus, porque o justo viverá da fé.
+
+[[v48-3-12]]
+
+^<<v48-3-12,12>>^ Ora a lei não é da fé; mas o homem, que fizer estas coisas , por elas viverá.
+
+[[v48-3-13]]
+
+^<<v48-3-13,13>>^ Cristo nos resgatou da maldição da lei, fazendo-se maldição por nós; porque está escrito: Maldito todo aquele que for pendurado no madeiro;
+
+[[v48-3-14]]
+
+^<<v48-3-14,14>>^ Para que a bênção de Abraão chegasse aos gentios por Jesus Cristo, e para que pela fé nós recebamos a promessa do Espírito.
+
+[[v48-3-15]]
+
+^<<v48-3-15,15>>^ Irmãos, como homem falo; se  o testamento de um homem for  confirmado, ninguém o anula nem o acrescenta.
+
+[[v48-3-16]]
+
+^<<v48-3-16,16>>^ Ora as promessas foram feitas a Abraão e à sua posteridade. Não diz: E às posteridades, como falando  de muitas, mas como de uma só: E à tua posteridade, que é Cristo.
+
+[[v48-3-17]]
+
+^<<v48-3-17,17>>^ Mas digo isto: Que tendo sido o testamento anteriormente confirmado por Deus, a lei, que veio quatrocentos e trinta anos depois, não o invalida, de forma a abolir a promessa.
+
+[[v48-3-18]]
+
+^<<v48-3-18,18>>^ Porque, se a herança provém  da lei, já não provém  da promessa: mas Deus pela promessa a deu  gratuitamente a Abraão.
+
+[[v48-3-19]]
+
+^<<v48-3-19,19>>^ Logo, para que é  a lei? Foi ordenada por causa das transgressões, até que viesse a posteridade a quem a promessa tinha sido feita; e foi  posta pelos anjos na mão de um medianeiro.
+
+[[v48-3-20]]
+
+^<<v48-3-20,20>>^ Ora o medianeiro não o é de um só, mas Deus é um.
+
+[[v48-3-21]]
+
+^<<v48-3-21,21>>^ Logo, a lei é  contra as promessas de Deus? De nenhuma sorte; porque, se dada fosse uma lei que pudesse vivificar, a justiça, na verdade, teria sido pela lei.
+
+[[v48-3-22]]
+
+^<<v48-3-22,22>>^ Mas a Escritura encerrou tudo debaixo do pecado, para que a promessa pela fé em Jesus Cristo fosse dada aos crentes.
+
+[[v48-3-23]]
+
+^<<v48-3-23,23>>^ Mas, antes que a fé viesse, estávamos guardados debaixo da lei, e encerrados para aquela fé que se havia de manifestar.
+
+[[v48-3-24]]
+
+^<<v48-3-24,24>>^ De maneira que a lei nos serviu de aio, para nos conduzir  a Cristo, para que pela fé fôssemos justificados.
+
+[[v48-3-25]]
+
+^<<v48-3-25,25>>^ Mas, depois que a fé veio, já não estamos debaixo de aio.
+
+[[v48-3-26]]
+
+^<<v48-3-26,26>>^ Porque todos sois filhos de Deus pela fé em Cristo Jesus.
+
+[[v48-3-27]]
+
+^<<v48-3-27,27>>^ Porque todos quantos fostes batizados em Cristo já vos revestistes de Cristo.
+
+[[v48-3-28]]
+
+^<<v48-3-28,28>>^ Nisto não há judeu nem grego; não há servo nem livre; não há macho nem fêmea; porque todos vós sois  um em Cristo Jesus.
+
+[[v48-3-29]]
+
+^<<v48-3-29,29>>^ E, se sois  de Cristo, então sois descendência de Abraão, e herdeiros conforme a promessa.
+
+'''
+
+xref:048-galatas/048-galatas-002.adoc#v48-2-0[&#60; Capítulo Anterior] | <<v48-3-0,Topo>> | xref:048-galatas/048-galatas-004.adoc#v48-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v48-1-0]]
+=== Gálatas, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v48-1-1]]
+
+^<<v48-1-1,1>>^ PAULO apóstolo (não da parte  dos homens, nem por homem algum , mas por Jesus Cristo, e por Deus Pai, que o ressuscitou dos mortos),
+
+[[v48-1-2]]
+
+^<<v48-1-2,2>>^ E todos os irmãos que estão comigo, às igrejas da Galácia:
+
+[[v48-1-3]]
+
+^<<v48-1-3,3>>^ Graça e paz da parte de Deus Pai e da de nosso Senhor Jesus Cristo.
+
+[[v48-1-4]]
+
+^<<v48-1-4,4>>^ O qual se deu a si mesmo por nossos pecados, para nos livrar do presente século mau, segundo a vontade de Deus nosso Pai,
+
+[[v48-1-5]]
+
+^<<v48-1-5,5>>^ Ao qual glória para todo o sempre. Amém.
+
+[[v48-1-6]]
+
+^<<v48-1-6,6>>^ Maravilho-me de que tão depressa passásseis daquele que vos chamou à graça de Cristo para outro evangelho.
+
+[[v48-1-7]]
+
+^<<v48-1-7,7>>^ O qual não é outro, mas há alguns que vos inquietam e querem transtornar o evangelho de Cristo.
+
+[[v48-1-8]]
+
+^<<v48-1-8,8>>^ Mas, ainda que nós mesmos ou um anjo do céu vos anuncie outro evangelho além do que já  vos tenho anunciado, seja anátema.
+
+[[v48-1-9]]
+
+^<<v48-1-9,9>>^ Assim como já vo-lo dissemos, agora de novo também vo-lo digo. Se alguém vos anunciar outro evangelho além do que já  recebestes, seja anátema.
+
+[[v48-1-10]]
+
+^<<v48-1-10,10>>^ Porque, persuado eu agora a homens ou a Deus? ou procuro agradar a homens? se estivesse ainda agradando aos homens, não seria servo de Cristo.
+
+[[v48-1-11]]
+
+^<<v48-1-11,11>>^ Mas faço-vos saber, irmãos, que o evangelho que por mim foi anunciado não é segundo os homens.
+
+[[v48-1-12]]
+
+^<<v48-1-12,12>>^ Porque não o recebi, nem aprendi de homem algum, mas pela revelação de Jesus Cristo.
+
+[[v48-1-13]]
+
+^<<v48-1-13,13>>^ Porque já  ouvistes qual foi antigamente a minha conduta no judaísmo, como sobremaneira perseguia a igreja de Deus e a assolava.
+
+[[v48-1-14]]
+
+^<<v48-1-14,14>>^ E na minha nação excedia em judaísmo a muitos da minha idade, sendo extremamente zeloso das tradições de meus pais.
+
+[[v48-1-15]]
+
+^<<v48-1-15,15>>^ Mas quando aprouve a Deus, que desde o ventre de minha mãe me separou, e me chamou pela sua graça,
+
+[[v48-1-16]]
+
+^<<v48-1-16,16>>^ Revelar seu Filho em mim, para que o pregasse entre os gentios, não consultei a carne nem o sangue,
+
+[[v48-1-17]]
+
+^<<v48-1-17,17>>^ Nem tornei a Jerusalém, a ter com os que já  antes de mim eram apóstolos, mas parti para a Arábia, e voltei outra vez a Damasco.
+
+[[v48-1-18]]
+
+^<<v48-1-18,18>>^ Depois, passados três anos, fui a Jerusalém para ver a Pedro, e fiquei com ele quinze dias.
+
+[[v48-1-19]]
+
+^<<v48-1-19,19>>^ E não vi a nenhum outro dos apóstolos, senão a Tiago, irmão do Senhor.
+
+[[v48-1-20]]
+
+^<<v48-1-20,20>>^ Ora, acerca  do que vos escrevo, eis que diante de Deus testifico que não minto.
+
+[[v48-1-21]]
+
+^<<v48-1-21,21>>^ Depois fui para as partes da Síria e da Cilícia.
+
+[[v48-1-22]]
+
+^<<v48-1-22,22>>^ E não era conhecido de vista das igrejas da Judeia, que estavam em Cristo;
+
+[[v48-1-23]]
+
+^<<v48-1-23,23>>^ Mas somente tinham ouvido dizer : Aquele que já nos perseguiu anuncia agora a fé que antes destruía.
+
+[[v48-1-24]]
+
+^<<v48-1-24,24>>^ E glorificavam a Deus a respeito de mim.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-013.adoc#v47-13-0[&#60; Capítulo Anterior] | <<v48-1-0,Topo>> | xref:048-galatas/048-galatas-002.adoc#v48-2-0[Próximo Capítulo &#62;]

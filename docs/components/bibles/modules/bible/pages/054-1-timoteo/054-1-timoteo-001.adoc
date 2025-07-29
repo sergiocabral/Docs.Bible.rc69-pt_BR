@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v54-1-0]]
+=== 1 Timóteo, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v54-1-1]]
+
+^<<v54-1-1,1>>^ PAULO, apóstolo de Jesus Cristo segundo o mandado de Deus, nosso Salvador, e do Senhor Jesus Cristo, esperança nossa,
+
+[[v54-1-2]]
+
+^<<v54-1-2,2>>^ A Timóteo meu  verdadeiro filho na fé: graça, misericórdia e paz da parte de Deus nosso Pai e da de Cristo Jesus, nosso Senhor.
+
+[[v54-1-3]]
+
+^<<v54-1-3,3>>^ Como te roguei, quando parti para a Macedônia, que ficasses em Éfeso, para advertires a alguns, que não ensinem outra doutrina,
+
+[[v54-1-4]]
+
+^<<v54-1-4,4>>^ Nem se deem a fábulas ou a genealogias intermináveis, que mais produzem questões do que edificação de Deus, que consiste na fé; assim o faço agora.
+
+[[v54-1-5]]
+
+^<<v54-1-5,5>>^ Ora o fim do mandamento é a caridade de um coração puro, e de uma boa consciência, e de uma fé não fingida.
+
+[[v54-1-6]]
+
+^<<v54-1-6,6>>^ Do que desviando-se alguns, se entregaram a vãs contendas;
+
+[[v54-1-7]]
+
+^<<v54-1-7,7>>^ Querendo ser doutores da lei, e não entendendo nem o que dizem nem o que afirmam.
+
+[[v54-1-8]]
+
+^<<v54-1-8,8>>^ Sabemos, porém, que a lei é boa, se alguém dela usa legitimamente;
+
+[[v54-1-9]]
+
+^<<v54-1-9,9>>^ Sabendo isto, que a lei não é feita para o justo, mas para os injustos e obstinados, para os ímpios e pecadores, para os profanos e irreligiosos, para os parricidas e matricidas, para os homicidas,
+
+[[v54-1-10]]
+
+^<<v54-1-10,10>>^ Para os fornicários, para os sodomitas, para os roubadores de homens, para os mentirosos, para os perjuros, e para o que for contrário à sã doutrina,
+
+[[v54-1-11]]
+
+^<<v54-1-11,11>>^ Conforme o evangelho da glória de Deus bem-aventurado, que me foi confiado.
+
+[[v54-1-12]]
+
+^<<v54-1-12,12>>^ E dou graças ao que me tem confortado, a Cristo Jesus Senhor nosso, porque me teve por fiel, pondo- me  no ministério;
+
+[[v54-1-13]]
+
+^<<v54-1-13,13>>^ A mim , que dantes fui blasfemo, e perseguidor, e opressor; mas alcancei misericórdia, porque o fiz ignorantemente, na incredulidade.
+
+[[v54-1-14]]
+
+^<<v54-1-14,14>>^ E a graça de nosso Senhor superabundou com a fé e amor que há em Jesus Cristo.
+
+[[v54-1-15]]
+
+^<<v54-1-15,15>>^ Esta é uma  palavra fiel, e digna de toda a aceitação, que Cristo Jesus veio ao mundo, para salvar os pecadores; dos quais eu sou o principal.
+
+[[v54-1-16]]
+
+^<<v54-1-16,16>>^ Mas por isso alcancei misericórdia, para que em mim, que sou o principal, Jesus Cristo mostrasse toda a sua longanimidade, para exemplo dos que haviam de crer nele para a vida eterna.
+
+[[v54-1-17]]
+
+^<<v54-1-17,17>>^ Ora ao Rei dos séculos, imortal, invisível, ao único Deus seja honra e glória para todo o sempre. Amém.
+
+[[v54-1-18]]
+
+^<<v54-1-18,18>>^ Este mandamento te dou, meu  filho Timóteo, que, segundo as profecias que houve acerca de ti, milites por elas boa milícia;
+
+[[v54-1-19]]
+
+^<<v54-1-19,19>>^ Conservando a fé, e a boa consciência, rejeitando a qual alguns fizeram naufrágio na fé.
+
+[[v54-1-20]]
+
+^<<v54-1-20,20>>^ E entre esses foram Himeneu e Alexandre, os quais entreguei a Satanás, para que aprendam a não blasfemar.
+
+'''
+
+xref:053-2-tessalonicenses/053-2-tessalonicenses-003.adoc#v53-3-0[&#60; Capítulo Anterior] | <<v54-1-0,Topo>> | xref:054-1-timoteo/054-1-timoteo-002.adoc#v54-2-0[Próximo Capítulo &#62;]

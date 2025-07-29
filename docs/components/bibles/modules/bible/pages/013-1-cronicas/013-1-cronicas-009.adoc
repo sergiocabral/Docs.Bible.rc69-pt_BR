@@ -1,0 +1,185 @@
+include::./index.adoc[]
+
+[[v13-9-0]]
+=== 1 Crônicas, 9
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v13-9-1]]
+
+^<<v13-9-1,1>>^ E TODO o Israel foi contado por genealogias: eis que estão  escritos no livro dos reis de Israel: e os de Judá foram transportados a Babilônia, por causa da sua transgressão.
+
+[[v13-9-2]]
+
+^<<v13-9-2,2>>^ E os primeiros habitadores, que moravam nas suas possessões e  nas suas cidades, foram  os israelitas, os sacerdotes, os levitas, e os netineus.
+
+[[v13-9-3]]
+
+^<<v13-9-3,3>>^ Porém dos filhos de Judá e dos filhos de Benjamim, e dos filhos de Efraim e Manassés, habitaram em Jerusalém:
+
+[[v13-9-4]]
+
+^<<v13-9-4,4>>^ Utai, filho de Amiúde, filho de Onri, filho de Inri, filho de Bani, dos filhos de Perez, filho de Judá;
+
+[[v13-9-5]]
+
+^<<v13-9-5,5>>^ E dos silonitas: Asaías o primogênito, e seus filhos;
+
+[[v13-9-6]]
+
+^<<v13-9-6,6>>^ E os filhos de Zerá; Jeuel, e seus irmãos, seiscentos e noventa;
+
+[[v13-9-7]]
+
+^<<v13-9-7,7>>^ E dos filhos de Benjamim: Salu, filho de Mesulão, filho de Hodavias, filho de Hassenua;
+
+[[v13-9-8]]
+
+^<<v13-9-8,8>>^ E Ibineias, filho de Jeroão, e Elá, filho de Uzi, filho de Micri, e Mesulão, filho de Sefatias, filho de Reuel, filho de Ibnijas;
+
+[[v13-9-9]]
+
+^<<v13-9-9,9>>^ E seus irmãos segundo as suas gerações, novecentos e cinquenta e seis: todos estes homens foram  cabeças dos pais nas casas de seus pais.
+
+[[v13-9-10]]
+
+^<<v13-9-10,10>>^ E dos sacerdotes: Jedaías, e Jeoiaribe, e Jaquim,
+
+[[v13-9-11]]
+
+^<<v13-9-11,11>>^ E Azarias, filho de Hilquias, filho de Mesulão, filho de Zadoque, filho de Meraiote, filho de Aitube, maioral da casa de Deus:
+
+[[v13-9-12]]
+
+^<<v13-9-12,12>>^ Adaías, filho de Jeroão, filho de Pasur, filho de Malquias, e Masai, filho de Adiel, filho de Jazera, filho de Mesulão, filho de Mesilemite, filho de Imer;
+
+[[v13-9-13]]
+
+^<<v13-9-13,13>>^ Como também seus irmãos, cabeças nas casas de seus pais, mil setecentos e sessenta, varões valentes para a obra do ministério da casa de Deus.
+
+[[v13-9-14]]
+
+^<<v13-9-14,14>>^ E dos levitas; Semaías, filho de Hassube, filho de Azricão, filho de Hasabias, dos filhos de Merari;
+
+[[v13-9-15]]
+
+^<<v13-9-15,15>>^ E Baquebacar, Heres e Galal; e Matanias, filho de Mica, filho de Zicri, filho de Asafe;
+
+[[v13-9-16]]
+
+^<<v13-9-16,16>>^ E Obadias, filho de Semaías, filho de Galal, filho de Jedutum; e Berequias, filho de Asa, filho de Elcana, morador das aldeias dos netofatitas.
+
+[[v13-9-17]]
+
+^<<v13-9-17,17>>^ E foram  porteiros: Salum, e Acube, e Talmom, e Aimã, e seus irmãos, cujo chefe era Salum.
+
+[[v13-9-18]]
+
+^<<v13-9-18,18>>^ E até àquele tempo estavam  de guarda à porta do rei para o oriente; estes foram  os porteiros entre os arraiais dos filhos de Levi.
+
+[[v13-9-19]]
+
+^<<v13-9-19,19>>^ E Salum, filho de Coré, filho de Ebiasafe, filho de Corá, e seus irmãos da casa de seu pai, os coraítas, tinham  cargo da obra do ministério, e eram  guardas dos umbrais do tabernáculo: e seus pais foram  capitães do arraial do Senhor e  guardadores da entrada.
+
+[[v13-9-20]]
+
+^<<v13-9-20,20>>^ E Fineias, filho de Eleazar, dantes era entre eles guia, com o qual era  o Senhor,
+
+[[v13-9-21]]
+
+^<<v13-9-21,21>>^ E  Zacarias, filho de Meselmias, porteiro da porta da tenda da congregação.
+
+[[v13-9-22]]
+
+^<<v13-9-22,22>>^ Todos estes, escolhidos para serem  porteiros dos umbrais, foram  duzentos e doze: e foram estes, segundo as suas aldeias, postos em suas genealogias; e Davi e Samuel, o vidente, os constituíram no seu cargo.
+
+[[v13-9-23]]
+
+^<<v13-9-23,23>>^ Estavam pois eles, e seus filhos, às portas da casa do Senhor, na casa da tenda, junto aos guardas.
+
+[[v13-9-24]]
+
+^<<v13-9-24,24>>^ Os porteiros estavam aos quatro ventos: ao oriente, ao ocidente, ao norte e ao sul.
+
+[[v13-9-25]]
+
+^<<v13-9-25,25>>^ E seus irmãos estavam  nas suas aldeias, e no sétimo dia, de tempo em tempo, entravam a servir  com eles.
+
+[[v13-9-26]]
+
+^<<v13-9-26,26>>^ Porque havia naquele ofício quatro porteiros-mores que eram levitas, e tinham cargo das câmaras e dos tesouros da casa de Deus.
+
+[[v13-9-27]]
+
+^<<v13-9-27,27>>^ E de noite ficavam à roda da casa de Deus, porque a guarda lhes estava encarregada, e tinham cargo de abrir, e isto cada manhã.
+
+[[v13-9-28]]
+
+^<<v13-9-28,28>>^ E alguns  deles tinham cargo dos vasos do ministério, porque por conta os traziam e por conta os tiravam.
+
+[[v13-9-29]]
+
+^<<v13-9-29,29>>^ Porque deles alguns havia  que tinham cargo dos vasos e de todos os vasos sagrados; como também da flor de farinha, e do vinho, e do azeite, e do incenso, e da especiaria.
+
+[[v13-9-30]]
+
+^<<v13-9-30,30>>^ E dos filhos dos sacerdotes eram os obreiros da confecção das especiarias.
+
+[[v13-9-31]]
+
+^<<v13-9-31,31>>^ E Matitias, dentre os levitas, o primogênito de Salum, o coraíta, tinha cargo da obra que se fazia em sertãs.
+
+[[v13-9-32]]
+
+^<<v13-9-32,32>>^ E dos filhos dos coatitas, de seus irmãos houve alguns que  tinham cargo dos pães da proposição, para os prepararem em todos os sábados.
+
+[[v13-9-33]]
+
+^<<v13-9-33,33>>^ Destes foram  também os cantores, cabeças dos pais entre os levitas, habitando nas câmaras isentos de serviços: porque de dia e de noite estava a seu cargo ocuparem-se naquela obra.
+
+[[v13-9-34]]
+
+^<<v13-9-34,34>>^ Estes foram  cabeças dos pais entre os levitas, chefes em suas gerações: estes habitaram em Jerusalém.
+
+[[v13-9-35]]
+
+^<<v13-9-35,35>>^ Porém em Gibeom habitaram Jeiel, pai de Gibeom (e era  o nome de sua mulher Maaca),
+
+[[v13-9-36]]
+
+^<<v13-9-36,36>>^ E seu filho primogênito Abdom: depois Zur, e Quis, e Baal, e Ner, e Nadabe,
+
+[[v13-9-37]]
+
+^<<v13-9-37,37>>^ E Gedor, e Aío, e Zacarias, e Miclote.
+
+[[v13-9-38]]
+
+^<<v13-9-38,38>>^ E Miclote gerou a Simeão: e também estes defronte de seus irmãos, habitaram em Jerusalém com seus irmãos.
+
+[[v13-9-39]]
+
+^<<v13-9-39,39>>^ E Ner gerou a Quis, e Quis gerou a Saul, e Saul gerou a Jônatas e a Malquisua, e a Abinadabe, e a Es-Baal.
+
+[[v13-9-40]]
+
+^<<v13-9-40,40>>^ E filho de Jônatas foi  Meribaal: e Meribaal gerou a Mica.
+
+[[v13-9-41]]
+
+^<<v13-9-41,41>>^ E os filhos de Mica foram  Pitom, e Meleque, e Tareá.
+
+[[v13-9-42]]
+
+^<<v13-9-42,42>>^ E Acaz gerou a Jaera, e Jaera gerou a Alemete, e a Azmavete, e a Zinri: e Zinri gerou a Mosa.
+
+[[v13-9-43]]
+
+^<<v13-9-43,43>>^ E Mosa gerou a Bineá, cujo filho foi  Refaías, cujo filho foi  Elasa, cujo filho foi  Asel.
+
+[[v13-9-44]]
+
+^<<v13-9-44,44>>^ E teve Asel seis filhos, e estes foram  os seus nomes: Azricão, e Bocru, e Ismael, e Seraías, e Obadias, e Hanã: estes foram  os filhos de Asel.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-008.adoc#v13-8-0[&#60; Capítulo Anterior] | <<v13-9-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-010.adoc#v13-10-0[Próximo Capítulo &#62;]

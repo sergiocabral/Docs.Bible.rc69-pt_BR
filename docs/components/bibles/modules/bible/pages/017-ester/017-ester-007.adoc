@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v17-7-0]]
+=== Ester, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v17-7-1]]
+
+^<<v17-7-1,1>>^ VINDO pois o rei com Hamã, para beber com a rainha Ester,
+
+[[v17-7-2]]
+
+^<<v17-7-2,2>>^ Disse também o rei a Ester no segundo dia, no banquete do vinho: Qual é  a tua petição, rainha Ester? E se te dará. E qual é  o teu requerimento? Até metade do reino, se fará.
+
+[[v17-7-3]]
+
+^<<v17-7-3,3>>^ Então respondeu a rainha Ester, e disse: Se, ó rei, achei graça aos teus olhos, e se bem parecer ao rei, dê-se-me a minha vida como minha petição, e o meu povo como meu requerimento.
+
+[[v17-7-4]]
+
+^<<v17-7-4,4>>^ Porque estamos vendidos, eu e o meu povo, para nos  destruírem, matarem, e lançarem a perder; se ainda por servos e por servas nos vendessem, calar-me-ia; ainda que o opressor não recompensaria a perda do rei.
+
+[[v17-7-5]]
+
+^<<v17-7-5,5>>^ Então falou o rei Assuero, e disse à rainha Ester: Quem é esse? E onde está  esse, cujo coração o instigou a fazer assim?
+
+[[v17-7-6]]
+
+^<<v17-7-6,6>>^ E disse Ester: O homem, o opressor, e o inimigo, é este mau Hamã. Então Hamã se perturbou perante o rei e a rainha.
+
+[[v17-7-7]]
+
+^<<v17-7-7,7>>^ E o rei no seu furor se levantou do banquete do vinho para o jardim do palácio; e Hamã se pôs em pé, para rogar à rainha Ester pela sua vida; porque viu que já o mal que lhe era determinado pelo rei.
+
+[[v17-7-8]]
+
+^<<v17-7-8,8>>^ Tornando pois o rei do jardim do palácio à casa do banquete do vinho, Hamã tinha caído prostrado sobre o leito em que estava  Ester. Então disse o rei: Porventura  quereria ele também forçar a rainha perante mim nesta casa? Saindo esta palavra da boca do rei, cobriram a Hamã o rosto.
+
+[[v17-7-9]]
+
+^<<v17-7-9,9>>^ Então disse Harbona, um dos eunucos que serviam  diante do rei: Eis que também a forca de cinquenta côvados de altura que Hamã fizera para Mardoqueu, que falara para bem do rei, está junto à casa de Hamã. Então disse o rei: Enforcai-o nela.
+
+[[v17-7-10]]
+
+^<<v17-7-10,10>>^ Enforcaram pois a Hamã na forca, que ele tinha preparado para Mardoqueu. Então o furor do rei se aplacou.
+
+'''
+
+xref:017-ester/017-ester-006.adoc#v17-6-0[&#60; Capítulo Anterior] | <<v17-7-0,Topo>> | xref:017-ester/017-ester-008.adoc#v17-8-0[Próximo Capítulo &#62;]

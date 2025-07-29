@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v12-20-0]]
+=== 2 Reis, 20
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v12-20-1]]
+
+^<<v12-20-1,1>>^ NAQUELES dias adoeceu Ezequias de morte: e o profeta Isaías, filho de Amós, veio a ele, e lhe disse: Assim diz o Senhor: Ordena a tua casa, porque morrerás e não viverás.
+
+[[v12-20-2]]
+
+^<<v12-20-2,2>>^ Então virou o rosto para a parede, e orou ao Senhor, dizendo:
+
+[[v12-20-3]]
+
+^<<v12-20-3,3>>^ Ah! Senhor! Sê servido de te lembrar de que andei diante de ti em verdade, e com o coração perfeito, e fiz o que era  reto aos teus olhos. E chorou Ezequias muitíssimo.
+
+[[v12-20-4]]
+
+^<<v12-20-4,4>>^ Sucedeu pois que, não havendo Isaías ainda saído do meio do pátio, veio a ele a palavra do Senhor, dizendo:
+
+[[v12-20-5]]
+
+^<<v12-20-5,5>>^ Volta, e dize a Ezequias, chefe do meu povo: Assim diz o Senhor Deus de teu pai Davi: Ouvi a tua oração, e vi as tuas lágrimas; eis que eu te sararei; ao terceiro dia subirás à casa do Senhor.
+
+[[v12-20-6]]
+
+^<<v12-20-6,6>>^ E acrescentarei aos teus dias quinze anos, e das mãos do rei da Assíria te livrarei, a ti  e a esta cidade; e ampararei esta cidade por amor de mim, e por amor de Davi, meu servo.
+
+[[v12-20-7]]
+
+^<<v12-20-7,7>>^ Disse mais Isaías: Tomai uma  pasta de figos. E a  tomaram, e a  puseram sobre a chaga; e ele sarou.
+
+[[v12-20-8]]
+
+^<<v12-20-8,8>>^ E Ezequias disse a Isaías: Qual é  o sinal de que o Senhor me sarará, e de que ao terceiro dia subirei à casa do Senhor?
+
+[[v12-20-9]]
+
+^<<v12-20-9,9>>^ E disse Isaías: Isto te será sinal, da parte do Senhor, de que o Senhor cumprirá a palavra que disse: Adiantar-se-á a sombra dez graus, ou voltará dez graus atrás?
+
+[[v12-20-10]]
+
+^<<v12-20-10,10>>^ Então disse Ezequias: É fácil que a sombra decline dez graus; não, mas volte a sombra dez graus atrás.
+
+[[v12-20-11]]
+
+^<<v12-20-11,11>>^ Então o profeta Isaías clamou ao Senhor; e fez voltar a sombra dez graus atrás, pelos graus que já tinha declinado no relógio de sol  de Acaz.
+
+[[v12-20-12]]
+
+^<<v12-20-12,12>>^ Naquele tempo enviou Berodaque Baladã, filho de Baladã, rei de Babilônia, cartas e um  presente a Ezequias; porque ouvira que Ezequias tinha estado doente.
+
+[[v12-20-13]]
+
+^<<v12-20-13,13>>^ E Ezequias lhes deu ouvidos, e lhes mostrou toda a casa de seu tesouro, a prata, e o ouro, e as especiarias, e os melhores unguentos, e a sua casa de armas, e tudo quanto se achou nos seus tesouros: cousa nenhuma houve que lhes não mostrasse, nem em sua casa, nem em todo o seu domínio.
+
+[[v12-20-14]]
+
+^<<v12-20-14,14>>^ Então o profeta Isaías veio ao rei Ezequias, e lhe disse: Que disseram aqueles homens, e donde vieram a ti? E disse Ezequias: De um país mui remoto vieram, de Babilônia.
+
+[[v12-20-15]]
+
+^<<v12-20-15,15>>^ E disse ele: Que viram em tua casa? E disse Ezequias: Tudo quanto há  em minha casa viram: cousa nenhuma há nos meus tesouros que eu lhes não mostrasse.
+
+[[v12-20-16]]
+
+^<<v12-20-16,16>>^ Então disse Isaías a Ezequias: Ouve a palavra do Senhor.
+
+[[v12-20-17]]
+
+^<<v12-20-17,17>>^ Eis que vêm dias em que tudo quanto houver  em tua casa, e o que entesouraram teus pais até ao dia de  hoje, será levado a Babilônia: não ficará cousa alguma, disse o Senhor.
+
+[[v12-20-18]]
+
+^<<v12-20-18,18>>^ E ainda até  de teus filhos, que procederem de ti, e que tu gerares, tomarão, para que sejam eunucos no paço do rei de Babilônia.
+
+[[v12-20-19]]
+
+^<<v12-20-19,19>>^ Então disse Ezequias a Isaías: Boa é  a palavra do Senhor que disseste. Disse mais: E não haverá pois em meus dias paz e verdade?
+
+[[v12-20-20]]
+
+^<<v12-20-20,20>>^ Ora o mais dos sucessos de Ezequias, e todo o seu poder, e como fez a piscina e o aqueduto, e como  fez vir a água à cidade, porventura  não está  escrito no livro das crônicas dos reis de Judá?
+
+[[v12-20-21]]
+
+^<<v12-20-21,21>>^ E Ezequias dormiu com seus pais: e Manassés, seu filho, reinou em seu lugar.
+
+'''
+
+xref:012-2-reis/012-2-reis-019.adoc#v12-19-0[&#60; Capítulo Anterior] | <<v12-20-0,Topo>> | xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[Próximo Capítulo &#62;]

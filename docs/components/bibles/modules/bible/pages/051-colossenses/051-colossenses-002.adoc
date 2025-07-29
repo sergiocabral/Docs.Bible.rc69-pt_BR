@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v51-2-0]]
+=== Colossenses, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v51-2-1]]
+
+^<<v51-2-1,1>>^ PORQUE quero que saibais quão grande combate tenho por vós, e pelos que estão  em Laodiceia, e por quantos não viram o meu rosto em carne;
+
+[[v51-2-2]]
+
+^<<v51-2-2,2>>^ Para que os seus corações sejam consolados, e estejam unidos em caridade, e enriquecidos da plenitude da inteligência, para conhecimento do mistério de Deus — Cristo,
+
+[[v51-2-3]]
+
+^<<v51-2-3,3>>^ Em quem estão escondidos todos os tesouros da sabedoria e da ciência.
+
+[[v51-2-4]]
+
+^<<v51-2-4,4>>^ E digo isto, para que ninguém vos engane com palavras persuasivas.
+
+[[v51-2-5]]
+
+^<<v51-2-5,5>>^ Porque ainda que esteja ausente quanto ao corpo, contudo em espírito estou convosco, regozijando-me, e vendo a vossa ordem, e a firmeza da vossa fé em Cristo.
+
+[[v51-2-6]]
+
+^<<v51-2-6,6>>^ Como, pois, recebestes o Senhor Jesus Cristo, assim  também andai nele.
+
+[[v51-2-7]]
+
+^<<v51-2-7,7>>^ Arraigados e sobre-edificados nele, e confirmados na fé, assim como fostes ensinados, abundando em ação de graças.
+
+[[v51-2-8]]
+
+^<<v51-2-8,8>>^ Tende cuidado, para que ninguém vos faça presa sua, por meio de filosofias e vãs sutilezas, segundo a tradição dos homens, segundo os rudimentos do mundo, e não segundo Cristo:
+
+[[v51-2-9]]
+
+^<<v51-2-9,9>>^ Porque nele habita corporalmente toda a plenitude da divindade;
+
+[[v51-2-10]]
+
+^<<v51-2-10,10>>^ E estais perfeitos nele, que é a cabeça de todo o principado e potestade;
+
+[[v51-2-11]]
+
+^<<v51-2-11,11>>^ No qual também estais circuncidados com a circuncisão não feita por mão no despojo do corpo da carne: a circuncisão de Cristo;
+
+[[v51-2-12]]
+
+^<<v51-2-12,12>>^ Sepultados com ele no batismo, nele também ressuscitastes pela fé no poder de Deus, que o ressuscitou dos mortos.
+
+[[v51-2-13]]
+
+^<<v51-2-13,13>>^ E, quando vós estáveis mortos nos pecados, e na incircuncisão da vossa carne, vos vivificou juntamente com ele, perdoando-vos todas as ofensas,
+
+[[v51-2-14]]
+
+^<<v51-2-14,14>>^ Havendo riscado a cédula que era contra nós nas suas ordenanças, a qual de alguma maneira nos era contrária, e a tirou do meio de nós , cravando-a na cruz.
+
+[[v51-2-15]]
+
+^<<v51-2-15,15>>^ E, despojando os principados e potestades, os expôs publicamente e deles triunfou em si mesmo.
+
+[[v51-2-16]]
+
+^<<v51-2-16,16>>^ Portanto ninguém vos julgue pelo comer, ou pelo beber ou por causa dos dias  de festa, ou da lua nova, ou dos sábados.
+
+[[v51-2-17]]
+
+^<<v51-2-17,17>>^ Que são sombras das coisas futuras, mas o corpo é  de Cristo.
+
+[[v51-2-18]]
+
+^<<v51-2-18,18>>^ Ninguém vos domine a seu bel-prazer com pretexto de humildade e culto dos anjos, metendo-se em coisas que não viu; estando debalde inchado na sua carnal compreensão,
+
+[[v51-2-19]]
+
+^<<v51-2-19,19>>^ E não ligado à cabeça, da qual todo o corpo, provido e organizado pelas juntas e ligaduras, vai crescendo em aumento de Deus.
+
+[[v51-2-20]]
+
+^<<v51-2-20,20>>^ Se, pois, estais mortos com Cristo quanto aos rudimentos do mundo, por que vos carregam ainda de ordenanças, como se vivêsseis no mundo,
+
+[[v51-2-21]]
+
+^<<v51-2-21,21>>^ Tais como : não toques, não proves, não manuseies?
+
+[[v51-2-22]]
+
+^<<v51-2-22,22>>^ As quais coisas  todas perecem pelo uso, segundo os preceitos e doutrinas dos homens;
+
+[[v51-2-23]]
+
+^<<v51-2-23,23>>^ As quais têm, na verdade, alguma aparência de sabedoria, em devoção voluntária, humildade, e em disciplina do corpo, mas não são de valor algum senão para a satisfação da carne.
+
+'''
+
+xref:051-colossenses/051-colossenses-001.adoc#v51-1-0[&#60; Capítulo Anterior] | <<v51-2-0,Topo>> | xref:051-colossenses/051-colossenses-003.adoc#v51-3-0[Próximo Capítulo &#62;]

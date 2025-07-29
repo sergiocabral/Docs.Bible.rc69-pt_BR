@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v9-13-0]]
+=== 1 Samuel, 13
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-13-1]]
+
+^<<v9-13-1,1>>^ UM ano tinha estado Saul em seu reinado: e o segundo ano reinou sobre Israel.
+
+[[v9-13-2]]
+
+^<<v9-13-2,2>>^ Então Saul escolheu para si três mil de Israel; e estavam com Saul dois mil em Micmas, e na montanha de Betel, e mil estavam com Jônatas em Gibeá de Benjamim: e despediu o resto do povo, cada um para sua casa.
+
+[[v9-13-3]]
+
+^<<v9-13-3,3>>^ E Jônatas feriu a guarnição dos filisteus que estava  em Gibeá, o  que os filisteus ouviram: pelo que Saul tocou a trombeta por toda a terra, dizendo: Ouçam os hebreus.
+
+[[v9-13-4]]
+
+^<<v9-13-4,4>>^ Então todo o Israel ouviu dizer: Saul feriu a guarnição dos filisteus, e também Israel se fez abominável aos filisteus. Então o povo foi convocado após Saul em Gilgal.
+
+[[v9-13-5]]
+
+^<<v9-13-5,5>>^ E os filisteus se ajuntaram para pelejar contra Israel: trinta mil carros, e seis mil cavaleiros, e povo em multidão como a areia que está  à borda do mar; e subiram, e se acamparam em Micmas, ao oriente de Bete-Áven.
+
+[[v9-13-6]]
+
+^<<v9-13-6,6>>^ Vendo pois os homens de Israel que estavam em angústia (porque o povo estava apertado) o povo se escondeu pelas cavernas, e pelos espinhais, e pelos penhascos, e pelas fortificações e pelas covas,
+
+[[v9-13-7]]
+
+^<<v9-13-7,7>>^ E os hebreus passaram o Jordão para a terra de Gade e Gileade: e, estando Saul ainda em Gilgal, todo o povo veio atrás dele tremendo.
+
+[[v9-13-8]]
+
+^<<v9-13-8,8>>^ E esperou sete dias, até ao tempo que Samuel determinara ; não vindo, porém, Samuel a Gilgal, o povo se espalhava dele.
+
+[[v9-13-9]]
+
+^<<v9-13-9,9>>^ Então disse Saul: Trazei-me aqui um holocausto, e ofertas pacíficas. E ofereceu o holocausto.
+
+[[v9-13-10]]
+
+^<<v9-13-10,10>>^ E sucedeu que, acabando ele de oferecer o holocausto, eis que Samuel chegou; e Saul lhe saiu ao encontro, para o saudar.
+
+[[v9-13-11]]
+
+^<<v9-13-11,11>>^ Então disse Samuel: Que fizeste? Disse Saul: Porquanto via que o povo se espalhava de mim, e tu não vinhas nos dias aprazados, e os filisteus já se tinham ajuntado em Micmas,
+
+[[v9-13-12]]
+
+^<<v9-13-12,12>>^ Eu disse: Agora descerão os filisteus sobre mim a Gilgal, e ainda à face do Senhor não orei: e violentei-me, e ofereci holocausto.
+
+[[v9-13-13]]
+
+^<<v9-13-13,13>>^ Então disse Samuel a Saul: Obraste nesciamente, e não guardaste o mandamento que o Senhor teu Deus te ordenou; porque agora o Senhor teria confirmado o teu reino sobre Israel para sempre.
+
+[[v9-13-14]]
+
+^<<v9-13-14,14>>^ Porém agora não subsistirá o teu reino: já tem buscado o Senhor para si um homem segundo o seu coração, e já lhe tem ordenado o Senhor, que seja chefe sobre o seu povo, porquanto não guardaste o que o Senhor te ordenou.
+
+[[v9-13-15]]
+
+^<<v9-13-15,15>>^ Então se levantou Samuel, e subiu de Gilgal a Gibeá de Benjamim: e Saul contou o povo que achou com ele, uns seiscentos varões.
+
+[[v9-13-16]]
+
+^<<v9-13-16,16>>^ E Saul e Jônatas, seu filho, e o povo que se achou com eles, ficaram em Gibeá de Benjamim: porém os filisteus se acamparam em Micmas.
+
+[[v9-13-17]]
+
+^<<v9-13-17,17>>^ E os destruidores saíram do campo dos filisteus em três companhias: uma das companhias voltou pelo caminho de Ofra à terra de Saul:
+
+[[v9-13-18]]
+
+^<<v9-13-18,18>>^ Outra companhia voltou pelo caminho de Betorom: e a outra companhia voltou pelo caminho do termo que olha para o vale Zeboim contra o deserto.
+
+[[v9-13-19]]
+
+^<<v9-13-19,19>>^ E em toda a terra de Israel nem um ferreiro se achava: porque os filisteus tinham dito: Para que os hebreus não façam espada nem lança.
+
+[[v9-13-20]]
+
+^<<v9-13-20,20>>^ Pelo que todo o Israel tinha que descer aos filisteus para amolar cada um a sua relha, e a sua enxada, e o seu machado, e o seu sacho.
+
+[[v9-13-21]]
+
+^<<v9-13-21,21>>^ Tinham porém limas adentadas para os seus sachos, e para as suas enxadas, e para as forquilhas de três dentes, e para os machados, e para consertar as aguilhadas.
+
+[[v9-13-22]]
+
+^<<v9-13-22,22>>^ E sucedeu que, no dia da peleja, se não achou nem espada nem lança na mão de todo o povo que estava  com Saul e com Jônatas: porém acharam-se com Saul e com Jônatas seu filho.
+
+[[v9-13-23]]
+
+^<<v9-13-23,23>>^ E saiu a guarnição dos filisteus ao caminho de Micmas.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-012.adoc#v9-12-0[&#60; Capítulo Anterior] | <<v9-13-0,Topo>> | xref:009-1-samuel/009-1-samuel-014.adoc#v9-14-0[Próximo Capítulo &#62;]

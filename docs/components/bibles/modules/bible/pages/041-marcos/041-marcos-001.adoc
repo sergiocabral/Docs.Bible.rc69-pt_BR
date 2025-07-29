@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v41-1-0]]
+=== Marcos, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v41-1-1]]
+
+^<<v41-1-1,1>>^ PRINCÍPIO do Evangelho de Jesus Cristo, Filho de Deus;
+
+[[v41-1-2]]
+
+^<<v41-1-2,2>>^ Como está escrito no profeta Isaías: Eis que eu envio o meu anjo ante a tua face, o qual preparará o teu caminho diante de ti.
+
+[[v41-1-3]]
+
+^<<v41-1-3,3>>^ Voz do que clama no deserto: Preparai o caminho do Senhor, endireitai as suas veredas.
+
+[[v41-1-4]]
+
+^<<v41-1-4,4>>^ Apareceu João batizando no deserto, e pregando o batismo de arrependimento, para remissão dos pecados.
+
+[[v41-1-5]]
+
+^<<v41-1-5,5>>^ E toda a província da Judeia e os de Jerusalém iam ter com ele; e todos eram batizados por ele no rio Jordão, confessando os seus pecados.
+
+[[v41-1-6]]
+
+^<<v41-1-6,6>>^ E João andava vestido de pelos de camelo, e com um cinto de couro em redor de seus lombos, e comia gafanhotos e mel silvestre.
+
+[[v41-1-7]]
+
+^<<v41-1-7,7>>^ E pregava, dizendo: Após mim vem aquele que é mais forte do que eu, ao qual não sou digno de, abaixando-me, desatar a correia das suas alparcas.
+
+[[v41-1-8]]
+
+^<<v41-1-8,8>>^ Eu, em verdade, tenho-vos batizado com água; ele, porém, vos batizará com o Espírito Santo.
+
+[[v41-1-9]]
+
+^<<v41-1-9,9>>^ E aconteceu naqueles dias que Jesus, tendo ido de Nazaré, da Galileia, foi batizado por João, no Jordão.
+
+[[v41-1-10]]
+
+^<<v41-1-10,10>>^ E, logo que saiu da água, viu os céus abertos, e o Espírito, que como pomba descia sobre ele.
+
+[[v41-1-11]]
+
+^<<v41-1-11,11>>^ E ouviu-se uma voz dos céus, que dizia : Tu és o meu Filho amado em quem me comprazo.
+
+[[v41-1-12]]
+
+^<<v41-1-12,12>>^ E logo o Espírito o impeliu para o deserto.
+
+[[v41-1-13]]
+
+^<<v41-1-13,13>>^ E ali esteve no deserto quarenta dias, tentado por Satanás. E vivia entre as feras, e os anjos o serviam.
+
+[[v41-1-14]]
+
+^<<v41-1-14,14>>^ E, depois que João foi entregue à prisão, veio Jesus para a Galileia, pregando o Evangelho do reino de Deus,
+
+[[v41-1-15]]
+
+^<<v41-1-15,15>>^ E dizendo: O tempo está cumprido, e o reino de Deus está próximo. Arrependei-vos, e crede no Evangelho.
+
+[[v41-1-16]]
+
+^<<v41-1-16,16>>^ E, andando junto do mar da Galileia, viu Simão, e André, seu irmão, que lançavam a rede ao mar, pois eram pescadores.
+
+[[v41-1-17]]
+
+^<<v41-1-17,17>>^ E Jesus lhes disse: Vinde após mim, e eu farei que sejais pescadores de homens.
+
+[[v41-1-18]]
+
+^<<v41-1-18,18>>^ E, deixando logo as suas redes, o seguiram.
+
+[[v41-1-19]]
+
+^<<v41-1-19,19>>^ E, passando dali um pouco mais adiante, viu Tiago, filho  de Zebedeu, e João, seu irmão, que estavam  no barco consertando as redes ,
+
+[[v41-1-20]]
+
+^<<v41-1-20,20>>^ E logo os chamou. E eles, deixando o seu pai Zebedeu no barco com os jornaleiros, foram após ele.
+
+[[v41-1-21]]
+
+^<<v41-1-21,21>>^ Entraram em Capernaum, e, logo no sábado, indo ele à sinagoga, ali ensinava.
+
+[[v41-1-22]]
+
+^<<v41-1-22,22>>^ E maravilharam-se da sua doutrina, porque os ensinava como tendo autoridade, e não como os escribas.
+
+[[v41-1-23]]
+
+^<<v41-1-23,23>>^ E estava na sinagoga deles um homem com um espírito imundo, o qual exclamou, dizendo:
+
+[[v41-1-24]]
+
+^<<v41-1-24,24>>^ Ah! que temos contigo, Jesus nazareno? Vieste destruir-nos? Bem sei quem és: o Santo de Deus.
+
+[[v41-1-25]]
+
+^<<v41-1-25,25>>^ E repreendeu-o Jesus, dizendo: Cala-te, e sai dele.
+
+[[v41-1-26]]
+
+^<<v41-1-26,26>>^ Então o espírito imundo, convulsionando-o, e clamando com grande voz, saiu dele.
+
+[[v41-1-27]]
+
+^<<v41-1-27,27>>^ E todos se admiraram, a ponto de perguntarem entre si, dizendo: Que é isto? que nova doutrina é  esta? pois com autoridade ordena aos espíritos imundos, e eles lhe obedecem!
+
+[[v41-1-28]]
+
+^<<v41-1-28,28>>^ E logo correu a sua fama por toda a província da Galileia.
+
+[[v41-1-29]]
+
+^<<v41-1-29,29>>^ E logo, saindo da sinagoga, foram à casa de Simão e de André com Tiago e João.
+
+[[v41-1-30]]
+
+^<<v41-1-30,30>>^ E a sogra de Simão estava deitada com febre; e logo lhe falaram dela.
+
+[[v41-1-31]]
+
+^<<v41-1-31,31>>^ Então, chegando-se a ela, tomou-a pela mão, e levantou-a; e a febre a deixou, e servia-os.
+
+[[v41-1-32]]
+
+^<<v41-1-32,32>>^ E, tendo chegado a tarde, quando já se estava pondo o sol, trouxeram-lhe todos os que se achavam enfermos, e os endemoninhados.
+
+[[v41-1-33]]
+
+^<<v41-1-33,33>>^ E toda a cidade se ajuntou à porta.
+
+[[v41-1-34]]
+
+^<<v41-1-34,34>>^ E curou muitos que se achavam  enfermos de diversas enfermidades, e expulsou muitos demônios, porém não deixava falar os demônios, porque o conheciam.
+
+[[v41-1-35]]
+
+^<<v41-1-35,35>>^ E, levantando-se de manhã muito cedo, fazendo ainda escuro, saiu, e foi para um lugar deserto, e ali orava.
+
+[[v41-1-36]]
+
+^<<v41-1-36,36>>^ E seguiram-no Simão e os que com ele estavam.
+
+[[v41-1-37]]
+
+^<<v41-1-37,37>>^ E, achando-o, lhe disseram: Todos te buscam.
+
+[[v41-1-38]]
+
+^<<v41-1-38,38>>^ E ele lhes disse: Vamos às aldeias vizinhas, para que eu ali também pregue; porque para isso vim.
+
+[[v41-1-39]]
+
+^<<v41-1-39,39>>^ E pregava nas sinagogas deles por toda a Galileia, e expulsava os demônios.
+
+[[v41-1-40]]
+
+^<<v41-1-40,40>>^ E aproximou-se dele um leproso, que rogando-lhe, e pondo-se de joelhos diante dele, lhe dizia: Se queres, bem podes limpar-me.
+
+[[v41-1-41]]
+
+^<<v41-1-41,41>>^ E Jesus, movido de grande compaixão, estendeu a mão, e tocou-o, e disse-lhe: Quero; sê limpo.
+
+[[v41-1-42]]
+
+^<<v41-1-42,42>>^ E, tendo ele dito isto , logo a lepra desapareceu, e ficou limpo.
+
+[[v41-1-43]]
+
+^<<v41-1-43,43>>^ E, advertindo-o severamente, logo o despediu.
+
+[[v41-1-44]]
+
+^<<v41-1-44,44>>^ E disse-lhe: Olha, não digas nada a ninguém; porém vai, mostra-te ao sacerdote e oferece pela tua purificação o que Moisés determinou, para lhes servir de testemunho.
+
+[[v41-1-45]]
+
+^<<v41-1-45,45>>^ Mas, tendo ele saído, começou a apregoar muitas coisas, e a divulgar o que acontecera; de sorte que Jesus já não podia entrar publicamente na cidade, mas conservava-se fora em lugares desertos; e de todas as partes iam ter com ele.
+
+'''
+
+xref:040-mateus/040-mateus-028.adoc#v40-28-0[&#60; Capítulo Anterior] | <<v41-1-0,Topo>> | xref:041-marcos/041-marcos-002.adoc#v41-2-0[Próximo Capítulo &#62;]

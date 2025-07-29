@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v24-37-0]]
+=== Jeremias, 37
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v24-37-1]]
+
+^<<v24-37-1,1>>^ E REINOU o rei Zedequias, filho de Josias, em lugar de Jeconias, filho de Joaquim, a quem Nabucodonosor, rei de Babilônia, constituiu rei na terra de Judá.
+
+[[v24-37-2]]
+
+^<<v24-37-2,2>>^ Mas nem ele, nem os seus servos, nem o povo da terra deram ouvidos às palavras do Senhor que falou pelo ministério de Jeremias, o profeta.
+
+[[v24-37-3]]
+
+^<<v24-37-3,3>>^ Contudo mandou o rei Zedequias a Jucal, filho de Selemias, e a Sofonias, filho de Maaseias, o sacerdote, ao profeta Jeremias, para lhe dizerem: Roga agora por nós ao Senhor nosso Deus.
+
+[[v24-37-4]]
+
+^<<v24-37-4,4>>^ E entrava e saía Jeremias entre o povo, porque não o tinham encerrado na prisão.
+
+[[v24-37-5]]
+
+^<<v24-37-5,5>>^ E o exército de Faraó saiu do Egito: e, ouvindo os caldeus, que tinham sitiado Jerusalém, esta notícia, retiraram-se de Jerusalém.
+
+[[v24-37-6]]
+
+^<<v24-37-6,6>>^ Então veio a Jeremias, o profeta, a palavra do Senhor, dizendo:
+
+[[v24-37-7]]
+
+^<<v24-37-7,7>>^ Assim diz o Senhor, Deus de Israel: Assim direis ao rei de Judá, que vos enviou a mim, para se informar: Eis que o exército de Faraó, que saiu em vosso socorro, voltará para a sua terra no Egito.
+
+[[v24-37-8]]
+
+^<<v24-37-8,8>>^ E voltarão os caldeus, e pelejarão contra esta cidade, e a tomarão, e a queimarão a fogo.
+
+[[v24-37-9]]
+
+^<<v24-37-9,9>>^ Assim diz o Senhor: Não enganeis as vossas almas, dizendo: Sem dúvida se irão os caldeus de nós: porque não se irão.
+
+[[v24-37-10]]
+
+^<<v24-37-10,10>>^ Porque ainda que ferísseis a todo o exército dos caldeus, que peleja contra vós, e ficassem deles apenas homens traspassados, cada um se levantaria na sua tenda, e queimaria a fogo esta cidade.
+
+[[v24-37-11]]
+
+^<<v24-37-11,11>>^ E sucedeu que, subindo de Jerusalém o exército dos caldeus, por causa do exército de Faraó,
+
+[[v24-37-12]]
+
+^<<v24-37-12,12>>^ Saiu Jeremias de Jerusalém, a fim de ir à terra de Benjamim, para receber a sua parte no meio do povo.
+
+[[v24-37-13]]
+
+^<<v24-37-13,13>>^ E estando ele à porta de Benjamim, achava-se ali um capitão da guarda, cujo nome era Jerias, filho de Selemias, filho de Hananias: o qual prendeu a Jeremias, o profeta, dizendo: Tu foges para os caldeus.
+
+[[v24-37-14]]
+
+^<<v24-37-14,14>>^ E Jeremias disse: Isso  é falso, não fujo para os caldeus. Mas ele não lhe deu ouvidos; e assim Jerias prendeu a Jeremias, e o levou aos príncipes.
+
+[[v24-37-15]]
+
+^<<v24-37-15,15>>^ E os príncipes se iraram muito contra Jeremias, e o feriram; e o puseram na prisão, na casa de Jonatã, o escrivão; porque a tinham transformado em cárcere.
+
+[[v24-37-16]]
+
+^<<v24-37-16,16>>^ Entrando pois  Jeremias na casa do calabouço, e nas suas  celas, ficou ali Jeremias muitos dias.
+
+[[v24-37-17]]
+
+^<<v24-37-17,17>>^ E mandou o rei Zedequias soltá-lo e o rei lhe perguntou em sua casa, em segredo, dizendo: Há alguma palavra do Senhor? E disse Jeremias: Há. E disse ainda: Na mão do rei de Babilônia serás entregue.
+
+[[v24-37-18]]
+
+^<<v24-37-18,18>>^ Disse mais Jeremias ao rei Zedequias: Em que tenho pecado contra ti, e contra os teus servos, e contra este povo, para que me pusésseis na prisão?
+
+[[v24-37-19]]
+
+^<<v24-37-19,19>>^ Onde estão  agora os vossos profetas, que vos profetizavam, dizendo: O rei de Babilônia não virá contra vós nem contra esta terra?
+
+[[v24-37-20]]
+
+^<<v24-37-20,20>>^ Ora pois ouve agora, ó rei, meu senhor: caia agora a minha súplica diante de ti, não me deixes tornar à casa de Jonatã, o escriba, para que não venha a morrer ali.
+
+[[v24-37-21]]
+
+^<<v24-37-21,21>>^ Então ordenou o rei Zedequias que pusessem a Jeremias no átrio da guarda; e deram-lhe um  bolo de pão cada dia, da rua dos padeiros, até que se acabou todo o pão da cidade: assim ficou Jeremias no átrio da guarda.
+
+'''
+
+xref:024-jeremias/024-jeremias-036.adoc#v24-36-0[&#60; Capítulo Anterior] | <<v24-37-0,Topo>> | xref:024-jeremias/024-jeremias-038.adoc#v24-38-0[Próximo Capítulo &#62;]

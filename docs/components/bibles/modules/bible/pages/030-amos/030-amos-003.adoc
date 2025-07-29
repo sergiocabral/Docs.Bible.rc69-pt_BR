@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v30-3-0]]
+=== Amós, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v30-3-1]]
+
+^<<v30-3-1,1>>^ OUVI esta palavra que o Senhor fala contra vós, filhos de Israel, contra toda a geração que fiz subir da terra do Egito, dizendo:
+
+[[v30-3-2]]
+
+^<<v30-3-2,2>>^ De todas as famílias da terra a vós somente conheci; portanto, todas as vossas injustiças visitarei sobre vós.
+
+[[v30-3-3]]
+
+^<<v30-3-3,3>>^ Andarão dois juntos, se não estiverem de acordo?
+
+[[v30-3-4]]
+
+^<<v30-3-4,4>>^ Bramirá o leão no bosque, sem que tenha presa? levantará o leãozinho no covil a sua voz, se nada tiver apanhado?
+
+[[v30-3-5]]
+
+^<<v30-3-5,5>>^ Cairá a ave no laço em terra, se não houver laço para ela? levantar-se-á o laço da terra, sem que tenha apanhado alguma cousa?
+
+[[v30-3-6]]
+
+^<<v30-3-6,6>>^ Tocar-se-á a buzina na cidade, e o povo não estremecerá? Sucederá qualquer mal à cidade, e o Senhor não o terá feito?
+
+[[v30-3-7]]
+
+^<<v30-3-7,7>>^ Certamente o Senhor Jeová  não fará cousa alguma, sem ter revelado o seu segredo aos seus servos, os profetas.
+
+[[v30-3-8]]
+
+^<<v30-3-8,8>>^ Bramiu o leão, quem não temerá? Falou o Senhor Jeová , quem não profetizará?
+
+[[v30-3-9]]
+
+^<<v30-3-9,9>>^ Fazei ouvir isto nos palácios de Asdode, e nos palácios da terra do Egito, e dizei: Ajuntai-vos sobre os montes de Samaria, e vede os grandes alvoroços no meio dela, e os oprimidos dentro dela.
+
+[[v30-3-10]]
+
+^<<v30-3-10,10>>^ Porque não sabem fazer o que é  reto, diz o Senhor, entesourando nos seus palácios a violência e a destruição.
+
+[[v30-3-11]]
+
+^<<v30-3-11,11>>^ Portanto, o Senhor Jeová  diz assim: Um inimigo surgirá , e cercará a tua terra, derribará a tua fortaleza, e os teus palácios serão saqueados.
+
+[[v30-3-12]]
+
+^<<v30-3-12,12>>^ Assim diz o Senhor: Como o pastor livra da boca do leão as duas pernas, ou um pedacinho da orelha, assim serão livrados os filhos de Israel, que habitam em Samaria, no canto da liteira, e na barra do leito.
+
+[[v30-3-13]]
+
+^<<v30-3-13,13>>^ Ouvi, e protestai contra a casa de Jacó, diz o Senhor Jeová , o Deus dos Exércitos:
+
+[[v30-3-14]]
+
+^<<v30-3-14,14>>^ No dia em que eu visitar as transgressões de Israel sobre ele, também visitarei os altares de Betel: e os cornos do altar serão cortados, e cairão por terra.
+
+[[v30-3-15]]
+
+^<<v30-3-15,15>>^ E derribarei a casa de inverno com a casa de verão; e as casas de marfim perecerão, e as grandes casas terão fim, diz o Senhor.
+
+'''
+
+xref:030-amos/030-amos-002.adoc#v30-2-0[&#60; Capítulo Anterior] | <<v30-3-0,Topo>> | xref:030-amos/030-amos-004.adoc#v30-4-0[Próximo Capítulo &#62;]

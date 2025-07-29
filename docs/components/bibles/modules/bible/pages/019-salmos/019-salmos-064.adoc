@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-64-0]]
+=== Salmos, 64
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-64-1]]
+
+^<<v19-64-1,1>>^ OUVE, ó Deus, a minha voz na minha oração: livra a minha vida do horror do inimigo.
+
+[[v19-64-2]]
+
+^<<v19-64-2,2>>^ Esconde-me do secreto conselho dos maus, e do tumulto dos que praticam a iniquidade.
+
+[[v19-64-3]]
+
+^<<v19-64-3,3>>^ Os quais afiaram as suas línguas como espadas; e  armaram por  suas frechas palavras amargas,
+
+[[v19-64-4]]
+
+^<<v19-64-4,4>>^ Para de lugares ocultos atirarem sobre o que  é reto; disparam sobre ele repentinamente, e não temem.
+
+[[v19-64-5]]
+
+^<<v19-64-5,5>>^ Firmam-se em mau intento; falam de armar laços secretamente, e  dizem: Quem os verá?
+
+[[v19-64-6]]
+
+^<<v19-64-6,6>>^ Fazem indagações maliciosas, inquirem tudo o que se pode inquirir; até o íntimo de cada um, e o profundo coração.
+
+[[v19-64-7]]
+
+^<<v19-64-7,7>>^ Mas Deus disparará sobre eles uma seta, e  de repente ficarão feridos.
+
+[[v19-64-8]]
+
+^<<v19-64-8,8>>^ Assim eles farão com que as suas línguas se voltem contra si mesmos; todos aqueles que os virem, fugirão.
+
+[[v19-64-9]]
+
+^<<v19-64-9,9>>^ E todos os homens temerão, e anunciarão a obra de Deus; e considerarão prudentemente os seus feitos.
+
+[[v19-64-10]]
+
+^<<v19-64-10,10>>^ O justo se alegrará no Senhor, e confiará nele, e todos os retos de coração se regozijarão.
+
+'''
+
+xref:019-salmos/019-salmos-063.adoc#v19-63-0[&#60; Capítulo Anterior] | <<v19-64-0,Topo>> | xref:019-salmos/019-salmos-065.adoc#v19-65-0[Próximo Capítulo &#62;]

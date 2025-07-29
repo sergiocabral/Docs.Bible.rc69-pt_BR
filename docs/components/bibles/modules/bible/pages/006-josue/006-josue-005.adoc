@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v6-5-0]]
+=== Josué, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-5-1]]
+
+^<<v6-5-1,1>>^ E SUCEDEU que , ouvindo todos os reis dos amorreus, que habitavam  desta banda do Jordão, ao ocidente, e todos os reis dos cananeus, que estavam  ao pé do mar, que o Senhor tinha secado as águas do Jordão, de diante dos filhos de Israel, até que passamos, derreteu-se-lhes o coração, e não houve mais ânimo neles, por causa dos filhos de Israel.
+
+[[v6-5-2]]
+
+^<<v6-5-2,2>>^ Naquele tempo disse o Senhor a Josué: Faze facas de pedra, e torna a circuncidar segunda vez aos filhos de Israel.
+
+[[v6-5-3]]
+
+^<<v6-5-3,3>>^ Então Josué fez para si facas de pedra, e circuncidou aos filhos de Israel no monte dos prepúcios.
+
+[[v6-5-4]]
+
+^<<v6-5-4,4>>^ E foi  esta a causa por que Josué os circuncidou: todo o povo que tinha saído do Egito, os varões, todos os homens de guerra, eram já mortos no deserto, pelo caminho, depois que saíram do Egito.
+
+[[v6-5-5]]
+
+^<<v6-5-5,5>>^ Porque todo o povo que saíra estava circuncidado, mas a nenhum do povo que nascera no deserto, pelo caminho, depois de terem saído do Egito, haviam circuncidado.
+
+[[v6-5-6]]
+
+^<<v6-5-6,6>>^ Porque quarenta anos andaram os filhos de Israel pelo deserto, até se acabar toda a nação, os homens de guerra, que saíram do Egito, que não obedeceram à voz do Senhor: aos quais o Senhor tinha jurado que lhes não havia de deixar ver a terra que o Senhor jurara a seus pais dar-nos; terra que mana leite e mel.
+
+[[v6-5-7]]
+
+^<<v6-5-7,7>>^ Porém em seu lugar pôs a seus filhos; a estes Josué circuncidou: porquanto estavam incircuncisos, porque os não circuncidaram no caminho.
+
+[[v6-5-8]]
+
+^<<v6-5-8,8>>^ E aconteceu que , acabando de circuncidar a toda a nação, ficaram no seu lugar no arraial, até que sararam.
+
+[[v6-5-9]]
+
+^<<v6-5-9,9>>^ Disse mais o Senhor a Josué: Hoje revolvi de sobre vós o opróbrio do Egito; pelo que o nome daquele lugar se chamou Gilgal, até ao dia de  hoje.
+
+[[v6-5-10]]
+
+^<<v6-5-10,10>>^ Estando pois os filhos de Israel alojados em Gilgal, celebraram a páscoa no dia catorze do mês, à tarde, nas campinas de Jericó.
+
+[[v6-5-11]]
+
+^<<v6-5-11,11>>^ E comeram do trigo da terra do ano antecedente, ao outro dia depois da páscoa, pães asmos e espigas  tostadas, no mesmo dia.
+
+[[v6-5-12]]
+
+^<<v6-5-12,12>>^ E cessou o maná no dia seguinte, depois que comeram do trigo da terra do ano antecedente; e os filhos de Israel não tiveram mais maná: porém no mesmo ano comeram das novidades da terra de Canaã.
+
+[[v6-5-13]]
+
+^<<v6-5-13,13>>^ E sucedeu que , estando Josué ao pé de Jericó, levantou os seus olhos, e olhou; e eis que se pôs em pé diante dele um homem que tinha na mão uma espada nua: e chegou-se Josué a ele, e disse-lhe: És  tu dos nossos, ou dos nossos inimigos?
+
+[[v6-5-14]]
+
+^<<v6-5-14,14>>^ E disse ele: Não, mas venho agora como  príncipe do exército do Senhor. Então Josué se prostrou sobre o seu rosto na terra, e o adorou, e disse-lhe: Que diz meu Senhor ao seu servo?
+
+[[v6-5-15]]
+
+^<<v6-5-15,15>>^ Então disse o príncipe do exército do Senhor a Josué: Descalça os sapatos de teus pés, porque o lugar em que estás é  santo. E fez Josué assim.
+
+'''
+
+xref:006-josue/006-josue-004.adoc#v6-4-0[&#60; Capítulo Anterior] | <<v6-5-0,Topo>> | xref:006-josue/006-josue-006.adoc#v6-6-0[Próximo Capítulo &#62;]

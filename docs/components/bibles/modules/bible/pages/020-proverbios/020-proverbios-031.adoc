@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v20-31-0]]
+=== Provérbios, 31
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-31-1]]
+
+^<<v20-31-1,1>>^ PALAVRAS do rei Lemuel: a profecia que lhe ensinou sua mãe.
+
+[[v20-31-2]]
+
+^<<v20-31-2,2>>^ Como, filho meu? e como, ó filho do meu ventre? e como, ó filho das minhas promessas?
+
+[[v20-31-3]]
+
+^<<v20-31-3,3>>^ Não dês às mulheres a tua força, nem os teus caminhos ao que destrói os reis.
+
+[[v20-31-4]]
+
+^<<v20-31-4,4>>^ Não é  próprio dos reis, ó Lemuel, não é  próprio dos reis beber vinho, nem dos príncipes desejar  bebida forte.
+
+[[v20-31-5]]
+
+^<<v20-31-5,5>>^ Para que não bebam, e se esqueçam do estatuto, e pervertam o juízo de todos os aflitos.
+
+[[v20-31-6]]
+
+^<<v20-31-6,6>>^ Dai bebida forte aos que perecem, e o vinho aos amargosos de espírito;
+
+[[v20-31-7]]
+
+^<<v20-31-7,7>>^ Para que bebam, e se esqueçam da sua pobreza, e do seu trabalho não se lembrem mais.
+
+[[v20-31-8]]
+
+^<<v20-31-8,8>>^ Abre a tua boca a favor do mudo, pelo direito de todos os que se acham em desolação.
+
+[[v20-31-9]]
+
+^<<v20-31-9,9>>^ Abre a tua boca; julga retamente; e faze justiça aos pobres e aos necessitados.
+
+[[v20-31-10]]
+
+^<<v20-31-10,10>>^ Álefe.  Mulher virtuosa quem a achará? o seu valor muito excede o de rubins.
+
+[[v20-31-11]]
+
+^<<v20-31-11,11>>^ Bete.  O coração do seu marido está nela confiado, e a ela nenhuma fazenda faltará.
+
+[[v20-31-12]]
+
+^<<v20-31-12,12>>^ Guímel.  Ela lhe faz bem, e não mal, todos os dias da sua vida.
+
+[[v20-31-13]]
+
+^<<v20-31-13,13>>^ Dálete.  Busca lã e linho, e trabalha de boa vontade com as suas mãos.
+
+[[v20-31-14]]
+
+^<<v20-31-14,14>>^ Hê.  É como o navio mercante: de longe traz o seu pão.
+
+[[v20-31-15]]
+
+^<<v20-31-15,15>>^ Vau.  Ainda de noite se levanta, e dá mantimento à sua casa, e a tarefa às suas servas.
+
+[[v20-31-16]]
+
+^<<v20-31-16,16>>^ Zaine.  Examina uma  herdade, e adquire-a: planta uma  vinha com o fruto de suas mãos.
+
+[[v20-31-17]]
+
+^<<v20-31-17,17>>^ Hete.  Cinge os seus lombos de força, e fortalece os seus braços.
+
+[[v20-31-18]]
+
+^<<v20-31-18,18>>^ Tete.  Prova e vê  que é  boa sua mercadoria; e  a sua lâmpada não se apaga de noite.
+
+[[v20-31-19]]
+
+^<<v20-31-19,19>>^ Jode.  Estende as suas mãos ao fuso, e as palmas das suas mãos pegam na roca.
+
+[[v20-31-20]]
+
+^<<v20-31-20,20>>^ Cafe.  Abre a sua mão ao aflito; e ao necessitado estende as suas mãos.
+
+[[v20-31-21]]
+
+^<<v20-31-21,21>>^ Lâmede.  Não temerá, por causa da neve, porque toda a sua casa anda forrada de roupa dobrada.
+
+[[v20-31-22]]
+
+^<<v20-31-22,22>>^ Meme.  Faz para si tapeçaria; de linho fino e de púrpura é o seu vestido.
+
+[[v20-31-23]]
+
+^<<v20-31-23,23>>^ Num.  Conhece-se o seu marido nas portas, quando se assenta com os anciãos da terra.
+
+[[v20-31-24]]
+
+^<<v20-31-24,24>>^ Sâmeque.  Faz panos de linho fino, e vende-os e dá cintas aos mercadores.
+
+[[v20-31-25]]
+
+^<<v20-31-25,25>>^ Aim.  A força e a glória são os seus vestidos, e ri-se do dia futuro.
+
+[[v20-31-26]]
+
+^<<v20-31-26,26>>^ Pê.  Abre a sua boca com sabedoria, e a lei da beneficência está  na sua língua.
+
+[[v20-31-27]]
+
+^<<v20-31-27,27>>^ Tsadê.  Olha pelo governo de sua casa, e não come o pão da preguiça.
+
+[[v20-31-28]]
+
+^<<v20-31-28,28>>^ Cofe.  Levantam-se seus filhos, e chamam-na bem-aventurada; como também  seu marido, que a louva, dizendo :
+
+[[v20-31-29]]
+
+^<<v20-31-29,29>>^ Rexe.  Muitas filhas obraram virtuosamente; mas tu a todas és superior.
+
+[[v20-31-30]]
+
+^<<v20-31-30,30>>^ Chim.  Enganosa é  a graça e vaidade a formosura, mas  a mulher que teme ao Senhor, essa será louvada.
+
+[[v20-31-31]]
+
+^<<v20-31-31,31>>^ Tau.  Dai-lhe do fruto das suas mãos, e louvem-na nas portas as suas obras.
+
+'''
+
+xref:020-proverbios/020-proverbios-030.adoc#v20-30-0[&#60; Capítulo Anterior] | <<v20-31-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-001.adoc#v21-1-0[Próximo Capítulo &#62;]

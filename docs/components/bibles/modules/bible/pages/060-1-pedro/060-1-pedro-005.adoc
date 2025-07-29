@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v60-5-0]]
+=== 1 Pedro, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v60-5-1]]
+
+^<<v60-5-1,1>>^ AOS presbíteros, que estão entre vós, admoesto eu, que sou também presbítero com eles, e testemunha das aflições de Cristo, e participante da glória que se há de revelar:
+
+[[v60-5-2]]
+
+^<<v60-5-2,2>>^ Apascentai o rebanho de Deus, que está entre vós, tendo cuidado dele , não por força, mas voluntariamente: nem por torpe ganância, mas de ânimo pronto;
+
+[[v60-5-3]]
+
+^<<v60-5-3,3>>^ Nem como tendo domínio sobre a herança de Deus, mas servindo de exemplo ao rebanho.
+
+[[v60-5-4]]
+
+^<<v60-5-4,4>>^ E, quando aparecer o Sumo Pastor, alcançareis a incorruptível coroa de glória.
+
+[[v60-5-5]]
+
+^<<v60-5-5,5>>^ Semelhantemente vós, mancebos, sede sujeitos aos anciãos; e sede todos sujeitos uns aos outros, e revesti-vos de humildade, porque Deus resiste aos soberbos, mas dá graça aos humildes.
+
+[[v60-5-6]]
+
+^<<v60-5-6,6>>^ Humilhai-vos pois debaixo da potente mão de Deus, para que a seu tempo vos exalte;
+
+[[v60-5-7]]
+
+^<<v60-5-7,7>>^ Lançando sobre ele toda a vossa ansiedade, porque ele tem cuidado de vós.
+
+[[v60-5-8]]
+
+^<<v60-5-8,8>>^ Sede sóbrios; vigiai; porque o diabo, vosso adversário, anda em derredor, bramando como leão, buscando a quem possa tragar.
+
+[[v60-5-9]]
+
+^<<v60-5-9,9>>^ Ao qual resisti firmes na fé: sabendo que as mesmas aflições se cumprem entre os vossos irmãos no mundo.
+
+[[v60-5-10]]
+
+^<<v60-5-10,10>>^ E o Deus de toda a graça, que em Cristo Jesus vos chamou à sua eterna glória, depois de haverdes padecido um pouco, Ele mesmo vos aperfeiçoará, confirmará, fortificará e fortalecerá.
+
+[[v60-5-11]]
+
+^<<v60-5-11,11>>^ A ele seja  a glória e o poderio para todo o sempre. Amém.
+
+[[v60-5-12]]
+
+^<<v60-5-12,12>>^ Por Silvano, vosso fiel irmão, como cuido, escrevi abreviadamente, exortando e testificando que esta é a verdadeira graça de Deus, na qual estais firmes.
+
+[[v60-5-13]]
+
+^<<v60-5-13,13>>^ A vossa coeleita em Babilônia vos saúda, e meu filho Marcos.
+
+[[v60-5-14]]
+
+^<<v60-5-14,14>>^ Saudai-vos uns aos outros com ósculo de caridade. Paz seja com todos vós que estais em Cristo Jesus. Amém.
+
+'''
+
+xref:060-1-pedro/060-1-pedro-004.adoc#v60-4-0[&#60; Capítulo Anterior] | <<v60-5-0,Topo>> | xref:061-2-pedro/061-2-pedro-001.adoc#v61-1-0[Próximo Capítulo &#62;]

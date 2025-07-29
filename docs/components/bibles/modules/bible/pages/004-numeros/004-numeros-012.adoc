@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v4-12-0]]
+=== Números, 12
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-12-1]]
+
+^<<v4-12-1,1>>^ E FALARAM Miriã e Aarão contra Moisés, por causa da mulher cusita, que tomara: porquanto tinha tomado a mulher cusita.
+
+[[v4-12-2]]
+
+^<<v4-12-2,2>>^ E disseram: Porventura falou o Senhor somente por Moisés? não falou também por nós? E o Senhor o ouviu.
+
+[[v4-12-3]]
+
+^<<v4-12-3,3>>^ E era  o varão Moisés mui manso, mais do que todos os homens que havia  sobre a terra.
+
+[[v4-12-4]]
+
+^<<v4-12-4,4>>^ E logo o Senhor disse a Moisés, e a Aarão, e a Miriã: Vós três saí à tenda da congregação. E saíram eles três.
+
+[[v4-12-5]]
+
+^<<v4-12-5,5>>^ Então o Senhor desceu na coluna da nuvem, e se pôs à porta da tenda: depois chamou a Aarão e a Miriã, e eles saíram ambos.
+
+[[v4-12-6]]
+
+^<<v4-12-6,6>>^ E disse: Ouvi agora as minhas palavras; se entre  vós houver profeta, eu, o Senhor, em visão a ele me farei conhecer, ou  em sonhos falarei com ele.
+
+[[v4-12-7]]
+
+^<<v4-12-7,7>>^ Não é  assim com o meu servo Moisés que é  fiel em toda a minha casa.
+
+[[v4-12-8]]
+
+^<<v4-12-8,8>>^ Boca a boca falo com ele, e de  vista, e não por figuras; pois, ele vê a semelhança do Senhor: por que pois não tivestes temor de falar contra o meu servo, contra Moisés?
+
+[[v4-12-9]]
+
+^<<v4-12-9,9>>^ Assim a ira do Senhor contra eles se acendeu; e foi-se.
+
+[[v4-12-10]]
+
+^<<v4-12-10,10>>^ E a nuvem se desviou de sobre a tenda; e eis que Miriã era  leprosa como a neve: e olhou Aarão para Miriã, e eis que era  leprosa.
+
+[[v4-12-11]]
+
+^<<v4-12-11,11>>^ Pelo que Aarão disse a Moisés: Ah! senhor meu, ora não ponhas sobre nós este pecado, que fizemos loucamente, e com  que havemos pecado.
+
+[[v4-12-12]]
+
+^<<v4-12-12,12>>^ Ora não seja ela como um morto, que saindo do ventre de sua mãe, tenha metade da sua carne já consumida.
+
+[[v4-12-13]]
+
+^<<v4-12-13,13>>^ Clamou pois Moisés ao Senhor, dizendo: Ó Deus, rogo-te que a cures.
+
+[[v4-12-14]]
+
+^<<v4-12-14,14>>^ E disse o Senhor a Moisés: Se seu pai cuspira em seu rosto, não seria envergonhada sete dias? esteja fechada sete dias fora do arraial, e depois a recolham.
+
+[[v4-12-15]]
+
+^<<v4-12-15,15>>^ Assim Miriã esteve fechada fora do arraial sete dias, e o povo não partiu, até que recolheram a Miriã.
+
+[[v4-12-16]]
+
+^<<v4-12-16,16>>^ Porém depois o povo partiu de Hazerote; e assentaram o arraial no deserto de Parã.
+
+'''
+
+xref:004-numeros/004-numeros-011.adoc#v4-11-0[&#60; Capítulo Anterior] | <<v4-12-0,Topo>> | xref:004-numeros/004-numeros-013.adoc#v4-13-0[Próximo Capítulo &#62;]

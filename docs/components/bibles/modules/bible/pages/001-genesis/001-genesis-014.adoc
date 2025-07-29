@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v1-14-0]]
+=== Gênesis, 14
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-14-1]]
+
+^<<v1-14-1,1>>^ E ACONTECEU nos dias de Anrafel, rei de Sinear, Arioque, rei de Elasar, Quedorlaomer, rei de Elão, e Tidal, rei de Goim.
+
+[[v1-14-2]]
+
+^<<v1-14-2,2>>^ Que estes  fizeram guerra a Bera, rei de Sodoma, a Birsa, rei de Gomorra, a Sinabe, rei de Admá e a Semeber, rei de Zeboim e ao rei de Bela (esta é Zoar).
+
+[[v1-14-3]]
+
+^<<v1-14-3,3>>^ Todos estes se ajuntaram no vale de Sidim (que é o mar de sal).
+
+[[v1-14-4]]
+
+^<<v1-14-4,4>>^ Doze anos haviam servido a Quedorlaomer, mas ao décimo terceiro ano rebelaram-se.
+
+[[v1-14-5]]
+
+^<<v1-14-5,5>>^ E ao décimo quarto ano veio Quedorlaomer, e os reis que estavam com ele, e feriram aos Refains em Asterotecarnaim, e aos zuzins em Hão, e aos emins em Savé-Quiriataim,
+
+[[v1-14-6]]
+
+^<<v1-14-6,6>>^ E aos horeus no seu monte Seir, até à campina de Parã, que está  junto ao deserto.
+
+[[v1-14-7]]
+
+^<<v1-14-7,7>>^ Depois tornaram, e vieram a Emispate (que é Cades), e feriram toda a terra dos amalequitas, e também os amorreus, que habitavam em Hazazontamar.
+
+[[v1-14-8]]
+
+^<<v1-14-8,8>>^ Então saiu o rei de Sodoma, e o rei de Gomorra, e o rei de Admá, e o rei de Zeboim, e o rei de Bela (esta é Zoar), e ordenaram batalha contra eles no vale de Sidim,
+
+[[v1-14-9]]
+
+^<<v1-14-9,9>>^ Contra Quedorlaomer, rei de Elão, e Tidal, rei de Goim, e Anrafel, rei de Sinear, e Arioque, rei de Elasar; quatro reis contra cinco.
+
+[[v1-14-10]]
+
+^<<v1-14-10,10>>^ E o vale de Sidim estava cheio de poços de betume; e fugiram os reis de Sodoma, e de Gomorra, e caíram ali; e os restantes fugiram para um monte.
+
+[[v1-14-11]]
+
+^<<v1-14-11,11>>^ E tomaram toda a fazenda de Sodoma, e de Gomorra, e todo o seu mantimento, e foram-se.
+
+[[v1-14-12]]
+
+^<<v1-14-12,12>>^ Também tomaram a Ló, que habitava em Sodoma, filho do irmão de Abrão e a sua fazenda, e foram-se.
+
+[[v1-14-13]]
+
+^<<v1-14-13,13>>^ Então veio um que escapara, e o contou a Abrão, o hebreu; ele habitava junto dos carvalhais de Manre, o amorreu, irmão de Escol, e irmão de Aner; eles eram confederados de Abrão.
+
+[[v1-14-14]]
+
+^<<v1-14-14,14>>^ Ouvindo pois Abrão que o seu irmão estava preso, armou os seus criados, nascidos em sua casa, trezentos e dezoito, e os perseguiu até Dã.
+
+[[v1-14-15]]
+
+^<<v1-14-15,15>>^ E dividiu-se contra eles de noite, ele e os seus criados, e os feriu, e os perseguiu até Hoba, que fica  à esquerda de Damasco.
+
+[[v1-14-16]]
+
+^<<v1-14-16,16>>^ E tornou a trazer toda a fazenda, e tornou a trazer também a Ló, seu irmão, e a sua fazenda, e também as mulheres e o povo.
+
+[[v1-14-17]]
+
+^<<v1-14-17,17>>^ E o rei de Sodoma saiu-lhes ao encontro (depois que voltou de ferir a Quedorlaomer e aos reis que estavam  com ele) no vale de Savé, que é  o vale do rei.
+
+[[v1-14-18]]
+
+^<<v1-14-18,18>>^ E Melquisedeque, rei de Salém, trouxe pão e vinho; e era  este sacerdote do Deus Altíssimo.
+
+[[v1-14-19]]
+
+^<<v1-14-19,19>>^ E abençoou-o, e disse: Bendito seja  Abrão do Deus Altíssimo, o Possuidor dos céus e da terra;
+
+[[v1-14-20]]
+
+^<<v1-14-20,20>>^ E bendito seja  o Deus Altíssimo, que entregou os teus inimigos nas tuas mãos. E deu-lhe o dízimo de tudo.
+
+[[v1-14-21]]
+
+^<<v1-14-21,21>>^ E o rei de Sodoma disse a Abrão: Dá-me a mim as almas, e a fazenda toma para ti.
+
+[[v1-14-22]]
+
+^<<v1-14-22,22>>^ Abrão, porém, disse ao rei de Sodoma: Levantei minha mão ao Senhor, o Deus Altíssimo, o Possuidor dos céus e da terra,
+
+[[v1-14-23]]
+
+^<<v1-14-23,23>>^ Que desde um fio até à correia, dum sapato, não tomarei  cousa alguma de tudo o que é  teu; para que não digas: Eu enriqueci a Abrão;
+
+[[v1-14-24]]
+
+^<<v1-14-24,24>>^ Salvo tão  somente o que os mancebos comeram, e a parte que toca  aos varões que comigo foram, Aner, Escol, e Manre; estes que tomem a sua parte.
+
+'''
+
+xref:001-genesis/001-genesis-013.adoc#v1-13-0[&#60; Capítulo Anterior] | <<v1-14-0,Topo>> | xref:001-genesis/001-genesis-015.adoc#v1-15-0[Próximo Capítulo &#62;]

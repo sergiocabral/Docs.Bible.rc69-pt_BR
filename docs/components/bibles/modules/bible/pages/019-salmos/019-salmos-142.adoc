@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-142-0]]
+=== Salmos, 142
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-142-1]]
+
+^<<v19-142-1,1>>^ COM a minha voz clamei ao Senhor; com a minha voz ao Senhor supliquei.
+
+[[v19-142-2]]
+
+^<<v19-142-2,2>>^ Derramei a minha queixa perante a sua face; expus-lhe a minha angústia.
+
+[[v19-142-3]]
+
+^<<v19-142-3,3>>^ Quando o meu espírito estava angustiado em mim, então conheceste a minha vereda: no caminho em que eu andava, ocultaram um  laço.
+
+[[v19-142-4]]
+
+^<<v19-142-4,4>>^ Olhei para a minha  direita, e vi; mas não havia  quem me conhecesse: refúgio me faltou; ninguém cuidou da minha alma.
+
+[[v19-142-5]]
+
+^<<v19-142-5,5>>^ A ti, ó Senhor, clamei; eu disse: Tu és  o meu refúgio, e  a minha porção na terra dos viventes.
+
+[[v19-142-6]]
+
+^<<v19-142-6,6>>^ Atende ao meu clamor, porque estou muito abatido: livra-me dos meus perseguidores, porque são mais fortes do que eu.
+
+[[v19-142-7]]
+
+^<<v19-142-7,7>>^ Tira a minha alma da prisão, para que louve o teu nome; os justos me rodearão, pois me fizeste bem.
+
+'''
+
+xref:019-salmos/019-salmos-141.adoc#v19-141-0[&#60; Capítulo Anterior] | <<v19-142-0,Topo>> | xref:019-salmos/019-salmos-143.adoc#v19-143-0[Próximo Capítulo &#62;]

@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-6-0]]
+=== Isaías, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-6-1]]
+
+^<<v23-6-1,1>>^ NO ano em que morreu o rei Uzias, eu vi ao Senhor assentado sobre um alto e sublime trono; e o seu séquito enchia o templo.
+
+[[v23-6-2]]
+
+^<<v23-6-2,2>>^ Os serafins estavam acima dele; cada um tinha seis asas: com duas cobriam os seus rostos, e com duas cobriam os seus pés e com duas voavam.
+
+[[v23-6-3]]
+
+^<<v23-6-3,3>>^ E clamavam uns para os outros, dizendo: Santo, Santo, Santo é  o Senhor dos Exércitos: toda a terra está  cheia da sua glória.
+
+[[v23-6-4]]
+
+^<<v23-6-4,4>>^ E os umbrais das portas se moveram com a voz do que clamava, e a casa se encheu de fumo.
+
+[[v23-6-5]]
+
+^<<v23-6-5,5>>^ Então disse eu: Ai de mim, que vou perecendo! porque eu sou  um homem de lábios impuros, e habito no meio de um povo de impuros lábios: e os meus olhos viram o rei, o Senhor dos Exércitos!
+
+[[v23-6-6]]
+
+^<<v23-6-6,6>>^ Mas um dos serafins voou para mim trazendo na sua mão uma brasa viva, que  tirara do altar com uma tenaz;
+
+[[v23-6-7]]
+
+^<<v23-6-7,7>>^ E com ela tocou a minha boca, e disse: Eis que isto tocou os teus lábios; e a tua iniquidade foi tirada, e purificado o teu pecado.
+
+[[v23-6-8]]
+
+^<<v23-6-8,8>>^ Depois disto ouvi a voz do Senhor, que dizia: A quem enviarei, e quem há de ir por  nós? Então disse eu: Eis-me aqui , envia-me a mim.
+
+[[v23-6-9]]
+
+^<<v23-6-9,9>>^ Então disse ele: Vai, e dize a este povo: Ouvis, de fato, e não entendeis, e vedes, em verdade, mas não percebeis.
+
+[[v23-6-10]]
+
+^<<v23-6-10,10>>^ Engorda o coração deste povo, e endurece-lhe os ouvidos, e fecha-lhe os olhos; não venha ele a ver com os seus olhos e a ouvir com os seus ouvidos, e a entender com o seu coração, e a converter-se, e a ser sarado.
+
+[[v23-6-11]]
+
+^<<v23-6-11,11>>^ Então disse eu: Até quando, Senhor? E respondeu: Até que se assolem as cidades, e fiquem sem habitantes, e nas casas não fique morador, e a terra seja assolada de todo.
+
+[[v23-6-12]]
+
+^<<v23-6-12,12>>^ E o Senhor afaste dela  os homens e no meio da terra seja  grande o desamparo.
+
+[[v23-6-13]]
+
+^<<v23-6-13,13>>^ Mas se ainda a décima parte dela ficar , tornará a ser pastada: como o carvalho, e como a azinheira, que, depois de se desfolharem, ainda  ficam firmes, assim  a santa semente será a firmeza dela.
+
+'''
+
+xref:023-isaias/023-isaias-005.adoc#v23-5-0[&#60; Capítulo Anterior] | <<v23-6-0,Topo>> | xref:023-isaias/023-isaias-007.adoc#v23-7-0[Próximo Capítulo &#62;]

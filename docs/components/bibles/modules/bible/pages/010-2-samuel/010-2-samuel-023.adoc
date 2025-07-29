@@ -1,0 +1,165 @@
+include::./index.adoc[]
+
+[[v10-23-0]]
+=== 2 Samuel, 23
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v10-23-1]]
+
+^<<v10-23-1,1>>^ E ESTAS são  as últimas palavras de Davi: Diz Davi, filho de Jessé, e diz o homem que foi levantado em altura, o ungido do Deus de Jacó, e o suave em salmos de Israel.
+
+[[v10-23-2]]
+
+^<<v10-23-2,2>>^ O espírito do Senhor falou por mim, e a sua palavra esteve  em minha boca.
+
+[[v10-23-3]]
+
+^<<v10-23-3,3>>^ Disse o Deus de Israel, a Rocha de Israel a mim me falou: Haverá um  justo que domine sobre os homens, que domine no  temor de Deus.
+
+[[v10-23-4]]
+
+^<<v10-23-4,4>>^ E será  como a luz da manhã, quando  sai o sol, da manhã sem nuvens, quando  pelo seu  resplendor e pela chuva a erva brota  da terra.
+
+[[v10-23-5]]
+
+^<<v10-23-5,5>>^ Ainda que a minha casa não seja  tal para com Deus, contudo estabeleceu comigo um  concerto eterno, que em tudo será ordenado e guardado, pois toda a minha salvação e todo o meu  prazer está nele , apesar de que ainda  não o faz brotar.
+
+[[v10-23-6]]
+
+^<<v10-23-6,6>>^ Porém os filhos  de Belial todos serão  como os espinhos que se lançam fora, porque se lhes não pode pegar com a mão.
+
+[[v10-23-7]]
+
+^<<v10-23-7,7>>^ Mas qualquer que os tocar se armará de ferro e da haste de uma  lança; e a fogo serão totalmente queimados no mesmo  lugar.
+
+[[v10-23-8]]
+
+^<<v10-23-8,8>>^ Estes são  os nomes dos valentes que Davi teve: Josebe-Basebete, filho  de Taquemoni, o principal dos capitães: este era  Adino, o esnita, que se opusera  a oitocentos, e os feriu duma vez.
+
+[[v10-23-9]]
+
+^<<v10-23-9,9>>^ E depois dele Eleazar, filho de Dodó, filho de Aoí, entre os três valentes que estavam  com Davi quando provocaram os filisteus que ali se ajuntaram à peleja, e quando de Israel os homens subiram.
+
+[[v10-23-10]]
+
+^<<v10-23-10,10>>^ Este se levantou, e feriu os filisteus, até lhe cansar a mão e ficar a mão pegada à espada: e naquele dia o Senhor obrou um grande livramento; e o povo voltou atrás dele, somente a tomar o despojo.
+
+[[v10-23-11]]
+
+^<<v10-23-11,11>>^ E depois dele Sama, filho de Agé, o hararita, quando os filisteus se ajuntaram numa multidão, onde havia um pedaço de terra cheio de lentilhas, e o povo fugira de diante dos filisteus.
+
+[[v10-23-12]]
+
+^<<v10-23-12,12>>^ Este pois se pôs no meio daquele pedaço de terra , e o defendeu, e feriu os filisteus: e o Senhor obrou um grande livramento.
+
+[[v10-23-13]]
+
+^<<v10-23-13,13>>^ Também três dos trinta cabeças desceram, e vieram no tempo da sega a Davi, à caverna de Adulão: e a multidão dos filisteus acampara no vale de Refaim.
+
+[[v10-23-14]]
+
+^<<v10-23-14,14>>^ Davi estava  então num lugar forte, e a guarnição dos filisteus estava  então em Belém.
+
+[[v10-23-15]]
+
+^<<v10-23-15,15>>^ E teve Davi desejo, e disse: Quem me dera beber da água da cisterna de Belém, que está  junto à porta!
+
+[[v10-23-16]]
+
+^<<v10-23-16,16>>^ Então aqueles  três valentes romperam pelo arraial dos filisteus, e tiraram água da cisterna de Belém, que está  junto à porta, e  a tomaram, e a trouxeram a Davi; porém ele não a quis beber, mas derramou-a perante o Senhor.
+
+[[v10-23-17]]
+
+^<<v10-23-17,17>>^ E disse: Guarda-me, ó Senhor, de que tal faça; beberia eu  o sangue dos homens que foram a risco da sua vida? De maneira que não a quis beber: isto fizeram aqueles  três valentes.
+
+[[v10-23-18]]
+
+^<<v10-23-18,18>>^ Também Abisai, irmão de Joabe, filho de Zeruia, era cabeça de três; e este alçou a sua lança contra trezentos, e os feriu: e tinha nome entre os três.
+
+[[v10-23-19]]
+
+^<<v10-23-19,19>>^ Porventura  este não era o mais nobre dentre estes três? pois era o primeiro deles; porém aos primeiros  três não chegou.
+
+[[v10-23-20]]
+
+^<<v10-23-20,20>>^ Também Benaia, filho de Joiada, filho dum homem valoroso de Cabseel, grande em obras, este feriu dois fortes leões de Moabe; e desceu ele, e feriu um leão no meio duma cova, no tempo da neve.
+
+[[v10-23-21]]
+
+^<<v10-23-21,21>>^ Também este feriu um homem  egípcio, homem de respeito: e na mão do egípcio havia uma lança, porém ele desceu a ele com um cajado e arrancou a lança da mão do egípcio e o matou com a sua própria  lança.
+
+[[v10-23-22]]
+
+^<<v10-23-22,22>>^ Estas cousas  fez Benaia, filho de Joiada, pelo que teve nome entre três valentes.
+
+[[v10-23-23]]
+
+^<<v10-23-23,23>>^ Dentre os trinta ele era o mais nobre, porém aos três primeiros  não chegou : e Davi o pôs sobre os seus guardas.
+
+[[v10-23-24]]
+
+^<<v10-23-24,24>>^ Asael, irmão de Joabe, estava  entre os trinta, que eram : Elanã, filho de Dodó, de Belém;
+
+[[v10-23-25]]
+
+^<<v10-23-25,25>>^ Sama, harodita, Elica, harodita;
+
+[[v10-23-26]]
+
+^<<v10-23-26,26>>^ Heles, paltita, Ira, filho de Iques, tecoíta;
+
+[[v10-23-27]]
+
+^<<v10-23-27,27>>^ Abiezer, anatotita, Mebunai, husatita;
+
+[[v10-23-28]]
+
+^<<v10-23-28,28>>^ Zalmom, aoíta, Maarai, netofatita;
+
+[[v10-23-29]]
+
+^<<v10-23-29,29>>^ Helebe, filho de Baena, netofatita, Etai, filho de Ribai, de Gibeá dos filhos de Benjamim;
+
+[[v10-23-30]]
+
+^<<v10-23-30,30>>^ Benaia, piratonita, Hidai, do ribeiro de Gaás;
+
+[[v10-23-31]]
+
+^<<v10-23-31,31>>^ Abi-Albom, arbatita, Azmavete, barumita;
+
+[[v10-23-32]]
+
+^<<v10-23-32,32>>^ Eliaba, saalbonita, os filhos de Jasém, e , Jônatas;
+
+[[v10-23-33]]
+
+^<<v10-23-33,33>>^ Sama, hararita, Aião, filho de Sarar, ararita;
+
+[[v10-23-34]]
+
+^<<v10-23-34,34>>^ Elifelete, filho de Asbaí, filho dum maacatita, Elião, filho de Aquitófel, gilonita;
+
+[[v10-23-35]]
+
+^<<v10-23-35,35>>^ Hesrai, carmelita, Paarai, arbita:
+
+[[v10-23-36]]
+
+^<<v10-23-36,36>>^ Igal, filho de Natã, de Zobá, Bani, gadita;
+
+[[v10-23-37]]
+
+^<<v10-23-37,37>>^ Zeleque, amonita, Naarai, beerotita, o que trazia as armas de Joabe, filho de Zeruia;
+
+[[v10-23-38]]
+
+^<<v10-23-38,38>>^ Ira, jetrita, Garebe, jetrita;
+
+[[v10-23-39]]
+
+^<<v10-23-39,39>>^ Urias, heteu; trinta e sete por todos.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-022.adoc#v10-22-0[&#60; Capítulo Anterior] | <<v10-23-0,Topo>> | xref:010-2-samuel/010-2-samuel-024.adoc#v10-24-0[Próximo Capítulo &#62;]

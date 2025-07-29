@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v6-18-0]]
+=== Josué, 18
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-18-1]]
+
+^<<v6-18-1,1>>^ E TODA a congregação dos filhos de Israel se ajuntou em Silo, e ali armaram a tenda da congregação, depois que a terra foi sujeita diante deles.
+
+[[v6-18-2]]
+
+^<<v6-18-2,2>>^ E dentre os filhos de Israel ficaram sete tribos, que ainda não tinham repartido a sua herança.
+
+[[v6-18-3]]
+
+^<<v6-18-3,3>>^ E disse Josué aos filhos de Israel: Até quando sereis negligentes a passardes para possuir a terra que o Senhor Deus de vossos pais vos deu?
+
+[[v6-18-4]]
+
+^<<v6-18-4,4>>^ De cada tribo escolhei vós três homens, para que eu os envie, e se levantem, e corram a terra, e a descrevam segundo as suas heranças, e se tornem a mim.
+
+[[v6-18-5]]
+
+^<<v6-18-5,5>>^ E a repartirão em sete partes: Judá ficará no seu termo para o sul, e a casa de José ficará no seu termo para o norte.
+
+[[v6-18-6]]
+
+^<<v6-18-6,6>>^ E vós descrevereis a terra em sete partes, e m a trareis a mim aqui descrita : para que eu aqui lance as sortes perante o Senhor nosso Deus.
+
+[[v6-18-7]]
+
+^<<v6-18-7,7>>^ Porquanto os levitas não têm parte no meio de vós, porém o sacerdócio do Senhor é  a sua parte: e Gade, e Rúben e a meia tribo de Manassés tomaram a sua herança dalém do Jordão para o oriente, a qual lhes deu Moisés, o servo do Senhor.
+
+[[v6-18-8]]
+
+^<<v6-18-8,8>>^ Então aqueles homens se levantaram, e se foram: e Josué deu ordem aos que iam descrever a terra, dizendo: Ide, e correi a terra, e descrevei-a, e então  tornai a mim, e aqui vos lançarei as sortes perante o Senhor, em Silo.
+
+[[v6-18-9]]
+
+^<<v6-18-9,9>>^ Foram pois aqueles homens e passaram pela terra, e a descreveram, segundo as cidades, em sete partes, num livro: e voltaram a Josué, ao arraial em Silo.
+
+[[v6-18-10]]
+
+^<<v6-18-10,10>>^ Então Josué lhes lançou as sortes em Silo, perante o Senhor: e ali repartiu Josué a terra aos filhos de Israel, conforme às suas divisões.
+
+[[v6-18-11]]
+
+^<<v6-18-11,11>>^ E subiu a sorte da tribo dos filhos de Benjamim, segundo as suas famílias: e saiu o termo da sua sorte entre os filhos de Judá e os filhos de José.
+
+[[v6-18-12]]
+
+^<<v6-18-12,12>>^ E o seu termo foi para a banda do norte, desde o Jordão: e sobe este termo ao lado de Jericó para o norte, e sobe pela montanha para o ocidente, sendo as suas saídas no deserto de Bete-Áven.
+
+[[v6-18-13]]
+
+^<<v6-18-13,13>>^ E dali passa este termo a Luza, ao lado de Luza (que é  Betel) para o sul: e desce este termo a Atarote-Adar, ao pé do monte que está  da banda do sul de Beteorom de baixo.
+
+[[v6-18-14]]
+
+^<<v6-18-14,14>>^ E vai este termo e torna à banda do ocidente para o sul do monte que está  defronte de Beteorom, para o sul, e as suas saídas vão para Quiriate-Baal (que é  Quiriate-Jearim), cidade dos filhos de Judá: esta é  a sua extensão para o ocidente.
+
+[[v6-18-15]]
+
+^<<v6-18-15,15>>^ E a sua extensão para o sul está  à extremidade de Quiriate-Jearim: e sai este termo ao ocidente, e vem a sair à fonte das águas de Neftoa.
+
+[[v6-18-16]]
+
+^<<v6-18-16,16>>^ E desce este termo até à extremidade do monte que está  defronte do vale do filho de Hinom, que está  no vale dos refains, para o norte, e desce pelo vale de Hinom da banda dos jebuseus para o sul: e então  desce à fonte de Rogel;
+
+[[v6-18-17]]
+
+^<<v6-18-17,17>>^ E vai desde o norte, e sai a Ensemes; e d ali sai a Gelilote, que está  defronte da subida de Adumim, e desce à pedra de Boã, filho de Rúben;
+
+[[v6-18-18]]
+
+^<<v6-18-18,18>>^ E passa até ao lado, defronte de Arabá para o norte, e desce a Arabá;
+
+[[v6-18-19]]
+
+^<<v6-18-19,19>>^ Passa mais este termo até ao lado de Bete-Hoglá para o norte, estando as saídas deste termo na língua do mar salgado para o norte, na extremidade do Jordão para o sul: este é  o termo do sul.
+
+[[v6-18-20]]
+
+^<<v6-18-20,20>>^ E termina o Jordão da banda do oriente: esta é  a herança dos filhos de Benjamim, nos seus termos em redor, segundo as suas famílias.
+
+[[v6-18-21]]
+
+^<<v6-18-21,21>>^ E as cidades da tribo dos filhos de Benjamim, segundo as suas famílias, são: Jericó, e Bete-Hoglá, e Emeque-Queziz,
+
+[[v6-18-22]]
+
+^<<v6-18-22,22>>^ E Bete-Arabá, e Semaraim, e Betel,
+
+[[v6-18-23]]
+
+^<<v6-18-23,23>>^ E Havim, e Pará e Ofra,
+
+[[v6-18-24]]
+
+^<<v6-18-24,24>>^ E Quefar-Haamonai, e Ofni, e Gaba: doze cidades e as suas aldeias:
+
+[[v6-18-25]]
+
+^<<v6-18-25,25>>^ Gibeom, e Ramá, e Beerote,
+
+[[v6-18-26]]
+
+^<<v6-18-26,26>>^ E Mizpá, e Quefira, e Moza,
+
+[[v6-18-27]]
+
+^<<v6-18-27,27>>^ E Requém, e Irpeel, e Tarala,
+
+[[v6-18-28]]
+
+^<<v6-18-28,28>>^ E Zelá, Elefe e Jebus (esta é  Jerusalém), Gibeá e Quiriate: catorze cidades com as suas aldeias: esta é  a herança dos filhos de Benjamim, segundo as suas famílias.
+
+'''
+
+xref:006-josue/006-josue-017.adoc#v6-17-0[&#60; Capítulo Anterior] | <<v6-18-0,Topo>> | xref:006-josue/006-josue-019.adoc#v6-19-0[Próximo Capítulo &#62;]

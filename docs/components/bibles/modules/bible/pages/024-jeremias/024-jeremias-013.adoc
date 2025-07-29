@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v24-13-0]]
+=== Jeremias, 13
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v24-13-1]]
+
+^<<v24-13-1,1>>^ ASSIM me disse o Senhor: Vai, e compra um cinto de linho, e põe-no sobre os teus lombos, mas não o metas na água.
+
+[[v24-13-2]]
+
+^<<v24-13-2,2>>^ E comprei o cinto, conforme a palavra do Senhor, e o pus sobre os meus lombos.
+
+[[v24-13-3]]
+
+^<<v24-13-3,3>>^ Então veio a palavra do Senhor a mim segunda vez, dizendo:
+
+[[v24-13-4]]
+
+^<<v24-13-4,4>>^ Toma o cinto que compraste e trazes sobre os teus lombos, e levanta-te; vai ao Eufrates, e esconde-o ali na fenda de uma rocha.
+
+[[v24-13-5]]
+
+^<<v24-13-5,5>>^ E fui, e escondi-o junto ao Eufrates, como o Senhor me havia ordenado.
+
+[[v24-13-6]]
+
+^<<v24-13-6,6>>^ Sucedeu pois, ao cabo de muitos dias, que me disse o Senhor: Levanta-te, vai ao Eufrates, e toma dali o cinto que te ordenei que escondesses ali.
+
+[[v24-13-7]]
+
+^<<v24-13-7,7>>^ E fui ao Eufrates, e cavei, e tomei o cinto do lugar onde o havia escondido: e eis que o cinto tinha apodrecido e para nada prestava.
+
+[[v24-13-8]]
+
+^<<v24-13-8,8>>^ Então veio a mim a palavra do Senhor, dizendo:
+
+[[v24-13-9]]
+
+^<<v24-13-9,9>>^ Assim diz o Senhor: Do mesmo modo farei apodrecer a soberba de Judá e a muita soberba de Jerusalém.
+
+[[v24-13-10]]
+
+^<<v24-13-10,10>>^ Este povo maligno, que se recusa a ouvir as minhas palavras, que caminha segundo o propósito do seu coração, e anda após deuses alheios, para servi-los, e inclinar-se diante deles, será tal como este cinto, que para nada presta.
+
+[[v24-13-11]]
+
+^<<v24-13-11,11>>^ Porque, como o cinto está  ligado aos lombos do homem assim eu liguei a mim toda a casa de Israel e toda a casa de Judá, diz o Senhor, para me serem por povo, e por nome, e por louvor, e por glória: mas não deram ouvidos.
+
+[[v24-13-12]]
+
+^<<v24-13-12,12>>^ Pelo que dize-lhes esta palavra: Assim diz o Senhor Deus de Israel: Todo o odre se encherá de vinho; e dir-te-ão: Não sabemos nós muito bem que todo o odre se encherá de vinho?
+
+[[v24-13-13]]
+
+^<<v24-13-13,13>>^ Mas tu dize-lhes: Assim diz o Senhor: Eis que eu encherei de embriaguez a todos os habitantes desta terra, e aos reis da estirpe  de Davi, que estão assentados sobre o seu trono, e aos sacerdotes, e aos profetas, e a todos os habitantes de Jerusalém.
+
+[[v24-13-14]]
+
+^<<v24-13-14,14>>^ E fá-los-ei em pedaços uns contra os outros, e juntamente os pais com os filhos, diz o Senhor: não perdoarei nem pouparei, nem terei deles compaixão, para que os não destrua.
+
+[[v24-13-15]]
+
+^<<v24-13-15,15>>^ Escutai, e inclinai os ouvidos: não vos ensoberbeçais; porque o Senhor falou.
+
+[[v24-13-16]]
+
+^<<v24-13-16,16>>^ Dai glória ao Senhor vosso Deus, antes que venha a escuridão e antes que tropecem vossos pés nos montes tenebrosos; antes que, esperando luz ele a mude em sombra de morte, e a reduza à escuridão.
+
+[[v24-13-17]]
+
+^<<v24-13-17,17>>^ E, se isto não ouvirdes, a minha alma chorará em lugares ocultos, por causa da vossa  soberba; e amargamente chorarão os meus olhos, e se desfarão em lágrimas, porquanto o rebanho do Senhor foi levado cativo.
+
+[[v24-13-18]]
+
+^<<v24-13-18,18>>^ Dize ao rei e à rainha: Humilhai-vos, e assentai-vos no chão; porque já  caiu todo o ornato de vossas cabeças, a coroa de vossa glória.
+
+[[v24-13-19]]
+
+^<<v24-13-19,19>>^ As cidades do sul estão fechadas e ninguém há  que as  abra: todo o Judá foi levado cativo; sim, inteiramente foi levado cativo.
+
+[[v24-13-20]]
+
+^<<v24-13-20,20>>^ Levantai os vossos olhos, e vede os que vêm do norte: onde está  o rebanho que se te deu, e as ovelhas da tua glória?
+
+[[v24-13-21]]
+
+^<<v24-13-21,21>>^ Que dirás, quando puser os teus amigos sobre ti como cabeça, se foste tu mesmo que contra ti os ensinaste? porventura  não te tomarão as dores, como à mulher que está  de parto?
+
+[[v24-13-22]]
+
+^<<v24-13-22,22>>^ Quando pois disseres no teu coração: Por que me sobrevieram estas cousas? Pela multidão das tuas maldades se descobriram as tuas fraldas, e os teus calcanhares sofrem violentamente.
+
+[[v24-13-23]]
+
+^<<v24-13-23,23>>^ Pode o etíope mudar a sua pele, ou o leopardo as suas manchas? nesse caso também vós podereis fazer o bem, sendo ensinados a fazer o mal.
+
+[[v24-13-24]]
+
+^<<v24-13-24,24>>^ Pelo que os espalharei como o restolho, restolho que passa com o vento do deserto.
+
+[[v24-13-25]]
+
+^<<v24-13-25,25>>^ Esta será  a tua sorte, a porção que te será medida por mim, diz o Senhor; pois te esqueceste de mim, e confiaste em mentiras.
+
+[[v24-13-26]]
+
+^<<v24-13-26,26>>^ Assim também eu descobrirei as tuas fraldas até  ao teu rosto: e aparecerá a tua ignomínia.
+
+[[v24-13-27]]
+
+^<<v24-13-27,27>>^ Vi as tuas abominações, e os teus adultérios, e os teus rinchos e a enormidade da tua prostituição sobre os outeiros no campo; ai de ti, Jerusalém! não te purificarás? até quando ainda?
+
+'''
+
+xref:024-jeremias/024-jeremias-012.adoc#v24-12-0[&#60; Capítulo Anterior] | <<v24-13-0,Topo>> | xref:024-jeremias/024-jeremias-014.adoc#v24-14-0[Próximo Capítulo &#62;]

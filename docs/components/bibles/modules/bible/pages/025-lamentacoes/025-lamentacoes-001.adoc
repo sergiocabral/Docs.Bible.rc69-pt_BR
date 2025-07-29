@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-1-0]]
+=== Lamentações, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v25-1-1]]
+
+^<<v25-1-1,1>>^ Álefe. COMO se acha solitária aquela cidade, dantes tão  populosa! tornou-se como viúva; a que foi grande entre as nações, e princesa entre as províncias, tornou-se tributária! Beta.
+
+[[v25-1-2]]
+
+^<<v25-1-2,2>>^ Continuamente chora de noite, e as suas lágrimas correm pelas suas faces; não tem quem a console entre todos os seus amadores: todos os seus amigos se houveram aleivosamente com ela, tornaram-se seus inimigos. Guímel.
+
+[[v25-1-3]]
+
+^<<v25-1-3,3>>^ Judá passou em cativeiro por causa da aflição, e por causa da grandeza da sua  servidão: habita entre as nações, não acha descanso: todos os seus perseguidores a surpreenderam nas suas angústias. Dálete.
+
+[[v25-1-4]]
+
+^<<v25-1-4,4>>^ Os caminhos de Sião pranteiam, porque não há quem venha à reunião solene; todas as suas portas estão desoladas; os seus sacerdotes suspiram: as suas virgens estão  tristes, e ela mesma tem amargura. Hê.
+
+[[v25-1-5]]
+
+^<<v25-1-5,5>>^ Os seus adversários a dominaram, os seus inimigos prosperam; porque o Senhor a entristeceu, por causa da multidão das suas prevaricações: os seus filhinhos vão em cativeiro na frente do adversário. Vau.
+
+[[v25-1-6]]
+
+^<<v25-1-6,6>>^ E da filha de Sião foi-se toda a sua glória: os seus príncipes ficaram sendo como veados que  não acham pasto e caminham sem força na frente do perseguidor. Zaine.
+
+[[v25-1-7]]
+
+^<<v25-1-7,7>>^ Lembra-se Jerusalém, nos dias da sua aflição e das suas rebeliões, de todas as suas mais queridas cousas, que tivera dos tempos antigos: quando caía o seu povo na mão do adversário, e ela não tinha quem a socorresse, os adversários a viram, e fizeram escárnio dos seus sábados. Hete.
+
+[[v25-1-8]]
+
+^<<v25-1-8,8>>^ Jerusalém gravemente pecou, por isso se fez instável: todos os que a honravam, a desprezaram, porque viram a sua nudez; ela também suspirou e voltou para trás. Tete.
+
+[[v25-1-9]]
+
+^<<v25-1-9,9>>^ A sua imundícia está  nas suas saias, nunca se lembrou do seu fim: por isso foi pasmosamente abatida, não tem consolador; vê, Senhor, a minha aflição, porque o inimigo se engrandece. Jode.
+
+[[v25-1-10]]
+
+^<<v25-1-10,10>>^ Estendeu o adversário a sua mão a todas as cousas mais preciosas dela; pois viu entrar no seu santuário as nações acerca das quais mandaste que não entrassem na tua congregação. Cafe.
+
+[[v25-1-11]]
+
+^<<v25-1-11,11>>^ Todo o seu povo anda suspirando, buscando o pão; deram as suas cousas mais preciosas a troco de mantimento para refrescarem a alma; vê, Senhor, e contempla, pois me tornei desprezível. Lâmede.
+
+[[v25-1-12]]
+
+^<<v25-1-12,12>>^ Não vos comove isto a todos vós que passais pelo caminho? atendei, e vede, se há dor como a minha dor, que veio sobre mim, com que me  entristeceu o Senhor, no dia do furor da sua ira. Mem.
+
+[[v25-1-13]]
+
+^<<v25-1-13,13>>^ Desde o alto enviou fogo a meus ossos, o qual se assenhoreou deles: estendeu uma rede aos meus pés, fez-me voltar para trás, fez-me assolada e  enferma todo o dia. Num.
+
+[[v25-1-14]]
+
+^<<v25-1-14,14>>^ Já o jugo das minhas prevaricações está atado pela sua mão; elas estão entretecidas, subiram sobre o meu pescoço, e ele abateu a minha força: entregou-me o Senhor na suas mãos, e eu não posso levantar-me. Sâmeque.
+
+[[v25-1-15]]
+
+^<<v25-1-15,15>>^ O Senhor atropelou todos os meus valentes no meio de mim; apregoou contra mim um ajuntamento, para quebrantar os meus mancebos: o Senhor pisou como num lagar a virgem filha de Judá. Aim.
+
+[[v25-1-16]]
+
+^<<v25-1-16,16>>^ Por estas cousas choro eu; os meus olhos, os meus olhos se desfazem em águas; porque se afastou de mim o consolador que devia restaurar a minha alma: os meus filhos estão desolados, porque prevaleceu o inimigo. Pê.
+
+[[v25-1-17]]
+
+^<<v25-1-17,17>>^ Estende Sião as suas mãos, não há quem a console: mandou o Senhor acerca de Jacó que  fossem inimigos os que estão em redor dele; Jerusalém é para eles como uma cousa imunda. Tsadê.
+
+[[v25-1-18]]
+
+^<<v25-1-18,18>>^ Justo é o Senhor, pois me rebelei contra os seus mandamentos: ouvi, pois, todos os povos, e vede a minha dor; as minhas virgens e os meus mancebos se foram para o cativeiro. Cofe.
+
+[[v25-1-19]]
+
+^<<v25-1-19,19>>^ Chamei os meus amadores, mas  eles me enganaram: os meus sacerdotes e os meus anciãos expiraram na cidade; enquanto buscavam para si mantimento, para refrescarem a sua alma. Rexe.
+
+[[v25-1-20]]
+
+^<<v25-1-20,20>>^ Olha, Senhor quanto estou angustiada; turbadas estão as minhas entranhas, o meu coração está  transtornado no meio de mim, porque gravemente me rebelei: fora me  desfilhou a espada, dentro de mim está a morte. Chim.
+
+[[v25-1-21]]
+
+^<<v25-1-21,21>>^ Ouvem que eu suspiro mas não tenho quem me console: todos os meus inimigos que souberam do meu mal folgam, porque tu o determinaste: mas, em trazendo tu o dia que  apregoaste, serão como eu. Tau.
+
+[[v25-1-22]]
+
+^<<v25-1-22,22>>^ Venha toda a sua iniquidade à tua presença, e faze-lhes como me fizeste a mim por causa de todas as minhas prevaricações; porque os meus suspiros são  muitos, e o meu coração está  desfalecido.
+
+'''
+
+xref:024-jeremias/024-jeremias-052.adoc#v24-52-0[&#60; Capítulo Anterior] | <<v25-1-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-002.adoc#v25-2-0[Próximo Capítulo &#62;]

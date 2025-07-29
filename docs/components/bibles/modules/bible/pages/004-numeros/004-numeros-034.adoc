@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v4-34-0]]
+=== Números, 34
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-34-1]]
+
+^<<v4-34-1,1>>^ FALOU mais o Senhor a Moisés, dizendo:
+
+[[v4-34-2]]
+
+^<<v4-34-2,2>>^ Dá ordem aos filhos de Israel, e dize-lhes: Quando entrardes na terra de Canaã, esta há de ser  a terra que vos cairá em herança: a terra de Canaã, segundo os seus termos.
+
+[[v4-34-3]]
+
+^<<v4-34-3,3>>^ A banda do sul vos será desde o deserto de Zim até aos termos de Edom; e o termo do sul vos será desde a extremidade do mar salgado para a banda do oriente,
+
+[[v4-34-4]]
+
+^<<v4-34-4,4>>^ E este termo vos irá rodeando do sul para a subida de Acrabim, e passará até Zim; e as suas saídas serão do sul a Cades-Barneia; e sairá a Hazaar-Adar, e passará a Azmom:
+
+[[v4-34-5]]
+
+^<<v4-34-5,5>>^ Rodeará mais este termo de Azmom até ao rio do Egito: e as suas saídas serão para a banda do mar.
+
+[[v4-34-6]]
+
+^<<v4-34-6,6>>^ Acerca  do termo do ocidente, o mar grande vos será por termo: este vos será o termo do ocidente.
+
+[[v4-34-7]]
+
+^<<v4-34-7,7>>^ E este vos será o termo do norte: desde o mar grande marcareis até ao monte de Hor.
+
+[[v4-34-8]]
+
+^<<v4-34-8,8>>^ Desde o monte de Hor marcareis até à entrada de Hamate; e as saídas deste termo serão até Zedade.
+
+[[v4-34-9]]
+
+^<<v4-34-9,9>>^ E este termo sairá até Zifrom, e as suas saídas serão em Hazar-Enã; este vos será o termo do norte.
+
+[[v4-34-10]]
+
+^<<v4-34-10,10>>^ E por termo da banda do oriente marcareis de Hazar-Enã até Sefão.
+
+[[v4-34-11]]
+
+^<<v4-34-11,11>>^ E este termo descerá desde Sefão até Ribla, para a banda do oriente Aim: depois descerá este termo, e irá ao longo da borda do mar de Quinerete para a banda do oriente.
+
+[[v4-34-12]]
+
+^<<v4-34-12,12>>^ Descerá também este termo ao longo do Jordão, e as suas saídas serão no mar salgado: esta vos será a terra, segundo os seus termos em roda.
+
+[[v4-34-13]]
+
+^<<v4-34-13,13>>^ E Moisés deu ordem aos filhos de Israel, dizendo: Esta é  a terra que tomareis em sorte por herança, a qual o Senhor mandou dar às nove tribos e à meia tribo.
+
+[[v4-34-14]]
+
+^<<v4-34-14,14>>^ Porque a tribo dos filhos dos rubenitas, segundo a casa de seus pais, e a tribo dos filhos dos gaditas, segundo a casa de seus pais, já receberam; também a meia tribo de Manassés recebeu a sua herança.
+
+[[v4-34-15]]
+
+^<<v4-34-15,15>>^ Já duas tribos e meia tribo receberam a sua herança daquém do Jordão de  Jericó, da banda do oriente ao nascente.
+
+[[v4-34-16]]
+
+^<<v4-34-16,16>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v4-34-17]]
+
+^<<v4-34-17,17>>^ Estes são  os nomes dos homens que vos repartirão a terra por herança: Eleazar, o sacerdote, e Josué, o filho de Num.
+
+[[v4-34-18]]
+
+^<<v4-34-18,18>>^ Tomareis mais de cada tribo um príncipe, para repartir a terra em herança.
+
+[[v4-34-19]]
+
+^<<v4-34-19,19>>^ E estes são  os nomes dos homens: Da tribo de Judá, Calebe, filho de Jefoné;
+
+[[v4-34-20]]
+
+^<<v4-34-20,20>>^ E, da tribo dos filhos de Simeão, Samuel, filho de Amiúde;
+
+[[v4-34-21]]
+
+^<<v4-34-21,21>>^ Da tribo de Benjamim, Elidade, filho de Quislom;
+
+[[v4-34-22]]
+
+^<<v4-34-22,22>>^ E, da tribo dos filhos de Dã, o príncipe Buqui, filho de Jogli;
+
+[[v4-34-23]]
+
+^<<v4-34-23,23>>^ Dos filhos de José, da tribo dos filhos de Manassés, o príncipe Haniel, filho de Éfode;
+
+[[v4-34-24]]
+
+^<<v4-34-24,24>>^ E, da tribo dos filhos de Efraim, o príncipe Quemuel, filho de Siftã;
+
+[[v4-34-25]]
+
+^<<v4-34-25,25>>^ E, da tribo dos filhos de Zebulom, o príncipe Elizafã, filho de Parna;
+
+[[v4-34-26]]
+
+^<<v4-34-26,26>>^ E, da tribo dos filhos de Issacar, o príncipe Paltiel, filho de Azã;
+
+[[v4-34-27]]
+
+^<<v4-34-27,27>>^ E, da tribo dos filhos de Aser, o príncipe Aiude, filho de Selomi;
+
+[[v4-34-28]]
+
+^<<v4-34-28,28>>^ E, da tribo dos filhos de Naftali, o príncipe Pedael, filho de Amiúde.
+
+[[v4-34-29]]
+
+^<<v4-34-29,29>>^ Estes são aqueles  a quem o Senhor ordenou, que repartissem a herança pelos filhos de Israel na terra de Canaã.
+
+'''
+
+xref:004-numeros/004-numeros-033.adoc#v4-33-0[&#60; Capítulo Anterior] | <<v4-34-0,Topo>> | xref:004-numeros/004-numeros-035.adoc#v4-35-0[Próximo Capítulo &#62;]

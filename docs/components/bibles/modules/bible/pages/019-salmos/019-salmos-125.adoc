@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-125-0]]
+=== Salmos, 125
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-125-1]]
+
+^<<v19-125-1,1>>^ OS que confiam no Senhor serão  como o monte de Sião, que  não se abala, mas  permanece para sempre.
+
+[[v19-125-2]]
+
+^<<v19-125-2,2>>^ Como estão  os montes à roda de Jerusalém, assim o Senhor está  em volta do seu povo desde agora e para sempre.
+
+[[v19-125-3]]
+
+^<<v19-125-3,3>>^ Porque o cetro da impiedade não permanecerá sobre a sorte dos justos, para que o justo não estenda as suas mãos à iniquidade.
+
+[[v19-125-4]]
+
+^<<v19-125-4,4>>^ Faze bem, ó Senhor, aos bons e aos que são  retos de coração.
+
+[[v19-125-5]]
+
+^<<v19-125-5,5>>^ Quanto àqueles que se desviam para os seus caminhos tortuosos, levá-los-á o Senhor com os que obram a maldade: paz haverá  sobre Israel.
+
+'''
+
+xref:019-salmos/019-salmos-124.adoc#v19-124-0[&#60; Capítulo Anterior] | <<v19-125-0,Topo>> | xref:019-salmos/019-salmos-126.adoc#v19-126-0[Próximo Capítulo &#62;]

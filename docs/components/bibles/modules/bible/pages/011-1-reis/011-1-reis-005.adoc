@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v11-5-0]]
+=== 1 Reis, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v11-5-1]]
+
+^<<v11-5-1,1>>^ E ENVIOU Hirão, rei de Tiro, os seus servos a Salomão (porque ouvira que ungiram a Salomão rei em lugar de seu pai), porquanto Hirão sempre tinha amado a Davi.
+
+[[v11-5-2]]
+
+^<<v11-5-2,2>>^ Então Salomão enviou a Hirão, dizendo:
+
+[[v11-5-3]]
+
+^<<v11-5-3,3>>^ Bem  sabes tu que Davi, meu pai, não pôde edificar uma casa ao nome do Senhor seu Deus, por causa da guerra com que o cercaram, até que o Senhor os pôs debaixo das plantas dos pés.
+
+[[v11-5-4]]
+
+^<<v11-5-4,4>>^ Porém agora o Senhor meu Deus me tem dado descanso de todos os lados: adversário não há , nem algum mau encontro.
+
+[[v11-5-5]]
+
+^<<v11-5-5,5>>^ E eis que eu intento edificar uma casa ao nome do Senhor meu Deus, como falou o Senhor a Davi, meu pai, dizendo: Teu filho, que porei em teu lugar no teu trono, ele edificará uma casa ao meu nome.
+
+[[v11-5-6]]
+
+^<<v11-5-6,6>>^ Dá ordem pois agora que do Líbano me cortem cedros, e os meus servos estarão com os teus servos, e eu te darei a soldada dos teus servos, conforme a tudo o que disseres; porque bem  sabes tu que entre nós ninguém há que saiba cortar a madeira como os sidônios.
+
+[[v11-5-7]]
+
+^<<v11-5-7,7>>^ E aconteceu que, ouvindo Hirão as palavras de Salomão, muito se alegrou, e disse: Bendito seja  hoje o Senhor, que deu a Davi um  filho sábio sobre este tão grande povo.
+
+[[v11-5-8]]
+
+^<<v11-5-8,8>>^ E enviou Hirão a Salomão, dizendo: Ouvi o que me mandaste dizer. Eu farei toda a tua vontade acerca dos cedros e acerca das faias.
+
+[[v11-5-9]]
+
+^<<v11-5-9,9>>^ Os meus servos os levarão desde o Líbano até ao mar, e eu os farei conduzir em jangadas pelo mar até ao lugar que me designares, e ali os desamarrarei; e tu os tomarás; tu também farás a minha vontade, dando sustento à minha casa.
+
+[[v11-5-10]]
+
+^<<v11-5-10,10>>^ Assim deu Hirão a Salomão madeira de cedros e madeira de faias, conforme  a toda a sua vontade.
+
+[[v11-5-11]]
+
+^<<v11-5-11,11>>^ E Salomão deu a Hirão vinte mil coros de trigo, para sustento da sua casa, e vinte coros de azeite batido: isto dava Salomão a Hirão de ano em ano.
+
+[[v11-5-12]]
+
+^<<v11-5-12,12>>^ Deu pois o Senhor a Salomão sabedoria como lhe tinha dito: e houve paz entre Hirão e Salomão, e ambos fizeram aliança.
+
+[[v11-5-13]]
+
+^<<v11-5-13,13>>^ E o rei Salomão fez subir leva de gente  dentre todo o Israel: e foi a leva de gente  trinta mil homens.
+
+[[v11-5-14]]
+
+^<<v11-5-14,14>>^ E os enviou ao Líbano, cada mês dez mil por sua  vez: um mês estavam no Líbano, e dois meses cada um em sua casa: e Adonirão estava sobre a leva de gente.
+
+[[v11-5-15]]
+
+^<<v11-5-15,15>>^ Tinha também Salomão setenta mil que levavam as cargas, e oitenta mil que cortavam nas montanhas.
+
+[[v11-5-16]]
+
+^<<v11-5-16,16>>^ Afora os chefes dos oficiais de Salomão, os quais estavam  sobre aquela obra, três mil e trezentos, que davam as ordens ao povo que fazia aquela obra.
+
+[[v11-5-17]]
+
+^<<v11-5-17,17>>^ E mandou o rei que trouxessem pedras grandes e  pedras preciosas, pedras lavradas, para fundarem a casa.
+
+[[v11-5-18]]
+
+^<<v11-5-18,18>>^ E as lavravam os edificadores de Hirão e os giblitas: e preparavam a madeira e as pedras para edificar a casa.
+
+'''
+
+xref:011-1-reis/011-1-reis-004.adoc#v11-4-0[&#60; Capítulo Anterior] | <<v11-5-0,Topo>> | xref:011-1-reis/011-1-reis-006.adoc#v11-6-0[Próximo Capítulo &#62;]

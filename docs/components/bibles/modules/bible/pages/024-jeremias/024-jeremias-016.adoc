@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v24-16-0]]
+=== Jeremias, 16
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v24-16-1]]
+
+^<<v24-16-1,1>>^ E VEIO a mim a palavra do Senhor, dizendo:
+
+[[v24-16-2]]
+
+^<<v24-16-2,2>>^ Não tomarás para ti mulher, nem terás filhos nem filhas neste lugar.
+
+[[v24-16-3]]
+
+^<<v24-16-3,3>>^ Porque assim diz o Senhor, acerca dos filhos e das filhas que nascerem neste lugar, acerca de suas mães, que os tiverem, e de seus pais que os gerarem nesta terra.
+
+[[v24-16-4]]
+
+^<<v24-16-4,4>>^ Morrerão de enfermidades dolorosas, e não serão pranteados nem sepultados: servirão de esterco para a terra; e pela espada e pela fome serão consumidos, e os seus cadáveres servirão de mantimento às aves do céu e aos animais da terra.
+
+[[v24-16-5]]
+
+^<<v24-16-5,5>>^ Porque assim diz o Senhor: Não entres na casa do luto, nem vás a lamentar, nem te compadeças deles: porque deste povo, diz o Senhor, retirei a minha paz, benignidade e misericórdia.
+
+[[v24-16-6]]
+
+^<<v24-16-6,6>>^ E morrerão grandes e pequenos nesta terra, e  não serão  sepultados, e não os prantearão nem se farão por eles incisões, nem por eles  se raparão os cabelos.
+
+[[v24-16-7]]
+
+^<<v24-16-7,7>>^ E nada se lhes dará por dó, para consolá-los por causa de morte; nem lhes darão a beber do copo de consolação, pelo pai de alguém, ou pela mãe de alguém.
+
+[[v24-16-8]]
+
+^<<v24-16-8,8>>^ Nem entres na casa do banquete, para te assentares com eles a comer e a beber.
+
+[[v24-16-9]]
+
+^<<v24-16-9,9>>^ Porque assim diz o Senhor dos Exércitos, o Deus de Israel: Eis que farei cessar neste lugar perante os vossos olhos, e em vossos dias, a voz de gozo e a voz de alegria, a voz do esposo e a voz da esposa.
+
+[[v24-16-10]]
+
+^<<v24-16-10,10>>^ E será que, quando anunciares a este povo todas estas palavras, e eles te disserem: Por que pronuncia o Senhor sobre nós todo este grande mal? e qual é  a nossa iniquidade, e qual é  o nosso pecado, que pecamos contra o Senhor nosso Deus?
+
+[[v24-16-11]]
+
+^<<v24-16-11,11>>^ Então lhes dirás: Porquanto vossos pais me deixaram, diz o Senhor, e se foram após deuses alheios, e os serviram, e se inclinaram diante deles, e a mim me deixaram, e a minha lei não guardaram,
+
+[[v24-16-12]]
+
+^<<v24-16-12,12>>^ E vós fizestes pior do que vossos pais; porque, eis que cada um de vós anda após o propósito do seu malvado coração para me não dar ouvidos a mim.
+
+[[v24-16-13]]
+
+^<<v24-16-13,13>>^ Portanto lançar-vos-ei fora desta terra, para uma terra que não conhecestes, nem vós nem vossos pais; e ali servireis a deuses estranhos de dia e de noite, porque não usarei de misericórdia convosco.
+
+[[v24-16-14]]
+
+^<<v24-16-14,14>>^ Portanto, eis que dias vêm, diz o Senhor, em que nunca mais se dirá: Vive o Senhor, que fez subir os filhos de Israel da terra do Egito.
+
+[[v24-16-15]]
+
+^<<v24-16-15,15>>^ Mas: Vive o Senhor, que fez subir os filhos de Israel da terra do norte, e de todas as terras para onde os tinha lançado; porque eu os farei voltar à sua terra, que dei a seus pais.
+
+[[v24-16-16]]
+
+^<<v24-16-16,16>>^ Eis que mandarei muitos pescadores, diz o Senhor, os quais os pescarão; e depois enviarei muitos caçadores, os quais os caçarão sobre todo o monte, e sobre todo o outeiro, e até nas fendas das rochas.
+
+[[v24-16-17]]
+
+^<<v24-16-17,17>>^ Porque os meus olhos estão  sobre todos os seus caminhos; não se escondem perante a minha face, nem a sua maldade se encobre aos meus olhos.
+
+[[v24-16-18]]
+
+^<<v24-16-18,18>>^ E primeiramente retribuirei em dobro a sua maldade e o seu pecado, porque profanaram a minha terra com os cadáveres das suas cousas detestáveis, e das suas abominações encheram a minha herança.
+
+[[v24-16-19]]
+
+^<<v24-16-19,19>>^ Ó Senhor, fortaleza minha, e força minha, e refúgio meu no dia da angústia! a ti virão as nações desde os fins da terra, e dirão: Nossos pais herdaram só mentiras, e vaidade, em que não havia  proveito.
+
+[[v24-16-20]]
+
+^<<v24-16-20,20>>^ Fará um homem para si deuses, que contudo não são  deuses?
+
+[[v24-16-21]]
+
+^<<v24-16-21,21>>^ Portanto, eis que lhes farei conhecer, desta vez lhes farei conhecer a minha mão e o meu poder, e saberão que o meu nome é  o Senhor.
+
+'''
+
+xref:024-jeremias/024-jeremias-015.adoc#v24-15-0[&#60; Capítulo Anterior] | <<v24-16-0,Topo>> | xref:024-jeremias/024-jeremias-017.adoc#v24-17-0[Próximo Capítulo &#62;]

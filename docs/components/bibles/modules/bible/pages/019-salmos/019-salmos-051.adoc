@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-51-0]]
+=== Salmos, 51
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-51-1]]
+
+^<<v19-51-1,1>>^ TEM misericórdia de mim, ó Deus, segundo a tua benignidade; apaga as minhas transgressões, segundo a multidão das tuas misericórdias.
+
+[[v19-51-2]]
+
+^<<v19-51-2,2>>^ Lava-me completamente da minha iniquidade, e purifica-me do meu pecado.
+
+[[v19-51-3]]
+
+^<<v19-51-3,3>>^ Porque eu conheço as minhas transgressões, e o meu pecado está  sempre diante de mim.
+
+[[v19-51-4]]
+
+^<<v19-51-4,4>>^ Contra ti, contra ti somente pequei, e fiz o que a teus olhos parece mal, para que sejas justificado quando falares, e  puro quando julgares.
+
+[[v19-51-5]]
+
+^<<v19-51-5,5>>^ Eis que em iniquidade fui formado, e em pecado me concebeu minha mãe.
+
+[[v19-51-6]]
+
+^<<v19-51-6,6>>^ Eis que amas a verdade no íntimo, e no oculto me fazes conhecer a sabedoria.
+
+[[v19-51-7]]
+
+^<<v19-51-7,7>>^ Purifica-me com hissope, e ficarei puro: lava-me, e ficarei mais alvo do que a neve.
+
+[[v19-51-8]]
+
+^<<v19-51-8,8>>^ Faze-me ouvir júbilo e alegria, para que  gozem os ossos que  tu quebraste.
+
+[[v19-51-9]]
+
+^<<v19-51-9,9>>^ Esconde a tua face dos meus pecados, e apaga todas as minhas iniquidades.
+
+[[v19-51-10]]
+
+^<<v19-51-10,10>>^ Cria em mim, ó Deus, um coração puro, e renova em mim um espírito reto.
+
+[[v19-51-11]]
+
+^<<v19-51-11,11>>^ Não me lances fora da tua presença, e não retires de mim o teu Espírito Santo.
+
+[[v19-51-12]]
+
+^<<v19-51-12,12>>^ Torna a dar-me a alegria da tua salvação, e sustém-me com  um espírito voluntário.
+
+[[v19-51-13]]
+
+^<<v19-51-13,13>>^ Então  ensinarei aos transgressores os teus caminhos, e os pecadores a ti se converterão.
+
+[[v19-51-14]]
+
+^<<v19-51-14,14>>^ Livra-me dos crimes de sangue, ó Deus, Deus da minha salvação, e  a minha língua louvará altamente a tua justiça.
+
+[[v19-51-15]]
+
+^<<v19-51-15,15>>^ Abre, Senhor, os meus lábios, e a minha boca entoará o teu louvor.
+
+[[v19-51-16]]
+
+^<<v19-51-16,16>>^ Porque te não comprazes em sacrifícios, senão eu os daria; tu não te deleitas em holocaustos.
+
+[[v19-51-17]]
+
+^<<v19-51-17,17>>^ Os sacrifícios para Deus são  o espírito quebrantado; a um  coração quebrantado e contrito não desprezarás, ó Deus.
+
+[[v19-51-18]]
+
+^<<v19-51-18,18>>^ Abençoa a Sião, segundo a tua boa vontade; edifica os muros de Jerusalém.
+
+[[v19-51-19]]
+
+^<<v19-51-19,19>>^ Então te agradarás de sacrifícios de justiça, dos holocaustos e das ofertas queimadas; então se oferecerão novilhos sobre o teu altar.
+
+'''
+
+xref:019-salmos/019-salmos-050.adoc#v19-50-0[&#60; Capítulo Anterior] | <<v19-51-0,Topo>> | xref:019-salmos/019-salmos-052.adoc#v19-52-0[Próximo Capítulo &#62;]

@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v3-21-0]]
+=== Levítico, 21
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v3-21-1]]
+
+^<<v3-21-1,1>>^ DEPOIS disse o Senhor a Moisés: Fala aos sacerdotes, filhos de Aarão, e dize-lhes: O sacerdote não se contaminará por causa  dum morto entre os seus povos,
+
+[[v3-21-2]]
+
+^<<v3-21-2,2>>^ Salvo por seu parente mais chegado a ele: por sua mãe, e por seu pai, e por seu filho, e por sua filha, e por seu irmão,
+
+[[v3-21-3]]
+
+^<<v3-21-3,3>>^ E por sua irmã virgem, chegada a ele, que ainda não teve marido: por ela se contaminará.
+
+[[v3-21-4]]
+
+^<<v3-21-4,4>>^ Não se contaminará por príncipe entre os seus povos, para se profanar.
+
+[[v3-21-5]]
+
+^<<v3-21-5,5>>^ Não farão calva na sua cabeça, e não raparão os cantos da sua barba, nem darão golpes na sua carne.
+
+[[v3-21-6]]
+
+^<<v3-21-6,6>>^ Santos serão a seu Deus, e não profanarão o nome do seu Deus, porque oferecem as ofertas queimadas do Senhor, o pão do seu Deus: portanto serão santos.
+
+[[v3-21-7]]
+
+^<<v3-21-7,7>>^ Não tomarão mulher prostituta ou infame, nem tomarão mulher repudiada de seu marido; pois santo é a seu Deus.
+
+[[v3-21-8]]
+
+^<<v3-21-8,8>>^ Portanto o santificarás, porquanto oferece o pão do teu Deus: santo será para ti, pois eu, o Senhor que vos santifica, sou  santo.
+
+[[v3-21-9]]
+
+^<<v3-21-9,9>>^ E quando a filha dum sacerdote se prostituir, profana a seu pai; com fogo será queimada.
+
+[[v3-21-10]]
+
+^<<v3-21-10,10>>^ E o sumo sacerdote entre seus irmãos, sobre cuja cabeça foi derramado o azeite da unção, e que for sagrado para vestir os vestidos, não descobrirá a sua cabeça nem rasgará os seus vestidos;
+
+[[v3-21-11]]
+
+^<<v3-21-11,11>>^ E não se chegará a cadáver algum, nem  por causa  de seu pai, nem por sua mãe, se contaminará;
+
+[[v3-21-12]]
+
+^<<v3-21-12,12>>^ Nem sairá do santuário, para que não profane o santuário do seu Deus, pois a coroa do azeite da unção do seu Deus está  sobre ele: Eu sou  o Senhor.
+
+[[v3-21-13]]
+
+^<<v3-21-13,13>>^ E ele tomará uma mulher na sua virgindade.
+
+[[v3-21-14]]
+
+^<<v3-21-14,14>>^ Viúva, ou repudiada, ou desonrada, ou  prostituta, estas não tomará, mas virgem dos seus povos tomará por mulher,
+
+[[v3-21-15]]
+
+^<<v3-21-15,15>>^ E não profanará a sua semente entre os seus povos; porque eu sou  o Senhor que  os santifico.
+
+[[v3-21-16]]
+
+^<<v3-21-16,16>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v3-21-17]]
+
+^<<v3-21-17,17>>^ Fala a Aarão, dizendo: Ninguém da tua semente, nas suas gerações, em quem houver alguma falta, se chegará a oferecer o pão do seu Deus.
+
+[[v3-21-18]]
+
+^<<v3-21-18,18>>^ Pois nenhum homem em quem houver alguma deformidade se chegará: como  homem cego, ou coxo, ou de nariz chato, ou de membros demasiadamente compridos,
+
+[[v3-21-19]]
+
+^<<v3-21-19,19>>^ Ou homem que tiver o pé quebrado, ou quebrada a mão,
+
+[[v3-21-20]]
+
+^<<v3-21-20,20>>^ Ou corcovado, ou anão, ou que tiver belida no olho, ou sarna, ou impigens, ou que tiver testículo quebrado.
+
+[[v3-21-21]]
+
+^<<v3-21-21,21>>^ Nenhum homem da semente de Aarão, o sacerdote, em quem houver alguma deformidade, se chegará para oferecer as ofertas queimadas do Senhor: falta nele há; não se chegará para oferecer o pão do seu Deus.
+
+[[v3-21-22]]
+
+^<<v3-21-22,22>>^ O pão do seu Deus, das santidades de santidades e das cousas santas poderá comer.
+
+[[v3-21-23]]
+
+^<<v3-21-23,23>>^ Porém até ao véu não entrará, nem se chegará ao altar, porquanto falta há nele, para que não profane os meus santuários; porque eu sou  o Senhor que  os santifico.
+
+[[v3-21-24]]
+
+^<<v3-21-24,24>>^ E Moisés falou isto  a Aarão e a seus filhos, e a todos os filhos de Israel.
+
+'''
+
+xref:003-levitico/003-levitico-020.adoc#v3-20-0[&#60; Capítulo Anterior] | <<v3-21-0,Topo>> | xref:003-levitico/003-levitico-022.adoc#v3-22-0[Próximo Capítulo &#62;]

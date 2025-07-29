@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v28-3-0]]
+=== Oséias, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v28-3-1]]
+
+^<<v28-3-1,1>>^ E O Senhor  me disse: Vai outra vez, ama uma mulher, amada de seu  amigo, e adúltera, como o Senhor ama os filhos de Israel, embora eles olhem para outros deuses, e amem os bolos de uvas.
+
+[[v28-3-2]]
+
+^<<v28-3-2,2>>^ E a comprei para mim por quinze peças  de prata, e um ômer de cevada e meio ômer de cevada;
+
+[[v28-3-3]]
+
+^<<v28-3-3,3>>^ E lhe disse: Tu ficarás comigo muitos dias; não te prostituirás, nem serás de outro  homem; assim quero eu ser também para ti.
+
+[[v28-3-4]]
+
+^<<v28-3-4,4>>^ Porque os filhos de Israel ficarão por muitos dias sem rei, e sem príncipe, e sem sacrifício, e sem estátua, e sem éfode ou terafim.
+
+[[v28-3-5]]
+
+^<<v28-3-5,5>>^ Depois tornarão os filhos de Israel, e buscarão ao Senhor seu Deus, e a Davi, seu rei; e temerão ao Senhor, e à sua bondade, no fim dos dias.
+
+'''
+
+xref:028-oseias/028-oseias-002.adoc#v28-2-0[&#60; Capítulo Anterior] | <<v28-3-0,Topo>> | xref:028-oseias/028-oseias-004.adoc#v28-4-0[Próximo Capítulo &#62;]

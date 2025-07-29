@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v6-12-0]]
+=== Josué, 12
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-12-1]]
+
+^<<v6-12-1,1>>^ ESTES pois são  os reis da terra, aos quais os filhos de Israel feriram e possuíram a sua terra dalém do Jordão ao nascente do sol: desde o ribeiro de Arnom, até ao monte de Hermom, e toda a planície do oriente:
+
+[[v6-12-2]]
+
+^<<v6-12-2,2>>^ Seom, rei dos amorreus, que habitava em Hesbom e que senhoreava desde Aroer, que está  à borda do ribeiro de Arnom, e desde  o meio do ribeiro, e desde  a metade de Gileade, e até ao ribeiro de Jaboque, o termo dos filhos de Amom;
+
+[[v6-12-3]]
+
+^<<v6-12-3,3>>^ E desde  a campina até ao mar de Quinerote para o oriente, e até ao mar da campina, o mar salgado para o oriente, pelo caminho de Bete-Jesimote; e desde o sul abaixo de Asdote-Pisga.
+
+[[v6-12-4]]
+
+^<<v6-12-4,4>>^ Como também o termo de Ogue, rei de Basã, que era  do resto dos gigantes, e  que habitava em Astarote e em Edrei;
+
+[[v6-12-5]]
+
+^<<v6-12-5,5>>^ E senhoreava no monte Hermom, e em Salcá, e em toda a Basã, até ao termo dos gesureus e dos maacateus, e metade de Gileade, termo de Seom, rei de Hesbom.
+
+[[v6-12-6]]
+
+^<<v6-12-6,6>>^ A estes Moisés, servo do Senhor, e os filhos de Israel feriram: e Moisés, servo do Senhor, deu esta terra  aos rubenitas e aos gaditas, e à meia tribo de Manassés em possessão.
+
+[[v6-12-7]]
+
+^<<v6-12-7,7>>^ E estes são  os reis da terra aos quais feriu Josué e os filhos de Israel daquém do Jordão para o ocidente, desde Baal-Gade, no vale do Líbano, até ao monte calvo, que sobe a Seir: e Josué a deu às tribos de Israel em possessão, segundo as suas divisões;
+
+[[v6-12-8]]
+
+^<<v6-12-8,8>>^ O que havia  nas montanhas, e nas planícies, e nas campinas, e nas descidas das águas, e no deserto, e para o sul; o heteu, o amorreu, e o cananeu, o ferezeu, o heveu, e o jebuseu.
+
+[[v6-12-9]]
+
+^<<v6-12-9,9>>^ O rei de Jericó, um; o rei de Ai, que está  ao lado de Betel, outro;
+
+[[v6-12-10]]
+
+^<<v6-12-10,10>>^ O rei de Jerusalém, outro; o rei de Hebrom, outro;
+
+[[v6-12-11]]
+
+^<<v6-12-11,11>>^ O rei de Jarmute, outro; o rei de Laquis, outro;
+
+[[v6-12-12]]
+
+^<<v6-12-12,12>>^ O rei de Eglom, outro; o rei de Geser, outro;
+
+[[v6-12-13]]
+
+^<<v6-12-13,13>>^ O rei de Debir, outro; o rei de Geder, outro;
+
+[[v6-12-14]]
+
+^<<v6-12-14,14>>^ O rei de Hormá, outro; o rei de Harade, outro;
+
+[[v6-12-15]]
+
+^<<v6-12-15,15>>^ O rei de Libna, outro; o rei de Adulão, outro;
+
+[[v6-12-16]]
+
+^<<v6-12-16,16>>^ O rei de Maquedá, outro; o rei de Betel, outro;
+
+[[v6-12-17]]
+
+^<<v6-12-17,17>>^ O rei de Tápua, outro; o rei de Hefer, outro;
+
+[[v6-12-18]]
+
+^<<v6-12-18,18>>^ O rei de Afeque, outro; o rei de Lassarom, outro;
+
+[[v6-12-19]]
+
+^<<v6-12-19,19>>^ O rei de Madom, outro; o rei de Hazor, outro;
+
+[[v6-12-20]]
+
+^<<v6-12-20,20>>^ O rei de Sinrom-Merom, outro; o rei de Acsafe, outro;
+
+[[v6-12-21]]
+
+^<<v6-12-21,21>>^ O rei de Taanaque, outro; o rei de Megido, outro;
+
+[[v6-12-22]]
+
+^<<v6-12-22,22>>^ O rei de Quedes, outro; o rei de Jocneão do carmelo, outro;
+
+[[v6-12-23]]
+
+^<<v6-12-23,23>>^ O rei de Dor em Nafate-Dor, outro; o rei das nações em Gilgal, outro;
+
+[[v6-12-24]]
+
+^<<v6-12-24,24>>^ O rei de Tirzá, outro; trinta e um reis por todos.
+
+'''
+
+xref:006-josue/006-josue-011.adoc#v6-11-0[&#60; Capítulo Anterior] | <<v6-12-0,Topo>> | xref:006-josue/006-josue-013.adoc#v6-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v23-4-0]]
+=== Isaías, 4
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-4-1]]
+
+^<<v23-4-1,1>>^ E SETE mulheres naquele dia lançarão mão dum homem, dizendo: Nós comeremos do nosso pão, e nos vestiremos de nossos vestidos: tão somente queremos que sejamos chamadas pelo teu nome; tira o nosso opróbrio.
+
+[[v23-4-2]]
+
+^<<v23-4-2,2>>^ Naquele dia o Renovo do Senhor será cheio de beleza e de glória; e o fruto da terra excelente e formoso para os que escaparem de Israel.
+
+[[v23-4-3]]
+
+^<<v23-4-3,3>>^ E será que aquele que ficar em Sião e o que permanecer em Jerusalém, será chamado santo: todo aquele que estiver inscrito entre os vivos em Jerusalém;
+
+[[v23-4-4]]
+
+^<<v23-4-4,4>>^ Quando o Senhor lavar a Imundícia das filhas de Sião, e limpar o sangue de Jerusalém do meio dela, com o espírito de justiça, e com o espírito de ardor.
+
+[[v23-4-5]]
+
+^<<v23-4-5,5>>^ E criará o Senhor sobre toda a habitação do monte de Sião, e sobre as suas congregações, uma nuvem de dia, e um fumo, e um resplendor de fogo chamejante de noite; porque sobre toda a glória haverá  proteção.
+
+[[v23-4-6]]
+
+^<<v23-4-6,6>>^ E haverá um  tabernáculo para sombra contra o calor do dia; e para refúgio e esconderijo contra a tempestade e contra a chuva.
+
+'''
+
+xref:023-isaias/023-isaias-003.adoc#v23-3-0[&#60; Capítulo Anterior] | <<v23-4-0,Topo>> | xref:023-isaias/023-isaias-005.adoc#v23-5-0[Próximo Capítulo &#62;]

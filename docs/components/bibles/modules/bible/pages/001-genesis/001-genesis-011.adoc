@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-11-0]]
+=== Gênesis, 11
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-11-1]]
+
+^<<v1-11-1,1>>^ E ERA toda a terra duma mesma língua, e duma mesma fala.
+
+[[v1-11-2]]
+
+^<<v1-11-2,2>>^ E aconteceu que, partindo eles do Oriente, acharam um vale na terra de Sinear, e habitaram ali.
+
+[[v1-11-3]]
+
+^<<v1-11-3,3>>^ E disseram uns aos outros: Eia, façamos tijolos, e queimemo-los bem. E foi-lhes o tijolo por pedra, e o betume por cal.
+
+[[v1-11-4]]
+
+^<<v1-11-4,4>>^ E disseram: Eia, edifiquemos nós uma cidade e uma torre cujo cume toque nos céus, e façamo-nos um nome, para que não sejamos espalhados sobre a face de toda a terra.
+
+[[v1-11-5]]
+
+^<<v1-11-5,5>>^ Então desceu o Senhor para ver a cidade e a torre que os filhos dos homens edificavam;
+
+[[v1-11-6]]
+
+^<<v1-11-6,6>>^ E disse: Eis que o povo é um, e todos têm uma mesma língua; e isto é o que começam a fazer; e agora, não haverá restrição para tudo o que eles intentarem fazer.
+
+[[v1-11-7]]
+
+^<<v1-11-7,7>>^ Eia, desçamos, e confundamos ali a sua língua, para que não entenda um a língua do outro.
+
+[[v1-11-8]]
+
+^<<v1-11-8,8>>^ Assim o Senhor os espalhou dali sobre a face de toda a terra; e cessaram de edificar a cidade.
+
+[[v1-11-9]]
+
+^<<v1-11-9,9>>^ Por isso se chamou o seu nome Babel, porquanto ali confundiu o Senhor a língua de toda a terra, e dali os espalhou o Senhor sobre a face de toda a terra.
+
+[[v1-11-10]]
+
+^<<v1-11-10,10>>^ Estas são as gerações de Sem: Sem era da idade de cem anos, e gerou a Arpachade, dois anos depois do dilúvio.
+
+[[v1-11-11]]
+
+^<<v1-11-11,11>>^ E viveu Sem, depois que gerou a Arpachade, quinhentos anos; e gerou filhos e filhas.
+
+[[v1-11-12]]
+
+^<<v1-11-12,12>>^ E viveu Arpachade trinta e cinco anos, e gerou a Selá.
+
+[[v1-11-13]]
+
+^<<v1-11-13,13>>^ E viveu Arpachade, depois que gerou a Selá, quatrocentos e três anos; e gerou filhos e filhas.
+
+[[v1-11-14]]
+
+^<<v1-11-14,14>>^ E viveu Selá trinta anos, e gerou a Éber;
+
+[[v1-11-15]]
+
+^<<v1-11-15,15>>^ E viveu Selá, depois que gerou a Éber, quatrocentos e três anos, e gerou filhos e filhas.
+
+[[v1-11-16]]
+
+^<<v1-11-16,16>>^ E viveu Éber trinta e quatro anos, e gerou a Pelegue:
+
+[[v1-11-17]]
+
+^<<v1-11-17,17>>^ E viveu Éber, depois que gerou a Pelegue, quatrocentos e trinta anos, e gerou filhos e filhas.
+
+[[v1-11-18]]
+
+^<<v1-11-18,18>>^ E viveu Pelegue trinta anos, e gerou a Reú:
+
+[[v1-11-19]]
+
+^<<v1-11-19,19>>^ E viveu Pelegue, depois que gerou a Reú, duzentos e nove anos, e gerou filhos e filhas.
+
+[[v1-11-20]]
+
+^<<v1-11-20,20>>^ E viveu Reú trinta e dois anos, e gerou a Serugue:
+
+[[v1-11-21]]
+
+^<<v1-11-21,21>>^ E viveu Reú, depois que gerou a Serugue, duzentos e sete anos, e gerou filhos e filhas.
+
+[[v1-11-22]]
+
+^<<v1-11-22,22>>^ E viveu Serugue trinta anos, e gerou a Naor:
+
+[[v1-11-23]]
+
+^<<v1-11-23,23>>^ E viveu Serugue, depois que gerou a Naor, duzentos anos, e gerou filhos e filhas.
+
+[[v1-11-24]]
+
+^<<v1-11-24,24>>^ E viveu Naor vinte e nove anos, e gerou a Terá;
+
+[[v1-11-25]]
+
+^<<v1-11-25,25>>^ E viveu Naor, depois que gerou a Terá, cento e dezenove anos, e gerou filhos e filhas.
+
+[[v1-11-26]]
+
+^<<v1-11-26,26>>^ E viveu Terá setenta anos, e gerou a Abrão, a Naor, e a Harã.
+
+[[v1-11-27]]
+
+^<<v1-11-27,27>>^ E estas são as gerações de Terá: Terá gerou a Abrão, a Naor, e a Harã; e Harã gerou a Ló.
+
+[[v1-11-28]]
+
+^<<v1-11-28,28>>^ E morreu Harã estando seu pai Terá ainda vivo, na terra do seu nascimento, em Ur dos Caldeus.
+
+[[v1-11-29]]
+
+^<<v1-11-29,29>>^ E tomaram Abrão e Naor mulheres para si: o nome da mulher de Abrão era Sarai, e o nome da mulher de Naor era Milca, filha de Harã, pai de Milca, e pai de Iscá.
+
+[[v1-11-30]]
+
+^<<v1-11-30,30>>^ E Sarai foi estéril, e não tinha filhos.
+
+[[v1-11-31]]
+
+^<<v1-11-31,31>>^ E tomou Terá a Abrão seu filho e a Ló filho de Harã, filho de seu filho e a Sarai sua nora, mulher de seu filho Abrão e saiu com eles de Ur dos Caldeus, para ir à terra de Canaã; e vieram até Harã, e habitaram ali.
+
+[[v1-11-32]]
+
+^<<v1-11-32,32>>^ E foram os dias de Terá duzentos e cinco anos; e morreu Terá em Harã.
+
+'''
+
+xref:001-genesis/001-genesis-010.adoc#v1-10-0[&#60; Capítulo Anterior] | <<v1-11-0,Topo>> | xref:001-genesis/001-genesis-012.adoc#v1-12-0[Próximo Capítulo &#62;]

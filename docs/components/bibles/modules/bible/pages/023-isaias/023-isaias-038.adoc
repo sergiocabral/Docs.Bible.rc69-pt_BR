@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-38-0]]
+=== Isaías, 38
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-38-1]]
+
+^<<v23-38-1,1>>^ NAQUELES dias Ezequias adoeceu duma enfermidade mortal: e veio a ele Isaías, filho de Amós, o profeta, e lhe disse: Assim diz o Senhor: Põe em ordem a tua casa, porque morrerás, e não viverás.
+
+[[v23-38-2]]
+
+^<<v23-38-2,2>>^ Então virou Ezequias o seu rosto para a parede, e orou ao Senhor.
+
+[[v23-38-3]]
+
+^<<v23-38-3,3>>^ E disse: Ah! Senhor, lembra-te, peço-te, de que andei diante de ti em verdade, e com coração perfeito, e fiz o que era  reto aos teus olhos. E chorou Ezequias muitíssimo.
+
+[[v23-38-4]]
+
+^<<v23-38-4,4>>^ Então veio a palavra do Senhor a Isaías, dizendo:
+
+[[v23-38-5]]
+
+^<<v23-38-5,5>>^ Vai, e dize a Ezequias: Assim diz o Senhor, o Deus de Davi teu pai: Ouvi a tua oração, e  vi as tuas lágrimas; eis que acrescentarei aos teus dias quinze anos.
+
+[[v23-38-6]]
+
+^<<v23-38-6,6>>^ E livrar-te-ei das mãos do rei da Assíria, a ti, e a esta cidade; eu defenderei esta cidade.
+
+[[v23-38-7]]
+
+^<<v23-38-7,7>>^ E isto te será  da parte do Senhor como sinal de que o Senhor cumprirá esta palavra que falou:
+
+[[v23-38-8]]
+
+^<<v23-38-8,8>>^ Eis que farei que a sombra dos graus, que passou com o sol pelos graus do relógio  de Acaz, volte dez graus atrás. Assim recuou o sol dez graus pelos graus que já tinha andado.
+
+[[v23-38-9]]
+
+^<<v23-38-9,9>>^ Escrituras de Ezequias, rei de Judá, de quando adoeceu e sarou de sua enfermidade.
+
+[[v23-38-10]]
+
+^<<v23-38-10,10>>^ Eu disse: na tranquilidade de meus dias ir-me-ei às portas da sepultura: já  estou privado do resto de meus anos.
+
+[[v23-38-11]]
+
+^<<v23-38-11,11>>^ Eu disse: Já  não verei mais  ao Senhor na terra dos viventes: jamais verei o homem com os moradores do mundo.
+
+[[v23-38-12]]
+
+^<<v23-38-12,12>>^ O tempo da minha vida se foi, e foi removido de mim, como choça de pastor: cortei como tecelão a minha vida: como  que do tear me cortará; desde a manhã até à noite me acabarás.
+
+[[v23-38-13]]
+
+^<<v23-38-13,13>>^ Eu sosseguei até à madrugada; como um leão quebrou todos os meus ossos: desde a manhã até à noite me acabarás.
+
+[[v23-38-14]]
+
+^<<v23-38-14,14>>^ Como o grou, ou  a andorinha, assim eu chilreava, e  gemia como a pomba: alçava os meus olhos ao alto: ó Senhor, ando oprimido! fica por meu fiador.
+
+[[v23-38-15]]
+
+^<<v23-38-15,15>>^ Que direi? como mo prometeu, assim o fez: assim  passarei mansamente por todos os meus anos, por causa da amargura da minha alma.
+
+[[v23-38-16]]
+
+^<<v23-38-16,16>>^ Senhor, com estas cousas se vive, e em todas elas está  a vida do meu espírito; portanto, cura-me e faze-me viver.
+
+[[v23-38-17]]
+
+^<<v23-38-17,17>>^ Eis que para minha paz, eu estive em grande amargura; tu porém tão  amorosamente abraçaste a minha alma, que não caiu  na cova da corrupção, porque lançaste para trás das tuas costas todos os meus pecados.
+
+[[v23-38-18]]
+
+^<<v23-38-18,18>>^ Porque não pode louvar-te a sepultura, nem  a morte glorificar-te: nem esperarão em tua verdade os que descem à cova.
+
+[[v23-38-19]]
+
+^<<v23-38-19,19>>^ Os vivos, os vivos, esses te louvarão como eu hoje faço: o pai aos filhos fará notória a tua verdade.
+
+[[v23-38-20]]
+
+^<<v23-38-20,20>>^ O Senhor veio  salvar-me: pelo que, tangendo eu meus instrumentos, nós o louvaremos todos os dias de nossa vida na casa do Senhor.
+
+[[v23-38-21]]
+
+^<<v23-38-21,21>>^ E dissera Isaías: Tomem uma  pasta de figos, e a ponham como emplasto sobre a chaga; e sarará.
+
+[[v23-38-22]]
+
+^<<v23-38-22,22>>^ Também dissera Ezequias: Qual será o sinal de que hei de subir à casa do Senhor?
+
+'''
+
+xref:023-isaias/023-isaias-037.adoc#v23-37-0[&#60; Capítulo Anterior] | <<v23-38-0,Topo>> | xref:023-isaias/023-isaias-039.adoc#v23-39-0[Próximo Capítulo &#62;]

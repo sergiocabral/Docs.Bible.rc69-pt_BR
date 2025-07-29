@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v3-24-0]]
+=== Levítico, 24
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v3-24-1]]
+
+^<<v3-24-1,1>>^ E FALOU o Senhor a Moisés, dizendo:
+
+[[v3-24-2]]
+
+^<<v3-24-2,2>>^ Ordena aos filhos de Israel que te tragam azeite de oliveira, puro, batido, para a luminária, para acender as lâmpadas continuamente.
+
+[[v3-24-3]]
+
+^<<v3-24-3,3>>^ Aarão as porá em ordem perante o Senhor continuamente desde a tarde até à manhã, fora do véu do testemunho, na tenda da congregação: estatuto perpétuo é  pelas vossas gerações.
+
+[[v3-24-4]]
+
+^<<v3-24-4,4>>^ Sobre o castiçal puro porá em ordem as lâmpadas perante o Senhor continuamente.
+
+[[v3-24-5]]
+
+^<<v3-24-5,5>>^ Também tomarás da  flor de farinha, e dela cozerás doze bolos: cada bolo será de duas dízimas de efa.
+
+[[v3-24-6]]
+
+^<<v3-24-6,6>>^ E os porás em duas fileiras, seis em cada  fileira, sobre a mesa pura, perante o Senhor.
+
+[[v3-24-7]]
+
+^<<v3-24-7,7>>^ E sobre cada  fileira porás incenso puro, que será para o pão por oferta memorial; oferta queimada é  ao Senhor.
+
+[[v3-24-8]]
+
+^<<v3-24-8,8>>^ Em cada dia de sábado, isto se porá em ordem perante o Senhor continuamente, pelos filhos de Israel, por concerto perpétuo.
+
+[[v3-24-9]]
+
+^<<v3-24-9,9>>^ E será de Aarão e de seus filhos, os quais o comerão no lugar santo, porque uma cousa santíssima é para ele, das ofertas queimadas ao Senhor, por estatuto perpétuo.
+
+[[v3-24-10]]
+
+^<<v3-24-10,10>>^ E apareceu um filho duma mulher israelita, o qual era  filho dum egípcio, no meio dos filhos de Israel; e o filho da israelita e um homem israelita porfiaram no arraial.
+
+[[v3-24-11]]
+
+^<<v3-24-11,11>>^ Então o filho da mulher israelita blasfemou o nome do Senhor, e o amaldiçoou, pelo que o trouxeram a Moisés: e o nome de sua mãe era  Selomite, filha de Dibri, da tribo de Dã.
+
+[[v3-24-12]]
+
+^<<v3-24-12,12>>^ E o levaram à prisão, até que se lhes fizesse declaração pela boca do Senhor.
+
+[[v3-24-13]]
+
+^<<v3-24-13,13>>^ E falou o Senhor a Moisés, dizendo:
+
+[[v3-24-14]]
+
+^<<v3-24-14,14>>^ Tira o que tem blasfemado para fora do arraial; e todos os que o ouviram porão as suas mãos sobre a sua cabeça: então toda a congregação o apedrejará.
+
+[[v3-24-15]]
+
+^<<v3-24-15,15>>^ E aos filhos de Israel falarás, dizendo: Qualquer que amaldiçoar o seu Deus, levará sobre si  o seu pecado.
+
+[[v3-24-16]]
+
+^<<v3-24-16,16>>^ E aquele que blasfemar o nome do Senhor, certamente morrerá; toda a congregação certamente o apedrejará; assim o estrangeiro como o natural, blasfemando o nome do Senhor, será morto.
+
+[[v3-24-17]]
+
+^<<v3-24-17,17>>^ E quem matar a alguém certamente morrerá.
+
+[[v3-24-18]]
+
+^<<v3-24-18,18>>^ Mas quem matar um animal, o restituirá, vida por vida.
+
+[[v3-24-19]]
+
+^<<v3-24-19,19>>^ Quando também alguém desfigurar o seu próximo, como ele fez assim lhe será feito:
+
+[[v3-24-20]]
+
+^<<v3-24-20,20>>^ Quebradura por quebradura, olho por olho, dente por dente: como ele tiver desfigurado a algum homem, assim se lhe fará.
+
+[[v3-24-21]]
+
+^<<v3-24-21,21>>^ Quem pois matar um animal, restituí-lo-á, mas quem matar um homem será morto.
+
+[[v3-24-22]]
+
+^<<v3-24-22,22>>^ Uma mesma lei tereis: assim será o estrangeiro como o natural; pois eu sou  o Senhor vosso Deus.
+
+[[v3-24-23]]
+
+^<<v3-24-23,23>>^ E disse Moisés aos filhos de Israel que levassem o que tinha blasfemado para fora do arraial, e o apedrejassem com pedras: e fizeram os filhos de Israel como o Senhor ordenara a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-023.adoc#v3-23-0[&#60; Capítulo Anterior] | <<v3-24-0,Topo>> | xref:003-levitico/003-levitico-025.adoc#v3-25-0[Próximo Capítulo &#62;]

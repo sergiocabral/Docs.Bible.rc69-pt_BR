@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-57-0]]
+=== Salmos, 57
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-57-1]]
+
+^<<v19-57-1,1>>^ TEM misericórdia de mim, ó Deus, tem misericórdia de mim, porque a minha alma confia em ti; e à sombra das tuas asas me abrigo, até que passem as calamidades.
+
+[[v19-57-2]]
+
+^<<v19-57-2,2>>^ Clamarei ao Deus altíssimo, ao Deus que por mim tudo executa.
+
+[[v19-57-3]]
+
+^<<v19-57-3,3>>^ Ele dos céus enviará seu auxílio, e me salvará do  desprezo daquele que procurava devorar-me (Selá). Deus enviará a sua misericórdia e a sua verdade.
+
+[[v19-57-4]]
+
+^<<v19-57-4,4>>^ A minha alma está  entre leões, e eu estou entre  aqueles que estão abrasados, filhos dos homens, cujos dentes são lanças e frechas, e cuja língua é espada afiada.
+
+[[v19-57-5]]
+
+^<<v19-57-5,5>>^ Sê exaltado, ó Deus, sobre os céus; seja a tua glória sobre toda a terra.
+
+[[v19-57-6]]
+
+^<<v19-57-6,6>>^ Armaram uma rede aos meus passos, a minha alma ficou abatida; cavaram uma cova diante de mim, mas foram eles que nela caíram. (Selá.)
+
+[[v19-57-7]]
+
+^<<v19-57-7,7>>^ Preparado está o meu coração, ó Deus, preparado está o meu coração; cantarei, e salmodiarei.
+
+[[v19-57-8]]
+
+^<<v19-57-8,8>>^ Desperta! glória minha; desperta! alaúde e harpa; eu mesmo  despertarei ao romper da alva.
+
+[[v19-57-9]]
+
+^<<v19-57-9,9>>^ Louvar-te-ei, Senhor, entre os povos; cantar-te-ei entre as nações.
+
+[[v19-57-10]]
+
+^<<v19-57-10,10>>^ Pois a tua misericórdia é  grande até aos céus, e a tua verdade até às nuvens.
+
+[[v19-57-11]]
+
+^<<v19-57-11,11>>^ Sê exaltado, ó Deus, sobre os céus; e seja a tua glória sobre toda a terra.
+
+'''
+
+xref:019-salmos/019-salmos-056.adoc#v19-56-0[&#60; Capítulo Anterior] | <<v19-57-0,Topo>> | xref:019-salmos/019-salmos-058.adoc#v19-58-0[Próximo Capítulo &#62;]

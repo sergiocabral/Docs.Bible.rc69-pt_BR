@@ -1,0 +1,365 @@
+include::./index.adoc[]
+
+[[v4-7-0]]
+=== Números, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-7-1]]
+
+^<<v4-7-1,1>>^ E ACONTECEU, no dia em que Moisés acabou de levantar o tabernáculo, e o ungiu, e o santificou, e todos os seus vasos; também o altar, e todos os seus vasos, e os ungiu, e os santificou,
+
+[[v4-7-2]]
+
+^<<v4-7-2,2>>^ Que os príncipes de Israel, os cabeças da casa de seus pais, os que foram príncipes das tribos, que estavam sobre os que foram  contados, ofereceram,
+
+[[v4-7-3]]
+
+^<<v4-7-3,3>>^ E trouxeram a sua oferta perante o Senhor, seis carros cobertos, e doze bois; por dois príncipes um carro, e por cada um um boi: e os trouxeram diante do tabernáculo.
+
+[[v4-7-4]]
+
+^<<v4-7-4,4>>^ E falou o Senhor a Moisés, dizendo:
+
+[[v4-7-5]]
+
+^<<v4-7-5,5>>^ Toma os  deles, e serão para servir no ministério da tenda da congregação: e os darás aos levitas, a cada qual segundo o seu ministério.
+
+[[v4-7-6]]
+
+^<<v4-7-6,6>>^ Assim Moisés tomou os carros e os bois, e os deu aos levitas.
+
+[[v4-7-7]]
+
+^<<v4-7-7,7>>^ Dois carros e quatro bois deu aos filhos de Gérson, segundo o seu ministério:
+
+[[v4-7-8]]
+
+^<<v4-7-8,8>>^ E quatro carros e oito bois deu aos filhos de Merari, segundo o seu ministério, debaixo da mão de Itamar, filho de Aarão, o sacerdote.
+
+[[v4-7-9]]
+
+^<<v4-7-9,9>>^ Mas aos filhos de Coate nada deu porquanto a seu cargo estava o santuário e o levavam aos ombros.
+
+[[v4-7-10]]
+
+^<<v4-7-10,10>>^ E ofereceram os príncipes para a consagração do altar, no dia em que foi ungido; ofereceram pois os príncipes a sua oferta perante o altar.
+
+[[v4-7-11]]
+
+^<<v4-7-11,11>>^ E disse o Senhor a Moisés: Cada príncipe oferecerá a sua oferta (cada qual em seu dia) para a consagração do altar.
+
+[[v4-7-12]]
+
+^<<v4-7-12,12>>^ O que pois no primeiro dia ofereceu a sua oferta foi Naassom, filho de Aminadabe, pela tribo de Judá.
+
+[[v4-7-13]]
+
+^<<v4-7-13,13>>^ E a sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de  flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-14]]
+
+^<<v4-7-14,14>>^ Uma taça de dez siclos  de ouro cheia de incenso;
+
+[[v4-7-15]]
+
+^<<v4-7-15,15>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-16]]
+
+^<<v4-7-16,16>>^ Um bode para expiação do pecado;
+
+[[v4-7-17]]
+
+^<<v4-7-17,17>>^ E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Naassom, filho de Aminadabe.
+
+[[v4-7-18]]
+
+^<<v4-7-18,18>>^ No segundo dia fez a sua oferta Natanael, filho de Suar, príncipe de Issacar.
+
+[[v4-7-19]]
+
+^<<v4-7-19,19>>^ E pela  sua oferta ofereceu um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário: ambos cheios de flor de farinha, amassada com azeite, para a oferta de manjares;
+
+[[v4-7-20]]
+
+^<<v4-7-20,20>>^ Uma taça de dez siclos de ouro, cheia de incenso;
+
+[[v4-7-21]]
+
+^<<v4-7-21,21>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-22]]
+
+^<<v4-7-22,22>>^ Um bode para expiação do pecado;
+
+[[v4-7-23]]
+
+^<<v4-7-23,23>>^ E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Natanael, filho de Suar.
+
+[[v4-7-24]]
+
+^<<v4-7-24,24>>^ No terceiro dia ofereceu  o príncipe dos filhos de Zebulom, Eliabe, filho de Helom.
+
+[[v4-7-25]]
+
+^<<v4-7-25,25>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-26]]
+
+^<<v4-7-26,26>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-27]]
+
+^<<v4-7-27,27>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-28]]
+
+^<<v4-7-28,28>>^ Um bode para expiação do pecado;
+
+[[v4-7-29]]
+
+^<<v4-7-29,29>>^ E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Eliabe, filho de Helom.
+
+[[v4-7-30]]
+
+^<<v4-7-30,30>>^ No quarto dia ofereceu  o príncipe dos filhos de Rúben, Elizur, filho de Sedeur:
+
+[[v4-7-31]]
+
+^<<v4-7-31,31>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-32]]
+
+^<<v4-7-32,32>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-33]]
+
+^<<v4-7-33,33>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-34]]
+
+^<<v4-7-34,34>>^ Um bode para expiação do pecado;
+
+[[v4-7-35]]
+
+^<<v4-7-35,35>>^ E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi a oferta de Elizur, filho de Sedeur.
+
+[[v4-7-36]]
+
+^<<v4-7-36,36>>^ No quinto dia ofereceu  o príncipe dos filhos de Simeão, Selumiel, filho de Surisadai.
+
+[[v4-7-37]]
+
+^<<v4-7-37,37>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-38]]
+
+^<<v4-7-38,38>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-39]]
+
+^<<v4-7-39,39>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-40]]
+
+^<<v4-7-40,40>>^ Um bode para expiação do pecado.
+
+[[v4-7-41]]
+
+^<<v4-7-41,41>>^ E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Selumiel, filho de Surisadai.
+
+[[v4-7-42]]
+
+^<<v4-7-42,42>>^ No sexto dia ofereceu  o príncipe dos filhos de Gade, Eliasafe, filho de Deuel.
+
+[[v4-7-43]]
+
+^<<v4-7-43,43>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-44]]
+
+^<<v4-7-44,44>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-45]]
+
+^<<v4-7-45,45>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-46]]
+
+^<<v4-7-46,46>>^ Um bode para expiação do pecado;
+
+[[v4-7-47]]
+
+^<<v4-7-47,47>>^ E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Eliasafe, filho de Deuel.
+
+[[v4-7-48]]
+
+^<<v4-7-48,48>>^ No sétimo dia ofereceu  o príncipe dos filhos de Efraim, Elisama, filho de Amiúde.
+
+[[v4-7-49]]
+
+^<<v4-7-49,49>>^ A sua oferta foi  um prato de prata do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-50]]
+
+^<<v4-7-50,50>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-51]]
+
+^<<v4-7-51,51>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-52]]
+
+^<<v4-7-52,52>>^ Um bode para expiação do pecado;
+
+[[v4-7-53]]
+
+^<<v4-7-53,53>>^ E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Elisama, filho de Amiúde.
+
+[[v4-7-54]]
+
+^<<v4-7-54,54>>^ No oitavo dia ofereceu  o príncipe dos filhos de Manassés, Gamaliel, filho de Pedazur:
+
+[[v4-7-55]]
+
+^<<v4-7-55,55>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-56]]
+
+^<<v4-7-56,56>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-57]]
+
+^<<v4-7-57,57>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-58]]
+
+^<<v4-7-58,58>>^ Um bode para expiação do pecado;
+
+[[v4-7-59]]
+
+^<<v4-7-59,59>>^ E para sacrifício pacífico dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Gamaliel, filho de Pedazur.
+
+[[v4-7-60]]
+
+^<<v4-7-60,60>>^ No dia nono ofereceu  o príncipe dos filhos de Benjamim, Abidã, filho de Gideôni:
+
+[[v4-7-61]]
+
+^<<v4-7-61,61>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-62]]
+
+^<<v4-7-62,62>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-63]]
+
+^<<v4-7-63,63>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-64]]
+
+^<<v4-7-64,64>>^ Um bode para expiação do pecado;
+
+[[v4-7-65]]
+
+^<<v4-7-65,65>>^ E para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano; esta foi  a oferta de Abidã, filho de Gideôni.
+
+[[v4-7-66]]
+
+^<<v4-7-66,66>>^ No décimo dia ofereceu  o príncipe dos filhos de Dã, Aiezer, filho de Amisadai.
+
+[[v4-7-67]]
+
+^<<v4-7-67,67>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-68]]
+
+^<<v4-7-68,68>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-69]]
+
+^<<v4-7-69,69>>^ Um novilho, um carneiro, um cordeiro dum ano, para holocausto;
+
+[[v4-7-70]]
+
+^<<v4-7-70,70>>^ Um bode para expiação do pecado;
+
+[[v4-7-71]]
+
+^<<v4-7-71,71>>^ E para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Aiezer, filho de Amisadai.
+
+[[v4-7-72]]
+
+^<<v4-7-72,72>>^ No dia undécimo ofereceu  o príncipe dos filhos de Aser, Pagiel, filho de Ocrã.
+
+[[v4-7-73]]
+
+^<<v4-7-73,73>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-74]]
+
+^<<v4-7-74,74>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-75]]
+
+^<<v4-7-75,75>>^ Um novilho, um carneiro, um cordeiro dum ano para holocausto;
+
+[[v4-7-76]]
+
+^<<v4-7-76,76>>^ Um bode para expiação do pecado;
+
+[[v4-7-77]]
+
+^<<v4-7-77,77>>^ E para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Pagiel, filho de Ocrã.
+
+[[v4-7-78]]
+
+^<<v4-7-78,78>>^ No duodécimo dia ofereceu  o príncipe dos filhos de Naftali, Aíra, filho de Enã.
+
+[[v4-7-79]]
+
+^<<v4-7-79,79>>^ A sua oferta foi  um prato de prata, do peso de cento e trinta siclos , uma bacia de prata de setenta siclos, segundo o siclo do santuário; ambos cheios de flor de farinha, amassada com azeite, para oferta de manjares;
+
+[[v4-7-80]]
+
+^<<v4-7-80,80>>^ Uma taça de dez siclos  de ouro, cheia de incenso;
+
+[[v4-7-81]]
+
+^<<v4-7-81,81>>^ Um novilho, um carneiro, um cordeiro dum ano para holocausto;
+
+[[v4-7-82]]
+
+^<<v4-7-82,82>>^ Um bode para expiação do pecado;
+
+[[v4-7-83]]
+
+^<<v4-7-83,83>>^ E para sacrifício pacífico, dois bois, cinco carneiros, cinco bodes, cinco cordeiros dum ano: esta foi  a oferta de Aíra, filho de Enã.
+
+[[v4-7-84]]
+
+^<<v4-7-84,84>>^ Esta é  a consagração do altar, feita  pelos príncipes de Israel, no dia em que foi ungido: doze pratos de prata, doze bacias de prata, doze taças de ouro.
+
+[[v4-7-85]]
+
+^<<v4-7-85,85>>^ Cada prato de prata de cento e trinta siclos , e cada bacia de setenta: toda a prata dos vasos foi  dois mil e quatrocentos siclos , segundo o siclo do santuário:
+
+[[v4-7-86]]
+
+^<<v4-7-86,86>>^ Doze taças de ouro cheias de incenso, cada taça de dez siclos , segundo o siclo do santuário: todo o ouro das taças foi  de cento e vinte siclos ;
+
+[[v4-7-87]]
+
+^<<v4-7-87,87>>^ Todos os bois para holocausto foram  doze novilhos; carneiros doze, doze cordeiros dum ano, com a sua oferta de manjares, e doze bodes para expiação do pecado.
+
+[[v4-7-88]]
+
+^<<v4-7-88,88>>^ E todos os bois para sacrifício pacífico foram  vinte e quatro novilhos: os carneiros sessenta, os bodes sessenta, os cordeiros dum ano sessenta: esta é  a consagração do altar, depois que foi ungido.
+
+[[v4-7-89]]
+
+^<<v4-7-89,89>>^ E, quando Moisés entrava na tenda da congregação para falar com o Senhor, então ouvia a voz que lhe falava de cima do propiciatório, que está  sobre a arca do testemunho entre os dois querubins: assim com ele falava.
+
+'''
+
+xref:004-numeros/004-numeros-006.adoc#v4-6-0[&#60; Capítulo Anterior] | <<v4-7-0,Topo>> | xref:004-numeros/004-numeros-008.adoc#v4-8-0[Próximo Capítulo &#62;]

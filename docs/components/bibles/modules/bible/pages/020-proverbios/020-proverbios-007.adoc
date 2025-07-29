@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-7-0]]
+=== Provérbios, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-7-1]]
+
+^<<v20-7-1,1>>^ FILHO meu, guarda as minhas palavras, e esconde dentro de ti os meus mandamentos.
+
+[[v20-7-2]]
+
+^<<v20-7-2,2>>^ Guarda os meus mandamentos, e vive; e a minha lei, como a menina dos teus olhos,
+
+[[v20-7-3]]
+
+^<<v20-7-3,3>>^ Ata-os aos teus dedos, escreve-os na tábua do teu coração.
+
+[[v20-7-4]]
+
+^<<v20-7-4,4>>^ Dize à sabedoria: tu és  minha irmã; e à prudência chama tua parenta.
+
+[[v20-7-5]]
+
+^<<v20-7-5,5>>^ Para te guardarem da mulher alheia, da estranha, que  lisonjeia com as suas palavras.
+
+[[v20-7-6]]
+
+^<<v20-7-6,6>>^ Porque da janela da minha casa, por minhas grades olhando eu ,
+
+[[v20-7-7]]
+
+^<<v20-7-7,7>>^ Vi entre os simples, descobri entre os jovens, um  mancebo falto de juízo,
+
+[[v20-7-8]]
+
+^<<v20-7-8,8>>^ Que passava pela rua junto à sua esquina, e seguia o caminho da sua casa;
+
+[[v20-7-9]]
+
+^<<v20-7-9,9>>^ No crepúsculo, à tarde do dia, na escuridão e trevas da noite;
+
+[[v20-7-10]]
+
+^<<v20-7-10,10>>^ E eis que uma  mulher lhe saiu  ao encontro, com enfeites de prostituta, e astuto coração:
+
+[[v20-7-11]]
+
+^<<v20-7-11,11>>^ Esta era  alvoroçadora, e contenciosa; não paravam em casa os seus pés;
+
+[[v20-7-12]]
+
+^<<v20-7-12,12>>^ Ora pelas ruas, ora pelas praças, espreitando por todos os cantos:
+
+[[v20-7-13]]
+
+^<<v20-7-13,13>>^ Aproximou-se dele, e o beijou; esforçou o seu rosto, e disse-lhe:
+
+[[v20-7-14]]
+
+^<<v20-7-14,14>>^ Sacrifícios pacíficos tenho  comigo; hoje paguei os meus votos.
+
+[[v20-7-15]]
+
+^<<v20-7-15,15>>^ Por isso saí ao teu encontro a buscar diligentemente a tua face, e te achei.
+
+[[v20-7-16]]
+
+^<<v20-7-16,16>>^ Já cobri a minha cama com cobertas de tapeçaria, com obras lavradas com linho fino do Egito;
+
+[[v20-7-17]]
+
+^<<v20-7-17,17>>^ Já perfumei o meu leito com mirra, aloés, e canela.
+
+[[v20-7-18]]
+
+^<<v20-7-18,18>>^ Vem, saciemo-nos de amores até pela manhã: alegremo-nos com amores.
+
+[[v20-7-19]]
+
+^<<v20-7-19,19>>^ Porque o marido não está  em casa: foi fazer uma  jornada ao longe:
+
+[[v20-7-20]]
+
+^<<v20-7-20,20>>^ Um  saquitel de dinheiro levou na sua mão: só no dia marcado voltará a casa.
+
+[[v20-7-21]]
+
+^<<v20-7-21,21>>^ Seduziu-o com a multidão das suas palavras, com as lisonjas dos seus lábios o persuadiu.
+
+[[v20-7-22]]
+
+^<<v20-7-22,22>>^ E ele segue-a logo, como boi que vai ao matadouro, e como o  louco ao castigo das prisões;
+
+[[v20-7-23]]
+
+^<<v20-7-23,23>>^ Até que a frecha lhe atravesse o fígado, como a ave que se apressa para o laço, e não sabe que ele está ali contra a sua vida.
+
+[[v20-7-24]]
+
+^<<v20-7-24,24>>^ Agora pois, filhos, dai-me ouvidos, e estai atentos às palavras da minha boca:
+
+[[v20-7-25]]
+
+^<<v20-7-25,25>>^ Não se desvie para os seus caminhos o teu coração, e não andes perdido nas suas veredas;
+
+[[v20-7-26]]
+
+^<<v20-7-26,26>>^ Porque a muitos feridos derribou: e são muitíssimos os que por ela foram mortos.
+
+[[v20-7-27]]
+
+^<<v20-7-27,27>>^ Caminhos de sepultura é  a sua casa, os quais descem às câmaras da morte.
+
+'''
+
+xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[&#60; Capítulo Anterior] | <<v20-7-0,Topo>> | xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,257 @@
+include::./index.adoc[]
+
+[[v42-9-0]]
+=== Lucas, 9
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v42-9-1]]
+
+^<<v42-9-1,1>>^ E, CONVOCANDO os seus doze discípulos, deu-lhes virtude e poder sobre todos os demônios, e para curarem enfermidades;
+
+[[v42-9-2]]
+
+^<<v42-9-2,2>>^ E enviou-os a pregar o reino de Deus, e a curar os enfermos.
+
+[[v42-9-3]]
+
+^<<v42-9-3,3>>^ E disse-lhes: Nada leveis convosco para o caminho, nem bordões, nem alforje, nem pão, nem dinheiro; nem tenhais dois vestidos.
+
+[[v42-9-4]]
+
+^<<v42-9-4,4>>^ E, em qualquer casa em que entrardes, ficai ali, e de lá saireis.
+
+[[v42-9-5]]
+
+^<<v42-9-5,5>>^ E, se em qualquer cidade vos não receberem, saindo vós dali, sacudi o pó dos vossos pés, em testemunho contra eles.
+
+[[v42-9-6]]
+
+^<<v42-9-6,6>>^ E, saindo eles, percorreram todas as aldeias, anunciando o evangelho, e fazendo curas por toda a parte.
+
+[[v42-9-7]]
+
+^<<v42-9-7,7>>^ E o tetrarca Herodes ouvia tudo o que se passava, e estava em dúvida, porque diziam alguns que João ressuscitara dos mortos;
+
+[[v42-9-8]]
+
+^<<v42-9-8,8>>^ E outros que Elias tinha aparecido; e outros que um profeta dos antigos havia ressuscitado.
+
+[[v42-9-9]]
+
+^<<v42-9-9,9>>^ E disse Herodes: A João mandei eu degolar: quem é pois este de quem ouço dizer tais coisas ? E procurava vê-lo.
+
+[[v42-9-10]]
+
+^<<v42-9-10,10>>^ E, regressando os apóstolos, contaram-lhe tudo o que tinham feito. E, tomando-os consigo, retirou-se para um lugar deserto de uma cidade chamada Betsaida.
+
+[[v42-9-11]]
+
+^<<v42-9-11,11>>^ E, sabendo- o  a multidão, o seguiu; e ele os recebeu, e falava-lhes do reino de Deus, e sarava os que necessitavam de cura.
+
+[[v42-9-12]]
+
+^<<v42-9-12,12>>^ E já  o dia começava a declinar; então, chegando-se a ele os doze, disseram-lhe: Despede a multidão, para que, indo aos lugares e aldeias em redor, se agasalhem, e achem que comer; porque aqui estamos em lugar deserto.
+
+[[v42-9-13]]
+
+^<<v42-9-13,13>>^ Mas ele lhes disse: Dai-lhes vós de comer. E eles disseram: Não temos senão cinco pães e dois peixes: salvo se nós próprios formos comprar comida para todo este povo.
+
+[[v42-9-14]]
+
+^<<v42-9-14,14>>^ Porquanto estavam ali quase cinco mil homens. Disse então aos seus discípulos: Fazei-os assentar, em ranchos de cinquenta em cinquenta.
+
+[[v42-9-15]]
+
+^<<v42-9-15,15>>^ E assim o fizeram, fazendo- os  assentar a todos.
+
+[[v42-9-16]]
+
+^<<v42-9-16,16>>^ E, tomando os cinco pães e os dois peixes, e olhando para o céu, abençoou-os, e partiu-os, e deu-os aos seus discípulos para os porem diante da multidão.
+
+[[v42-9-17]]
+
+^<<v42-9-17,17>>^ E comeram todos, e saciaram-se; e levantaram, do que lhes sobejou, doze cestos de pedaços.
+
+[[v42-9-18]]
+
+^<<v42-9-18,18>>^ E aconteceu que, estando ele só, orando, estavam com ele os discípulos; e perguntou-lhes, dizendo: Quem diz a multidão que eu sou?
+
+[[v42-9-19]]
+
+^<<v42-9-19,19>>^ E, respondendo eles, disseram: João Batista; outros, Elias, e outros que um dos antigos profetas ressuscitou.
+
+[[v42-9-20]]
+
+^<<v42-9-20,20>>^ E disse-lhes: E vós quem dizeis que eu sou? E, respondendo Pedro, disse: O Cristo de Deus.
+
+[[v42-9-21]]
+
+^<<v42-9-21,21>>^ E, admoestando-os, mandou que a ninguém referissem isso,
+
+[[v42-9-22]]
+
+^<<v42-9-22,22>>^ Dizendo: É necessário que o Filho do homem padeça muitas coisas , e seja rejeitado dos anciãos e dos escribas, e seja morto, e ressuscite ao terceiro dia.
+
+[[v42-9-23]]
+
+^<<v42-9-23,23>>^ E dizia a todos: Se alguém quer vir após mim, negue-se a si mesmo, e tome cada dia a sua cruz, e siga-me.
+
+[[v42-9-24]]
+
+^<<v42-9-24,24>>^ Porque, qualquer que quiser salvar a sua vida, perdê-la-á; mas qualquer que, por amor de mim, perder a sua vida, a salvará.
+
+[[v42-9-25]]
+
+^<<v42-9-25,25>>^ Porque, que aproveita ao homem granjear o mundo todo, perdendo-se ou prejudicando-se a si mesmo?
+
+[[v42-9-26]]
+
+^<<v42-9-26,26>>^ Porque, qualquer que de mim e das minhas palavras se envergonhar, dele se envergonhará o Filho do homem, quando vier na sua glória e na  do Pai e dos santos anjos.
+
+[[v42-9-27]]
+
+^<<v42-9-27,27>>^ E em verdade vos digo que, dos que aqui estão, alguns há que não provarão a morte até que vejam o reino de Deus.
+
+[[v42-9-28]]
+
+^<<v42-9-28,28>>^ E aconteceu que, quase oito dias depois destas palavras, tomou consigo a Pedro, a João e a Tiago, e subiu ao monte a orar.
+
+[[v42-9-29]]
+
+^<<v42-9-29,29>>^ E, estando ele orando, transfigurou-se a aparência do seu rosto, e o seu vestido ficou  branco e  mui resplandecente.
+
+[[v42-9-30]]
+
+^<<v42-9-30,30>>^ E eis que estavam falando com ele dois varões, que eram Moisés e Elias,
+
+[[v42-9-31]]
+
+^<<v42-9-31,31>>^ Os quais apareceram com glória, e falavam da sua morte, a qual havia de cumprir-se em Jerusalém.
+
+[[v42-9-32]]
+
+^<<v42-9-32,32>>^ E Pedro e os que estavam com ele estavam carregados de sono; e, quando despertaram, viram a sua glória e aqueles dois varões que estavam com ele.
+
+[[v42-9-33]]
+
+^<<v42-9-33,33>>^ E aconteceu que, quando aqueles se apartaram dele, disse Pedro a Jesus: Mestre, bom é que nós estejamos aqui, e façamos três tendas, uma para ti, uma para Moisés, e uma para Elias; não sabendo o que dizia.
+
+[[v42-9-34]]
+
+^<<v42-9-34,34>>^ E, dizendo ele isto, veio uma nuvem que os cobriu com a sua sombra; e, entrando eles na nuvem, temeram.
+
+[[v42-9-35]]
+
+^<<v42-9-35,35>>^ E saiu da nuvem uma voz que dizia: Este é o meu amado Filho; a ele ouvi.
+
+[[v42-9-36]]
+
+^<<v42-9-36,36>>^ E, tendo soado aquela voz, Jesus foi achado só; e eles calaram-se, e por aqueles dias não contaram a ninguém nada do que tinham visto.
+
+[[v42-9-37]]
+
+^<<v42-9-37,37>>^ E aconteceu, no dia seguinte, que, descendo eles do monte, lhes saiu ao encontro uma  grande multidão;
+
+[[v42-9-38]]
+
+^<<v42-9-38,38>>^ E eis que um homem da multidão clamou, dizendo, Mestre, peço-te que olhes para meu filho, porque é o único que eu tenho.
+
+[[v42-9-39]]
+
+^<<v42-9-39,39>>^ Eis que um espírito o toma, e de repente clama, e o despedaça até escumar; e só o larga depois de o ter quebrantado.
+
+[[v42-9-40]]
+
+^<<v42-9-40,40>>^ E roguei aos teus discípulos que o expulsassem, e não puderam.
+
+[[v42-9-41]]
+
+^<<v42-9-41,41>>^ E Jesus, respondendo, disse: Ó geração incrédula e perversa! até quando estarei ainda convosco e vos sofrerei? Traze-me cá o teu filho.
+
+[[v42-9-42]]
+
+^<<v42-9-42,42>>^ E, quando vinha chegando, o demônio o derribou e convulsionou; porém Jesus repreendeu o espírito imundo, e curou o menino, e o entregou a seu pai.
+
+[[v42-9-43]]
+
+^<<v42-9-43,43>>^ E todos pasmavam da majestade de Deus. E, maravilhando-se todos de todas as coisas  que Jesus fazia, disse aos seus discípulos:
+
+[[v42-9-44]]
+
+^<<v42-9-44,44>>^ Ponde vós estas palavras em vossos ouvidos, porque o Filho do homem será entregue nas mãos dos homens.
+
+[[v42-9-45]]
+
+^<<v42-9-45,45>>^ Mas eles não entendiam esta palavra, que lhes era encoberta, para que a não compreendessem; e temiam interrogá-lo acerca desta palavra.
+
+[[v42-9-46]]
+
+^<<v42-9-46,46>>^ E suscitou-se entre eles uma discussão sobre qual deles seria o maior.
+
+[[v42-9-47]]
+
+^<<v42-9-47,47>>^ Mas Jesus, vendo o pensamento de seus corações, tomou um menino, pô-lo junto a si,
+
+[[v42-9-48]]
+
+^<<v42-9-48,48>>^ E disse-lhes: Qualquer que receber este menino em meu nome, recebe-me a mim; e qualquer que me recebe a mim, recebe o que me enviou; porque aquele que entre vós todos for o menor, esse mesmo é grande.
+
+[[v42-9-49]]
+
+^<<v42-9-49,49>>^ E, respondendo João, disse: Mestre, vimos um que em teu nome expulsava os demônios, e lho proibimos, porque não te  segue conosco.
+
+[[v42-9-50]]
+
+^<<v42-9-50,50>>^ E Jesus lhes disse: Não o proibais, porque quem não é contra nós é por nós.
+
+[[v42-9-51]]
+
+^<<v42-9-51,51>>^ E aconteceu que, completando-se os dias para a sua assunção, manifestou o firme propósito de ir a Jerusalém.
+
+[[v42-9-52]]
+
+^<<v42-9-52,52>>^ E mandou mensageiros diante da sua face; e, indo eles, entraram numa aldeia de samaritanos, para lhe prepararem pousada ,
+
+[[v42-9-53]]
+
+^<<v42-9-53,53>>^ Mas não o receberam, porque o seu aspecto era como de quem  ia a Jerusalém.
+
+[[v42-9-54]]
+
+^<<v42-9-54,54>>^ E os seus discípulos, Tiago e João, vendo isto , disseram: Senhor, queres que digamos que desça fogo do céu e os consuma, como Elias também fez?
+
+[[v42-9-55]]
+
+^<<v42-9-55,55>>^ Voltando-se, porém, repreendeu-os, e disse: Vós não sabeis de que espírito sois.
+
+[[v42-9-56]]
+
+^<<v42-9-56,56>>^ Porque, o Filho do homem não veio para destruir as almas dos homens, mas para salvá- las.  E foram para outra aldeia.
+
+[[v42-9-57]]
+
+^<<v42-9-57,57>>^ E aconteceu que, indo eles pelo caminho, lhe disse um: Senhor, seguir-te-ei para onde quer que fores.
+
+[[v42-9-58]]
+
+^<<v42-9-58,58>>^ E disse-lhe Jesus: As raposas têm covis, e as aves do céu ninhos, mas o Filho do homem não tem onde reclinar a cabeça.
+
+[[v42-9-59]]
+
+^<<v42-9-59,59>>^ E disse a outro: Segue-me. Mas ele respondeu: Senhor, deixa que primeiro eu vá a enterrar meu pai.
+
+[[v42-9-60]]
+
+^<<v42-9-60,60>>^ Mas Jesus lhe observou: Deixa aos mortos o enterrar os seus mortos; porém tu vai e anuncia o reino de Deus.
+
+[[v42-9-61]]
+
+^<<v42-9-61,61>>^ Disse também outro: Senhor, eu te seguirei, mas deixa-me despedir primeiro dos que estão em minha casa.
+
+[[v42-9-62]]
+
+^<<v42-9-62,62>>^ E Jesus lhe disse: Ninguém, que lança mão do arado e olha para trás, é apto para o reino de Deus.
+
+'''
+
+xref:042-lucas/042-lucas-008.adoc#v42-8-0[&#60; Capítulo Anterior] | <<v42-9-0,Topo>> | xref:042-lucas/042-lucas-010.adoc#v42-10-0[Próximo Capítulo &#62;]

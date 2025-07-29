@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v5-21-0]]
+=== Deuteronômio, 21
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v5-21-1]]
+
+^<<v5-21-1,1>>^ QUANDO na terra que te der o Senhor teu Deus para possuí-la se achar algum  morto, caído no campo, sem que se saiba quem o matou.
+
+[[v5-21-2]]
+
+^<<v5-21-2,2>>^ Então sairão os teus anciãos e os teus juízes, e medirão o espaço  até às cidades que estiverem  em redor do morto;
+
+[[v5-21-3]]
+
+^<<v5-21-3,3>>^ E, na cidade mais chegada ao morto, os anciãos da mesma cidade tomarão uma bezerra da manada, que não tenha trabalhado nem tenha puxado com o jugo;
+
+[[v5-21-4]]
+
+^<<v5-21-4,4>>^ E os anciãos daquela cidade trarão a bezerra a um vale áspero, que nunca foi lavrado nem semeado; e ali, naquele vale, degolarão a bezerra;
+
+[[v5-21-5]]
+
+^<<v5-21-5,5>>^ Então se achegarão os sacerdotes, filhos de Levi (pois o Senhor teu Deus os escolheu para o servirem, e para abençoarem em nome do Senhor; e pelo seu dito se determinará toda a demanda e toda a ferida);
+
+[[v5-21-6]]
+
+^<<v5-21-6,6>>^ E todos os anciãos da mesma cidade, mais chegados ao morto lavarão as suas mãos sobre a bezerra degolada no vale;
+
+[[v5-21-7]]
+
+^<<v5-21-7,7>>^ E protestarão, e dirão: As nossas mãos não derramaram este sangue, e os nossos olhos o não viram.
+
+[[v5-21-8]]
+
+^<<v5-21-8,8>>^ Sê propício ao teu povo Israel, que tu, ó Senhor, resgataste, e não ponhas o sangue inocente no meio do teu povo Israel. E aquele sangue lhes será expiado.
+
+[[v5-21-9]]
+
+^<<v5-21-9,9>>^ Assim tirarás o sangue inocente do meio de ti: pois farás o que é  reto aos olhos do Senhor.
+
+[[v5-21-10]]
+
+^<<v5-21-10,10>>^ Quando saíres à peleja contra os teus inimigos, e o Senhor teu Deus os entregar nas tuas mãos, e tu deles levares prisioneiros,
+
+[[v5-21-11]]
+
+^<<v5-21-11,11>>^ E tu entre os presos vires uma  mulher formosa à vista, e a cobiçares, e a queiras tomar por mulher,
+
+[[v5-21-12]]
+
+^<<v5-21-12,12>>^ Então a trarás para a tua casa: e ela rapará a cabeça e cortará as suas unhas,
+
+[[v5-21-13]]
+
+^<<v5-21-13,13>>^ E despirá o vestido do seu cativeiro, e se assentará na tua casa, e chorará a seu pai e a sua mãe um mês inteiro: e depois entrarás a ela, e tu serás seu marido e ela tua mulher.
+
+[[v5-21-14]]
+
+^<<v5-21-14,14>>^ E será que , se te não contentares dela, a deixarás ir à sua vontade: mas de sorte nenhuma a venderás por dinheiro, nem com ela mercadejarás, pois a tens humilhado.
+
+[[v5-21-15]]
+
+^<<v5-21-15,15>>^ Quando um homem tiver duas mulheres, uma a quem ama e outra a quem aborrece, e a amada e a aborrecida lhe derem filhos, e o filho primogênito for da aborrecida,
+
+[[v5-21-16]]
+
+^<<v5-21-16,16>>^ Será que , no dia em que fizer herdar a seus filhos o que tiver, não poderá dar a primogenitura ao filho da amada, adiante do filho da aborrecida, que é  o primogênito.
+
+[[v5-21-17]]
+
+^<<v5-21-17,17>>^ Mas ao filho da aborrecida reconhecerá por primogênito, dando-lhe dobrada porção de tudo quanto tiver: porquanto aquele é  o princípio da sua força; o direito da primogenitura seu é.
+
+[[v5-21-18]]
+
+^<<v5-21-18,18>>^ Quando alguém tiver um  filho contumaz e rebelde, que não obedecer à voz de seu pai e à voz de sua mãe, e, castigando-o eles, lhes não der ouvidos,
+
+[[v5-21-19]]
+
+^<<v5-21-19,19>>^ Então seu pai e sua mãe pegarão nele, e o levarão aos anciãos da sua cidade, e à porta do seu lugar;
+
+[[v5-21-20]]
+
+^<<v5-21-20,20>>^ E dirão aos anciãos da cidade: Este nosso filho é  rebelde e contumaz, não dá ouvidos à nossa voz: é um  comilão e beberrão.
+
+[[v5-21-21]]
+
+^<<v5-21-21,21>>^ Então todos os homens da sua cidade o apedrejarão com pedras, até que morra; e tirarás o mal do meio de ti, para que todo o Israel o ouça, e tema.
+
+[[v5-21-22]]
+
+^<<v5-21-22,22>>^ Quando também em alguém houver pecado, digno  do juízo de morte, e haja de morrer, e o pendurares num  madeiro,
+
+[[v5-21-23]]
+
+^<<v5-21-23,23>>^ O seu cadáver não permanecerá no madeiro, mas certamente o enterrarás no mesmo dia: porquanto o pendurado é  maldito de Deus: assim não contaminarás a tua terra, que o Senhor teu Deus te dá em herança.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-020.adoc#v5-20-0[&#60; Capítulo Anterior] | <<v5-21-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[Próximo Capítulo &#62;]

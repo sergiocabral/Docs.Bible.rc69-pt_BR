@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v9-4-0]]
+=== 1 Samuel, 4
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-4-1]]
+
+^<<v9-4-1,1>>^ E VEIO a palavra de Samuel a todo o Israel: e Israel saiu ao encontro, à peleja, aos filisteus, e se acamparam junto a Ebenézer: e os filisteus se acamparam junto a Afeque.
+
+[[v9-4-2]]
+
+^<<v9-4-2,2>>^ E os filisteus se dispuseram em ordem de batalha, para sair ao encontro a Israel; e, estendendo-se a peleja, Israel foi ferido diante dos filisteus, porque feriram na batalha, no campo, uns quatro mil homens.
+
+[[v9-4-3]]
+
+^<<v9-4-3,3>>^ E tornando o povo ao arraial, disseram os anciãos de Israel: Por que nos feriu o Senhor hoje diante dos filisteus? Tragamos de Silo a arca do concerto do Senhor, e venha no meio de nós, para que nos livre da mão de nossos inimigos.
+
+[[v9-4-4]]
+
+^<<v9-4-4,4>>^ Enviou pois o povo a Silo e trouxeram de lá a arca do concerto do Senhor dos exércitos, que habita entre  os querubins: e os dois filhos de Eli, Hofni e Fineias, estavam  ali com a arca do concerto de Deus.
+
+[[v9-4-5]]
+
+^<<v9-4-5,5>>^ E sucedeu que, vindo a arca do concerto do Senhor ao arraial, todo o Israel jubilou com grande júbilo, até  que a terra estremeceu.
+
+[[v9-4-6]]
+
+^<<v9-4-6,6>>^ E os filisteus, ouvindo a voz do júbilo, disseram: Que voz de tão  grande júbilo é  esta no arraial dos hebreus? Então souberam que a arca do Senhor era vinda ao arraial.
+
+[[v9-4-7]]
+
+^<<v9-4-7,7>>^ Pelo que os filisteus se atemorizaram: porque diziam: Deus veio ao arraial. E diziam mais : Ai de nós! que tal nunca jamais sucedeu antes.
+
+[[v9-4-8]]
+
+^<<v9-4-8,8>>^ Ai de nós! quem nos livrará da mão destes grandiosos deuses? estes são  os deuses que feriram aos egípcios com todas as pragas junto ao deserto.
+
+[[v9-4-9]]
+
+^<<v9-4-9,9>>^ Esforçai-vos, e sede homens, ó filisteus, para que porventura  não venhais a servir aos hebreus, como eles serviram a vós; sede pois homens, e pelejai.
+
+[[v9-4-10]]
+
+^<<v9-4-10,10>>^ Então pelejaram os filisteus, e Israel foi ferido, e fugiram cada um para a sua tenda; e foi tão grande o estrago, que caíram de Israel trinta mil homens de pé.
+
+[[v9-4-11]]
+
+^<<v9-4-11,11>>^ E foi tomada a arca de Deus: e os dois filhos de Eli, Hofni e Fineias, morreram.
+
+[[v9-4-12]]
+
+^<<v9-4-12,12>>^ Então correu da batalha um  homem de Benjamim, e chegou no mesmo dia a Silo: e trazia  os vestidos rotos, e terra sobre a cabeça.
+
+[[v9-4-13]]
+
+^<<v9-4-13,13>>^ E, chegando ele, eis que Eli estava assentado sobre uma  cadeira, vigiando ao pé do caminho; porquanto o seu coração estava tremendo pela arca de Deus: entrando pois aquele homem a anunciar isto  na cidade, toda a cidade gritou.
+
+[[v9-4-14]]
+
+^<<v9-4-14,14>>^ E Eli, ouvindo a voz do grito, disse: Que voz de alvoroço é  esta? Então chegou aquele homem a grande  pressa, e veio, e o  anunciou a Eli.
+
+[[v9-4-15]]
+
+^<<v9-4-15,15>>^ E era  Eli da idade de noventa e oito anos: e estavam os seus olhos tão  escurecidos, que já  não podia ver.
+
+[[v9-4-16]]
+
+^<<v9-4-16,16>>^ E disse aquele homem a Eli: Eu sou  o que venho da batalha; porque eu fugi hoje da batalha. E disse ele: Que cousa sucedeu, filho meu?
+
+[[v9-4-17]]
+
+^<<v9-4-17,17>>^ Então respondeu o que trazia as novas, e disse: Israel fugiu de diante dos filisteus, e houve também grande destroço entre o povo: e, de mais disto , também teus dois filhos Hofni e Fineias, morreram, e a arca de Deus é tomada.
+
+[[v9-4-18]]
+
+^<<v9-4-18,18>>^ E sucedeu que, fazendo ele menção da arca de Deus, Eli  caiu da cadeira para trás, da banda da porta, e quebrou-se-lhe o pescoço, e morreu: porquanto o homem era velho e pesado; e tinha ele julgado a Israel quarenta anos.
+
+[[v9-4-19]]
+
+^<<v9-4-19,19>>^ E, estando  sua nora, a mulher de Fineias, grávida, e  próxima ao parto, e ouvindo estas novas, de que a arca de Deus era tomada, e de que seu sogro e seu marido morreram, encurvou-se e deu à luz; porquanto as dores lhe sobrevieram.
+
+[[v9-4-20]]
+
+^<<v9-4-20,20>>^ E, ao tempo em que ia morrendo, disseram as mulheres que estavam com ela: Não temas, pois tiveste um  filho. Ela porém não respondeu, nem fez caso disso.
+
+[[v9-4-21]]
+
+^<<v9-4-21,21>>^ E chamou ao menino Icabô, dizendo: Foi-se a glória de Israel. Porquanto a arca de Deus foi levada presa, e por causa de seu sogro e de seu marido.
+
+[[v9-4-22]]
+
+^<<v9-4-22,22>>^ E disse: De Israel a glória é levada presa: pois é tomada a arca de Deus.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-003.adoc#v9-3-0[&#60; Capítulo Anterior] | <<v9-4-0,Topo>> | xref:009-1-samuel/009-1-samuel-005.adoc#v9-5-0[Próximo Capítulo &#62;]

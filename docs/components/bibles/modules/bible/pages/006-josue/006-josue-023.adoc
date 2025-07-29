@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v6-23-0]]
+=== Josué, 23
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-23-1]]
+
+^<<v6-23-1,1>>^ E SUCEDEU que , muitos dias depois que o Senhor dera repouso a Israel de todos os seus inimigos em redor, e Josué já  fosse velho e  entrado em dias,
+
+[[v6-23-2]]
+
+^<<v6-23-2,2>>^ Chamou Josué a todo o Israel, aos seus anciãos, e aos seus cabeças, e aos seus juízes, e aos seus oficiais, e disse-lhes: Eu já sou velho e  entrado em dias;
+
+[[v6-23-3]]
+
+^<<v6-23-3,3>>^ E vós já tendes visto tudo quanto o Senhor vosso Deus fez a todas estas nações por causa de vós: porque o Senhor vosso Deus é  o que pelejou por vós.
+
+[[v6-23-4]]
+
+^<<v6-23-4,4>>^ Vedes aqui que  vos fiz cair em sorte às vossas tribos estas nações que ficam desde o Jordão, com todas as nações que tenho destruído, até ao grande mar para o pôr do sol.
+
+[[v6-23-5]]
+
+^<<v6-23-5,5>>^ E o Senhor vosso Deus as impelirá de diante de vós, e as expelirá de diante de vós: e vós possuireis a sua terra, como o Senhor vosso Deus vos tem dito.
+
+[[v6-23-6]]
+
+^<<v6-23-6,6>>^ Esforçai-vos pois muito para guardardes e para fazerdes tudo quanto está  escrito no livro da lei de Moisés: para que dele não vos aparteis, nem para a direita nem para a esquerda;
+
+[[v6-23-7]]
+
+^<<v6-23-7,7>>^ Para que não entreis a estas nações que ainda ficaram convosco: e dos nomes de seus deuses não façais menção, nem por eles façais jurar, nem os sirvais, nem a eles vos inclineis.
+
+[[v6-23-8]]
+
+^<<v6-23-8,8>>^ Mas ao Senhor vosso Deus vos achegareis, como fizestes até ao dia de  hoje.
+
+[[v6-23-9]]
+
+^<<v6-23-9,9>>^ Pois o Senhor expeliu de diante de vós grandes e numerosas nações: e, quanto a  vós, ninguém ficou em pé diante de vós até ao dia de  hoje.
+
+[[v6-23-10]]
+
+^<<v6-23-10,10>>^ Um só  homem dentre vós perseguirá a mil: pois é  o mesmo  Senhor vosso Deus o que  peleja por vós, como já  vos tem dito.
+
+[[v6-23-11]]
+
+^<<v6-23-11,11>>^ Portanto, guardai muito as vossas almas, para amardes ao Senhor vosso Deus.
+
+[[v6-23-12]]
+
+^<<v6-23-12,12>>^ Porque se dalguma maneira vos apartardes, e vos achegardes ao resto destas nações que ainda  ficou convosco, e com elas vos aparentardes, e vós a elas entrardes, e elas a vós.
+
+[[v6-23-13]]
+
+^<<v6-23-13,13>>^ Sabei certamente que o Senhor vosso Deus não continuará mais a expelir estas nações de diante de vós, mas vos serão por laço e rede, e açoite às vossas ilhargas, e espinhos aos vossos olhos; até que pereçais desta boa terra que vos deu o Senhor vosso Deus.
+
+[[v6-23-14]]
+
+^<<v6-23-14,14>>^ E eis aqui eu vou hoje pelo caminho de toda a terra: e vós bem sabeis, com todo o vosso coração, e com toda a vossa alma, que nem uma só  palavra caiu de todas as boas palavras que falou de vós o Senhor vosso Deus; todas vos sobrevieram nem delas caiu uma só palavra.
+
+[[v6-23-15]]
+
+^<<v6-23-15,15>>^ E será que, assim  como sobre vós vieram todas estas boas cousas, que o Senhor vosso Deus vos disse, assim trará o Senhor sobre vós todas aquelas más cousas, até vos destruir de sobre a boa terra que vos deu o Senhor vosso Deus.
+
+[[v6-23-16]]
+
+^<<v6-23-16,16>>^ Quando traspassardes o concerto do Senhor vosso Deus, que vos tem ordenado, e fordes e servirdes a outros deuses, e a eles vos inclinardes, então a ira do Senhor sobre vós se acenderá, e logo perecereis de sobre a boa terra que vos deu.
+
+'''
+
+xref:006-josue/006-josue-022.adoc#v6-22-0[&#60; Capítulo Anterior] | <<v6-23-0,Topo>> | xref:006-josue/006-josue-024.adoc#v6-24-0[Próximo Capítulo &#62;]

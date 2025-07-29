@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v6-16-0]]
+=== Josué, 16
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-16-1]]
+
+^<<v6-16-1,1>>^ SAIU depois a sorte dos filhos de José, desde o Jordão de Jericó às águas de Jericó, para o oriente, subindo ao deserto de Jericó pelas montanhas de Betel;
+
+[[v6-16-2]]
+
+^<<v6-16-2,2>>^ E de Betel sai a Luza, e passa ao termo dos arqueus, até Atarote;
+
+[[v6-16-3]]
+
+^<<v6-16-3,3>>^ E desce da banda do ocidente ao termo de Jafleti, até ao termo de Betorom de baixo, e até Gazer, sendo as suas saídas para o mar.
+
+[[v6-16-4]]
+
+^<<v6-16-4,4>>^ Assim alcançaram a sua herança os filhos de José, Manassés e Efraim.
+
+[[v6-16-5]]
+
+^<<v6-16-5,5>>^ E foi o termo dos filhos de Efraim, segundo as suas famílias, a saber : o termo da sua herança para o oriente era Atarote-Adar até Betorom de cima:
+
+[[v6-16-6]]
+
+^<<v6-16-6,6>>^ E sai este termo para o ocidente junto a Micmetate, desde o norte, e torna este termo para o oriente a Taanate-Siló, e passa por ela desde o oriente a Janoa;
+
+[[v6-16-7]]
+
+^<<v6-16-7,7>>^ E desce desde Janoa a Atarote e a Naarate, e toca em Jericó, e vai sair ao Jordão.
+
+[[v6-16-8]]
+
+^<<v6-16-8,8>>^ De Tápua vai este termo para o ocidente ao ribeiro de Caná, e as suas saídas no mar: esta é  a herança da tribo dos filhos de Efraim, segundo as suas famílias.
+
+[[v6-16-9]]
+
+^<<v6-16-9,9>>^ E as cidades que se separaram para os filhos de Efraim estavam  no meio da herança dos filhos de Manassés: todas aquelas cidades e as suas aldeias.
+
+[[v6-16-10]]
+
+^<<v6-16-10,10>>^ E não expeliram aos cananeus que habitavam em Gazer: e os cananeus habitaram no meio dos efraimitas até ao dia de  hoje; porém serviam-nos, sendo-lhes  tributários.
+
+'''
+
+xref:006-josue/006-josue-015.adoc#v6-15-0[&#60; Capítulo Anterior] | <<v6-16-0,Topo>> | xref:006-josue/006-josue-017.adoc#v6-17-0[Próximo Capítulo &#62;]

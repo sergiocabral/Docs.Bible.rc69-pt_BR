@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v18-25-0]]
+=== Jó, 25
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v18-25-1]]
+
+^<<v18-25-1,1>>^ ENTÃO respondeu Bildade o suíta, e disse:
+
+[[v18-25-2]]
+
+^<<v18-25-2,2>>^ Com ele estão  domínio e temor; ele faz paz nas suas alturas.
+
+[[v18-25-3]]
+
+^<<v18-25-3,3>>^ Porventura  têm número os seus exércitos? E para quem não se levanta a sua luz?
+
+[[v18-25-4]]
+
+^<<v18-25-4,4>>^ Como pois seria justo o homem perante Deus, e como seria puro aquele que nasce da mulher?
+
+[[v18-25-5]]
+
+^<<v18-25-5,5>>^ Olha, até a lua não resplandece, e as estrelas não são puras aos seus olhos.
+
+[[v18-25-6]]
+
+^<<v18-25-6,6>>^ E quanto menos o homem, que é  um verme, e o filho do homem, que é  um bicho!
+
+'''
+
+xref:018-jo/018-jo-024.adoc#v18-24-0[&#60; Capítulo Anterior] | <<v18-25-0,Topo>> | xref:018-jo/018-jo-026.adoc#v18-26-0[Próximo Capítulo &#62;]

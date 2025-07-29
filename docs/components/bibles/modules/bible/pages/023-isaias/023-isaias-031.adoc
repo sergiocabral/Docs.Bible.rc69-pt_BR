@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v23-31-0]]
+=== Isaías, 31
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-31-1]]
+
+^<<v23-31-1,1>>^ AI dos que descem ao Egito a buscar  socorro, e se estribam em cavalos; e têm confiança em carros, porque são  muitos, e nos cavaleiros, porque são poderosíssimos; e não atentam para o Santo de Israel, e não buscam ao Senhor.
+
+[[v23-31-2]]
+
+^<<v23-31-2,2>>^ Todavia também ele é  sábio, e fará vir o mal, e não retirará as suas Palavras; ele se levantará contra a casa dos malfeitores, e contra a ajuda dos que praticam a iniquidade.
+
+[[v23-31-3]]
+
+^<<v23-31-3,3>>^ Porque os egípcios são  homens, e não Deus; e os seus cavalos carne, e não espírito; e quando o Senhor estender a sua mão, cairão por terra tanto o auxiliador, como o ajudado, e todos juntamente serão consumidos.
+
+[[v23-31-4]]
+
+^<<v23-31-4,4>>^ Porque assim me disse o Senhor: Como o leão, e o cachorro do leão, rugem sobre a sua presa, ainda que se convoque contra ele uma  multidão de pastores, e não se espantam das suas vozes, nem se abatem pela sua multidão, assim o Senhor dos Exércitos descerá para pelejar pelo monte de Sião, e pelo seu outeiro.
+
+[[v23-31-5]]
+
+^<<v23-31-5,5>>^ Como as aves voam, assim o Senhor dos Exércitos amparará a Jerusalém: ele a amparará e a livrará, e, passando, a salvará.
+
+[[v23-31-6]]
+
+^<<v23-31-6,6>>^ Convertei-vos pois  àquele contra quem  os filhos de Israel se rebelaram tão profundamente.
+
+[[v23-31-7]]
+
+^<<v23-31-7,7>>^ Porque naquele dia cada um lançará fora os seus ídolos de prata, e os seus ídolos de ouro, que fabricaram as vossas mãos para pecardes.
+
+[[v23-31-8]]
+
+^<<v23-31-8,8>>^ E a Assíria cairá pela espada, não de varão; e a espada, não de homem, a consumirá; e fugirá perante a espada, e os seus mancebos serão derrotados.
+
+[[v23-31-9]]
+
+^<<v23-31-9,9>>^ E de medo passará a sua rocha, e os seus príncipes se assombrarão da bandeira, diz o Senhor, cujo fogo está  em Sião e cuja fornalha em Jerusalém.
+
+'''
+
+xref:023-isaias/023-isaias-030.adoc#v23-30-0[&#60; Capítulo Anterior] | <<v23-31-0,Topo>> | xref:023-isaias/023-isaias-032.adoc#v23-32-0[Próximo Capítulo &#62;]

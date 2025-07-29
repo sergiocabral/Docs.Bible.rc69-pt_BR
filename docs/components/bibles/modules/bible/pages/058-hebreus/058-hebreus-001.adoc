@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v58-1-0]]
+=== Hebreus, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v58-1-1]]
+
+^<<v58-1-1,1>>^ HAVENDO Deus antigamente falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas, a nós falou-nos nestes últimos dias pelo Filho,
+
+[[v58-1-2]]
+
+^<<v58-1-2,2>>^ A quem constituiu herdeiro de tudo, por quem fez também o mundo.
+
+[[v58-1-3]]
+
+^<<v58-1-3,3>>^ O qual, sendo o resplendor da sua  glória, e a expressa imagem da sua pessoa, e sustentando todas as coisas , pela palavra do seu poder, havendo feito por si mesmo a purificação dos nossos pecados, assentou-se à destra da majestade nas alturas;
+
+[[v58-1-4]]
+
+^<<v58-1-4,4>>^ Feito tanto mais excelente do que os anjos, quanto herdou mais excelente nome do que eles.
+
+[[v58-1-5]]
+
+^<<v58-1-5,5>>^ Porque, a qual dos anjos disse jamais: Tu és meu Filho, hoje te gerei? E outra vez: Eu lhe serei por Pai, e ele me será por Filho?
+
+[[v58-1-6]]
+
+^<<v58-1-6,6>>^ E quando outra vez introduz no mundo o primogênito, diz: E todos os anjos de Deus o adorem.
+
+[[v58-1-7]]
+
+^<<v58-1-7,7>>^ E, quanto aos anjos diz: O que de seus anjos faz ventos, e de seus ministros labareda de fogo.
+
+[[v58-1-8]]
+
+^<<v58-1-8,8>>^ Mas, do Filho, diz : Ó Deus, o teu trono subsiste  pelos séculos dos séculos, cetro de equidade é o cetro do teu reino.
+
+[[v58-1-9]]
+
+^<<v58-1-9,9>>^ Amaste a justiça e aborreceste a iniquidade; por isso Deus, o teu Deus te ungiu, com óleo de alegria mais do que a teus companheiros.
+
+[[v58-1-10]]
+
+^<<v58-1-10,10>>^ E: Tu, Senhor, no princípio fundaste a terra, e os céus são obra de tuas mãos:
+
+[[v58-1-11]]
+
+^<<v58-1-11,11>>^ Eles perecerão, mas tu permanecerás; e todos eles, como roupa, envelhecerão,
+
+[[v58-1-12]]
+
+^<<v58-1-12,12>>^ E como um manto os enrolarás, e como um vestido se mudarão, mas tu és o mesmo, e os teus anos não acabarão.
+
+[[v58-1-13]]
+
+^<<v58-1-13,13>>^ E a qual dos anjos disse jamais: Assenta-te à minha destra até que ponha a teus inimigos por escabelo de teus pés?
+
+[[v58-1-14]]
+
+^<<v58-1-14,14>>^ Não são porventura todos eles espíritos ministradores, enviados para servir a favor daqueles que hão de herdar a salvação?
+
+'''
+
+xref:057-filemom/057-filemom-001.adoc#v57-1-0[&#60; Capítulo Anterior] | <<v58-1-0,Topo>> | xref:058-hebreus/058-hebreus-002.adoc#v58-2-0[Próximo Capítulo &#62;]

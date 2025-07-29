@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v14-36-0]]
+=== 2 Crônicas, 36
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v14-36-1]]
+
+^<<v14-36-1,1>>^ ENTÃO o povo da terra tomou a Joacaz, filho de Josias, e o fez rei em lugar de seu pai, em Jerusalém,
+
+[[v14-36-2]]
+
+^<<v14-36-2,2>>^ Era  Joacaz da idade de vinte e três anos, quando começou a reinar; e três meses reinou em Jerusalém.
+
+[[v14-36-3]]
+
+^<<v14-36-3,3>>^ Porque o rei do Egito o depôs em Jerusalém: e condenou a terra à contribuição de  cem talentos de prata e um talento de ouro.
+
+[[v14-36-4]]
+
+^<<v14-36-4,4>>^ E o rei do Egito pôs a Eliaquim, seu irmão, rei sobre Judá e Jerusalém, e mudou-lhe o nome em Joaquim; mas a seu irmão Joacaz tomou Neco, e levou-o para o Egito.
+
+[[v14-36-5]]
+
+^<<v14-36-5,5>>^ Era  Joaquim de vinte e cinco anos de idade, quando começou a reinar: e onze anos reinou em Jerusalém; e fez o que era  mau aos olhos do Senhor seu Deus.
+
+[[v14-36-6]]
+
+^<<v14-36-6,6>>^ Subiu pois  contra ele Nabucodonosor rei de Babilônia, e o amarrou com cadeias, para o levar a Babilônia.
+
+[[v14-36-7]]
+
+^<<v14-36-7,7>>^ Também alguns dos  vasos da casa do Senhor levou Nabucodonosor para a Babilônia, e pô-los no seu templo em Babilônia.
+
+[[v14-36-8]]
+
+^<<v14-36-8,8>>^ Quanto ao mais dos atos de Joaquim, e às suas abominações que fez, e ao mais  que se achou nele, eis que está  escrito no livro dos reis de Israel e de Judá; e Joaquim, seu filho reinou em seu lugar.
+
+[[v14-36-9]]
+
+^<<v14-36-9,9>>^ Era  Joaquim da idade de oito anos, quando começou a reinar; e três meses e dez dias reinou em Jerusalém e fez o que era  mau aos olhos do Senhor.
+
+[[v14-36-10]]
+
+^<<v14-36-10,10>>^ E no decurso dum ano enviou o rei Nabucodonosor, e mandou que o levassem a Babilônia, com os mais preciosos vasos da casa do Senhor, e pôs a Zedequias, seu irmão, rei sobre Judá e Jerusalém.
+
+[[v14-36-11]]
+
+^<<v14-36-11,11>>^ Era  Zedequias da idade de vinte e cinco anos, quando começou a reinar: e onze anos reinou em Jerusalém.
+
+[[v14-36-12]]
+
+^<<v14-36-12,12>>^ E fez o que era  mau aos olhos do Senhor seu Deus; nem se humilhou perante o profeta Jeremias, que falava  da parte do Senhor.
+
+[[v14-36-13]]
+
+^<<v14-36-13,13>>^ De mais disto, também se rebelou contra o rei Nabucodonosor, que o tinha ajuramentado por Deus; mas endureceu a sua cerviz, e tanto se obstinou no  seu coração, que se não converteu ao Senhor, Deus de Israel.
+
+[[v14-36-14]]
+
+^<<v14-36-14,14>>^ Também todos os chefes dos sacerdotes e o povo aumentavam de mais em mais as transgressões, segundo todas as abominações dos gentios: e contaminaram a casa do Senhor, que ele tinha santificado em Jerusalém.
+
+[[v14-36-15]]
+
+^<<v14-36-15,15>>^ E o Senhor, Deus de seus pais, lhes enviou a sua palavra  pelos seus mensageiros, madrugando, e enviando- lhos ; porque se compadeceu do seu povo e da sua habitação.
+
+[[v14-36-16]]
+
+^<<v14-36-16,16>>^ Porém zombaram dos mensageiros de Deus e desprezaram as suas palavras e mofaram dos seus profetas até que o furor do Senhor subiu tanto, contra o seu povo, que mais  nenhum remédio houve.
+
+[[v14-36-17]]
+
+^<<v14-36-17,17>>^ Porque fez subir contra eles o rei dos caldeus, o qual matou os seus mancebos à espada, na casa do seu santuário; e não teve piedade nem dos mancebos, nem das donzelas, nem dos velhos, nem dos decrépitos: a todos os deu na sua mão.
+
+[[v14-36-18]]
+
+^<<v14-36-18,18>>^ E todos os vasos da casa de Deus, grandes e pequenos, e os tesouros da casa do Senhor, e os tesouros do rei e dos seus príncipes, tudo levou para Babilônia.
+
+[[v14-36-19]]
+
+^<<v14-36-19,19>>^ E queimaram a casa do Senhor, e derrubaram os muros de Jerusalém; e todos os seus palácios queimaram a fogo, destruindo também todos os seus preciosos vasos.
+
+[[v14-36-20]]
+
+^<<v14-36-20,20>>^ E os que escaparam da espada levou para Babilônia: e fizeram-se servos, dele e de seus filhos, até ao tempo do reino da Pérsia.
+
+[[v14-36-21]]
+
+^<<v14-36-21,21>>^ Para que se cumprisse a palavra do Senhor, pela boca de Jeremias, até que a terra se agradasse dos seus sábados; todos os dias da desolação repousou, até que os setenta anos se cumpriram.
+
+[[v14-36-22]]
+
+^<<v14-36-22,22>>^ Porém no primeiro ano de Ciro, rei da Pérsia (para que se cumprisse a palavra do Senhor pela boca de Jeremias), despertou o Senhor o espírito de Ciro rei da Pérsia, o qual fez passar pregão por todo o seu reino, como também por escrito, dizendo:
+
+[[v14-36-23]]
+
+^<<v14-36-23,23>>^ Assim diz Ciro, rei da Pérsia: O Senhor, Deus dos céus, me deu todos os reinos da terra e me encarregou de lhe edificar uma  casa em Jerusalém, que está em Judá; quem há  entre vós, de todo o seu povo, o Senhor seu Deus seja  com ele, e suba.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-035.adoc#v14-35-0[&#60; Capítulo Anterior] | <<v14-36-0,Topo>> | xref:015-esdras/015-esdras-001.adoc#v15-1-0[Próximo Capítulo &#62;]

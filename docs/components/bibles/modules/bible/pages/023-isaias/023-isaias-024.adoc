@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v23-24-0]]
+=== Isaías, 24
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-24-1]]
+
+^<<v23-24-1,1>>^ EIS que o Senhor esvazia a terra, e a desola, e transtorna a sua superfície, e dispersa os seus moradores.
+
+[[v23-24-2]]
+
+^<<v23-24-2,2>>^ E o que suceder ao povo, sucederá ao sacerdote; ao servo, como ao seu senhor; à serva, como à sua senhora; ao comprador, como ao vendedor; ao que empresta, como ao que toma emprestado; ao que dá usura, como ao que paga usura.
+
+[[v23-24-3]]
+
+^<<v23-24-3,3>>^ De todo se esvaziará a terra, e de todo será saqueada, porque o Senhor pronunciou esta palavra.
+
+[[v23-24-4]]
+
+^<<v23-24-4,4>>^ A terra pranteia e  se murcha: o mundo enfraquece e se murcha: enfraquecem os mais altos do povo da terra.
+
+[[v23-24-5]]
+
+^<<v23-24-5,5>>^ Na verdade a terra está contaminada por causa dos seus moradores; porquanto transgridem as leis, mudam os estatutos, e  quebram a aliança eterna.
+
+[[v23-24-6]]
+
+^<<v23-24-6,6>>^ Por isso a maldição consome a terra; e os que habitam nela serão desolados; por isso serão queimados os moradores da terra, e poucos homens restarão.
+
+[[v23-24-7]]
+
+^<<v23-24-7,7>>^ Pranteia o mosto, enfraquece a vide; e suspirarão todos os alegres de coração.
+
+[[v23-24-8]]
+
+^<<v23-24-8,8>>^ Cessou o folguedo dos tamboris, acabou o ruído dos que pulam de prazer, e  descansou a alegria da harpa.
+
+[[v23-24-9]]
+
+^<<v23-24-9,9>>^ Com canções não beberão vinho; a bebida forte será amarga para os que a beberem.
+
+[[v23-24-10]]
+
+^<<v23-24-10,10>>^ Demolida está a cidade vazia, todas as casas fecharam, ninguém já pode entrar.
+
+[[v23-24-11]]
+
+^<<v23-24-11,11>>^ Há lastimoso clamor nas ruas por causa do vinho; toda a alegria se escureceu, desterrou-se o gozo da terra.
+
+[[v23-24-12]]
+
+^<<v23-24-12,12>>^ Na cidade só ficou a desolação, e com estalidos se quebra a porta.
+
+[[v23-24-13]]
+
+^<<v23-24-13,13>>^ Porque será no interior da terra, no meio destes povos, como a sacudidura da oliveira, e  como os rabiscos, quando está acabada a vindima.
+
+[[v23-24-14]]
+
+^<<v23-24-14,14>>^ Estes alçarão a sua voz, e cantarão com alegria; por causa da glória do Senhor clamarão desde o mar.
+
+[[v23-24-15]]
+
+^<<v23-24-15,15>>^ Por isso glorificai ao Senhor nos vales, e  nas ilhas do mar ao nome do Senhor Deus de Israel.
+
+[[v23-24-16]]
+
+^<<v23-24-16,16>>^ Dos confins da terra ouvimos cantar: glória ao Justo; mas eu digo: Emagreço, emagreço, ai de mim! os pérfidos tratam perfidamente; sim, os pérfidos tratam perfidamente.
+
+[[v23-24-17]]
+
+^<<v23-24-17,17>>^ O temor, e a cova, e o laço vem  sobre ti, ó morador da terra.
+
+[[v23-24-18]]
+
+^<<v23-24-18,18>>^ E será que aquele que fugir da voz do temor cairá na cova, e o que subir da cova o laço o prenderá; porque as janelas do alto se abriram, e os fundamentos da terra tremem.
+
+[[v23-24-19]]
+
+^<<v23-24-19,19>>^ De todo será quebrantada a terra, de todo se romperá, e  de todo se moverá a terra.
+
+[[v23-24-20]]
+
+^<<v23-24-20,20>>^ De todo vacilará a terra como o ébrio, e será movida e removida como a choça de noite; e a sua transgressão se agravará sobre ela, e cairá, e nunca mais se levantará.
+
+[[v23-24-21]]
+
+^<<v23-24-21,21>>^ E será que naquele dia o Senhor visitará os exércitos do alto na altura, e os reis da terra sobre a terra.
+
+[[v23-24-22]]
+
+^<<v23-24-22,22>>^ E serão amontoados como  presos numa masmorra, e serão encerrados num cárcere: e serão visitados depois de muitos dias.
+
+[[v23-24-23]]
+
+^<<v23-24-23,23>>^ E a lua se envergonhará, e o sol se confundirá quando o Senhor dos Exércitos reinar no monte de Sião e em Jerusalém; e então perante os seus anciãos haverá  glória.
+
+'''
+
+xref:023-isaias/023-isaias-023.adoc#v23-23-0[&#60; Capítulo Anterior] | <<v23-24-0,Topo>> | xref:023-isaias/023-isaias-025.adoc#v23-25-0[Próximo Capítulo &#62;]

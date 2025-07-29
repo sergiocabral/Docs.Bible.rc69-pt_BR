@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v19-69-0]]
+=== Salmos, 69
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-69-1]]
+
+^<<v19-69-1,1>>^ LIVRA-ME, ó Deus, pois as águas entraram até à minha  alma.
+
+[[v19-69-2]]
+
+^<<v19-69-2,2>>^ Atolei-me em profundo lamaçal, onde se  não pode estar em  pé; entrei na profundeza das águas, onde a corrente me leva.
+
+[[v19-69-3]]
+
+^<<v19-69-3,3>>^ Estou cansado de clamar; secou-se-me a garganta: os meus olhos desfalecem esperando o meu Deus.
+
+[[v19-69-4]]
+
+^<<v19-69-4,4>>^ Aqueles que me aborrecem sem causa são mais do que os cabelos da minha cabeça; aqueles que procuram destruir-me sendo  injustamente meus inimigos, são poderosos; então restituí o que não furtei.
+
+[[v19-69-5]]
+
+^<<v19-69-5,5>>^ Tu, ó Deus, bem conheces a minha insipiência; e os meus pecados não te são encobertos.
+
+[[v19-69-6]]
+
+^<<v19-69-6,6>>^ Não sejam envergonhados por minha causa aqueles que esperam em ti, ó Senhor, Senhor dos Exércitos: não sejam confundidos por minha causa aqueles que te buscam, ó Deus de Israel.
+
+[[v19-69-7]]
+
+^<<v19-69-7,7>>^ Porque por amor de ti tenho suportado afronta; a confusão cobriu o meu rosto.
+
+[[v19-69-8]]
+
+^<<v19-69-8,8>>^ Tenho-me tornado como um estranho para com os meus irmãos, e um desconhecido para com os filhos de minha mãe.
+
+[[v19-69-9]]
+
+^<<v19-69-9,9>>^ Pois o zelo da tua casa me devorou, e as afrontas dos que te afrontam caíram sobre mim.
+
+[[v19-69-10]]
+
+^<<v19-69-10,10>>^ Chorei, e castiguei  com jejum a minha alma, mas até isto se me tornou em afrontas.
+
+[[v19-69-11]]
+
+^<<v19-69-11,11>>^ Pus, por vestido um saco, e me fiz um provérbio para eles.
+
+[[v19-69-12]]
+
+^<<v19-69-12,12>>^ Aqueles que se assentam à porta falam contra mim; sou a canção dos bebedores de bebida forte.
+
+[[v19-69-13]]
+
+^<<v19-69-13,13>>^ Eu porém faço  a minha oração a ti, Senhor, num  tempo aceitável: ó Deus, ouve-me segundo a grandeza da tua misericórdia, segundo a verdade da tua salvação.
+
+[[v19-69-14]]
+
+^<<v19-69-14,14>>^ Tira-me do lamaçal, e não me deixes atolar; seja eu livre dos que me aborrecem e das profundezas das águas.
+
+[[v19-69-15]]
+
+^<<v19-69-15,15>>^ Não me leve a corrente das águas e não me sorva o abismo, nem o poço cerre a sua boca sobre mim.
+
+[[v19-69-16]]
+
+^<<v19-69-16,16>>^ Ouve-me, Senhor, pois boa é  a tua misericórdia: olha para mim segundo a tua muitíssima piedade.
+
+[[v19-69-17]]
+
+^<<v19-69-17,17>>^ E não escondas o teu rosto do teu servo, porque estou angustiado: ouve-me depressa.
+
+[[v19-69-18]]
+
+^<<v19-69-18,18>>^ Aproxima-te da minha alma, e  resgata-a; livra-me por causa dos meus inimigos.
+
+[[v19-69-19]]
+
+^<<v19-69-19,19>>^ Bem conheces a minha afronta, e a minha vergonha, e a minha confusão; diante de ti estão  todos os meus adversários.
+
+[[v19-69-20]]
+
+^<<v19-69-20,20>>^ Afrontas me quebrantaram o coração, e estou fraquíssimo: esperei por alguém  que tivesse compaixão, mas não houve nenhum ; e por consoladores, mas não os achei.
+
+[[v19-69-21]]
+
+^<<v19-69-21,21>>^ Deram-me fel por mantimento, e na minha sede me deram a beber vinagre.
+
+[[v19-69-22]]
+
+^<<v19-69-22,22>>^ Torne-se a sua mesa diante dele em laço e, para sua  inteira recompensa, em ruína.
+
+[[v19-69-23]]
+
+^<<v19-69-23,23>>^ Escureçam-se-lhes os olhos, para que não vejam, e faze com que os seus lombos tremam constantemente.
+
+[[v19-69-24]]
+
+^<<v19-69-24,24>>^ Derrama sobre eles a tua indignação, e prenda-os o ardor da tua ira.
+
+[[v19-69-25]]
+
+^<<v19-69-25,25>>^ Fique desolado o seu palácio; e não haja quem habite nas suas tendas.
+
+[[v19-69-26]]
+
+^<<v19-69-26,26>>^ Pois perseguem a quem afligiste, e conversam sobre a dor daqueles a quem feriste.
+
+[[v19-69-27]]
+
+^<<v19-69-27,27>>^ Acrescenta iniquidade à iniquidade deles, e não entrem na tua justiça.
+
+[[v19-69-28]]
+
+^<<v19-69-28,28>>^ Sejam riscados do livro da vida, e não sejam inscritos com os justos.
+
+[[v19-69-29]]
+
+^<<v19-69-29,29>>^ Eu porém estou aflito, e triste: ponha-me a tua salvação, ó Deus, num  alto retiro.
+
+[[v19-69-30]]
+
+^<<v19-69-30,30>>^ Louvarei o nome de Deus com cântico, e engrandecê-lo-ei com ação de graças.
+
+[[v19-69-31]]
+
+^<<v19-69-31,31>>^ Isto  será mais agradável ao Senhor do que o boi ou bezerro que tem pontas e unhas.
+
+[[v19-69-32]]
+
+^<<v19-69-32,32>>^ Os mansos verão isto , e se agradarão; o vosso coração viverá, pois que buscais a Deus.
+
+[[v19-69-33]]
+
+^<<v19-69-33,33>>^ Porque o Senhor ouve os necessitados, e não despreza os seus cativos.
+
+[[v19-69-34]]
+
+^<<v19-69-34,34>>^ Louvem-no os céus e a terra, os mares e tudo quanto neles se move.
+
+[[v19-69-35]]
+
+^<<v19-69-35,35>>^ Porque Deus salvará a Sião, e edificará as cidades de Judá, para que habitem ali e a possuam.
+
+[[v19-69-36]]
+
+^<<v19-69-36,36>>^ E herdá-la-á a semente de seus servos, e os que amam o seu nome habitarão nela.
+
+'''
+
+xref:019-salmos/019-salmos-068.adoc#v19-68-0[&#60; Capítulo Anterior] | <<v19-69-0,Topo>> | xref:019-salmos/019-salmos-070.adoc#v19-70-0[Próximo Capítulo &#62;]

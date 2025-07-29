@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v52-4-0]]
+=== 1 Tessalonicenses, 4
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v52-4-1]]
+
+^<<v52-4-1,1>>^ FINALMENTE, irmãos, vos rogamos e exortamos no Senhor Jesus, que assim como recebestes de nós, de que maneira convém andar e agradar a Deus, assim andai, para que abundeis cada vez mais.
+
+[[v52-4-2]]
+
+^<<v52-4-2,2>>^ Porque vós bem sabeis que mandamentos vos temos dado pelo Senhor Jesus.
+
+[[v52-4-3]]
+
+^<<v52-4-3,3>>^ Porque esta é a vontade de Deus, a vossa santificação: que vos abstenhais da prostituição;
+
+[[v52-4-4]]
+
+^<<v52-4-4,4>>^ Que cada um de vós saiba possuir o seu vaso em santificação e honra;
+
+[[v52-4-5]]
+
+^<<v52-4-5,5>>^ Não na paixão de concupiscência, como os gentios, que não conhecem a Deus.
+
+[[v52-4-6]]
+
+^<<v52-4-6,6>>^ Ninguém oprima ou engane a seu irmão em negócio algum , porque o Senhor é vingador de todas estas coisas , como também antes vo-lo dissemos e testificamos.
+
+[[v52-4-7]]
+
+^<<v52-4-7,7>>^ Porque não nos chamou Deus para a imundícia, mas para a santificação.
+
+[[v52-4-8]]
+
+^<<v52-4-8,8>>^ Portanto, quem despreza isto  não despreza ao homem, mas sim a Deus, que nos deu também o seu Espírito Santo.
+
+[[v52-4-9]]
+
+^<<v52-4-9,9>>^ Quanto, porém, à caridade fraternal, não necessitais de que vos escreva, visto que vós mesmos estais instruídos por Deus que vos ameis uns aos outros.
+
+[[v52-4-10]]
+
+^<<v52-4-10,10>>^ Porque também já assim o fazeis para com todos os irmãos que estão por toda a Macedônia. Exortamo-vos, porém, a que ainda nisto  abundeis cada vez mais.
+
+[[v52-4-11]]
+
+^<<v52-4-11,11>>^ E procureis viver quietos, e tratar dos vossos próprios negócios, e trabalhar com vossas próprias mãos, como já vo-lo temos mandado;
+
+[[v52-4-12]]
+
+^<<v52-4-12,12>>^ Para que andeis honestamente para com os que estão de fora, e não necessiteis de coisa  alguma.
+
+[[v52-4-13]]
+
+^<<v52-4-13,13>>^ Não quero, porém, irmãos, que sejais ignorantes acerca dos que já  dormem, para que não vos entristeçais, como os demais, que não têm esperança.
+
+[[v52-4-14]]
+
+^<<v52-4-14,14>>^ Porque, se cremos que Jesus morreu e ressuscitou, assim também aos que em Jesus dormem Deus os tornará a trazer com ele.
+
+[[v52-4-15]]
+
+^<<v52-4-15,15>>^ Dizemo-vos, pois, isto, pela palavra do Senhor: que nós, os que ficarmos vivos para a vinda do Senhor, não precederemos os que dormem.
+
+[[v52-4-16]]
+
+^<<v52-4-16,16>>^ Porque o mesmo Senhor descerá do céu com alarido e com voz de arcanjo, e com a trombeta de Deus; e os que morreram em Cristo ressuscitarão primeiro.
+
+[[v52-4-17]]
+
+^<<v52-4-17,17>>^ Depois nós, os que ficarmos vivos, seremos arrebatados juntamente com eles nas nuvens, a encontrar o Senhor nos ares, e assim estaremos sempre com o Senhor.
+
+[[v52-4-18]]
+
+^<<v52-4-18,18>>^ Portanto, consolai-vos uns aos outros com estas palavras.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-003.adoc#v52-3-0[&#60; Capítulo Anterior] | <<v52-4-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-005.adoc#v52-5-0[Próximo Capítulo &#62;]

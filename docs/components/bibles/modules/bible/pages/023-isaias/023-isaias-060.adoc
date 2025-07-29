@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-60-0]]
+=== Isaías, 60
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-60-1]]
+
+^<<v23-60-1,1>>^ LEVANTA-TE, resplandece, porque já vem a tua luz, e a glória do Senhor vai nascendo sobre ti.
+
+[[v23-60-2]]
+
+^<<v23-60-2,2>>^ Porque eis que as trevas cobriram a terra, e a escuridão os povos; mas sobre ti o Senhor virá surgindo, e a sua glória se verá sobre ti.
+
+[[v23-60-3]]
+
+^<<v23-60-3,3>>^ E as nações caminharão à tua luz, e os reis ao resplendor que te nasceu.
+
+[[v23-60-4]]
+
+^<<v23-60-4,4>>^ Levanta em redor os teus olhos, e vê; todos estes já  se ajuntaram, e  vêm a ti: teus filhos virão de longe, e tuas filhas se criarão a teu lado.
+
+[[v23-60-5]]
+
+^<<v23-60-5,5>>^ Então o verás, e serás iluminado, e o teu coração estremecerá e se alargará; porque a abundância do mar se tornará a ti, e as riquezas das nações a ti virão.
+
+[[v23-60-6]]
+
+^<<v23-60-6,6>>^ A multidão de camelos te cobrirá, os dromedários de Midiã e Efa; todos virão de Seba: ouro e incenso trarão, e publicarão os louvores do Senhor.
+
+[[v23-60-7]]
+
+^<<v23-60-7,7>>^ Todas as ovelhas de Quedar se congregarão para ti, os carneiros de Nebaiote te servirão: com agrado subirão ao meu altar, e eu glorificarei a casa da minha glória.
+
+[[v23-60-8]]
+
+^<<v23-60-8,8>>^ Quem são  estes que  vêm voando como nuvens, e como pombas às suas janelas?
+
+[[v23-60-9]]
+
+^<<v23-60-9,9>>^ Certamente as ilhas me aguardarão, e primeiro os navios de Tarsis, para trazer teus filhos de longe, a sua prata e o seu ouro com eles, na santificação do nome do Senhor teu Deus, e do Santo de Israel, porquanto te glorificou.
+
+[[v23-60-10]]
+
+^<<v23-60-10,10>>^ E os filhos dos estrangeiros edificarão os teus muros, e os seus reis te servirão; porque no meu furor te feri, mas na minha benignidade tive misericórdia de ti.
+
+[[v23-60-11]]
+
+^<<v23-60-11,11>>^ E as tuas portas estarão abertas de contínuo: nem de dia nem de noite se fecharão; para que tragam a ti as riquezas das nações, e, conduzidos com elas, os seus reis.
+
+[[v23-60-12]]
+
+^<<v23-60-12,12>>^ Porque a nação e o reino que te não servirem perecerão; sim, essas nações de todo serão assoladas.
+
+[[v23-60-13]]
+
+^<<v23-60-13,13>>^ A glória do Líbano virá a ti; a faia, o pinheiro, e o buxo conjuntamente, para ornarem o lugar do meu santuário e glorificarei o lugar em que assentam os meus pés.
+
+[[v23-60-14]]
+
+^<<v23-60-14,14>>^ Também virão a ti, inclinando-se, os filhos dos que te oprimiram; e prostrar-se-ão às plantas dos teus pés todos os que te desprezaram; e chamar-te-ão a cidade do Senhor, a Sião do Santo de Israel.
+
+[[v23-60-15]]
+
+^<<v23-60-15,15>>^ Em vez do desprezo e do aborrecimento a que foste votada, de modo que ninguém passava por ti , te porei uma excelência perpétua, um gozo de geração em geração.
+
+[[v23-60-16]]
+
+^<<v23-60-16,16>>^ E mamarás o leite das nações, e te alimentarás aos peitos dos reis; e saberás que eu sou  o Senhor, o teu Salvador, e o teu Redentor, o Possante de Jacó.
+
+[[v23-60-17]]
+
+^<<v23-60-17,17>>^ Por cobre trarei ouro, e por ferro trarei prata, e por madeira bronze, e por pedras ferro: e farei pacíficos os teus inspetores e justos os teus exatores.
+
+[[v23-60-18]]
+
+^<<v23-60-18,18>>^ Nunca mais se ouvirá de violência na tua terra, de desolação ou destruição nos teus termos; mas aos teus muros chamarás salvação, e às tuas portas louvor.
+
+[[v23-60-19]]
+
+^<<v23-60-19,19>>^ Nunca mais te servirá o sol para luz do dia, nem com o seu  resplendor a lua te alumiará; mas o Senhor será a tua luz perpétua, e o teu Deus a tua glória.
+
+[[v23-60-20]]
+
+^<<v23-60-20,20>>^ Nunca mais se porá o teu sol, nem a tua lua minguará; porque o Senhor será a tua luz perpétua, e os dias do teu luto findarão.
+
+[[v23-60-21]]
+
+^<<v23-60-21,21>>^ E todos os do teu povo serão  justos, para sempre herdarão a terra; serão  renovos por mim plantados, obra das minhas mãos, para que eu seja glorificado.
+
+[[v23-60-22]]
+
+^<<v23-60-22,22>>^ O mais pequeno virá a ser mil, e o mínimo um  povo grandíssimo: eu, o Senhor, a seu tempo o farei prontamente.
+
+'''
+
+xref:023-isaias/023-isaias-059.adoc#v23-59-0[&#60; Capítulo Anterior] | <<v23-60-0,Topo>> | xref:023-isaias/023-isaias-061.adoc#v23-61-0[Próximo Capítulo &#62;]

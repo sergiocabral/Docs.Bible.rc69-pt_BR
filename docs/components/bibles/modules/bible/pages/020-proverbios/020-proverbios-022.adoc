@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v20-22-0]]
+=== Provérbios, 22
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-22-1]]
+
+^<<v20-22-1,1>>^ MAIS digno  de ser escolhido é  o bom  nome do que as muitas riquezas; e a graça é melhor do que a riqueza e o ouro.
+
+[[v20-22-2]]
+
+^<<v20-22-2,2>>^ O rico e o pobre se encontraram: a todos os fez o Senhor.
+
+[[v20-22-3]]
+
+^<<v20-22-3,3>>^ O avisado vê o mal, e esconde-se; mas os simples passam, e sofrem a pena.
+
+[[v20-22-4]]
+
+^<<v20-22-4,4>>^ O galardão da humildade e o temor do Senhor são  riquezas, e honra e vida.
+
+[[v20-22-5]]
+
+^<<v20-22-5,5>>^ Espinhos e  laços há  no caminho do perverso; o que guarda a sua alma retira-se para longe dele.
+
+[[v20-22-6]]
+
+^<<v20-22-6,6>>^ Instrui ao menino no caminho em que deve andar; e até quando envelhecer não se desviará dele.
+
+[[v20-22-7]]
+
+^<<v20-22-7,7>>^ O rico domina sobre os pobres, e o que toma emprestado é  servo do que empresta.
+
+[[v20-22-8]]
+
+^<<v20-22-8,8>>^ O que semear a perversidade segará males; e a vara da sua indignação falhará.
+
+[[v20-22-9]]
+
+^<<v20-22-9,9>>^ O que é de bons olhos será abençoado, porque deu do seu pão ao pobre.
+
+[[v20-22-10]]
+
+^<<v20-22-10,10>>^ Lança fora ao escarnecedor, e se irá a contenda; e cessará a questão e a vergonha.
+
+[[v20-22-11]]
+
+^<<v20-22-11,11>>^ O que ama a pureza do coração, e tem  graça nos seus lábios, terá por seu amigo o rei.
+
+[[v20-22-12]]
+
+^<<v20-22-12,12>>^ Os olhos do Senhor conservam o que tem conhecimento, mas as palavras do iníquo ele transtornará.
+
+[[v20-22-13]]
+
+^<<v20-22-13,13>>^ Diz o preguiçoso: Um leão está lá  fora; serei morto no meio das ruas.
+
+[[v20-22-14]]
+
+^<<v20-22-14,14>>^ Cova profunda é  a boca das mulheres  estranhas; aquele contra quem o Senhor se irar, cairá nela.
+
+[[v20-22-15]]
+
+^<<v20-22-15,15>>^ A estultícia está ligada ao coração do menino, mas  a vara da correção a afugentará dele.
+
+[[v20-22-16]]
+
+^<<v20-22-16,16>>^ O que oprime ao pobre para se engrandecer a si, ou o que dá ao rico, certamente empobrecerá.
+
+[[v20-22-17]]
+
+^<<v20-22-17,17>>^ Inclina o teu ouvido e ouve as palavras dos sábios, e aplica o teu coração à minha ciência.
+
+[[v20-22-18]]
+
+^<<v20-22-18,18>>^ Porque é  cousa suave, se as guardares nas tuas entranhas, se as aplicares todas aos teus lábios.
+
+[[v20-22-19]]
+
+^<<v20-22-19,19>>^ Para que a tua confiança esteja no Senhor, a ti tas  faço saber hoje; sim, a ti mesmo.
+
+[[v20-22-20]]
+
+^<<v20-22-20,20>>^ Porventura  não te escrevi excelentes cousas acerca de todo o conselho e conhecimento;
+
+[[v20-22-21]]
+
+^<<v20-22-21,21>>^ Para te fazer saber a certeza das palavras de verdade, para que possas responder palavras de verdade aos que te enviarem?
+
+[[v20-22-22]]
+
+^<<v20-22-22,22>>^ Não roubes ao pobre, porque é pobre, nem atropeles na porta ao aflito.
+
+[[v20-22-23]]
+
+^<<v20-22-23,23>>^ Porque o Senhor defenderá a sua causa em juízo, e aos que os roubam lhes  tirará a vida.
+
+[[v20-22-24]]
+
+^<<v20-22-24,24>>^ Não acompanhes com o iracundo, nem andes com o homem colérico.
+
+[[v20-22-25]]
+
+^<<v20-22-25,25>>^ Para que não aprendas as suas veredas, e tomes um laço para a tua alma.
+
+[[v20-22-26]]
+
+^<<v20-22-26,26>>^ Não estejas entre os que dão as mãos, e  entre os que ficam por fiadores de dívidas.
+
+[[v20-22-27]]
+
+^<<v20-22-27,27>>^ Se não tens com que pagar, por que tirariam a tua cama de debaixo de ti?
+
+[[v20-22-28]]
+
+^<<v20-22-28,28>>^ Não removas os limites antigos que fizeram teus pais.
+
+[[v20-22-29]]
+
+^<<v20-22-29,29>>^ Viste a um  homem diligente na sua obra? perante reis será posto: não será posto perante os de baixa sorte.
+
+'''
+
+xref:020-proverbios/020-proverbios-021.adoc#v20-21-0[&#60; Capítulo Anterior] | <<v20-22-0,Topo>> | xref:020-proverbios/020-proverbios-023.adoc#v20-23-0[Próximo Capítulo &#62;]

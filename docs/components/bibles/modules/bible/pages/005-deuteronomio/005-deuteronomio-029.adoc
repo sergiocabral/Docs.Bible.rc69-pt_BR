@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v5-29-0]]
+=== Deuteronômio, 29
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v5-29-1]]
+
+^<<v5-29-1,1>>^ ESTAS são  as palavras do concerto que o Senhor ordenou a Moisés na terra de Moabe, que fizesse com os filhos de Israel, além do concerto que fizera com eles em Horebe.
+
+[[v5-29-2]]
+
+^<<v5-29-2,2>>^ E chamou, Moisés a todo o Israel, e disse-lhes: Tendes visto tudo quanto o Senhor fez na terra do Egito, perante vossos olhos, a Faraó, e a todos os seus servos, e a toda a sua terra:
+
+[[v5-29-3]]
+
+^<<v5-29-3,3>>^ As grandes provas que os teus olhos têm visto, aqueles sinais e grandes maravilhas:
+
+[[v5-29-4]]
+
+^<<v5-29-4,4>>^ Porém não vos tem dado o Senhor um coração para entender, nem olhos para ver, nem ouvidos para ouvir, até ao dia de hoje.
+
+[[v5-29-5]]
+
+^<<v5-29-5,5>>^ E quarenta anos vos fiz andar pelo deserto: não se envelheceram sobre vós os vossos vestidos, e nem se envelheceu no teu pé o teu sapato.
+
+[[v5-29-6]]
+
+^<<v5-29-6,6>>^ Pão não comestes, e vinho e bebida forte não bebestes: para que soubésseis que eu sou  o Senhor vosso Deus.
+
+[[v5-29-7]]
+
+^<<v5-29-7,7>>^ Vindo vós pois a este lugar, Seom, rei de Hesbom, e Ogue, rei de Basã, nos saíram ao encontro, à peleja, e nós os ferimos:
+
+[[v5-29-8]]
+
+^<<v5-29-8,8>>^ E tomamos a sua terra, e a demos por herança aos rubenitas, e aos gaditas, e à meia tribo dos manassitas.
+
+[[v5-29-9]]
+
+^<<v5-29-9,9>>^ Guardai pois as palavras deste concerto, e cumpri-as para que prospereis em tudo quanto fizerdes.
+
+[[v5-29-10]]
+
+^<<v5-29-10,10>>^ Vós todos estais hoje perante o Senhor vosso Deus: os cabeças de vossas tribos, vossos anciãos, e os vossos oficiais, todo o homem de Israel;
+
+[[v5-29-11]]
+
+^<<v5-29-11,11>>^ Os vossos meninos, as vossas mulheres, e o estrangeiro que está  no meio do teu arraial; desde o rachador da tua lenha até ao tirador da tua água;
+
+[[v5-29-12]]
+
+^<<v5-29-12,12>>^ Para que entres no concerto do Senhor teu Deus, e no seu juramento que o Senhor teu Deus hoje faz contigo;
+
+[[v5-29-13]]
+
+^<<v5-29-13,13>>^ Para que hoje te confirme por seu povo, e ele te seja a ti por Deus, como te tem dito, e como jurou a teus pais, Abraão, Isaque e Jacó.
+
+[[v5-29-14]]
+
+^<<v5-29-14,14>>^ E não somente convosco faço este concerto e este juramento.
+
+[[v5-29-15]]
+
+^<<v5-29-15,15>>^ Mas com aquele que hoje está aqui em pé conosco perante o Senhor nosso Deus, e com aquele que hoje não está aqui conosco.
+
+[[v5-29-16]]
+
+^<<v5-29-16,16>>^ Porque vós sabeis como habitamos na terra do Egito, e como passamos pelo meio das nações, pelas quais passastes;
+
+[[v5-29-17]]
+
+^<<v5-29-17,17>>^ E vistes as suas abominações e os seus ídolos, o pau e a pedra, a prata e o ouro que havia  entre eles,
+
+[[v5-29-18]]
+
+^<<v5-29-18,18>>^ Para que entre vós não haja homem, nem mulher, nem família, nem tribo, cujo coração hoje se desvie do Senhor nosso Deus, e vá servir aos deuses destas nações; para que entre vós não haja raiz que dê fel e absinto;
+
+[[v5-29-19]]
+
+^<<v5-29-19,19>>^ E aconteça que , ouvindo as palavras desta maldição, se abençoe no seu coração, dizendo: Terei paz, ainda que ande conforme ao bom parecer do meu coração; para acrescentar à sede a bebedice.
+
+[[v5-29-20]]
+
+^<<v5-29-20,20>>^ O Senhor não lhe quererá perdoar; mas então fumegará a ira do Senhor e o seu zelo sobre o tal homem, e toda a maldição escrita neste livro jazerá sobre ele; e o Senhor apagará o seu nome de debaixo do céu.
+
+[[v5-29-21]]
+
+^<<v5-29-21,21>>^ E o Senhor o separará para mal de todas as tribos de Israel, conforme a todas as maldições do concerto escrito no livro desta lei.
+
+[[v5-29-22]]
+
+^<<v5-29-22,22>>^ Então dirá a geração vindoura, os vossos filhos, que se levantarem depois de vós, e o estranho que virá de terras remotas, vendo as pragas desta terra, e as suas doenças, com que o Senhor a terá afligido,
+
+[[v5-29-23]]
+
+^<<v5-29-23,23>>^ E toda a sua terra abrasada com enxofre e sal, de sorte  que não será semeada, e nada produzirá, nem nela crescerá erva alguma, assim  como foi  a destruição de Sodoma e de Gomorra, de Adama e de Zeboim, que o Senhor destruiu na sua ira e no seu furor.
+
+[[v5-29-24]]
+
+^<<v5-29-24,24>>^ E todas as nações dirão: Por que fez o Senhor assim com esta terra? Qual foi a causa do  furor desta tão grande ira?
+
+[[v5-29-25]]
+
+^<<v5-29-25,25>>^ Então se dirá: Porquanto deixaram o concerto do Senhor, o Deus de seus pais, que com eles tinha feito, quando os tirou do Egito.
+
+[[v5-29-26]]
+
+^<<v5-29-26,26>>^ E eles foram-se, e serviram a outros deuses, e se inclinaram diante deles; deuses que os não conheceram, e nenhum dos quais ele lhes tinha dado.
+
+[[v5-29-27]]
+
+^<<v5-29-27,27>>^ Pelo que a ira do Senhor se acendeu contra esta terra, para trazer sobre ela toda a maldição que está escrita neste livro.
+
+[[v5-29-28]]
+
+^<<v5-29-28,28>>^ E o Senhor os tirou da sua terra com ira, e com indignação, e com grande furor, e os lançou em outra terra, como neste dia se vê.
+
+[[v5-29-29]]
+
+^<<v5-29-29,29>>^ As cousas  encobertas são para  o Senhor nosso Deus; porém as reveladas são para  nós e para  nossos filhos para sempre, para  cumprirmos todas as palavras desta lei.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-028.adoc#v5-28-0[&#60; Capítulo Anterior] | <<v5-29-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-030.adoc#v5-30-0[Próximo Capítulo &#62;]

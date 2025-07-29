@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v18-14-0]]
+=== Jó, 14
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v18-14-1]]
+
+^<<v18-14-1,1>>^ O HOMEM, nascido da mulher, é  de bem poucos dias e cheio de inquietação.
+
+[[v18-14-2]]
+
+^<<v18-14-2,2>>^ Sai como a flor, e se seca; foge também como a sombra, e não permanece.
+
+[[v18-14-3]]
+
+^<<v18-14-3,3>>^ E sobre este tal abres os teus olhos, e a mim me fazes entrar em juízo contigo.
+
+[[v18-14-4]]
+
+^<<v18-14-4,4>>^ Quem do imundo tirará o puro? Ninguém.
+
+[[v18-14-5]]
+
+^<<v18-14-5,5>>^ Visto que os seus dias estão  determinados, contigo está  o número dos seus meses; e  tu lhe puseste limites, e não passará além deles.
+
+[[v18-14-6]]
+
+^<<v18-14-6,6>>^ Desvia-te dele, para que tenha repouso, até que, como o jornaleiro, tenha contentamento no seu dia.
+
+[[v18-14-7]]
+
+^<<v18-14-7,7>>^ Porque há esperança para a árvore, que, se for cortada, ainda se renovará, e não cessarão os seus renovos.
+
+[[v18-14-8]]
+
+^<<v18-14-8,8>>^ Se envelhecer na terra a sua raiz, e morrer o seu tronco no pó,
+
+[[v18-14-9]]
+
+^<<v18-14-9,9>>^ Ao cheiro das águas brotará, e dará ramos como a planta.
+
+[[v18-14-10]]
+
+^<<v18-14-10,10>>^ Mas, morto o homem, é consumido; sim, rendendo o homem o espírito, então onde está?
+
+[[v18-14-11]]
+
+^<<v18-14-11,11>>^ Como as águas se retiram do mar, e o rio se esgota, e fica seco.
+
+[[v18-14-12]]
+
+^<<v18-14-12,12>>^ Assim o homem se deita, e não se levanta; até que não haja mais céus não acordará nem se erguerá de seu sono.
+
+[[v18-14-13]]
+
+^<<v18-14-13,13>>^ Oxalá me escondesses na sepultura, e  me ocultasses até que a tua ira se desviasse; e  me pusesses um limite, e te lembrasses de mim!
+
+[[v18-14-14]]
+
+^<<v18-14-14,14>>^ Morrendo o homem, porventura tornará  a viver? Todos os dias de meu combate esperaria, até que viesse a minha mudança.
+
+[[v18-14-15]]
+
+^<<v18-14-15,15>>^ Chamar-me-ias, e eu te responderia: afeiçoa-te à obra de tuas mãos.
+
+[[v18-14-16]]
+
+^<<v18-14-16,16>>^ Mas agora contas os meus passos; não estás tu vigilante sobre o meu pecado?
+
+[[v18-14-17]]
+
+^<<v18-14-17,17>>^ A minha transgressão está  selada num saco, e amontoas as minhas iniquidades.
+
+[[v18-14-18]]
+
+^<<v18-14-18,18>>^ E, na verdade, caindo a montanha, desfaz-se; e a rocha se remove do seu lugar.
+
+[[v18-14-19]]
+
+^<<v18-14-19,19>>^ As águas gastam as pedras; as cheias afogam o pó da terra; e tu fazes perecer a esperança do homem.
+
+[[v18-14-20]]
+
+^<<v18-14-20,20>>^ Tu para sempre prevaleces contra ele, e ele passa; tu, mudando o seu rosto, o despedes.
+
+[[v18-14-21]]
+
+^<<v18-14-21,21>>^ Os seus filhos, estão em honra, sem que ele o saiba; ou ficam minguados, sem que ele o perceba;
+
+[[v18-14-22]]
+
+^<<v18-14-22,22>>^ Mas a sua carne nele tem dores; e a sua alma nele lamenta.
+
+'''
+
+xref:018-jo/018-jo-013.adoc#v18-13-0[&#60; Capítulo Anterior] | <<v18-14-0,Topo>> | xref:018-jo/018-jo-015.adoc#v18-15-0[Próximo Capítulo &#62;]

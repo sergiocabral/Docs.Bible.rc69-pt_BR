@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v21-12-0]]
+=== Eclesiastes, 12
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v21-12-1]]
+
+^<<v21-12-1,1>>^ LEMBRA-TE do teu Criador nos dias da tua mocidade, antes que venham os maus dias, e cheguem os anos dos quais venhas a dizer: Não tenho neles contentamento:
+
+[[v21-12-2]]
+
+^<<v21-12-2,2>>^ Antes que se escureçam o sol, e a luz, e a lua, e as estrelas, e tornem a vir as nuvens depois da chuva:
+
+[[v21-12-3]]
+
+^<<v21-12-3,3>>^ No dia em que tremerem os guardas da casa, e se curvarem os homens fortes, e cessarem os moedores, por já serem poucos, e se escurecerem os que olham pelas janelas;
+
+[[v21-12-4]]
+
+^<<v21-12-4,4>>^ E as duas portas da rua se fecharem por causa do baixo ruído da moedura, e se levantar à voz das aves, e todas as vozes do canto se baixarem;
+
+[[v21-12-5]]
+
+^<<v21-12-5,5>>^ Como também quando  temerem o que está no alto, e houver espantos no caminho, e florescer a amendoeira, e o gafanhoto for um peso, e perecer o apetite: porque o homem se vai à sua eterna casa, e os pranteadores andarão rodeando pela praça;
+
+[[v21-12-6]]
+
+^<<v21-12-6,6>>^ Antes que se quebre a cadeia de prata, e se despedace o copo de ouro, e se despedace o cântaro junto à fonte, e se despedace a roda junto ao poço,
+
+[[v21-12-7]]
+
+^<<v21-12-7,7>>^ E o pó volte à terra, como o era, e o espírito volte a Deus, que o deu.
+
+[[v21-12-8]]
+
+^<<v21-12-8,8>>^ Vaidade de vaidade, diz o pregador, tudo é  vaidade.
+
+[[v21-12-9]]
+
+^<<v21-12-9,9>>^ E, quanto mais sábio foi o pregador, tanto mais sabedoria ao povo ensinou; e atentou, e esquadrinhou, e compôs muitos provérbios.
+
+[[v21-12-10]]
+
+^<<v21-12-10,10>>^ Procurou o pregador achar palavras agradáveis; e o escrito é  a retidão, palavras de verdade.
+
+[[v21-12-11]]
+
+^<<v21-12-11,11>>^ As palavras dos sábios são  como aguilhões, e como pregos bem-fixados pelos  mestres das congregações, que  nos foram dadas pelo único Pastor.
+
+[[v21-12-12]]
+
+^<<v21-12-12,12>>^ E, de mais disto, filho meu, atenta: não há  limite para fazer livros, e o muito estudar enfado é  da carne.
+
+[[v21-12-13]]
+
+^<<v21-12-13,13>>^ De tudo o que se tem ouvido, o fim é : Teme a Deus, e guarda os seus mandamentos; porque este é o dever de  todo o homem.
+
+[[v21-12-14]]
+
+^<<v21-12-14,14>>^ Porque Deus há de trazer a juízo toda a obra, e até  tudo o que está encoberto, quer seja  bom quer seja  mau.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-011.adoc#v21-11-0[&#60; Capítulo Anterior] | <<v21-12-0,Topo>> | xref:022-canticos/022-canticos-001.adoc#v22-1-0[Próximo Capítulo &#62;]

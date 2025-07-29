@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v10-12-0]]
+=== 2 Samuel, 12
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v10-12-1]]
+
+^<<v10-12-1,1>>^ E O Senhor enviou Natã a Davi: e, entrando ele a Davi, disse-lhe: Havia numa cidade dois homens, um rico e outro pobre.
+
+[[v10-12-2]]
+
+^<<v10-12-2,2>>^ O rico tinha muitíssimas ovelhas e vacas;
+
+[[v10-12-3]]
+
+^<<v10-12-3,3>>^ Mas o pobre não tinha cousa nenhuma, senão uma pequena cordeira que comprara e criara; e ela tinha crescido com ele e com seus filhos igualmente; do seu bocado comia, e do seu copo bebia, e dormia em seu regaço, e a tinha como filha.
+
+[[v10-12-4]]
+
+^<<v10-12-4,4>>^ E, vindo ao homem rico um viajante, deixou este de tomar das suas ovelhas e das suas vacas para guisar para o viajante que viera a ele: e tomou a cordeira do homem pobre, e a preparou para o homem que viera a ele.
+
+[[v10-12-5]]
+
+^<<v10-12-5,5>>^ Então o furor de Davi se acendeu em grande maneira contra aquele homem, e disse a Natã: Vive o Senhor, que digno de morte é o homem que fez isso.
+
+[[v10-12-6]]
+
+^<<v10-12-6,6>>^ E pela cordeira tornará a dar o quadruplicado, porque fez tal cousa, e porque não se compadeceu.
+
+[[v10-12-7]]
+
+^<<v10-12-7,7>>^ Então disse Natã a Davi: Tu és  este homem. Assim diz o Senhor Deus de Israel: Eu te ungi rei sobre Israel, e eu te livrei das mãos de Saul.
+
+[[v10-12-8]]
+
+^<<v10-12-8,8>>^ E te dei a casa de teu senhor, e as mulheres de teu senhor em teu seio, e também te dei a casa de Israel e de Judá, e, se isto é  pouco, mais te acrescentaria tais e tais cousas.
+
+[[v10-12-9]]
+
+^<<v10-12-9,9>>^ Por que, pois  desprezaste a palavra do Senhor, fazendo o mal diante de seus olhos? A Urias, o heteu, feriste à espada, e a sua mulher tomaste por tua mulher; e a ele mataste com a espada dos filhos de Amom.
+
+[[v10-12-10]]
+
+^<<v10-12-10,10>>^ Agora, pois, não se apartará a espada jamais da tua casa, porquanto me desprezaste, e tomaste a mulher de Urias, o heteu, para que te seja por mulher.
+
+[[v10-12-11]]
+
+^<<v10-12-11,11>>^ Assim diz o Senhor: Eis que suscitarei da tua mesma  casa o mal sobre ti, e tomarei tuas mulheres perante os teus olhos, e as darei a teu próximo, o qual se deitará com tuas mulheres perante este sol.
+
+[[v10-12-12]]
+
+^<<v10-12-12,12>>^ Porque tu o fizeste em oculto, mas eu farei este negócio perante todo o Israel e perante o sol.
+
+[[v10-12-13]]
+
+^<<v10-12-13,13>>^ Então disse Davi a Natã: Pequei contra o Senhor. E disse Natã a Davi: Também o Senhor traspassou o teu pecado; não morrerás.
+
+[[v10-12-14]]
+
+^<<v10-12-14,14>>^ Todavia, porquanto com este feito deste lugar sobremaneira a que os inimigos do Senhor blasfemem, também o filho que te nasceu certamente morrerá.
+
+[[v10-12-15]]
+
+^<<v10-12-15,15>>^ Então Natã foi para sua casa; e o Senhor feriu a criança que a mulher de Urias dera a Davi, e adoeceu gravemente.
+
+[[v10-12-16]]
+
+^<<v10-12-16,16>>^ E buscou Davi a Deus pela criança; e jejuou Davi, e entrou, e passou a noite prostrado sobre a terra:
+
+[[v10-12-17]]
+
+^<<v10-12-17,17>>^ Então os anciãos da sua casa se levantaram e foram  a ele, para o levantar da terra; porém ele não quis, e não comeu pão com eles.
+
+[[v10-12-18]]
+
+^<<v10-12-18,18>>^ E sucedeu que ao sétimo dia morreu a criança: e temiam os servos de Davi dizer-lhe que a criança era morta, porque diziam: Eis que, sendo a criança ainda  viva, lhe falávamos, porém não dava ouvidos à nossa voz; como pois lhe diremos que a criança é morta? Porque mais  mal lhe  faria.
+
+[[v10-12-19]]
+
+^<<v10-12-19,19>>^ Viu porém Davi que seus servos falavam baixo e entendeu Davi que a criança era morta, pelo que disse Davi a seus servos: É morta a criança? E eles disseram: É morta.
+
+[[v10-12-20]]
+
+^<<v10-12-20,20>>^ Então Davi se levantou da terra, e se lavou, e se ungiu, e mudou de vestidos, e entrou na casa do Senhor, e adorou: então veio a sua casa, e pediu pão ; e lhe puseram pão, e comeu.
+
+[[v10-12-21]]
+
+^<<v10-12-21,21>>^ E disseram-lhe seus servos: Que é  isto que fizeste? Pela criança viva jejuaste e choraste; porém depois que morreu a criança te levantaste e comeste pão.
+
+[[v10-12-22]]
+
+^<<v10-12-22,22>>^ E disse ele: Vivendo ainda a criança, jejuei e chorei, porque dizia: Quem sabe se  o Senhor se compadecerá de mim, e viva a criança?
+
+[[v10-12-23]]
+
+^<<v10-12-23,23>>^ Porém, agora que  é morta, porque jejuaria eu agora? Poderei eu fazê-la mais voltar? Eu irei a ela, porém ela não voltará para mim.
+
+[[v10-12-24]]
+
+^<<v10-12-24,24>>^ Então consolou Davi a Batseba, sua mulher e entrou a ela, e se deitou com ela: e teve ela um filho, e chamou o seu nome Salomão: e o Senhor o amou.
+
+[[v10-12-25]]
+
+^<<v10-12-25,25>>^ E enviou pela mão do profeta Natã, e chamou o seu nome Jedidjá, por amor do Senhor.
+
+[[v10-12-26]]
+
+^<<v10-12-26,26>>^ Entretanto pelejou Joabe contra Rabá, dos filhos de Amom, e tomou a cidade real.
+
+[[v10-12-27]]
+
+^<<v10-12-27,27>>^ Então mandou Joabe mensageiros a Davi, e disse: Pelejei contra Rabá, e  também tomei a cidade das águas.
+
+[[v10-12-28]]
+
+^<<v10-12-28,28>>^ Ajunta, pois, agora o resto do povo, e cerca a cidade, e toma-a, para que, tomando eu a cidade, não se aclame sobre ela o meu nome.
+
+[[v10-12-29]]
+
+^<<v10-12-29,29>>^ Então ajuntou Davi a todo o povo e marchou para Rabá, e pelejou contra ela, e a tomou.
+
+[[v10-12-30]]
+
+^<<v10-12-30,30>>^ E tirou a coroa da cabeça do seu rei, cujo peso era dum talento de ouro, e havia nela  pedras preciosas, e foi posta  sobre a cabeça de Davi: e da cidade levou mui grande despojo.
+
+[[v10-12-31]]
+
+^<<v10-12-31,31>>^ E, trazendo o povo que havia  nela, o pôs às serras, e às talhadeiras de ferro, e aos machados de ferro, e os fez passar por forno de tijolos; e assim fez a todas as cidades dos filhos de Amom: e voltou Davi e todo o povo para Jerusalém.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-011.adoc#v10-11-0[&#60; Capítulo Anterior] | <<v10-12-0,Topo>> | xref:010-2-samuel/010-2-samuel-013.adoc#v10-13-0[Próximo Capítulo &#62;]

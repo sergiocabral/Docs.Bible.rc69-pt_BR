@@ -1,0 +1,197 @@
+include::./index.adoc[]
+
+[[v41-15-0]]
+=== Marcos, 15
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v41-15-1]]
+
+^<<v41-15-1,1>>^ E, LOGO ao amanhecer, os principais dos sacerdotes, com os anciãos, e os escribas, e todo o sinédrio, tiveram conselho; e, ligando Jesus, o  levaram e entregaram a Pilatos.
+
+[[v41-15-2]]
+
+^<<v41-15-2,2>>^ E Pilatos lhe perguntou: Tu és o Rei dos Judeus? E ele, respondendo, disse-lhe: Tu o  dizes.
+
+[[v41-15-3]]
+
+^<<v41-15-3,3>>^ E os principais dos sacerdotes o acusavam de muitas coisas ; porém ele nada respondia.
+
+[[v41-15-4]]
+
+^<<v41-15-4,4>>^ E Pilatos o interrogou outra vez, dizendo: Nada respondes? Vê quantas coisas  testificam contra ti.
+
+[[v41-15-5]]
+
+^<<v41-15-5,5>>^ Mas Jesus nada mais respondeu, de maneira que Pilatos se maravilhava.
+
+[[v41-15-6]]
+
+^<<v41-15-6,6>>^ Ora no dia  da festa costumava soltar-lhes um preso qualquer que eles pedissem.
+
+[[v41-15-7]]
+
+^<<v41-15-7,7>>^ E havia um chamado Barrabás, que, preso com outros amotinadores, tinha num motim cometido uma morte.
+
+[[v41-15-8]]
+
+^<<v41-15-8,8>>^ E a multidão, dando gritos, começou a pedir que fizesse  como sempre lhes tinha feito.
+
+[[v41-15-9]]
+
+^<<v41-15-9,9>>^ E Pilatos lhes respondeu, dizendo: Quereis que vos solte o Rei dos Judeus?
+
+[[v41-15-10]]
+
+^<<v41-15-10,10>>^ Porque ele bem sabia que por inveja os principais dos sacerdotes o tinham entregado.
+
+[[v41-15-11]]
+
+^<<v41-15-11,11>>^ Mas os principais dos sacerdotes incitaram a multidão para que fosse solto antes Barrabás.
+
+[[v41-15-12]]
+
+^<<v41-15-12,12>>^ E Pilatos, respondendo, lhes disse outra vez: Que quereis pois que faça daquele  a quem chamais Rei dos Judeus?
+
+[[v41-15-13]]
+
+^<<v41-15-13,13>>^ E eles tornaram a clamar: Crucifica-o.
+
+[[v41-15-14]]
+
+^<<v41-15-14,14>>^ Mas Pilatos lhes disse: Mas que mal fez? E eles cada vez clamavam mais: Crucifica-o.
+
+[[v41-15-15]]
+
+^<<v41-15-15,15>>^ Então Pilatos, querendo satisfazer a multidão, soltou-lhes Barrabás, e, açoitado Jesus, o entregou para que fosse crucificado.
+
+[[v41-15-16]]
+
+^<<v41-15-16,16>>^ E os soldados o levaram dentro à sala, que é a da audiência, e convocaram toda a coorte;
+
+[[v41-15-17]]
+
+^<<v41-15-17,17>>^ E vestiram-no de púrpura, e, tecendo uma coroa de espinhos, lha puseram na cabeça.
+
+[[v41-15-18]]
+
+^<<v41-15-18,18>>^ E começaram a saudá-lo, dizendo : Salve, Rei dos Judeus!
+
+[[v41-15-19]]
+
+^<<v41-15-19,19>>^ E feriram-no na cabeça com uma cana, e cuspiram nele, e, postos de joelhos , o adoraram.
+
+[[v41-15-20]]
+
+^<<v41-15-20,20>>^ E, havendo-o escarnecido, despiram-lhe a púrpura, e o vestiram com os seus próprios vestidos; e o levaram para fora a fim de o crucificarem.
+
+[[v41-15-21]]
+
+^<<v41-15-21,21>>^ E constrangeram um certo  Simão Cireneu, pai de Alexandre e de Rufo, que por ali  passava, vindo do campo, a que levasse a cruz.
+
+[[v41-15-22]]
+
+^<<v41-15-22,22>>^ E levaram-no ao lugar do Gólgota, que se traduz por lugar da Caveira.
+
+[[v41-15-23]]
+
+^<<v41-15-23,23>>^ E deram-lhe a beber vinho com mirra, mas ele não o tomou.
+
+[[v41-15-24]]
+
+^<<v41-15-24,24>>^ E, havendo-o crucificado, repartiram os seus vestidos, lançando sobre eles sortes, para saber  o que cada um levaria.
+
+[[v41-15-25]]
+
+^<<v41-15-25,25>>^ E era a hora terceira, e o crucificaram.
+
+[[v41-15-26]]
+
+^<<v41-15-26,26>>^ E por cima dele  estava escrita a sua acusação: O Rei dos Judeus .
+
+[[v41-15-27]]
+
+^<<v41-15-27,27>>^ E crucificaram com ele dois salteadores, um à sua direita, e outro à esquerda.
+
+[[v41-15-28]]
+
+^<<v41-15-28,28>>^ E cumpriu-se a escritura que diz: E com os malfeitores foi contado.
+
+[[v41-15-29]]
+
+^<<v41-15-29,29>>^ E os que passavam blasfemavam dele, meneando as suas cabeças, e dizendo: Ah! tu que derribas o templo, e em três dias o edificas.
+
+[[v41-15-30]]
+
+^<<v41-15-30,30>>^ Salva-te a ti mesmo, e desce da cruz.
+
+[[v41-15-31]]
+
+^<<v41-15-31,31>>^ E da mesma maneira também os principais dos sacerdotes, com os escribas, diziam uns para os outros, zombando: Salvou os outros, e não pode salvar-se a si mesmo;
+
+[[v41-15-32]]
+
+^<<v41-15-32,32>>^ O Cristo, o Rei d’Israel, desça agora da cruz, para que o vejamos e acreditemos. Também os que com ele foram crucificados o injuriavam.
+
+[[v41-15-33]]
+
+^<<v41-15-33,33>>^ E, chegada a hora sexta, houve trevas sobre toda a terra até à hora nona.
+
+[[v41-15-34]]
+
+^<<v41-15-34,34>>^ E, à hora nona, Jesus exclamou com grande voz, dizendo: Eloi, Eloi, lama sabactâni? que, traduzido, é: Deus meu, Deus meu, por que me desamparaste?
+
+[[v41-15-35]]
+
+^<<v41-15-35,35>>^ E alguns dos que ali estavam, ouvindo isto , diziam: Eis que chama por Elias.
+
+[[v41-15-36]]
+
+^<<v41-15-36,36>>^ E um deles correu a embeber uma esponja em vinagre, e, pondo- a  numa cana, deu-lho a beber, dizendo: Deixai, vejamos se virá Elias tirá-lo.
+
+[[v41-15-37]]
+
+^<<v41-15-37,37>>^ E Jesus, dando um grande brado, expirou.
+
+[[v41-15-38]]
+
+^<<v41-15-38,38>>^ E o véu do templo se rasgou em dois, d’alto a baixo.
+
+[[v41-15-39]]
+
+^<<v41-15-39,39>>^ E o centurião, que estava defronte dele, vendo que assim clamando expirara, disse: Verdadeiramente este homem era o Filho de Deus.
+
+[[v41-15-40]]
+
+^<<v41-15-40,40>>^ E também ali estavam algumas  mulheres, olhando de longe, entre as quais também Maria Madalena, e Maria, mãe de Tiago, o menor, e de José, e Salomé;
+
+[[v41-15-41]]
+
+^<<v41-15-41,41>>^ As quais também o seguiam, e o serviam, quando estava na Galileia; e muitas outras, que tinham subido com ele a Jerusalém.
+
+[[v41-15-42]]
+
+^<<v41-15-42,42>>^ E, chegada a tarde, porquanto era o dia da  preparação, isto é, a véspera do sábado,
+
+[[v41-15-43]]
+
+^<<v41-15-43,43>>^ Chegou José d’Arimateia, senador honrado, que também esperava o reino de Deus, e ousadamente foi a Pilatos, e pediu o corpo de Jesus.
+
+[[v41-15-44]]
+
+^<<v41-15-44,44>>^ E Pilatos se maravilhou de que já estivesse morto. E, chamando o centurião, perguntou-lhe se já havia muito que tinha morrido.
+
+[[v41-15-45]]
+
+^<<v41-15-45,45>>^ E, tendo-se certificado pelo centurião, deu o corpo a José;
+
+[[v41-15-46]]
+
+^<<v41-15-46,46>>^ O qual comprara um lençol fino, e, tirando-o da cruz , o envolveu nele, e o depositou num sepulcro lavrado numa  rocha; e revolveu uma pedra para a porta do sepulcro.
+
+[[v41-15-47]]
+
+^<<v41-15-47,47>>^ E Maria Madalena e Maria mãe  de José observavam onde o punham.
+
+'''
+
+xref:041-marcos/041-marcos-014.adoc#v41-14-0[&#60; Capítulo Anterior] | <<v41-15-0,Topo>> | xref:041-marcos/041-marcos-016.adoc#v41-16-0[Próximo Capítulo &#62;]

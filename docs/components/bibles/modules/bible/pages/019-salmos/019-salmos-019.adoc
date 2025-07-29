@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-19-0]]
+=== Salmos, 19
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-19-1]]
+
+^<<v19-19-1,1>>^ OS céus manifestam a glória de Deus e o firmamento anuncia a obra das suas mãos.
+
+[[v19-19-2]]
+
+^<<v19-19-2,2>>^ Um  dia faz declaração a outro  dia, e uma  noite mostra sabedoria a outra  noite.
+
+[[v19-19-3]]
+
+^<<v19-19-3,3>>^ Sem linguagem, sem fala, ouvem-se as suas vozes,
+
+[[v19-19-4]]
+
+^<<v19-19-4,4>>^ Em toda a extensão da terra, e as suas palavras até ao fim do mundo. Neles pôs uma  tenda para o sol,
+
+[[v19-19-5]]
+
+^<<v19-19-5,5>>^ Que é qual noivo que sai do seu tálamo, e  se alegra, como um herói, a correr o seu caminho.
+
+[[v19-19-6]]
+
+^<<v19-19-6,6>>^ A sua saída é  desde uma extremidade dos céus, e o seu curso até à outra extremidade deles; e nada se furta ao seu calor.
+
+[[v19-19-7]]
+
+^<<v19-19-7,7>>^ A lei do Senhor é  perfeita, e refrigera a alma: o testemunho do Senhor é  fiel, e dá sabedoria aos símplices.
+
+[[v19-19-8]]
+
+^<<v19-19-8,8>>^ Os preceitos do Senhor são  retos, e alegram o coração: o mandamento do Senhor é  puro, e alumia os olhos.
+
+[[v19-19-9]]
+
+^<<v19-19-9,9>>^ O temor do Senhor é limpo, e permanece eternamente; os juízos do Senhor são  verdadeiros e justos juntamente.
+
+[[v19-19-10]]
+
+^<<v19-19-10,10>>^ Mais desejáveis são  do que o ouro, sim, do que muito ouro fino; e mais doces do que o mel e o licor dos favos.
+
+[[v19-19-11]]
+
+^<<v19-19-11,11>>^ Também por eles é admoestado o teu servo; e  em os guardar há  grande recompensa.
+
+[[v19-19-12]]
+
+^<<v19-19-12,12>>^ Quem pode entender os próprios erros? expurga-me tu dos que me são  ocultos.
+
+[[v19-19-13]]
+
+^<<v19-19-13,13>>^ Também da soberba guarda o teu servo, para que se não assenhoreie de mim: então serei sincero, e ficarei limpo de grande transgressão.
+
+[[v19-19-14]]
+
+^<<v19-19-14,14>>^ Sejam agradáveis as palavras da minha boca e a meditação do meu coração perante a tua face, Senhor. Rocha minha e Libertador meu!
+
+'''
+
+xref:019-salmos/019-salmos-018.adoc#v19-18-0[&#60; Capítulo Anterior] | <<v19-19-0,Topo>> | xref:019-salmos/019-salmos-020.adoc#v19-20-0[Próximo Capítulo &#62;]

@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v52-3-0]]
+=== 1 Tessalonicenses, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v52-3-1]]
+
+^<<v52-3-1,1>>^ PELO que, não podendo esperar mais, de boa mente quisemos deixar-nos ficar sós em Atenas;
+
+[[v52-3-2]]
+
+^<<v52-3-2,2>>^ E enviamos Timóteo, nosso irmão, e ministro de Deus, e nosso cooperador no evangelho de Cristo, para vos confortar e vos exortar acerca da vossa fé;
+
+[[v52-3-3]]
+
+^<<v52-3-3,3>>^ Para que ninguém se comova por estas tribulações; porque vós mesmos sabeis que para isto fomos ordenados,
+
+[[v52-3-4]]
+
+^<<v52-3-4,4>>^ Pois, estando ainda convosco, vos predizíamos que havíamos de ser afligidos, como sucedeu, e vós o sabeis.
+
+[[v52-3-5]]
+
+^<<v52-3-5,5>>^ Portanto, não podendo eu também esperar mais, mandei- o  saber da vossa fé, temendo  que o tentador vos tentasse, e o nosso trabalho viesse a ser inútil.
+
+[[v52-3-6]]
+
+^<<v52-3-6,6>>^ Vindo, porém, agora Timóteo de vós para nós, e trazendo-nos boas novas da vossa fé e caridade, e de como sempre tendes boa lembrança de nós, desejando muito ver-nos, como nós também a vós;
+
+[[v52-3-7]]
+
+^<<v52-3-7,7>>^ Por esta razão, irmãos, ficamos consolados acerca de vós, em toda a nossa aflição e necessidade, pela vossa fé,
+
+[[v52-3-8]]
+
+^<<v52-3-8,8>>^ Porque agora vivemos, se estais firmes  no Senhor.
+
+[[v52-3-9]]
+
+^<<v52-3-9,9>>^ Porque, que ação de graças poderemos dar a Deus por vós, por todo o gozo com que nos regozijamos por vossa causa diante do nosso Deus,
+
+[[v52-3-10]]
+
+^<<v52-3-10,10>>^ Orando abundantemente dia e noite, para que possamos ver o vosso rosto, e supramos o que falta à vossa fé?
+
+[[v52-3-11]]
+
+^<<v52-3-11,11>>^ Ora o mesmo nosso Deus e Pai, e nosso Senhor Jesus Cristo, encaminhe a nossa viagem para vós.
+
+[[v52-3-12]]
+
+^<<v52-3-12,12>>^ E o Senhor vos aumente, e faça abundar em caridade uns para com os outros, e para com todos, como também abundamos  para convosco;
+
+[[v52-3-13]]
+
+^<<v52-3-13,13>>^ Para confortar os vossos corações, para que sejais irrepreensíveis em santidade diante de nosso Deus e Pai, na vinda de nosso Senhor Jesus Cristo com todos os seus santos.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-002.adoc#v52-2-0[&#60; Capítulo Anterior] | <<v52-3-0,Topo>> | xref:052-1-tessalonicenses/052-1-tessalonicenses-004.adoc#v52-4-0[Próximo Capítulo &#62;]

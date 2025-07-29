@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v19-135-0]]
+=== Salmos, 135
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-135-1]]
+
+^<<v19-135-1,1>>^ LOUVAI ao Senhor. Louvai o  nome do Senhor; louvai-o, servos do Senhor.
+
+[[v19-135-2]]
+
+^<<v19-135-2,2>>^ Vós que assistis na casa do Senhor, nos átrios da casa do nosso Deus.
+
+[[v19-135-3]]
+
+^<<v19-135-3,3>>^ Louvai ao Senhor, porque o Senhor é  bom: cantai louvores ao seu nome, porque é  agradável.
+
+[[v19-135-4]]
+
+^<<v19-135-4,4>>^ Porque o Senhor escolheu para si a Jacó, e  a Israel para seu tesouro peculiar.
+
+[[v19-135-5]]
+
+^<<v19-135-5,5>>^ Porque eu conheço que o Senhor é  grande e que  o nosso Deus está  acima de todos os deuses.
+
+[[v19-135-6]]
+
+^<<v19-135-6,6>>^ Tudo o que o Senhor quis, ele o fez, nos céus e na terra, nos mares e em  todos os abismos.
+
+[[v19-135-7]]
+
+^<<v19-135-7,7>>^ Faz subir os vapores das extremidades da terra: faz os relâmpagos para a chuva: tira os ventos dos seus tesouros.
+
+[[v19-135-8]]
+
+^<<v19-135-8,8>>^ Foi ele que feriu os primogênitos do Egito, desde os homens até aos animais;
+
+[[v19-135-9]]
+
+^<<v19-135-9,9>>^ Que operou sinais e prodígios no meio de ti, ó Egito, contra Faraó e contra os seus servos;
+
+[[v19-135-10]]
+
+^<<v19-135-10,10>>^ Que feriu muitas nações, e deu a morte a poderosos reis;
+
+[[v19-135-11]]
+
+^<<v19-135-11,11>>^ A Seom, rei dos amorreus, e a Ogue, rei de Basã, e a todos os reinos de Canaã.
+
+[[v19-135-12]]
+
+^<<v19-135-12,12>>^ E deu a sua terra em herança, em herança a Israel, seu povo.
+
+[[v19-135-13]]
+
+^<<v19-135-13,13>>^ O teu nome, ó Senhor, permanece perpetuamente: e  a tua memória, ó Senhor, de geração em geração.
+
+[[v19-135-14]]
+
+^<<v19-135-14,14>>^ Pois o Senhor julgará o seu povo, e se arrependerá em atenção aos seus servos.
+
+[[v19-135-15]]
+
+^<<v19-135-15,15>>^ Os ídolos das nações são  prata e ouro, obra das mãos dos homens.
+
+[[v19-135-16]]
+
+^<<v19-135-16,16>>^ Têm boca, mas não falam; têm olhos, e não veem.
+
+[[v19-135-17]]
+
+^<<v19-135-17,17>>^ Têm ouvidos, mas não ouvem, nem há respiro algum  nas suas bocas.
+
+[[v19-135-18]]
+
+^<<v19-135-18,18>>^ Semelhantes a eles se tornem os que os fazem, e todos os que confiam neles.
+
+[[v19-135-19]]
+
+^<<v19-135-19,19>>^ Casa de Israel, bendizei ao Senhor; casa de Aarão, bendizei ao Senhor.
+
+[[v19-135-20]]
+
+^<<v19-135-20,20>>^ Casa de Levi, bendizei ao Senhor: vós, os que temeis ao Senhor, louvai ao Senhor.
+
+[[v19-135-21]]
+
+^<<v19-135-21,21>>^ Bendito seja  o Senhor desde Sião, que habita em Jerusalém. Louvai ao Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-134.adoc#v19-134-0[&#60; Capítulo Anterior] | <<v19-135-0,Topo>> | xref:019-salmos/019-salmos-136.adoc#v19-136-0[Próximo Capítulo &#62;]

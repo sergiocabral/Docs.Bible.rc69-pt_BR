@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v41-8-0]]
+=== Marcos, 8
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v41-8-1]]
+
+^<<v41-8-1,1>>^ NAQUELES dias, havendo mui grande multidão, e não tendo que comer, Jesus chamou a si os seus discípulos, e disse-lhes:
+
+[[v41-8-2]]
+
+^<<v41-8-2,2>>^ Tenho compaixão da multidão, porque há já três dias que estão comigo, e não têm que comer.
+
+[[v41-8-3]]
+
+^<<v41-8-3,3>>^ E, se os deixar ir em jejum para suas casas, desfalecerão no caminho, porque alguns deles vieram de longe.
+
+[[v41-8-4]]
+
+^<<v41-8-4,4>>^ E os seus discípulos responderam-lhe: Donde poderá alguém satisfazê-los de pão aqui no deserto?
+
+[[v41-8-5]]
+
+^<<v41-8-5,5>>^ E perguntou-lhes: Quantos pães tendes? E disseram-lhe: Sete.
+
+[[v41-8-6]]
+
+^<<v41-8-6,6>>^ E ordenou à multidão que se assentasse no chão. E, tomando os sete pães, e tendo dado graças, partiu- os , e deu-os aos seus discípulos, para que os  pusessem diante deles, e puseram- nos  diante da multidão.
+
+[[v41-8-7]]
+
+^<<v41-8-7,7>>^ Tinham também uns poucos de peixinhos; e, tendo dado graças, ordenou que também lhos pusessem diante.
+
+[[v41-8-8]]
+
+^<<v41-8-8,8>>^ E comeram, e saciaram-se; e dos pedaços que sobejaram levantaram sete alcofas.
+
+[[v41-8-9]]
+
+^<<v41-8-9,9>>^ E os que comeram eram quase quatro mil; e despediu-os.
+
+[[v41-8-10]]
+
+^<<v41-8-10,10>>^ E, entrando logo no barco com os seus discípulos, foi para as partes de Dalmanuta.
+
+[[v41-8-11]]
+
+^<<v41-8-11,11>>^ E saíram os fariseus, e começaram a disputar com ele, pedindo-lhe, para o tentarem, um  sinal do céu.
+
+[[v41-8-12]]
+
+^<<v41-8-12,12>>^ E, suspirando profundamente em seu espírito, disse: Por que pede esta geração um  sinal? Em verdade vos digo que a esta geração não se dará sinal algum.
+
+[[v41-8-13]]
+
+^<<v41-8-13,13>>^ E, deixando-os, tornou a entrar no barco, e foi para a outra banda.
+
+[[v41-8-14]]
+
+^<<v41-8-14,14>>^ E eles se esqueceram de levar pão, e no barco não tinham consigo senão um pão.
+
+[[v41-8-15]]
+
+^<<v41-8-15,15>>^ E ordenou-lhes, dizendo: Olhai, guardai-vos do fermento dos fariseus e do  fermento de Herodes.
+
+[[v41-8-16]]
+
+^<<v41-8-16,16>>^ E arrazoavam entre si, dizendo: É  porque não temos pão.
+
+[[v41-8-17]]
+
+^<<v41-8-17,17>>^ E Jesus, conhecendo isto, disse-lhes: Para que arrazoais, que não tendes pão? não considerastes, nem compreendestes ainda? tendes ainda o vosso coração endurecido?
+
+[[v41-8-18]]
+
+^<<v41-8-18,18>>^ Tendo olhos, não vedes? e, tendo ouvidos, não ouvis? e não vos lembrais,
+
+[[v41-8-19]]
+
+^<<v41-8-19,19>>^ Quando parti os cinco pães entre os cinco mil, quantos cestos cheios de pedaços levantastes? Disseram-lhe: Doze.
+
+[[v41-8-20]]
+
+^<<v41-8-20,20>>^ E, quando parti  os sete entre os quatro mil, quantas alcofas cheias de pedaços levantastes? E disseram-lhe: Sete.
+
+[[v41-8-21]]
+
+^<<v41-8-21,21>>^ E ele lhes disse: Como não entendeis ainda?
+
+[[v41-8-22]]
+
+^<<v41-8-22,22>>^ E chegou a Betsaida; e trouxeram-lhe um cego, e rogaram-lhe que lhe tocasse.
+
+[[v41-8-23]]
+
+^<<v41-8-23,23>>^ E, tomando o cego pela mão, levou-o para fora da aldeia; e, cuspindo-lhe nos olhos, e impondo-lhe as mãos, perguntou-lhe se via alguma coisa.
+
+[[v41-8-24]]
+
+^<<v41-8-24,24>>^ E, levantando ele os olhos, disse: Vejo os homens; pois os vejo como árvores que andam.
+
+[[v41-8-25]]
+
+^<<v41-8-25,25>>^ Depois tornou a pôr-lhe as mãos nos olhos, e ele, olhando firmemente ficou restabelecido, e já via ao longe e distintamente a todos.
+
+[[v41-8-26]]
+
+^<<v41-8-26,26>>^ E mandou-o para sua casa, dizendo: Não entres na aldeia.
+
+[[v41-8-27]]
+
+^<<v41-8-27,27>>^ E saiu Jesus e os seus discípulos para as aldeias de Cesareia de Filipe; e no caminho perguntou aos seus discípulos, dizendo: Quem dizem os homens que eu sou?
+
+[[v41-8-28]]
+
+^<<v41-8-28,28>>^ E eles responderam: João Batista; e outros, Elias; mas outros, Um dos profetas.
+
+[[v41-8-29]]
+
+^<<v41-8-29,29>>^ E ele lhes disse: Mas vós quem dizeis que eu sou? E, respondendo Pedro, lhe disse: Tu és o Cristo.
+
+[[v41-8-30]]
+
+^<<v41-8-30,30>>^ E admoestou-os, para que a ninguém dissessem aquilo  dele.
+
+[[v41-8-31]]
+
+^<<v41-8-31,31>>^ E começou a ensinar-lhes que importava que o Filho do homem padecesse muito, e fosse rejeitado pelos anciãos e príncipes dos sacerdotes, e pelos escribas, e que fosse morto, mas que depois de três dias ressuscitaria.
+
+[[v41-8-32]]
+
+^<<v41-8-32,32>>^ E dizia abertamente estas palavras. E Pedro o tomou à parte, e começou a repreendê-lo.
+
+[[v41-8-33]]
+
+^<<v41-8-33,33>>^ Mas ele, virando-se, e olhando para os seus discípulos, repreendeu a Pedro, dizendo: Retira-te de diante de mim, Satanás; porque não compreendes as coisas  que são  de Deus, mas as que são  dos homens.
+
+[[v41-8-34]]
+
+^<<v41-8-34,34>>^ E, chamando a si  a multidão, com os seus discípulos, disse-lhes: Se alguém quiser vir após mim, negue-se a si  mesmo, e tome a sua cruz, e siga-me.
+
+[[v41-8-35]]
+
+^<<v41-8-35,35>>^ Porque qualquer que quiser salvar a sua vida perdê-la-á, mas, qualquer que perder a sua vida por amor de mim e do evangelho, esse a salvará.
+
+[[v41-8-36]]
+
+^<<v41-8-36,36>>^ Pois que aproveitaria ao homem ganhar todo o mundo e perder a sua alma?
+
+[[v41-8-37]]
+
+^<<v41-8-37,37>>^ Ou que daria o homem pelo resgate da sua alma?
+
+[[v41-8-38]]
+
+^<<v41-8-38,38>>^ Porquanto, qualquer que, entre esta geração adúltera e pecadora, se envergonhar de mim e das minhas palavras, também o Filho do homem se envergonhará dele, quando vier na glória de seu Pai, com os santos anjos.
+
+'''
+
+xref:041-marcos/041-marcos-007.adoc#v41-7-0[&#60; Capítulo Anterior] | <<v41-8-0,Topo>> | xref:041-marcos/041-marcos-009.adoc#v41-9-0[Próximo Capítulo &#62;]

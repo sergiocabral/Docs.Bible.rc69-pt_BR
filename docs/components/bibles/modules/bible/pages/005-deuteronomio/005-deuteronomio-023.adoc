@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v5-23-0]]
+=== Deuteronômio, 23
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v5-23-1]]
+
+^<<v5-23-1,1>>^ O QUEBRADO de quebradura, e o castrado, não entrará na congregação do Senhor.
+
+[[v5-23-2]]
+
+^<<v5-23-2,2>>^ Nenhum bastardo entrará na congregação do Senhor: nem ainda a sua décima geração entrará na congregação do Senhor.
+
+[[v5-23-3]]
+
+^<<v5-23-3,3>>^ Nenhum amonita nem moabita entrará na congregação do Senhor; nem ainda a sua décima geração entrará na congregação do Senhor eternamente.
+
+[[v5-23-4]]
+
+^<<v5-23-4,4>>^ Porquanto não saíram com pão e água a receber-vos no caminho, quando saíeis do Egito; e porquanto alugaram contra ti a Balaão, filho de Beor, de Petor, de Mesopotâmia, para te amaldiçoar.
+
+[[v5-23-5]]
+
+^<<v5-23-5,5>>^ Porém o Senhor teu Deus não quis ouvir Balaão: antes o Senhor teu Deus trocou em bênção a maldição; porquanto o Senhor teu Deus te amava.
+
+[[v5-23-6]]
+
+^<<v5-23-6,6>>^ Não lhes procurarás nem paz nem bem em todos os teus dias para sempre.
+
+[[v5-23-7]]
+
+^<<v5-23-7,7>>^ Não abominarás o edumeu, pois é  teu irmão; nem abominarás o egípcio; pois estrangeiro foste na sua terra.
+
+[[v5-23-8]]
+
+^<<v5-23-8,8>>^ Os filhos que lhes nascerem na terceira geração, cada um deles entrará na congregação do Senhor.
+
+[[v5-23-9]]
+
+^<<v5-23-9,9>>^ Quando o exército sair contra os teus inimigos, então te guardarás de toda a cousa má.
+
+[[v5-23-10]]
+
+^<<v5-23-10,10>>^ Quando entre ti houver alguém que por algum acidente de noite não estiver limpo, sairá fora do exército; não entrará no meio do exército.
+
+[[v5-23-11]]
+
+^<<v5-23-11,11>>^ Porém será que , declinando a tarde, se lavará em água; e, em se pondo o sol, entrará no meio do arraial.
+
+[[v5-23-12]]
+
+^<<v5-23-12,12>>^ Também terás um lugar fora do arraial; e ali sairás fora.
+
+[[v5-23-13]]
+
+^<<v5-23-13,13>>^ E entre as tuas armas terás uma pá; e será que , quando estiveres assentado fora, então com ela cavarás, e, virando-te, cobrirás aquilo que saiu de ti.
+
+[[v5-23-14]]
+
+^<<v5-23-14,14>>^ Porquanto o Senhor teu Deus anda no meio do teu arraial, para te livrar, e entregar os teus inimigos diante de ti: pelo que o teu arraial será santo: para que ele  não veja cousa feia em ti, e se torne atrás de ti.
+
+[[v5-23-15]]
+
+^<<v5-23-15,15>>^ Não entregarás a seu senhor o servo que se acolher a ti de seu senhor;
+
+[[v5-23-16]]
+
+^<<v5-23-16,16>>^ Contigo ficará no meio de ti, no lugar que escolher em alguma das tuas portas, onde lhe estiver bem: não o oprimirás.
+
+[[v5-23-17]]
+
+^<<v5-23-17,17>>^ Não haverá rameira dentre as filhas de Israel; nem haverá sodomita dentre os filhos de Israel.
+
+[[v5-23-18]]
+
+^<<v5-23-18,18>>^ Não trarás salário de rameira nem preço de cão à casa do Senhor teu Deus por qualquer voto: porque ambos estes são  igualmente abominação ao senhor teu Deus.
+
+[[v5-23-19]]
+
+^<<v5-23-19,19>>^ A teu irmão não emprestarás à usura; nem à usura de dinheiro, nem à usura de comida, nem à usura de qualquer cousa que se empreste à usura.
+
+[[v5-23-20]]
+
+^<<v5-23-20,20>>^ Ao estranho emprestarás à usura, porém a teu irmão não emprestarás à usura: para que o Senhor teu Deus te abençoe em tudo no que puseres a tua mão, na terra a qual vais a possuir.
+
+[[v5-23-21]]
+
+^<<v5-23-21,21>>^ Quando votares algum voto ao Senhor teu Deus, não tardarás em pagá-lo; porque o Senhor teu Deus certamente o requererá de ti, e em  ti haverá pecado.
+
+[[v5-23-22]]
+
+^<<v5-23-22,22>>^ Porém, abstendo-te de votar, não haverá pecado em ti.
+
+[[v5-23-23]]
+
+^<<v5-23-23,23>>^ O que saiu da tua boca guardarás, e o farás; mesmo a oferta voluntária, assim  como votaste ao Senhor teu Deus e o declaraste pela tua boca.
+
+[[v5-23-24]]
+
+^<<v5-23-24,24>>^ Quando entrares na vinha do teu próximo, comerás uvas conforme ao teu desejo até te fartares, porém não as  porás no teu vaso.
+
+[[v5-23-25]]
+
+^<<v5-23-25,25>>^ Quando entrares na seara do teu próximo, com a tua mão arrancarás as espigas; porém não meterás a foice na seara do teu próximo.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-022.adoc#v5-22-0[&#60; Capítulo Anterior] | <<v5-23-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-024.adoc#v5-24-0[Próximo Capítulo &#62;]

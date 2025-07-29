@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-144-0]]
+=== Salmos, 144
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-144-1]]
+
+^<<v19-144-1,1>>^ BENDITO seja  o Senhor, minha rocha, que adestra as minhas mãos para a peleja e os meus dedos para a guerra;
+
+[[v19-144-2]]
+
+^<<v19-144-2,2>>^ Benignidade minha e fortaleza minha; alto retiro meu e meu libertador és tu : escudo meu, em quem eu confio, e que me sujeita o meu povo.
+
+[[v19-144-3]]
+
+^<<v19-144-3,3>>^ Senhor, que é  o homem, para que o conheças, e  o filho do homem, para que o estimes?
+
+[[v19-144-4]]
+
+^<<v19-144-4,4>>^ O homem é semelhante à vaidade; os seus dias são  como a sombra que passa.
+
+[[v19-144-5]]
+
+^<<v19-144-5,5>>^ Abaixa, ó Senhor, os teus céus, e desce; toca os montes, e fumegarão.
+
+[[v19-144-6]]
+
+^<<v19-144-6,6>>^ Vibra os teus raios, e dissipa-os; envia as tuas frechas, e desbarata-os.
+
+[[v19-144-7]]
+
+^<<v19-144-7,7>>^ Estende as tuas mãos desde o alto; livra-me, e arrebata-me das muitas águas e  das mãos dos filhos estranhos,
+
+[[v19-144-8]]
+
+^<<v19-144-8,8>>^ Cuja boca fala vaidade, e cuja mão direita é a destra da falsidade.
+
+[[v19-144-9]]
+
+^<<v19-144-9,9>>^ A ti , ó Deus, cantarei um  cântico novo; com o saltério e  com o instrumento de dez cordas te cantarei louvores.
+
+[[v19-144-10]]
+
+^<<v19-144-10,10>>^ É ele que dá a vitória aos reis, e que livra a Davi, seu servo, da espada maligna.
+
+[[v19-144-11]]
+
+^<<v19-144-11,11>>^ Livra-me, e tira-me das mãos dos filhos estranhos, cuja boca fala vaidade, e cuja mão direita é a destra da iniquidade;
+
+[[v19-144-12]]
+
+^<<v19-144-12,12>>^ Para que nossos filhos sejam , como plantas, bem-desenvolvidos na sua mocidade; para que  as nossas filhas sejam  como pedras de esquina lavradas, como colunas de um palácio.
+
+[[v19-144-13]]
+
+^<<v19-144-13,13>>^ Para que  as nossas despensas se encham de todo o provimento; para que  os nossos gados produzam a milhares e a dezenas de milhares em nossas ruas.
+
+[[v19-144-14]]
+
+^<<v19-144-14,14>>^ Para que  os nossos bois sejam  fortes para o trabalho; para que  não haja nem  assaltos, nem saídas, nem clamores em nossas ruas.
+
+[[v19-144-15]]
+
+^<<v19-144-15,15>>^ Bem-aventurado o povo a quem assim sucede! bem-aventurado é  o povo cujo Deus é  o Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-143.adoc#v19-143-0[&#60; Capítulo Anterior] | <<v19-144-0,Topo>> | xref:019-salmos/019-salmos-145.adoc#v19-145-0[Próximo Capítulo &#62;]

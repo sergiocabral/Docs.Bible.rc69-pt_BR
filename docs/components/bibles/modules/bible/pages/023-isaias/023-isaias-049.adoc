@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v23-49-0]]
+=== Isaías, 49
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-49-1]]
+
+^<<v23-49-1,1>>^ OUVI-ME, ilhas, e escutai vós, povos de longe: O Senhor me chamou desde o ventre, desde as entranhas de minha mãe fez menção do meu nome.
+
+[[v23-49-2]]
+
+^<<v23-49-2,2>>^ E fez a minha boca como uma  espada aguda, com a sombra da sua mão me cobriu: e me pôs como uma  frecha limpa, e  me escondeu na sua aljava.
+
+[[v23-49-3]]
+
+^<<v23-49-3,3>>^ E me disse: Tu és  meu servo: e  Israel aquele por quem hei de ser glorificado.
+
+[[v23-49-4]]
+
+^<<v23-49-4,4>>^ Mas eu disse: Debalde tenho trabalhado, inútil e vãmente gastei as minhas forças: todavia o meu direito está  perante o Senhor, e o meu galardão perante o meu Deus.
+
+[[v23-49-5]]
+
+^<<v23-49-5,5>>^ E agora diz o Senhor, que me formou desde o ventre para seu servo, que lhe torne a trazer Jacó; mas Israel não se deixou ajuntar: contudo aos olhos do Senhor serei glorificado, e o meu Deus será a minha força.
+
+[[v23-49-6]]
+
+^<<v23-49-6,6>>^ Disse mais: Pouco é que sejas o meu servo, para restaurares as tribos de Jacó, e tornares a trazer os guardados de Israel; também te dei para luz dos gentios, para seres a minha salvação até à extremidade da terra.
+
+[[v23-49-7]]
+
+^<<v23-49-7,7>>^ Assim diz o Senhor, o Redentor de Israel, o seu Santo, à alma desprezada, ao que as nações abominam, ao servo dos que dominam: Os reis o verão, e se levantarão; os príncipes diante de ti se inclinarão, por amor do Senhor, que é fiel, e  do Santo de Israel, que te escolheu.
+
+[[v23-49-8]]
+
+^<<v23-49-8,8>>^ Assim diz o Senhor: No tempo favorável te ouvi e no dia da salvação te ajudei, e te guardarei, e te darei por concerto do povo, para restaurares a terra, e lhe dares em herança as herdades assoladas:
+
+[[v23-49-9]]
+
+^<<v23-49-9,9>>^ Para dizeres aos presos: Saí; e aos que estão  em trevas: Aparecei: eles pastarão nos caminhos, e em todos os lugares altos terão o seu pasto.
+
+[[v23-49-10]]
+
+^<<v23-49-10,10>>^ Nunca terão fome nem sede, nem a calma nem o sol os afligirá; porque o que se compadece deles os guiará, e os levará mansamente aos mananciais das águas.
+
+[[v23-49-11]]
+
+^<<v23-49-11,11>>^ E farei de todos os meus montes um caminho; e as minhas veredas serão exaltadas.
+
+[[v23-49-12]]
+
+^<<v23-49-12,12>>^ Eis que estes virão de longe, e eis que aqueles do norte, e do ocidente, e aqueloutros da terra Sinim.
+
+[[v23-49-13]]
+
+^<<v23-49-13,13>>^ Exultai, ó céus, e alegra-te tu, terra, e vós, montes, estalai de júbilo, porque o Senhor consolou o seu povo, e dos seus aflitos se compadecerá.
+
+[[v23-49-14]]
+
+^<<v23-49-14,14>>^ Mas Sião diz: Já  me desamparou o Senhor, e o Senhor se esqueceu de mim.
+
+[[v23-49-15]]
+
+^<<v23-49-15,15>>^ Pode uma mulher esquecer-se tanto de seu filho  que cria, que se não compadeça dele , do filho do seu ventre? mas ainda que esta se esquecesse, eu, todavia, me não esquecerei de ti.
+
+[[v23-49-16]]
+
+^<<v23-49-16,16>>^ Eis que nas palmas das minhas mãos te tenho gravado: os teus muros estão  continuamente perante mim.
+
+[[v23-49-17]]
+
+^<<v23-49-17,17>>^ Os teus filhos pressurosamente virão, mas os teus destruidores e os teus assoladores sairão para fora de ti.
+
+[[v23-49-18]]
+
+^<<v23-49-18,18>>^ Levanta os teus olhos ao redor, e olha: todos estes que  se ajuntam veem a ti; vivo eu, diz o Senhor, que de todos estes te vestirás, como dum ornamento, e te  cingirás deles como noiva.
+
+[[v23-49-19]]
+
+^<<v23-49-19,19>>^ Porque nos teus desertos, e nos teus lugares solitários, e na  tua terra destruída, te verás agora apertada de moradores, e os que te devoravam se afastarão para longe de ti.
+
+[[v23-49-20]]
+
+^<<v23-49-20,20>>^ Até mesmo os filhos da tua orfandade dirão aos teus ouvidos: Mui estreito é  para mim este lugar; aparta-te de mim, para que possa habitar nele.
+
+[[v23-49-21]]
+
+^<<v23-49-21,21>>^ E dirás no teu coração: Quem me gerou estes? pois eu estava desfilhada e solitária; entrara em cativeiro, e me retirara; quem então me  criou estes? eis que eu fui deixada sozinha; e  estes onde estavam?
+
+[[v23-49-22]]
+
+^<<v23-49-22,22>>^ Assim diz o Senhor: Eis que levantarei a minha mão para as nações, e ante os povos arvorarei a minha bandeira: então trarão os teus filhos nos braços, e as tuas filhas serão levadas sobre os ombros.
+
+[[v23-49-23]]
+
+^<<v23-49-23,23>>^ E os reis serão os teus aios e as suas princesas as tuas amas; diante de ti se inclinarão com o rosto em terra e lamberão o pó dos teus pés, e saberás que eu sou  o Senhor, e que os que confiam em mim não serão confundidos.
+
+[[v23-49-24]]
+
+^<<v23-49-24,24>>^ Tirar-se-ia a presa ao valente? ou os presos justamente escapariam?
+
+[[v23-49-25]]
+
+^<<v23-49-25,25>>^ Mas assim diz o Senhor: Por certo que os presos se tirarão ao valente, e a presa do tirano escapará; porque eu contenderei com os que contendem contigo, e os teus filhos eu remirei.
+
+[[v23-49-26]]
+
+^<<v23-49-26,26>>^ E sustentarei os teus opressores com a sua própria carne, e com o seu próprio sangue se embriagarão, como com mosto; e toda a carne saberá que eu sou  o Senhor, o teu Salvador e o teu Redentor, o Forte de Jacó.
+
+'''
+
+xref:023-isaias/023-isaias-048.adoc#v23-48-0[&#60; Capítulo Anterior] | <<v23-49-0,Topo>> | xref:023-isaias/023-isaias-050.adoc#v23-50-0[Próximo Capítulo &#62;]

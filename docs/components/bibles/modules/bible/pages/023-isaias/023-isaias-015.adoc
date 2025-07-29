@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v23-15-0]]
+=== Isaías, 15
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-15-1]]
+
+^<<v23-15-1,1>>^ PESO de Moabe. Certamente numa noite foi destruída Ar de Moabe, e  foi desfeita: certamente numa noite foi destruída Quir de Moabe, e  foi desfeita.
+
+[[v23-15-2]]
+
+^<<v23-15-2,2>>^ Vai subindo a Bajite, e a Dibom, aos lugares altos, a chorar: por Nebo e por Medeba Moabe uivará; todas as cabeças ficarão calvas, e  toda a barba será rapada.
+
+[[v23-15-3]]
+
+^<<v23-15-3,3>>^ Cingiram-se de sacos nas suas ruas: nos seus terraços e nas suas praças todos andam uivando, e  choram abundantemente.
+
+[[v23-15-4]]
+
+^<<v23-15-4,4>>^ Assim Hesbom como Eleale, andam gritando; até Jaaz se ouve a sua voz: por isso os armados de Moabe clamam; a sua alma treme dentro deles.
+
+[[v23-15-5]]
+
+^<<v23-15-5,5>>^ O meu coração clama por causa de Moabe: fugiram os seus nobres para Zoar, como a novilha de três anos: porque vão chorando pela subida de Luíte, porque no caminho de Horonaim levantam um  lastimoso pranto.
+
+[[v23-15-6]]
+
+^<<v23-15-6,6>>^ Porque as águas de Ninrim serão pura assolação; porque se secou o feno, definhou a erva, e  não há verdura alguma.
+
+[[v23-15-7]]
+
+^<<v23-15-7,7>>^ Pelo que a abundância que  ajuntaram, e o que guardaram, ao ribeiro dos salgueiros o levarão.
+
+[[v23-15-8]]
+
+^<<v23-15-8,8>>^ Porque o pranto rodeará os limites de Moabe; até Eglaim chegará  o seu clamor, e ainda até Beerelim chegará  o seu rugido.
+
+[[v23-15-9]]
+
+^<<v23-15-9,9>>^ Porquanto as águas de Dimom estão cheias de sangue, porque ainda acrescentarei mais a Dimom: leões contra aqueles que escaparem de Moabe, e contra as relíquias da terra.
+
+'''
+
+xref:023-isaias/023-isaias-014.adoc#v23-14-0[&#60; Capítulo Anterior] | <<v23-15-0,Topo>> | xref:023-isaias/023-isaias-016.adoc#v23-16-0[Próximo Capítulo &#62;]

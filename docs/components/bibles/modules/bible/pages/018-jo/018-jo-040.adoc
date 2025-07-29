@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v18-40-0]]
+=== Jó, 40
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v18-40-1]]
+
+^<<v18-40-1,1>>^ RESPONDEU mais o Senhor a Jó e disse:
+
+[[v18-40-2]]
+
+^<<v18-40-2,2>>^ Porventura  o contender contra o Todo-poderoso é ensinar? Quem assim argui a Deus, responda a estas cousas.
+
+[[v18-40-3]]
+
+^<<v18-40-3,3>>^ Então Jó respondeu ao Senhor, e disse:
+
+[[v18-40-4]]
+
+^<<v18-40-4,4>>^ Eis que sou vil; que te responderia eu? A minha mão ponho na minha boca.
+
+[[v18-40-5]]
+
+^<<v18-40-5,5>>^ Uma vez tenho falado, e não replicarei; ou ainda  duas vezes, porém não prosseguirei.
+
+[[v18-40-6]]
+
+^<<v18-40-6,6>>^ Então o Senhor respondeu a Jó desde a tempestade, e disse:
+
+[[v18-40-7]]
+
+^<<v18-40-7,7>>^ Cinge agora os teus lombos como varão; eu  te perguntarei a ti, e tu me responderás.
+
+[[v18-40-8]]
+
+^<<v18-40-8,8>>^ Porventura  também farás tu vão o meu juízo, ou me condenarás, para te justificares?
+
+[[v18-40-9]]
+
+^<<v18-40-9,9>>^ Ou tens braço como Deus, ou podes trovejar com voz como a sua?
+
+[[v18-40-10]]
+
+^<<v18-40-10,10>>^ Orna-te pois de excelência e alteza; e veste-te de majestade e de glória.
+
+[[v18-40-11]]
+
+^<<v18-40-11,11>>^ Derrama os furores da tua ira, e atenta para todo o soberbo, e abate-o.
+
+[[v18-40-12]]
+
+^<<v18-40-12,12>>^ Olha para todo o soberbo, e  humilha-o, e atropela os ímpios no seu lugar.
+
+[[v18-40-13]]
+
+^<<v18-40-13,13>>^ Esconde-os juntamente no pó; ata- lhes  os rostos em oculto.
+
+[[v18-40-14]]
+
+^<<v18-40-14,14>>^ Então também eu de ti confessarei que a tua mão direita te haverá livrado.
+
+[[v18-40-15]]
+
+^<<v18-40-15,15>>^ Contempla agora o beemote, que eu fiz contigo, que  come a erva como o boi.
+
+[[v18-40-16]]
+
+^<<v18-40-16,16>>^ Eis que a sua força está  nos seus lombos, e o seu poder nos músculos do seu ventre.
+
+[[v18-40-17]]
+
+^<<v18-40-17,17>>^ Quando  quer, move a sua cauda como cedro; os nervos da suas coxas estão entretecidos.
+
+[[v18-40-18]]
+
+^<<v18-40-18,18>>^ Os seus ossos são como  tubos de bronze; a sua ossada é  como barras de ferro.
+
+[[v18-40-19]]
+
+^<<v18-40-19,19>>^ Ele é  obra-prima dos caminhos de Deus; o que o fez o proveu da sua espada.
+
+[[v18-40-20]]
+
+^<<v18-40-20,20>>^ Em verdade os montes lhe produzem pasto, onde todos os animais do campo folgam.
+
+[[v18-40-21]]
+
+^<<v18-40-21,21>>^ Deita-se debaixo das árvores sombrias, no esconderijo dos canaviais e da lama.
+
+[[v18-40-22]]
+
+^<<v18-40-22,22>>^ As árvores sombrias o cobrem com a sua sombra; os salgueiros do ribeiro o cercam.
+
+[[v18-40-23]]
+
+^<<v18-40-23,23>>^ Eis que um rio transborda, e ele não se apressa, confiando que o Jordão possa entrar na sua boca.
+
+[[v18-40-24]]
+
+^<<v18-40-24,24>>^ Podê-lo-iam porventura  caçar à vista de seus olhos, ou  com laços lhe  furar o nariz?
+
+'''
+
+xref:018-jo/018-jo-039.adoc#v18-39-0[&#60; Capítulo Anterior] | <<v18-40-0,Topo>> | xref:018-jo/018-jo-041.adoc#v18-41-0[Próximo Capítulo &#62;]

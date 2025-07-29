@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v41-2-0]]
+=== Marcos, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v41-2-1]]
+
+^<<v41-2-1,1>>^ E ALGUNS dias depois entrou outra vez em Capernaum, e soube-se que estava em casa.
+
+[[v41-2-2]]
+
+^<<v41-2-2,2>>^ E logo se ajuntaram tantos, que nem ainda nos lugares  junto à porta cabiam; e anunciava-lhes a palavra.
+
+[[v41-2-3]]
+
+^<<v41-2-3,3>>^ E vieram ter com ele conduzindo um paralítico, trazido por quatro.
+
+[[v41-2-4]]
+
+^<<v41-2-4,4>>^ E, não podendo aproximar-se dele, por causa da multidão, descobriram o telhado onde estava, e, fazendo um buraco, baixaram o leito em que jazia o paralítico.
+
+[[v41-2-5]]
+
+^<<v41-2-5,5>>^ E Jesus, vendo a fé deles, disse ao paralítico: Filho, perdoados estão os teus pecados.
+
+[[v41-2-6]]
+
+^<<v41-2-6,6>>^ E estavam ali assentados alguns dos escribas, que arrazoavam em seus corações, dizendo :
+
+[[v41-2-7]]
+
+^<<v41-2-7,7>>^ Por que diz este assim blasfêmias? Quem pode perdoar pecados, senão Deus!
+
+[[v41-2-8]]
+
+^<<v41-2-8,8>>^ E Jesus, conhecendo logo em seu espírito que assim arrazoavam entre si, lhes disse: Por que arrazoais sobre estas coisas  em vossos corações?
+
+[[v41-2-9]]
+
+^<<v41-2-9,9>>^ Qual é mais fácil? dizer ao paralítico: Estão perdoados os teus  pecados; ou dizer- lhe : Levanta-te, e toma o teu leito, e anda?
+
+[[v41-2-10]]
+
+^<<v41-2-10,10>>^ Ora para que saibais que o Filho do homem tem na terra poder para perdoar pecados (disse ao paralítico),
+
+[[v41-2-11]]
+
+^<<v41-2-11,11>>^ A ti te digo: Levanta-te, toma o teu leito, e vai para tua casa.
+
+[[v41-2-12]]
+
+^<<v41-2-12,12>>^ E levantou-se, e, tomando logo o leito, saiu em presença de todos, de sorte que todos se admiraram e glorificaram a Deus, dizendo: Nunca tal vimos.
+
+[[v41-2-13]]
+
+^<<v41-2-13,13>>^ E tornou a sair para o mar, e toda a multidão ia ter com ele, e ele os ensinava.
+
+[[v41-2-14]]
+
+^<<v41-2-14,14>>^ E, passando, viu Levi filho  Alfeu, sentado na alfândega, e disse-lhe: Segue-me. E, levantando-se, o seguiu.
+
+[[v41-2-15]]
+
+^<<v41-2-15,15>>^ E aconteceu que, estando sentado à mesa  em casa deste, também estavam sentados à mesa com Jesus e seus discípulos muitos publicanos e pecadores; porque eram muitos, e o tinham seguido.
+
+[[v41-2-16]]
+
+^<<v41-2-16,16>>^ E os escribas e fariseus, vendo-o comer com os publicanos e pecadores, disseram aos seus discípulos: Por que come e bebe ele com os publicanos e pecadores?
+
+[[v41-2-17]]
+
+^<<v41-2-17,17>>^ E Jesus, tendo ouvido isto, disse-lhes: Os sãos não necessitam de médico, mas, sim, os que estão doentes; eu não vim chamar os justos, mas sim os pecadores.
+
+[[v41-2-18]]
+
+^<<v41-2-18,18>>^ Ora os discípulos de João e os fariseus jejuavam; e foram e disseram-lhe: Por que jejuam os discípulos de João e os dos fariseus, e não jejuam os teus discípulos?
+
+[[v41-2-19]]
+
+^<<v41-2-19,19>>^ E Jesus disse-lhes: Podem porventura  os filhos das bodas jejuar enquanto está com eles o esposo? Enquanto têm consigo o esposo, não podem jejuar;
+
+[[v41-2-20]]
+
+^<<v41-2-20,20>>^ Mas dias virão em que lhes será tirado o esposo, e então jejuarão naqueles dias.
+
+[[v41-2-21]]
+
+^<<v41-2-21,21>>^ Ninguém deita remendo de pano novo em vestido velho: doutra sorte o mesmo remendo novo rompe o velho, e a rotura fica maior;
+
+[[v41-2-22]]
+
+^<<v41-2-22,22>>^ E ninguém deita vinho novo em odres velhos; doutra sorte, o vinho novo rompe os odres e entorna-se o vinho, e os odres estragam-se; o vinho novo deve ser deitado em odres novos.
+
+[[v41-2-23]]
+
+^<<v41-2-23,23>>^ E aconteceu que, passando ele n um  sábado pelas searas, os seus discípulos, caminhando, começaram a colher espigas.
+
+[[v41-2-24]]
+
+^<<v41-2-24,24>>^ E os fariseus lhe disseram: Vês? por que fazem no sábado o que não é lícito?
+
+[[v41-2-25]]
+
+^<<v41-2-25,25>>^ Mas ele disse-lhes: Nunca lestes o que fez Davi quando estava em necessidade e teve fome, ele e os que com ele estavam ?
+
+[[v41-2-26]]
+
+^<<v41-2-26,26>>^ Como entrou na casa de Deus, no tempo de Abiatar, sumo sacerdote, e comeu os pães da proposição, dos quais não era lícito comer senão aos sacerdotes, dando também aos que com ele estavam?
+
+[[v41-2-27]]
+
+^<<v41-2-27,27>>^ E disse-lhes: O sábado foi feito por causa do homem, e  não o homem por causa do sábado.
+
+[[v41-2-28]]
+
+^<<v41-2-28,28>>^ Assim o Filho do homem até do sábado é Senhor.
+
+'''
+
+xref:041-marcos/041-marcos-001.adoc#v41-1-0[&#60; Capítulo Anterior] | <<v41-2-0,Topo>> | xref:041-marcos/041-marcos-003.adoc#v41-3-0[Próximo Capítulo &#62;]

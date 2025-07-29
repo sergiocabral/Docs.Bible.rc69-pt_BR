@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v56-3-0]]
+=== Tito, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v56-3-1]]
+
+^<<v56-3-1,1>>^ ADMOESTA-OS a que se sujeitem aos principados e potestades, que lhes  obedeçam, e  estejam preparados para toda a boa obra;
+
+[[v56-3-2]]
+
+^<<v56-3-2,2>>^ Que a ninguém infamem, nem sejam contenciosos, mas modestos, mostrando toda a mansidão para com todos os homens.
+
+[[v56-3-3]]
+
+^<<v56-3-3,3>>^ Porque também nós éramos noutro tempo insensatos, desobedientes, extraviados, servindo a várias concupiscências e deleites, vivendo em malícia e inveja, odiosos, odiando-nos uns aos outros.
+
+[[v56-3-4]]
+
+^<<v56-3-4,4>>^ Mas quando apareceu a benignidade e caridade de Deus, nosso Salvador, para com os homens,
+
+[[v56-3-5]]
+
+^<<v56-3-5,5>>^ Não pelas obras de justiça que houvéssemos feito, mas segundo a sua misericórdia, nos salvou pela lavagem da regeneração e da renovação do Espírito Santo,
+
+[[v56-3-6]]
+
+^<<v56-3-6,6>>^ Que abundantemente Ele derramou sobre nós por Jesus Cristo nosso Salvador;
+
+[[v56-3-7]]
+
+^<<v56-3-7,7>>^ Para que, sendo justificados pela sua graça, sejamos feitos herdeiros segundo a esperança da vida eterna.
+
+[[v56-3-8]]
+
+^<<v56-3-8,8>>^ Fiel é a palavra, e isto quero que deveras afirmes, para que os que creem em Deus procurem aplicar-se às boas obras; estas coisas são boas e proveitosas aos homens.
+
+[[v56-3-9]]
+
+^<<v56-3-9,9>>^ Mas não entres em questões loucas, genealogias e contendas, e nos debates acerca da lei; porque são cousas inúteis e vãs.
+
+[[v56-3-10]]
+
+^<<v56-3-10,10>>^ Ao homem herege, depois de uma e outra admoestação, evita-o.
+
+[[v56-3-11]]
+
+^<<v56-3-11,11>>^ Sabendo que esse tal está pervertido, e peca, estando já em si mesmo condenado.
+
+[[v56-3-12]]
+
+^<<v56-3-12,12>>^ Quando te enviar Artemas, ou Tíquico, procura vir ter comigo a Nicópolis; porque deliberei invernar ali.
+
+[[v56-3-13]]
+
+^<<v56-3-13,13>>^ Acompanha com muito cuidado, Zenas, doutor da lei, e Apolo, para que nada lhes falte.
+
+[[v56-3-14]]
+
+^<<v56-3-14,14>>^ E os nossos aprendam também a aplicar-se às boas obras, nas coisas necessárias, para que não sejam infrutuosos.
+
+[[v56-3-15]]
+
+^<<v56-3-15,15>>^ Saúdam-te todos os que estão comigo. Saúda tu os que nos amam na fé. A graça seja  com vós todos. Amém.
+
+'''
+
+xref:056-tito/056-tito-002.adoc#v56-2-0[&#60; Capítulo Anterior] | <<v56-3-0,Topo>> | xref:057-filemom/057-filemom-001.adoc#v57-1-0[Próximo Capítulo &#62;]

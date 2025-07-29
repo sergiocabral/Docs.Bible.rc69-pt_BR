@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v9-12-0]]
+=== 1 Samuel, 12
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-12-1]]
+
+^<<v9-12-1,1>>^ ENTÃO disse Samuel a todo o Israel: Eis que ouvi a vossa voz em tudo quanto me dissestes, e pus sobre vós um rei.
+
+[[v9-12-2]]
+
+^<<v9-12-2,2>>^ Agora, pois, eis que o rei vai diante de vós, e já envelheci e encaneci, e eis que meus filhos estão convosco, e eu tenho andado diante de vós desde a minha mocidade até ao dia de  hoje.
+
+[[v9-12-3]]
+
+^<<v9-12-3,3>>^ Eis-me aqui , testificai contra mim perante o Senhor, e perante o seu ungido, a quem tomei o boi, a quem tomei o jumento, e a quem defraudei, a quem tenho oprimido, e de cuja mão tenho tomado presente e com ele encobri os meus olhos, e vo-lo restituirei.
+
+[[v9-12-4]]
+
+^<<v9-12-4,4>>^ Então disseram: Em nada nos defraudaste, nem nos oprimiste, nem tomaste cousa alguma da mão de ninguém.
+
+[[v9-12-5]]
+
+^<<v9-12-5,5>>^ E ele lhes disse: O Senhor seja  testemunha contra vós, e o seu ungido seja hoje testemunha, que nada tendes achado na minha mão. E disse o povo : Seja testemunha.
+
+[[v9-12-6]]
+
+^<<v9-12-6,6>>^ Então disse Samuel ao povo: O Senhor é  o que escolheu a Moisés e a Aarão, e tirou a vossos pais da terra do Egito.
+
+[[v9-12-7]]
+
+^<<v9-12-7,7>>^ Agora pois ponde-vos aqui em pé , e contenderei convosco perante o Senhor, sobre todas as justiças do Senhor, que fez a vós e a vossos pais.
+
+[[v9-12-8]]
+
+^<<v9-12-8,8>>^ Havendo entrado Jacó no Egito, vossos pais clamaram ao Senhor, e o Senhor enviou a Moisés e Aarão, que tiraram a vossos pais do Egito, e os fizeram habitar neste lugar.
+
+[[v9-12-9]]
+
+^<<v9-12-9,9>>^ Porém esqueceram-se do Senhor seu Deus: então os entregou na mão de Sísera, cabeça do exército de Hazor, e na mão dos filisteus, e na mão do rei dos moabitas, que pelejaram contra eles.
+
+[[v9-12-10]]
+
+^<<v9-12-10,10>>^ E clamaram ao Senhor, e disseram: Pecamos, pois deixamos ao Senhor, e servimos aos baalins e astarotes: agora pois livra-nos da mão de nossos inimigos, e te serviremos.
+
+[[v9-12-11]]
+
+^<<v9-12-11,11>>^ E o Senhor enviou a Jerubaal, e a Bedã, e a Jefté, e a Samuel; e livrou-vos da mão de vossos inimigos em redor, e habitastes seguros.
+
+[[v9-12-12]]
+
+^<<v9-12-12,12>>^ E vendo vós que Naás, rei dos filhos de Amom, vinha contra vós, me dissestes: Não, mas reinará sobre nós um rei: sendo  porém o Senhor vosso Deus, o vosso Rei.
+
+[[v9-12-13]]
+
+^<<v9-12-13,13>>^ Agora pois vedes aí o rei que elegestes e  que pedistes; e eis que o Senhor tem posto sobre vós um rei.
+
+[[v9-12-14]]
+
+^<<v9-12-14,14>>^ Se temerdes ao Senhor, e o servirdes, e derdes ouvidos à sua voz, e não fordes rebeldes ao dito do Senhor, assim vós, como o rei que reina sobre vós, seguireis o Senhor vosso Deus.
+
+[[v9-12-15]]
+
+^<<v9-12-15,15>>^ Mas se não derdes ouvidos à voz do Senhor, mas antes fordes rebeldes ao dito do Senhor, a mão do Senhor será contra vós como era  contra vossos pais.
+
+[[v9-12-16]]
+
+^<<v9-12-16,16>>^ Ponde-vos também agora aqui , e vede esta grande cousa que o Senhor vai fazer diante dos vossos olhos.
+
+[[v9-12-17]]
+
+^<<v9-12-17,17>>^ Não é  hoje a sega dos trigos? clamarei pois  ao Senhor, e dará trovões e chuva; e sabereis e vereis que é  grande a vossa maldade que tendes feito perante o Senhor, pedindo para vós um  rei.
+
+[[v9-12-18]]
+
+^<<v9-12-18,18>>^ Então invocou Samuel ao Senhor, e o Senhor deu trovões e chuva naquele dia; pelo que todo o povo temeu em grande maneira ao Senhor e a Samuel.
+
+[[v9-12-19]]
+
+^<<v9-12-19,19>>^ E todo o povo disse a Samuel: Roga pelos teus servos ao Senhor teu Deus, para que não venhamos a morrer: porque a todos os nossos pecados temos acrescentado este  mal, de pedirmos para nós um rei.
+
+[[v9-12-20]]
+
+^<<v9-12-20,20>>^ Então disse Samuel ao povo: Não temais: vós tendes cometido todo este mal; porém não vos desvieis de seguir ao Senhor, mas servi ao Senhor com todo o vosso coração.
+
+[[v9-12-21]]
+
+^<<v9-12-21,21>>^ E não vos desvieis: pois seguiríeis  as vaidades, que nada aproveitam, e tão pouco vos livrarão, porque vaidades são.
+
+[[v9-12-22]]
+
+^<<v9-12-22,22>>^ Pois o Senhor não desamparará o seu povo, por causa do seu grande nome: porque aprouve ao Senhor fazer-vos o seu povo.
+
+[[v9-12-23]]
+
+^<<v9-12-23,23>>^ E quanto a mim, longe de mim que eu peque contra o Senhor, deixando de orar por vós: antes vos ensinarei o caminho bom e direito.
+
+[[v9-12-24]]
+
+^<<v9-12-24,24>>^ Tão somente temei ao Senhor, e servi-o fielmente com todo o vosso coração: porque vede quão grandiosas cousas  vos fez.
+
+[[v9-12-25]]
+
+^<<v9-12-25,25>>^ Porém, se perseverardes em fazer mal, perecereis, assim vós como o vosso rei.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-011.adoc#v9-11-0[&#60; Capítulo Anterior] | <<v9-12-0,Topo>> | xref:009-1-samuel/009-1-samuel-013.adoc#v9-13-0[Próximo Capítulo &#62;]

@@ -1,0 +1,217 @@
+include::./index.adoc[]
+
+[[v9-14-0]]
+=== 1 Samuel, 14
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-14-1]]
+
+^<<v9-14-1,1>>^ SUCEDEU pois que um dia disse Jônatas, filho de Saul, ao moço que lhe levava as armas: Vem, passemos a guarnição dos filisteus que está  lá daquela banda. Porém não o fez saber a seu pai.
+
+[[v9-14-2]]
+
+^<<v9-14-2,2>>^ E estava Saul na extremidade de Gibeá, debaixo da romeira que estava  em Migrom; e o povo que havia com ele eram  uns seiscentos homens.
+
+[[v9-14-3]]
+
+^<<v9-14-3,3>>^ E Aía, filho de Aitube, irmão de Icabô, o filho de Fineias, filho de Eli, sacerdote do Senhor em Silo, trazia o éfode: porém o povo não sabia que Jônatas tinha ido.
+
+[[v9-14-4]]
+
+^<<v9-14-4,4>>^ E nas passagens pelas quais Jônatas procurava passar à guarnição dos filisteus, desta banda havia  uma penha aguda, e da outra banda uma penha aguda: e era  o nome de uma Bozez, e o nome da outra Sené.
+
+[[v9-14-5]]
+
+^<<v9-14-5,5>>^ Uma penha para o norte estava  defronte de Micmas, e a outra para o sul defronte de Gibeá.
+
+[[v9-14-6]]
+
+^<<v9-14-6,6>>^ Disse pois Jônatas ao moço que lhe levava as armas: Vem, passemos à guarnição destes incircuncisos; porventura obrará o Senhor por nós, porque para com o Senhor nenhum impedimento há  de livrar com muitos ou com poucos.
+
+[[v9-14-7]]
+
+^<<v9-14-7,7>>^ Então o seu pajem de armas lhe disse: Faze tudo o que tens  no coração; volta, eis-me aqui contigo, conforme ao teu coração.
+
+[[v9-14-8]]
+
+^<<v9-14-8,8>>^ Disse pois Jônatas: Eis que passaremos àqueles  homens, e nos descobriremos a eles.
+
+[[v9-14-9]]
+
+^<<v9-14-9,9>>^ Se nos disserem assim: Parai até que cheguemos a vós; então ficaremos no nosso lugar, e não subiremos a eles.
+
+[[v9-14-10]]
+
+^<<v9-14-10,10>>^ Porém, dizendo assim: Subi a nós; então subiremos, pois o Senhor os tem entregado na nossa mão, e isto nos será  por sinal.
+
+[[v9-14-11]]
+
+^<<v9-14-11,11>>^ Descobrindo-se ambos eles pois à guarnição dos filisteus, disseram os filisteus: Eis que já  os hebreus saíram das cavernas em que se tinham escondido.
+
+[[v9-14-12]]
+
+^<<v9-14-12,12>>^ E os homens da guarnição responderam a Jônatas e ao seu pajem de armas, e disseram: Subi a nós, e nós vo-lo ensinaremos. E disse Jônatas ao seu pajem de armas: Sobe atrás de mim, porque o Senhor os tem entregado na mão de Israel.
+
+[[v9-14-13]]
+
+^<<v9-14-13,13>>^ Então trepou Jônatas com os pés e com as mãos, e o seu pajem de armas atrás dele: e caíram diante de Jônatas, e o seu pajem de armas os matava atrás dele.
+
+[[v9-14-14]]
+
+^<<v9-14-14,14>>^ E sucedeu esta primeira derrota, em que Jônatas e o seu pajem de armas feriram até uns vinte homens, quase no meio de uma geira de terra que uma junta de bois podia lavrar.
+
+[[v9-14-15]]
+
+^<<v9-14-15,15>>^ E houve tremor no arraial, no campo e em todo o povo; também a mesma guarnição e os destruidores tremeram, e até a terra se alvoroçou, porquanto era tremor de Deus.
+
+[[v9-14-16]]
+
+^<<v9-14-16,16>>^ Olharam pois as sentinelas de Saul em Gibeá de Benjamim, e eis que a multidão se derramava, e fugia batendo-se.
+
+[[v9-14-17]]
+
+^<<v9-14-17,17>>^ Disse então Saul ao povo que estava com ele: Ora contai, e vede quem é que saiu dentre nós. E contaram, e eis que nem Jônatas nem o seu pajem de armas estavam ali.
+
+[[v9-14-18]]
+
+^<<v9-14-18,18>>^ Então Saul disse a Aía: Traze aqui a arca de Deus (porque naquele dia estava a arca de Deus com os filhos de Israel).
+
+[[v9-14-19]]
+
+^<<v9-14-19,19>>^ E sucedeu que, estando Saul ainda falando com o sacerdote, o alvoroço que havia  no arraial dos filisteus ia crescendo muito, e se multiplicava, pelo que disse Saul ao sacerdote: Retira a tua mão.
+
+[[v9-14-20]]
+
+^<<v9-14-20,20>>^ Então Saul e todo o povo que havia  com ele se ajuntaram, e vieram à peleja; e eis que a espada dum era contra o outro, e houve  mui grande tumulto.
+
+[[v9-14-21]]
+
+^<<v9-14-21,21>>^ Também com os filisteus havia hebreus, como dantes, que subiram com eles ao arraial em redor: e também estes se ajuntaram com os israelitas que estavam  com Saul e Jônatas.
+
+[[v9-14-22]]
+
+^<<v9-14-22,22>>^ Ouvindo pois todos os homens de Israel que se esconderam pela montanha de Efraim que os filisteus fugiam, eles também os perseguiram de perto na peleja.
+
+[[v9-14-23]]
+
+^<<v9-14-23,23>>^ Assim livrou o Senhor a Israel naquele dia: e o arraial passou a Bete-Áven.
+
+[[v9-14-24]]
+
+^<<v9-14-24,24>>^ E estavam os homens de Israel já exaustos naquele dia, porquanto Saul conjurara o povo, dizendo: Maldito o homem que comer pão até à tarde, para que me vingue de meus inimigos. Pelo que todo o povo se absteve de provar pão.
+
+[[v9-14-25]]
+
+^<<v9-14-25,25>>^ E todo o povo chegou a um bosque: e havia mel na superfície do campo.
+
+[[v9-14-26]]
+
+^<<v9-14-26,26>>^ E, chegando o povo ao bosque, eis que havia um manancial de mel: porém ninguém chegou a mão à boca, porque o povo temia a conjuração.
+
+[[v9-14-27]]
+
+^<<v9-14-27,27>>^ Porém Jônatas não tinha ouvido quando seu pai conjurara o povo, e estendeu a ponta da vara que tinha  na mão, e a molhou no favo de mel; e, tornando a mão à boca, aclararam-se os seus olhos.
+
+[[v9-14-28]]
+
+^<<v9-14-28,28>>^ Então respondeu um do povo, e disse: Solenemente conjurou teu pai o povo, dizendo: Maldito o homem que comer hoje pão. Pelo que o povo desfalecia.
+
+[[v9-14-29]]
+
+^<<v9-14-29,29>>^ Então disse Jônatas: Meu pai tem turbado a terra; ora vede como se me aclararam os olhos por ter provado um pouco deste mel.
+
+[[v9-14-30]]
+
+^<<v9-14-30,30>>^ Quanto mais se o povo hoje livremente tivesse comido do despojo que achou de seus inimigos. Porém agora não foi tão grande o estrago dos filisteus.
+
+[[v9-14-31]]
+
+^<<v9-14-31,31>>^ Feriram porém aquele dia aos filisteus, desde Micmas até Ajalom, e o povo desfaleceu em extremo.
+
+[[v9-14-32]]
+
+^<<v9-14-32,32>>^ Então o povo se lançou ao despojo, e tomaram ovelhas, e vacas, e bezerros, e os  degolaram no chão; e o povo os comeu com sangue.
+
+[[v9-14-33]]
+
+^<<v9-14-33,33>>^ E o anunciaram a Saul, dizendo: Eis que o povo peca contra o Senhor, comendo com sangue. E disse ele: Aleivosamente obrastes: revolvei-me hoje uma grande pedra.
+
+[[v9-14-34]]
+
+^<<v9-14-34,34>>^ Disse mais Saul: Derramai-vos entre o povo, e dizei-lhes: Trazei-me cada um o seu boi, e cada um a sua ovelha, e degolai- os  aqui, e comei, e não pequeis contra o Senhor, comendo com sangue. Então todo o povo trouxe de noite, cada um com a sua mão, o seu boi e os  degolaram ali.
+
+[[v9-14-35]]
+
+^<<v9-14-35,35>>^ Então edificou Saul um  altar ao Senhor: este foi o primeiro altar que edificou ao Senhor.
+
+[[v9-14-36]]
+
+^<<v9-14-36,36>>^ Depois disse Saul: Desçamos de noite atrás dos filisteus, e despojemo-los, até que amanheça a luz, e não deixemos de resto um  homem deles. E disseram: Tudo o que parecer bem aos teus olhos faze. Disse porém o sacerdote: Cheguemo-nos aqui a Deus.
+
+[[v9-14-37]]
+
+^<<v9-14-37,37>>^ Então consultou Saul a Deus, dizendo: Descerei atrás dos filisteus? entregá-los-ás na mão de Israel? Porém aquele dia lhe não respondeu.
+
+[[v9-14-38]]
+
+^<<v9-14-38,38>>^ Então disse Saul: Chegai-vos para cá, todos os chefes do povo, e informai-vos, e vede em que se cometeu hoje este pecado:
+
+[[v9-14-39]]
+
+^<<v9-14-39,39>>^ Porque vive o Senhor que salva a Israel, que, ainda que seja em meu filho Jônatas, certamente morrerá. E nenhum de todo o povo lhe respondeu.
+
+[[v9-14-40]]
+
+^<<v9-14-40,40>>^ Disse mais a todo o Israel: Vós estareis duma banda, e eu e meu filho Jônatas estaremos da outra banda. Então disse o povo a Saul: Faze o que parecer  bem aos teus olhos.
+
+[[v9-14-41]]
+
+^<<v9-14-41,41>>^ Falou pois Saul ao Senhor Deus de Israel: Mostra o inocente. Então Jônatas e Saul foram tomados por sorte , e o povo saiu livre.
+
+[[v9-14-42]]
+
+^<<v9-14-42,42>>^ Então disse Saul: Lançai a sorte  entre mim e Jônatas, meu filho. E foi tomado Jônatas.
+
+[[v9-14-43]]
+
+^<<v9-14-43,43>>^ Disse então Saul a Jônatas: Declara-me o que tens feito. E Jônatas lho declarou, e disse: Tão somente provei um pouco de mel com a ponta da vara que tinha  na mão; eis que devo morrer?
+
+[[v9-14-44]]
+
+^<<v9-14-44,44>>^ Então disse Saul: Assim me  faça Deus, e outro tanto, que com certeza morrerás, Jônatas.
+
+[[v9-14-45]]
+
+^<<v9-14-45,45>>^ Porém o povo disse a Saul: Morrerá Jônatas, que obrou tão grande salvação em Israel? nunca tal suceda; vive o Senhor, que não lhe há de cair no chão um só cabelo da sua cabeça! pois com Deus fez isso  hoje. Assim o povo livrou a Jônatas, para que não morresse.
+
+[[v9-14-46]]
+
+^<<v9-14-46,46>>^ E Saul deixou de seguir os filisteus e os filisteus se foram ao seu lugar.
+
+[[v9-14-47]]
+
+^<<v9-14-47,47>>^ Então tomou Saul o reino sobre Israel: e pelejou contra todos os seus inimigos em redor: contra Moabe, e contra os filhos de Amom, e contra Edom, e contra os reis de Zoba, e contra os filisteus, e para onde quer que se voltava executava castigos.
+
+[[v9-14-48]]
+
+^<<v9-14-48,48>>^ E houve-se valorosamente, e feriu aos amalequitas: e libertou a Israel da mão dos que o saqueavam.
+
+[[v9-14-49]]
+
+^<<v9-14-49,49>>^ E os filhos de Saul eram Jônatas, e Isvi, e Malquisua: e os nomes de suas duas filhas eram estes : o nome da mais velha Merabe, e o nome da mais nova, Mical.
+
+[[v9-14-50]]
+
+^<<v9-14-50,50>>^ E o nome da mulher de Saul, Ainoã, filha de Aimaás: e o nome do general do exército, Abner, filho de Ner, tio de Saul.
+
+[[v9-14-51]]
+
+^<<v9-14-51,51>>^ E Quis, pai de Saul e Ner, pai de Abner, eram filhos de Abiel.
+
+[[v9-14-52]]
+
+^<<v9-14-52,52>>^ E houve uma forte guerra contra os filisteus, todos os dias de Saul: pelo que Saul a todos os homens valentes e valorosos que via os agregava a si.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-013.adoc#v9-13-0[&#60; Capítulo Anterior] | <<v9-14-0,Topo>> | xref:009-1-samuel/009-1-samuel-015.adoc#v9-15-0[Próximo Capítulo &#62;]

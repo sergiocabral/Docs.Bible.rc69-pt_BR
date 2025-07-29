@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v52-5-0]]
+=== 1 Tessalonicenses, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v52-5-1]]
+
+^<<v52-5-1,1>>^ MAS irmãos acerca dos tempos e das estações, não necessitais de que se vos escreva;
+
+[[v52-5-2]]
+
+^<<v52-5-2,2>>^ Porque vós mesmos sabeis muito bem que o dia do Senhor virá como o ladrão de noite;
+
+[[v52-5-3]]
+
+^<<v52-5-3,3>>^ Pois, que, quando disserem: Há  paz e segurança; então lhes sobrevirá repentina destruição, como as dores de parto àquela que está grávida; e de modo nenhum escaparão.
+
+[[v52-5-4]]
+
+^<<v52-5-4,4>>^ Mas vós, irmãos, já  não estais em trevas, para que aquele dia vos surpreenda como um  ladrão;
+
+[[v52-5-5]]
+
+^<<v52-5-5,5>>^ Porque todos vós sois filhos da luz e filhos do dia; nós não somos da noite nem das trevas.
+
+[[v52-5-6]]
+
+^<<v52-5-6,6>>^ Não durmamos pois, como os demais, mas vigiemos, e sejamos sóbrios.
+
+[[v52-5-7]]
+
+^<<v52-5-7,7>>^ Porque os que dormem dormem de noite, e os que se embebedam embebedam-se de noite.
+
+[[v52-5-8]]
+
+^<<v52-5-8,8>>^ Mas nós, que somos do dia, sejamos sóbrios, vestindo-nos da couraça da fé e da caridade, e tendo por capacete a esperança da salvação.
+
+[[v52-5-9]]
+
+^<<v52-5-9,9>>^ Porque Deus não nos destinou para a ira, mas para a aquisição da salvação, por nosso Senhor Jesus Cristo,
+
+[[v52-5-10]]
+
+^<<v52-5-10,10>>^ Que morreu por nós, para que, quer vigiemos, quer durmamos, vivamos juntamente com ele.
+
+[[v52-5-11]]
+
+^<<v52-5-11,11>>^ Pelo que exortai-vos uns aos outros, e edificai-vos uns aos outros, como também o  fazeis.
+
+[[v52-5-12]]
+
+^<<v52-5-12,12>>^ E rogamo-vos, irmãos, que reconheçais os que trabalham entre vós e que presidem sobre vós no Senhor, e vos admoestam;
+
+[[v52-5-13]]
+
+^<<v52-5-13,13>>^ E que os tenhais em grande estima e amor, por causa da sua obra. Tende paz entre vós.
+
+[[v52-5-14]]
+
+^<<v52-5-14,14>>^ Rogamo-vos também, irmãos, que admoesteis os desordeiros, consoleis os de pouco ânimo, sustenteis os fracos, e sejais pacientes para com todos.
+
+[[v52-5-15]]
+
+^<<v52-5-15,15>>^ Vede que ninguém dê a outrem mal por mal, mas segui sempre o bem, tanto uns para com os outros, como para com todos.
+
+[[v52-5-16]]
+
+^<<v52-5-16,16>>^ Regozijai-vos sempre.
+
+[[v52-5-17]]
+
+^<<v52-5-17,17>>^ Orai sem cessar.
+
+[[v52-5-18]]
+
+^<<v52-5-18,18>>^ Em tudo dai graças, porque esta é  a vontade de Deus em Cristo Jesus para convosco.
+
+[[v52-5-19]]
+
+^<<v52-5-19,19>>^ Não extingais o Espírito.
+
+[[v52-5-20]]
+
+^<<v52-5-20,20>>^ Não desprezeis as profecias;
+
+[[v52-5-21]]
+
+^<<v52-5-21,21>>^ Examinai tudo. Retende o bem;
+
+[[v52-5-22]]
+
+^<<v52-5-22,22>>^ Abstende-vos de toda a aparência do mal.
+
+[[v52-5-23]]
+
+^<<v52-5-23,23>>^ E o mesmo Deus de paz vos santifique em tudo; e todo o vosso espírito, e alma, e corpo, sejam plenamente conservados irrepreensíveis para a vinda de nosso Senhor Jesus Cristo.
+
+[[v52-5-24]]
+
+^<<v52-5-24,24>>^ Fiel é o que vos chama, o qual também o  fará.
+
+[[v52-5-25]]
+
+^<<v52-5-25,25>>^ Irmãos, orai por nós.
+
+[[v52-5-26]]
+
+^<<v52-5-26,26>>^ Saudai a todos os irmãos em ósculo santo.
+
+[[v52-5-27]]
+
+^<<v52-5-27,27>>^ Pelo Senhor vos conjuro que esta epístola seja lida a todos os santos irmãos.
+
+[[v52-5-28]]
+
+^<<v52-5-28,28>>^ A graça de nosso Senhor Jesus Cristo seja convosco. Amém.
+
+'''
+
+xref:052-1-tessalonicenses/052-1-tessalonicenses-004.adoc#v52-4-0[&#60; Capítulo Anterior] | <<v52-5-0,Topo>> | xref:053-2-tessalonicenses/053-2-tessalonicenses-001.adoc#v53-1-0[Próximo Capítulo &#62;]

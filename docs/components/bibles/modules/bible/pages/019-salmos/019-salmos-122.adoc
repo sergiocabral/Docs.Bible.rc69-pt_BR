@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-122-0]]
+=== Salmos, 122
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-122-1]]
+
+^<<v19-122-1,1>>^ ALEGREI-ME quando me disseram: Vamos à casa do Senhor.
+
+[[v19-122-2]]
+
+^<<v19-122-2,2>>^ Os nossos pés estão dentro das tuas portas, ó Jerusalém.
+
+[[v19-122-3]]
+
+^<<v19-122-3,3>>^ Jerusalém está edificada como uma cidade bem sólida.
+
+[[v19-122-4]]
+
+^<<v19-122-4,4>>^ Onde sobem as tribos, as tribos do Senhor, como testemunho de Israel, para darem graças ao nome do Senhor.
+
+[[v19-122-5]]
+
+^<<v19-122-5,5>>^ Pois ali estão os tronos do juízo, os tronos da casa de Davi.
+
+[[v19-122-6]]
+
+^<<v19-122-6,6>>^ Orai pela paz de Jerusalém: prosperarão aqueles que te amam.
+
+[[v19-122-7]]
+
+^<<v19-122-7,7>>^ Haja paz dentro de teus muros, e prosperidade  dentro dos teus palácios.
+
+[[v19-122-8]]
+
+^<<v19-122-8,8>>^ Por causa dos meus irmãos e amigos, direi: Haja paz em ti.
+
+[[v19-122-9]]
+
+^<<v19-122-9,9>>^ Por causa da casa do Senhor, nosso Deus, buscarei o teu bem.
+
+'''
+
+xref:019-salmos/019-salmos-121.adoc#v19-121-0[&#60; Capítulo Anterior] | <<v19-122-0,Topo>> | xref:019-salmos/019-salmos-123.adoc#v19-123-0[Próximo Capítulo &#62;]

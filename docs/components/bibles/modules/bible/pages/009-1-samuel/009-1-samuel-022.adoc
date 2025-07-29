@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v9-22-0]]
+=== 1 Samuel, 22
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-22-1]]
+
+^<<v9-22-1,1>>^ ENTÃO Davi se retirou dali, e se escapou para a caverna de Adulão: e ouviram-no seus irmãos e toda a casa de seu pai, e desceram ali para ele.
+
+[[v9-22-2]]
+
+^<<v9-22-2,2>>^ E ajuntou-se a ele todo o homem que se achava  em aperto, e todo o homem endividado, e todo o homem de espírito desgostoso, e ele se fez chefe deles: e eram com ele uns quatrocentos homens.
+
+[[v9-22-3]]
+
+^<<v9-22-3,3>>^ E foi-se Davi dali a Mizpá dos moabitas, e disse ao rei dos moabitas: Deixa estar meu pai e minha mãe convosco, até que saiba o que Deus há de fazer de mim.
+
+[[v9-22-4]]
+
+^<<v9-22-4,4>>^ E trouxe-os perante o rei dos moabitas, e ficaram com ele todos os dias que Davi esteve no lugar forte.
+
+[[v9-22-5]]
+
+^<<v9-22-5,5>>^ Porém o profeta Gade disse a Davi: Não fiques naquele lugar forte; vai, e entra na terra de Judá. Então Davi foi, e veio para o bosque de Querete.
+
+[[v9-22-6]]
+
+^<<v9-22-6,6>>^ E ouviu Saul que já se sabia de Davi e dos homens que estavam  com ele: e estava Saul em Gibeá, debaixo dum arvoredo, em Ramá, e tinha na mão a sua lança, e todos os seus criados estavam com ele.
+
+[[v9-22-7]]
+
+^<<v9-22-7,7>>^ Então disse Saul a todos os seus criados que estavam com ele: Ouvi, peço-vos, filhos de Benjamim, dar-vos-á também o filho de Jessé, a todos vós, terras e vinhas, e far-vos-á a todos chefes de milhares e chefes de centenas,
+
+[[v9-22-8]]
+
+^<<v9-22-8,8>>^ Para que todos vós tenhais conspirado contra mim? E ninguém há  que me dê aviso de que meu filho tem feito aliança com o filho de Jessé, e nenhum dentre vós há que se doa de mim, e mo participe, pois meu filho tem contra mim sublevado a meu servo me  armar ciladas, como se vê  neste dia.
+
+[[v9-22-9]]
+
+^<<v9-22-9,9>>^ Então respondeu Doegue, o idumeu, que também estava com os criados de Saul, e disse: Ao filho de Jessé vi vir a Nobe, a Aquimeleque, filho de Aitube,
+
+[[v9-22-10]]
+
+^<<v9-22-10,10>>^ O qual consultou por ele ao Senhor e lhe deu mantimento, e lhe deu também  a espada de Golias, o filisteu.
+
+[[v9-22-11]]
+
+^<<v9-22-11,11>>^ Então o rei mandou chamar a Aquimeleque, sacerdote, filho de Aitube, e a toda a casa de seu pai, e aos sacerdotes que estavam  em Nobe; e todos eles vieram ao rei.
+
+[[v9-22-12]]
+
+^<<v9-22-12,12>>^ E disse Saul: Ouve, peço-te, filho de Aitube. E ele disse: Eis-me aqui , senhor meu.
+
+[[v9-22-13]]
+
+^<<v9-22-13,13>>^ Então lhe disse Saul: Por que conspirastes contra mim, tu e o filho de Jessé? pois deste-lhe pão e espada, e consultaste por ele a Deus, para que se levantasse contra mim a armar- me  ciladas, como se vê  neste dia?
+
+[[v9-22-14]]
+
+^<<v9-22-14,14>>^ E respondeu Aquimeleque ao rei, e disse: E quem, entre todos os teus criados, há tão  fiel como Davi, o genro do rei, pronto na sua obediência, e honrado na tua casa?
+
+[[v9-22-15]]
+
+^<<v9-22-15,15>>^ Comecei, porventura , hoje a consultar por ele a Deus? longe de mim tal! não impute o rei cousa nenhuma a seu servo, nem  a toda a casa de meu pai, pois o teu servo não soube nada de tudo isso, nem muito nem pouco.
+
+[[v9-22-16]]
+
+^<<v9-22-16,16>>^ Porém o rei disse: Aquimeleque, morrerás certamente, tu e toda a casa de teu pai.
+
+[[v9-22-17]]
+
+^<<v9-22-17,17>>^ E disse o rei aos da sua  guarda, que estavam com ele: Virai-vos, e matai os sacerdotes do Senhor, porque também a sua mão é com Davi, e porque souberam que fugiu e não mo fizeram saber. Porém os criados do rei não quiseram estender as suas mãos para arremeter contra os sacerdotes do Senhor.
+
+[[v9-22-18]]
+
+^<<v9-22-18,18>>^ Então disse o rei a Doegue: Vira-te tu, e arremete contra os sacerdotes. Então se virou Doegue, o idumeu, e arremeteu contra os sacerdotes, e matou naquele dia oitenta e cinco homens que vestiam éfode de linho.
+
+[[v9-22-19]]
+
+^<<v9-22-19,19>>^ Também a Nobe, cidade destes sacerdotes, passou a fio de espada, desde o homem até à mulher, desde os meninos até aos de mama e até os bois, jumentos e ovelhas passou  a fio de espada.
+
+[[v9-22-20]]
+
+^<<v9-22-20,20>>^ Porém escapou um dos filhos de Aquimeleque, filho de Aitube, cujo nome era Abiatar, o qual fugiu atrás de Davi.
+
+[[v9-22-21]]
+
+^<<v9-22-21,21>>^ E Abiatar anunciou a Davi que Saul tinha matado os sacerdotes do Senhor.
+
+[[v9-22-22]]
+
+^<<v9-22-22,22>>^ Então Davi disse a Abiatar: Bem sabia eu naquele dia que, estando ali Doegue, o idumeu, não deixaria de o denunciar a Saul: eu dei ocasião contra todas as almas da casa de teu pai.
+
+[[v9-22-23]]
+
+^<<v9-22-23,23>>^ Fica comigo, não temas, porque quem procurar a minha morte também  procurará a tua, pois estarás salvo comigo.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-021.adoc#v9-21-0[&#60; Capítulo Anterior] | <<v9-22-0,Topo>> | xref:009-1-samuel/009-1-samuel-023.adoc#v9-23-0[Próximo Capítulo &#62;]

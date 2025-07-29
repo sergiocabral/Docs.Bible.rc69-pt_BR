@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-85-0]]
+=== Salmos, 85
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-85-1]]
+
+^<<v19-85-1,1>>^ ABENÇOASTE, Senhor, a tua terra: fizeste regressar os cativos de Jacó.
+
+[[v19-85-2]]
+
+^<<v19-85-2,2>>^ Perdoaste a iniquidade do teu povo: cobriste todos os seus pecados. (Selá.)
+
+[[v19-85-3]]
+
+^<<v19-85-3,3>>^ Fizeste cessar toda a tua indignação: desviaste-te do ardor da tua ira.
+
+[[v19-85-4]]
+
+^<<v19-85-4,4>>^ Torna-nos a trazer, ó Deus da nossa salvação, e retira de sobre nós a tua ira.
+
+[[v19-85-5]]
+
+^<<v19-85-5,5>>^ Estarás para sempre irado contra nós? estenderás a tua ira a todas as gerações?
+
+[[v19-85-6]]
+
+^<<v19-85-6,6>>^ Não tornarás a vivificar-nos, para que o teu povo se alegre em ti?
+
+[[v19-85-7]]
+
+^<<v19-85-7,7>>^ Mostra-nos, Senhor, a tua misericórdia, e concede-nos a tua salvação.
+
+[[v19-85-8]]
+
+^<<v19-85-8,8>>^ Escutarei o que Deus, o Senhor, disser; porque falará de paz ao seu povo, e aos seus santos, contanto que não voltem à loucura.
+
+[[v19-85-9]]
+
+^<<v19-85-9,9>>^ Certamente que a salvação está  perto daqueles que o temem, para que a glória habite em nossa terra.
+
+[[v19-85-10]]
+
+^<<v19-85-10,10>>^ A misericórdia e a verdade se encontraram: a justiça e a paz se beijaram.
+
+[[v19-85-11]]
+
+^<<v19-85-11,11>>^ A verdade brotará da terra, e a justiça olhará desde os céus.
+
+[[v19-85-12]]
+
+^<<v19-85-12,12>>^ Também o Senhor dará o bem, e a nossa terra dará o seu fruto.
+
+[[v19-85-13]]
+
+^<<v19-85-13,13>>^ A justiça irá adiante dele, e ele nos fará andar no caminho aberto pelos seus passos.
+
+'''
+
+xref:019-salmos/019-salmos-084.adoc#v19-84-0[&#60; Capítulo Anterior] | <<v19-85-0,Topo>> | xref:019-salmos/019-salmos-086.adoc#v19-86-0[Próximo Capítulo &#62;]

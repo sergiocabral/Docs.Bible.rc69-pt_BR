@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-2-0]]
+=== Lamentações, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v25-2-1]]
+
+^<<v25-2-1,1>>^ Álefe. COMO cobriu o Senhor de nuvens na sua ira a filha de Sião! derribou do céu à terra a glória de Israel, e não se lembrou do escabelo de seus pés, no dia da sua ira. Beta.
+
+[[v25-2-2]]
+
+^<<v25-2-2,2>>^ Devorou o Senhor todas as moradas de Jacó, e não se apiedou: derribou no seu furor as fortalezas da filha de Judá, e as  abateu até à terra: profanou o reino e os seus príncipes. Guímel.
+
+[[v25-2-3]]
+
+^<<v25-2-3,3>>^ Cortou no furor da sua  ira toda a força de Israel; retirou para trás a sua destra de diante do inimigo; e ardeu contra Jacó, como labareda de fogo que  tudo consome em redor. Dálete.
+
+[[v25-2-4]]
+
+^<<v25-2-4,4>>^ Armou o seu arco como inimigo: firmou a sua destra como adversário, e matou todo o que era  formoso à vista; derramou a sua indignação como fogo na tenda da filha de Sião. Hê.
+
+[[v25-2-5]]
+
+^<<v25-2-5,5>>^ Tornou-se o Senhor como inimigo; devorou Israel, devorou todos os seus palácios, destruiu as suas fortalezas; e multiplicou na filha de Judá a lamentação e a tristeza. Vau.
+
+[[v25-2-6]]
+
+^<<v25-2-6,6>>^ E arrancou a sua cabana com violência, como se fosse a de uma horta; destruiu a sua congregação: o Senhor em Sião pôs em esquecimento a solenidade e o sábado, e na indignação da sua ira rejeitou com desprezo o rei e o sacerdote. Zaine.
+
+[[v25-2-7]]
+
+^<<v25-2-7,7>>^ Rejeitou o Senhor o seu altar, detestou o seu santuário; entregou na mão do inimigo os muros dos seus palácios: deram gritos na casa do Senhor, como em dia de reunião solene. Hete.
+
+[[v25-2-8]]
+
+^<<v25-2-8,8>>^ Intentou o Senhor destruir o muro da filha de Sião: estendeu o cordel, não retirou a sua mão destruidora; fez gemer o antemuro e o muro; eles estão juntamente enfraquecidos. Tete.
+
+[[v25-2-9]]
+
+^<<v25-2-9,9>>^ Abateram as suas portas, ele destruiu e quebrou os seus ferrolhos: o seu rei e os seus príncipes estão entre as nações onde não há  lei nem acham visão alguma do Senhor os seus profetas. Jode.
+
+[[v25-2-10]]
+
+^<<v25-2-10,10>>^ Estão sentados na terra, silenciosos, os anciãos da filha de Sião; lançam pó sobre as suas cabeças, cingiram sacos: as virgens de Jerusalém abaixam as suas cabeças até à terra. Cafe.
+
+[[v25-2-11]]
+
+^<<v25-2-11,11>>^ Já se consumiram os meus olhos com lágrimas, turbadas estão as minhas entranhas, o meu fígado se derramou pela terra por causa do quebrantamento da filha do meu povo; pois desfalecem os meninos e as crianças de peito pelas ruas da cidade. Lâmede.
+
+[[v25-2-12]]
+
+^<<v25-2-12,12>>^ Dizem a suas mães: Onde há  trigo e vinho? quando desfalecem como o ferido pelas ruas da cidade, derramando-se a sua alma no regaço de suas mães. Mem.
+
+[[v25-2-13]]
+
+^<<v25-2-13,13>>^ Que testemunho te trarei? a quem te compararei, ó filha de Jerusalém? a quem te assemelharei, para te consolar a ti, ó virgem filha de Sião? porque grande como o mar é a tua ferida; quem te sarará? Num.
+
+[[v25-2-14]]
+
+^<<v25-2-14,14>>^ Os teus profetas viram para ti vaidade e loucura, e não manifestaram a tua maldade, para afastarem o teu cativeiro: mas viram para ti cargas vãs e motivos de expulsão. Sâmeque.
+
+[[v25-2-15]]
+
+^<<v25-2-15,15>>^ Todos os que passam pelo caminho batem palmas, assobiam e meneiam as suas cabeças sobre a filha de Jerusalém, dizendo : É esta a cidade que denominavam perfeita em formosura, gozo de toda a terra? Pê.
+
+[[v25-2-16]]
+
+^<<v25-2-16,16>>^ Todos os teus inimigos abrem as suas bocas contra ti, assobiam, e rangem os dentes; dizem: Devoramo-la; certamente este é  o dia que esperávamos; achamo-lo, e vimo-lo. Aim.
+
+[[v25-2-17]]
+
+^<<v25-2-17,17>>^ Fez o Senhor o que intentou; cumpriu a sua palavra, que ordenou desde os dias da antiguidade: derrubou, e não se apiedou; fez que o inimigo se alegrasse por tua causa, exaltou o poder dos teus adversários. Tsadê.
+
+[[v25-2-18]]
+
+^<<v25-2-18,18>>^ O coração deles clamou ao Senhor: Ó muralha da filha de Sião: corram as tuas lágrimas, como um  ribeiro, de dia e de noite; não te dês descanso, nem parem as meninas de teus olhos. Cofe.
+
+[[v25-2-19]]
+
+^<<v25-2-19,19>>^ Levanta-te, clama de noite no princípio das vigias; derrama o teu coração como águas diante da face do Senhor: levanta a eles as tuas mãos, pela vida de teus filhinhos, que desfalecem de fome à entrada de todas as ruas. Rexe.
+
+[[v25-2-20]]
+
+^<<v25-2-20,20>>^ Vê, ó Senhor, e considera a quem fizeste assim! Hão de as mulheres comer o fruto de si mesmas, as crianças que trazem nos braços? ou matar-se-á no santuário do Senhor o sacerdote e o profeta? Chim.
+
+[[v25-2-21]]
+
+^<<v25-2-21,21>>^ Jazem em terra pelas  ruas o moço e o velho; as minhas virgens e os  meus mancebos vieram a cair à espada: tu os mataste no dia da tua ira; degolaste-os e não te apiedaste deles. Tau.
+
+[[v25-2-22]]
+
+^<<v25-2-22,22>>^ Convocaste de toda a parte os meus receios, como num  dia de solenidade; não houve no dia da ira do Senhor quem escapasse ou ficasse: aqueles que trouxe nas mãos e sustentei, o meu inimigo os consumiu.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-001.adoc#v25-1-0[&#60; Capítulo Anterior] | <<v25-2-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-003.adoc#v25-3-0[Próximo Capítulo &#62;]

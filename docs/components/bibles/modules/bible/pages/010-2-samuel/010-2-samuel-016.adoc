@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v10-16-0]]
+=== 2 Samuel, 16
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v10-16-1]]
+
+^<<v10-16-1,1>>^ E PASSANDO Davi um pouco mais  adiante do cume, eis que Ziba, o moço de Mefibosete, veio encontrar-se com ele, com um par de jumentos albardados, e sobre eles duzentos pães, com cem cachos de passas, e cem de frutas de verão e um odre de vinho.
+
+[[v10-16-2]]
+
+^<<v10-16-2,2>>^ E disse o rei a Ziba: Que pretendes com isto? E disse Ziba: Os jumentos são  para a casa do rei, para se montarem neles; e o pão e as frutas de verão para os moços comerem; e o vinho para beberem os cansados no deserto.
+
+[[v10-16-3]]
+
+^<<v10-16-3,3>>^ Então disse o rei: Onde está , pois, o filho de teu senhor? E disse Ziba ao rei: Eis que ficou em Jerusalém; porque disse: Hoje me restaurará a casa de Israel o reino de meu pai.
+
+[[v10-16-4]]
+
+^<<v10-16-4,4>>^ Então disse o rei a Ziba: Eis que teu é  tudo quanto tem  Mefibosete. E disse Ziba: Eu me inclino que  eu ache graça em teus olhos, ó rei meu senhor.
+
+[[v10-16-5]]
+
+^<<v10-16-5,5>>^ E, chegando o rei Davi a Baurim, eis que dali saiu um  homem da linhagem da casa de Saul, cujo nome era Simei, filho de Gera, e, saindo, ia amaldiçoando.
+
+[[v10-16-6]]
+
+^<<v10-16-6,6>>^ E apedrejava com pedras a Davi, e a todos os servos do rei Davi: ainda que todo o povo e todos os valentes iam  à sua direita e à sua esquerda.
+
+[[v10-16-7]]
+
+^<<v10-16-7,7>>^ E, amaldiçoando-o Simei, assim dizia: Sai, sai, homem de sangue, e homem de Belial:
+
+[[v10-16-8]]
+
+^<<v10-16-8,8>>^ O Senhor te deu agora a paga de todo o sangue da casa de Saul, em cujo lugar tens reinado; já deu o Senhor o reino na mão de Absalão teu filho; e eis-te agora  na tua desgraça, porque és um  homem de sangue.
+
+[[v10-16-9]]
+
+^<<v10-16-9,9>>^ Então disse Abisai, filho de Zeruia, ao rei: Por que amaldiçoaria este cão morto ao rei meu senhor? Deixa-me passar, e lhe tirarei a cabeça.
+
+[[v10-16-10]]
+
+^<<v10-16-10,10>>^ Disse porém o rei: Que tenho eu convosco, filhos de Zeruia? Ora deixai-o amaldiçoar; pois o Senhor lhe disse: Amaldiçoa a Davi; quem pois diria: Por que assim fizeste?
+
+[[v10-16-11]]
+
+^<<v10-16-11,11>>^ Disse mais Davi a Abisai, e a todos os seus servos: Eis que meu filho, que saiu das minhas entranhas, procura a minha morte: quanto mais ainda este filho de Jemini? Deixai-o, que amaldiçoe; porque o Senhor lho disse.
+
+[[v10-16-12]]
+
+^<<v10-16-12,12>>^ Porventura o Senhor olhará para a minha miséria: e o Senhor me pagará com bem a sua maldição deste  dia.
+
+[[v10-16-13]]
+
+^<<v10-16-13,13>>^ Prosseguiam pois o seu caminho, Davi e os seus homens: e também  Simei ia ao longo do monte, defronte dele, caminhando e amaldiçoando, e atirava pedras contra ele, e levantava poeira.
+
+[[v10-16-14]]
+
+^<<v10-16-14,14>>^ E o rei e todo o povo que ia  com ele chegaram cansados, e refrescaram-se ali.
+
+[[v10-16-15]]
+
+^<<v10-16-15,15>>^ Absalão pois e todo o povo, os homens de Israel, vieram a Jerusalém: e Aquitófel com ele.
+
+[[v10-16-16]]
+
+^<<v10-16-16,16>>^ E sucedeu que, chegando Husai, o arquita, amigo de Davi, a Absalão, disse Husai a Absalão: Viva o rei, viva o rei!
+
+[[v10-16-17]]
+
+^<<v10-16-17,17>>^ Porém Absalão disse a Husai: É esta a tua beneficência para com o teu amigo? Por que não foste com o teu amigo?
+
+[[v10-16-18]]
+
+^<<v10-16-18,18>>^ E disse Husai a Absalão: Não, senão daquele que eleger o Senhor, e todo este povo, e todos os homens de Israel; dele serei e com ele ficarei.
+
+[[v10-16-19]]
+
+^<<v10-16-19,19>>^ E, demais disto, a quem serviria eu? Porventura  não seria  diante de seu filho? Como servi diante de teu pai, assim serei diante de ti.
+
+[[v10-16-20]]
+
+^<<v10-16-20,20>>^ Então disse Absalão a Aquitófel: Dai conselho entre vós sobre o que devemos fazer.
+
+[[v10-16-21]]
+
+^<<v10-16-21,21>>^ E disse Aquitófel a Absalão: Entra às concubinas de teu pai, que deixou para guardarem a casa; e assim  todo o Israel ouvirá que te fizeste aborrecível para com teu pai: e se fortalecerão as mãos de todos os que estão  contigo.
+
+[[v10-16-22]]
+
+^<<v10-16-22,22>>^ Estenderam pois para Absalão uma tenda no terrado: e entrou Absalão às concubinas de seu pai perante os olhos de todo o Israel.
+
+[[v10-16-23]]
+
+^<<v10-16-23,23>>^ E era  o conselho de Aquitófel, que aconselhava naqueles dias, como se a palavra de Deus se consultara: tal era  todo o conselho de Aquitófel, assim para com Davi como para com Absalão.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-015.adoc#v10-15-0[&#60; Capítulo Anterior] | <<v10-16-0,Topo>> | xref:010-2-samuel/010-2-samuel-017.adoc#v10-17-0[Próximo Capítulo &#62;]

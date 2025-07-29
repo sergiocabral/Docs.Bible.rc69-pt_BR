@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v66-8-0]]
+=== Apocalipse, 8
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v66-8-1]]
+
+^<<v66-8-1,1>>^ E HAVENDO aberto o sétimo selo, fez-se silêncio no céu quase por meia hora.
+
+[[v66-8-2]]
+
+^<<v66-8-2,2>>^ E vi os sete anjos, que estavam diante de Deus, e foram-lhes dadas sete trombetas.
+
+[[v66-8-3]]
+
+^<<v66-8-3,3>>^ E veio outro anjo, e pôs-se junto ao altar, tendo um incensário de ouro; e foi-lhe dado muito incenso, para o  pôr com  as orações de todos os santos sobre o altar de ouro, que está diante do trono.
+
+[[v66-8-4]]
+
+^<<v66-8-4,4>>^ E o fumo do incenso subiu com as orações dos santos desde a mão do anjo até diante de Deus.
+
+[[v66-8-5]]
+
+^<<v66-8-5,5>>^ E o anjo tomou o incensário, e o encheu do fogo do altar, e o lançou sobre a terra; e houve depois vozes, e trovões, e relâmpagos e terremotos.
+
+[[v66-8-6]]
+
+^<<v66-8-6,6>>^ E os sete anjos, que tinham as sete trombetas, prepararam-se para tocá-las.
+
+[[v66-8-7]]
+
+^<<v66-8-7,7>>^ E o primeiro anjo tocou a sua trombeta, e houve saraiva e fogo misturado com sangue, e foram lançados na terra, que foi queimada na sua terça parte; queimou-se a terça parte das árvores, e toda a erva verde foi queimada.
+
+[[v66-8-8]]
+
+^<<v66-8-8,8>>^ E o segundo anjo tocou a trombeta; e foi lançada no mar uma coisa como um grande monte ardendo em fogo, e tornou-se em sangue a terça parte do mar.
+
+[[v66-8-9]]
+
+^<<v66-8-9,9>>^ E morreu a terça parte das criaturas que tinham vida no mar; e perdeu-se a terça parte das naus.
+
+[[v66-8-10]]
+
+^<<v66-8-10,10>>^ E o terceiro anjo tocou a sua trombeta, e caiu do céu uma grande estrela, ardendo como uma tocha, e caiu sobre a terça parte dos rios, e sobre as fontes das águas.
+
+[[v66-8-11]]
+
+^<<v66-8-11,11>>^ E o nome da estrela era Absinto, e a terça parte das águas tornou-se em absinto, e muitos homens morreram das águas, porque se tornaram amargas.
+
+[[v66-8-12]]
+
+^<<v66-8-12,12>>^ E o quarto anjo tocou a sua trombeta, e foi ferida a terça parte do sol, e a terça parte da lua, e a terça parte das estrelas; para que a terça parte deles se escurecesse, e a terça parte do dia não brilhasse, e semelhantemente a  noite.
+
+[[v66-8-13]]
+
+^<<v66-8-13,13>>^ E olhei, e ouvi um anjo voar pelo meio do céu, dizendo com grande voz: Ai! ai! dos que habitam sobre a terra! por causa das outras vozes das trombetas dos três anjos que hão de ainda tocar.
+
+'''
+
+xref:066-apocalipse/066-apocalipse-007.adoc#v66-7-0[&#60; Capítulo Anterior] | <<v66-8-0,Topo>> | xref:066-apocalipse/066-apocalipse-009.adoc#v66-9-0[Próximo Capítulo &#62;]

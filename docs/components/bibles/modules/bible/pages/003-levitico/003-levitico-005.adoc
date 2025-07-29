@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v3-5-0]]
+=== Levítico, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v3-5-1]]
+
+^<<v3-5-1,1>>^ E QUANDO alguma  pessoa pecar, ouvindo uma voz de blasfêmia, de que for  testemunha, seja que o  viu, ou que o soube, se o não denunciar, então levará a sua iniquidade.
+
+[[v3-5-2]]
+
+^<<v3-5-2,2>>^ Ou, quando alguma  pessoa tocar em alguma cousa imunda, seja corpo morto de besta-fera imunda, seja corpo morto de animal imundo, seja corpo morto de réptil imundo, ainda que lhe fosse oculto, contudo será ele imundo e culpado.
+
+[[v3-5-3]]
+
+^<<v3-5-3,3>>^ Ou, quando tocar a imundícia dum homem, seja qual for  a sua imundícia, com que se faça imundo, e lhe for oculto, e o  souber depois , será culpado.
+
+[[v3-5-4]]
+
+^<<v3-5-4,4>>^ Ou, quando alguma  pessoa jurar, pronunciando temerariamente com os seus  beiços, para fazer mal, ou para fazer bem, em tudo o que o homem pronuncia temerariamente com juramento, e lhe for oculto, e o souber depois  culpado será numa destas cousas.
+
+[[v3-5-5]]
+
+^<<v3-5-5,5>>^ Será pois que, culpado sendo numa destas cousas , confessará aquilo em que pecou.
+
+[[v3-5-6]]
+
+^<<v3-5-6,6>>^ E a sua expiação trará ao Senhor, pelo seu pecado que pecou: uma fêmea de gado miúdo, uma cordeira, ou uma cabrinha pelo pecado: assim o sacerdote por ela fará expiação do seu pecado.
+
+[[v3-5-7]]
+
+^<<v3-5-7,7>>^ Mas, se a sua mão não alcançar o que bastar para gado miúdo, então trará, em expiação da culpa que cometeu, ao Senhor, duas rolas ou dois pombinhos; um para expiação do pecado, e o outro para holocausto;
+
+[[v3-5-8]]
+
+^<<v3-5-8,8>>^ E os trará ao sacerdote, o qual primeiro oferecerá aquele que é  para expiação do pecado; e com a sua unha lhe fenderá a cabeça junto ao pescoço, mas não o partirá:
+
+[[v3-5-9]]
+
+^<<v3-5-9,9>>^ E do sangue da expiação do pecado espargirá sobre a parede do altar, porém o que sobejar daquele sangue espremer-se-á à base do altar: expiação do pecado é.
+
+[[v3-5-10]]
+
+^<<v3-5-10,10>>^ E do outro fará holocausto conforme ao costume: assim o sacerdote por ela fará expiação do seu pecado que pecou, e lhe será perdoado.
+
+[[v3-5-11]]
+
+^<<v3-5-11,11>>^ Porém, se a sua mão não alcançar duas rolas, ou dois pombinhos, então aquele que pecou trará pela sua oferta a décima parte dum efa de  flor de farinha, para expiação do pecado: não deitará sobre ela azeite, nem lhe porá em cima o incenso, porquanto é  expiação do pecado:
+
+[[v3-5-12]]
+
+^<<v3-5-12,12>>^ E a trará ao sacerdote, e o sacerdote dela tomará o seu punho cheio por seu memorial, e a  queimará sobre o altar, em cima das ofertas queimadas do Senhor: expiação de pecado é.
+
+[[v3-5-13]]
+
+^<<v3-5-13,13>>^ Assim o sacerdote por ela fará expiação do seu pecado, que pecou em alguma destas cousas, e lhe será perdoado; e o resto  será do sacerdote, como a oferta de manjares.
+
+[[v3-5-14]]
+
+^<<v3-5-14,14>>^ E falou o Senhor a Moisés dizendo:
+
+[[v3-5-15]]
+
+^<<v3-5-15,15>>^ Quando alguma  pessoa cometer uma transgressão, e pecar por ignorância nas cousas sagradas do Senhor, então trará ao Senhor por expiação um carneiro sem mancha do rebanho, conforme à tua estimação em siclos de prata, segundo o siclo do santuário, para expiação da culpa.
+
+[[v3-5-16]]
+
+^<<v3-5-16,16>>^ Assim restituirá o que ele tirou das cousas sagradas, e ainda de mais acrescentará o seu quinto, e o dará ao sacerdote: assim o sacerdote com o carneiro da expiação fará expiação por ela, e ser-lhe-á perdoado o pecado.
+
+[[v3-5-17]]
+
+^<<v3-5-17,17>>^ E, se alguma pessoa pecar, e obrar contra  algum de todos os mandamentos do Senhor o que se não deve fazer, ainda que o não soubesse, contudo será ela culpada, e levará a sua iniquidade:
+
+[[v3-5-18]]
+
+^<<v3-5-18,18>>^ E trará ao sacerdote um carneiro sem mancha do rebanho, conforme à tua estimação, para expiação da culpa, e o sacerdote por ela fará expiação do seu erro em que errou sem saber; e lhe será perdoado.
+
+[[v3-5-19]]
+
+^<<v3-5-19,19>>^ Expiação de culpa é : certamente se fez culpado ao Senhor.
+
+'''
+
+xref:003-levitico/003-levitico-004.adoc#v3-4-0[&#60; Capítulo Anterior] | <<v3-5-0,Topo>> | xref:003-levitico/003-levitico-006.adoc#v3-6-0[Próximo Capítulo &#62;]

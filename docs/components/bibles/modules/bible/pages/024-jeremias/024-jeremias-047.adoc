@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v24-47-0]]
+=== Jeremias, 47
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v24-47-1]]
+
+^<<v24-47-1,1>>^ A PALAVRA do Senhor que veio a Jeremias, o profeta, contra os filisteus, antes que Faraó ferisse a Gaza.
+
+[[v24-47-2]]
+
+^<<v24-47-2,2>>^ Assim diz o Senhor: Eis que se levantam as águas do norte, e tornar-se-ão em torrente transbordante, e alagarão a terra e sua plenitude, a cidade, e os que moram nela; e os homens clamarão, e todos os moradores da terra se lamentarão,
+
+[[v24-47-3]]
+
+^<<v24-47-3,3>>^ Ao ruído estrepitoso das unhas dos seus fortes cavalos , ao barulho de seus carros, ao estrondo das suas rodas: os pais não atendem aos filhos, por causa da fraqueza das mãos;
+
+[[v24-47-4]]
+
+^<<v24-47-4,4>>^ Por causa do dia que vem para destruir a todos os filisteus, para cortar de Tiro e de Sidom todo o resto que os  socorra; porque o Senhor destruirá os filisteus o resto da ilha de Caftor.
+
+[[v24-47-5]]
+
+^<<v24-47-5,5>>^ A rapadura veio sobre Gaza, foi desarraigada Ascalom, com  o resto do seu vale: até quando te sarjarás?
+
+[[v24-47-6]]
+
+^<<v24-47-6,6>>^ Ah! espada do Senhor! até quando deixarás de repousar? volta para a tua bainha, descansa, e aquieta-te.
+
+[[v24-47-7]]
+
+^<<v24-47-7,7>>^ Como podes estar quieta, se o Senhor te deu uma ordem contra Ascalom, e contra as bordas do mar? ali lho tem prescrito.
+
+'''
+
+xref:024-jeremias/024-jeremias-046.adoc#v24-46-0[&#60; Capítulo Anterior] | <<v24-47-0,Topo>> | xref:024-jeremias/024-jeremias-048.adoc#v24-48-0[Próximo Capítulo &#62;]

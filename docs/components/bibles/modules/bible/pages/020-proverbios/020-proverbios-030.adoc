@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-30-0]]
+=== Provérbios, 30
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-30-1]]
+
+^<<v20-30-1,1>>^ PALAVRAS de Agur, filho de Jaque, o oráculo. Disse este varão a Itiel; a Itiel e a Ucal:
+
+[[v20-30-2]]
+
+^<<v20-30-2,2>>^ Na verdade que eu sou  mais bruto do que ninguém; não tenho o entendimento do homem.
+
+[[v20-30-3]]
+
+^<<v20-30-3,3>>^ Nem aprendi a sabedoria, nem tenho o conhecimento do Santo.
+
+[[v20-30-4]]
+
+^<<v20-30-4,4>>^ Quem subiu ao céu e desceu? quem encerrou os ventos nos seus punhos? quem amarrou as águas na sua roupa? quem estabeleceu todas as extremidades da terra? qual é  o seu nome, e qual é  o nome de seu filho, se é que  o sabes?
+
+[[v20-30-5]]
+
+^<<v20-30-5,5>>^ Toda a palavra de Deus é  pura; escudo é  para os que confiam nele.
+
+[[v20-30-6]]
+
+^<<v20-30-6,6>>^ Nada acrescentes às suas palavras, para que não te repreenda e sejas achado mentiroso.
+
+[[v20-30-7]]
+
+^<<v20-30-7,7>>^ Duas cousas te pedi: não mas negues, antes que morra:
+
+[[v20-30-8]]
+
+^<<v20-30-8,8>>^ Afasta de mim a vaidade e a palavra mentirosa; não me dês nem a pobreza nem a riqueza: mantém-me do pão da minha porção acostumada;
+
+[[v20-30-9]]
+
+^<<v20-30-9,9>>^ Para que porventura  de farto te  não negue, e diga: Quem é  o Senhor? ou que, empobrecendo, não venha a furtar, e lance mão do nome de Deus.
+
+[[v20-30-10]]
+
+^<<v20-30-10,10>>^ Não calunies o servo diante de seu senhor, para que te não amaldiçoe e fiques culpado.
+
+[[v20-30-11]]
+
+^<<v20-30-11,11>>^ Há uma  geração que amaldiçoa a seu pai, e que não bendiz a sua mãe.
+
+[[v20-30-12]]
+
+^<<v20-30-12,12>>^ Há uma  geração que é  pura aos seus olhos, e que nunca foi lavada da sua imundícia.
+
+[[v20-30-13]]
+
+^<<v20-30-13,13>>^ Há uma geração cujos olhos são altivos, e cujas pálpebras são levantadas para cima.
+
+[[v20-30-14]]
+
+^<<v20-30-14,14>>^ Há uma  geração cujos dentes são  espadas, e cujos queixais são facas, para consumirem na terra os aflitos, e os necessitados entre os homens.
+
+[[v20-30-15]]
+
+^<<v20-30-15,15>>^ A sanguessuga tem duas filhas, a saber : Dá, Dá. Estas três cousas nunca se fartam; e  quatro nunca dizem: Basta.
+
+[[v20-30-16]]
+
+^<<v20-30-16,16>>^ A sepultura; a madre estéril; a terra que se  não farta de água; e o fogo, nunca dizem: Basta.
+
+[[v20-30-17]]
+
+^<<v20-30-17,17>>^ Os olhos que  zombam do pai, ou desprezam a obediência da mãe, corvos do ribeiro os arrancarão e os pintãos da águia os comerão.
+
+[[v20-30-18]]
+
+^<<v20-30-18,18>>^ Há três cousas  que me maravilham; e a quarta não a conheço:
+
+[[v20-30-19]]
+
+^<<v20-30-19,19>>^ O caminho da águia no céu; o caminho da cobra na penha; o caminho do navio no meio do mar; e o caminho do homem com uma  virgem.
+
+[[v20-30-20]]
+
+^<<v20-30-20,20>>^ Tal é  o caminho da mulher adúltera: ela come, e limpa a sua boca, e diz: Não cometi maldade.
+
+[[v20-30-21]]
+
+^<<v20-30-21,21>>^ Por três cousas se alvoroça a terra, e a quarta não a pode suportar:
+
+[[v20-30-22]]
+
+^<<v20-30-22,22>>^ Pelo servo, quando reina; e pelo  tolo, quando anda farto de pão:
+
+[[v20-30-23]]
+
+^<<v20-30-23,23>>^ Pela mulher  aborrecida, quando se casa; e pela  serva, quando fica herdeira da sua senhora.
+
+[[v20-30-24]]
+
+^<<v20-30-24,24>>^ Estas quatro cousas são  das mais pequenas da terra, mas sábias, bem-providas de sabedoria:
+
+[[v20-30-25]]
+
+^<<v20-30-25,25>>^ As formigas são um  povo impotente; todavia  no verão preparam a sua comida;
+
+[[v20-30-26]]
+
+^<<v20-30-26,26>>^ Os coelhos são um  povo débil; e contudo  fazem a sua casa nas rochas;
+
+[[v20-30-27]]
+
+^<<v20-30-27,27>>^ Os gafanhotos não têm rei; e contudo  todos saem, e em bandos  se repartem;
+
+[[v20-30-28]]
+
+^<<v20-30-28,28>>^ A aranha apanha com as mãos, e está nos paços dos reis.
+
+[[v20-30-29]]
+
+^<<v20-30-29,29>>^ Há três que têm um bom andar, e o quarto passeia muito bem:
+
+[[v20-30-30]]
+
+^<<v20-30-30,30>>^ O leão, o mais forte entre os animais, que por ninguém torna atrás:
+
+[[v20-30-31]]
+
+^<<v20-30-31,31>>^ O cavalo de guerra, bem-cingido pelos lombos: e o bode também: e o rei a quem se não pode resistir.
+
+[[v20-30-32]]
+
+^<<v20-30-32,32>>^ Se obraste loucamente, elevando-te, e se imaginaste o mal, põe  a mão na boca.
+
+[[v20-30-33]]
+
+^<<v20-30-33,33>>^ Porque o espremer do leite produz manteiga, e o espremer do nariz produz sangue, e o espremer da ira produz contenda.
+
+'''
+
+xref:020-proverbios/020-proverbios-029.adoc#v20-29-0[&#60; Capítulo Anterior] | <<v20-30-0,Topo>> | xref:020-proverbios/020-proverbios-031.adoc#v20-31-0[Próximo Capítulo &#62;]

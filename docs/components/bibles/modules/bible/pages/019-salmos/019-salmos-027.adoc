@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-27-0]]
+=== Salmos, 27
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-27-1]]
+
+^<<v19-27-1,1>>^ O SENHOR é  a minha luz e a minha salvação; a quem temerei? O Senhor é a força da minha vida; de quem me recearei?
+
+[[v19-27-2]]
+
+^<<v19-27-2,2>>^ Quando os malvados, meus adversários e meus inimigos, investiram contra mim, para comerem as minhas carnes, tropeçaram e caíram.
+
+[[v19-27-3]]
+
+^<<v19-27-3,3>>^ Ainda que um exército me cercasse, o meu coração não temeria: ainda que a guerra se levantasse contra mim, nele confiaria.
+
+[[v19-27-4]]
+
+^<<v19-27-4,4>>^ Uma cousa  pedi ao Senhor, e a buscarei: que possa morar na casa do Senhor todos os dias da minha vida, para contemplar a formosura do Senhor, e aprender no seu templo.
+
+[[v19-27-5]]
+
+^<<v19-27-5,5>>^ Porque no dia da adversidade me esconderá no seu pavilhão: no oculto do seu tabernáculo me esconderá: pôr-me-á sobre uma rocha.
+
+[[v19-27-6]]
+
+^<<v19-27-6,6>>^ Também a minha cabeça será exaltada sobre os meus inimigos que estão  ao redor de mim: pelo que oferecerei sacrifício de júbilo no seu tabernáculo; cantarei, sim, cantarei louvores ao Senhor.
+
+[[v19-27-7]]
+
+^<<v19-27-7,7>>^ Ouve, Senhor, a minha voz quando  clamo; tem também piedade de mim, e responde-me.
+
+[[v19-27-8]]
+
+^<<v19-27-8,8>>^ Quando tu disseste : Buscai o meu rosto; o meu coração te disse a ti: O teu rosto, Senhor, buscarei.
+
+[[v19-27-9]]
+
+^<<v19-27-9,9>>^ Não escondas de mim a tua face, não rejeites ao teu servo com ira: tu foste a minha ajuda, não me deixes nem me desampares, ó Deus da minha salvação.
+
+[[v19-27-10]]
+
+^<<v19-27-10,10>>^ Porque, quando meu pai e minha mãe me desampararem, o Senhor me recolherá.
+
+[[v19-27-11]]
+
+^<<v19-27-11,11>>^ Ensina-me, Senhor, o teu caminho, e guia-me pela vereda direita, por causa dos que me andam espiando.
+
+[[v19-27-12]]
+
+^<<v19-27-12,12>>^ Não me entregues à vontade dos meus adversários; pois se levantaram falsas testemunhas contra mim, e os que respiram crueldade.
+
+[[v19-27-13]]
+
+^<<v19-27-13,13>>^ Pereceria sem dúvida , se não cresse que veria os bens do Senhor na terra dos viventes.
+
+[[v19-27-14]]
+
+^<<v19-27-14,14>>^ Espera no Senhor, anima-te, e ele fortalecerá o teu coração; espera pois no Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-026.adoc#v19-26-0[&#60; Capítulo Anterior] | <<v19-27-0,Topo>> | xref:019-salmos/019-salmos-028.adoc#v19-28-0[Próximo Capítulo &#62;]

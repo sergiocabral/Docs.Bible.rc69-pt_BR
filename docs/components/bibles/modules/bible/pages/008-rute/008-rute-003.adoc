@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v8-3-0]]
+=== Rute, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v8-3-1]]
+
+^<<v8-3-1,1>>^ E DISSE-LHE Noemi, sua sogra: Minha filha, não hei de eu buscar descanso, para que fiques bem?
+
+[[v8-3-2]]
+
+^<<v8-3-2,2>>^ Ora pois, não é  Boaz, com cujas moças estiveste, de  nossa parentela? Eis que esta noite padejará a cevada na eira.
+
+[[v8-3-3]]
+
+^<<v8-3-3,3>>^ Lava-te pois, e unge-te, e veste os teus vestidos, e desce à eira: porém  não te dês a conhecer ao homem, até que tenha acabado de comer e beber.
+
+[[v8-3-4]]
+
+^<<v8-3-4,4>>^ E há de ser que, quando ele se deitar, notarás o lugar em que se deitar; então entra, e descobrir-lhe-ás os pés, e te deitarás, e ele te fará saber o que deves fazer.
+
+[[v8-3-5]]
+
+^<<v8-3-5,5>>^ E ela lhe disse: Tudo quanto me  disseres, farei.
+
+[[v8-3-6]]
+
+^<<v8-3-6,6>>^ Então foi para a eira, e fez conforme a tudo quanto sua sogra lhe tinha ordenado.
+
+[[v8-3-7]]
+
+^<<v8-3-7,7>>^ Havendo pois Boaz comido e bebido, e estando já o seu coração alegre, veio deitar-se ao pé de uma meda; então veio ela de mansinho, e lhe descobriu os pés, e se deitou.
+
+[[v8-3-8]]
+
+^<<v8-3-8,8>>^ E sucedeu que, pela meia-noite, o homem estremeceu, e se voltou: e eis que uma  mulher jazia a seus pés.
+
+[[v8-3-9]]
+
+^<<v8-3-9,9>>^ E disse ele: Quem és  tu? E ela disse: Sou  Rute, tua serva; estende pois tua aba sobre a tua serva, porque tu és  o remidor.
+
+[[v8-3-10]]
+
+^<<v8-3-10,10>>^ E disse ele: Bendita sejas  tu do Senhor, minha filha; melhor fizeste esta tua última beneficência do que a primeira, pois após nenhuns mancebos foste, quer pobres quer ricos.
+
+[[v8-3-11]]
+
+^<<v8-3-11,11>>^ Agora pois, minha filha, não temas; tudo quanto disseste te farei, pois toda a cidade do meu povo sabe que és mulher virtuosa.
+
+[[v8-3-12]]
+
+^<<v8-3-12,12>>^ Porém agora é muito verdade que eu sou remidor: mas ainda outro  remidor há mais chegado do que eu.
+
+[[v8-3-13]]
+
+^<<v8-3-13,13>>^ Fica-te aqui  esta noite, e será que, pela manhã, se ele  te redimir, bem está, ele te  redima; porém, se te não quiser redimir, vive o Senhor, que eu te redimirei: deita-te aqui  até amanhã.
+
+[[v8-3-14]]
+
+^<<v8-3-14,14>>^ Ficou-se pois deitada a seus pés até pela manhã, e levantou-se antes que pudesse um conhecer a outro, porquanto disse: Não se saiba que alguma  mulher veio à eira.
+
+[[v8-3-15]]
+
+^<<v8-3-15,15>>^ Disse mais: Dá cá o roupão que tens  sobre ti, e tem mão nele. E ela teve mão nele; e ele mediu seis medidas  de cevada, e lhas pôs em cima; então entrou na cidade.
+
+[[v8-3-16]]
+
+^<<v8-3-16,16>>^ E veio à sua sogra, a qual disse: Quem és  tu, minha filha? E ela lhe contou tudo quanto aquele homem lhe fizera.
+
+[[v8-3-17]]
+
+^<<v8-3-17,17>>^ Disse mais: Estas seis medidas  de cevada me deu, porque me disse: Não vás vazia a tua sogra.
+
+[[v8-3-18]]
+
+^<<v8-3-18,18>>^ Então disse ela: Sossega, minha filha, até que saibas como irá o caso, porque aquele homem não descansará até que conclua hoje este negócio.
+
+'''
+
+xref:008-rute/008-rute-002.adoc#v8-2-0[&#60; Capítulo Anterior] | <<v8-3-0,Topo>> | xref:008-rute/008-rute-004.adoc#v8-4-0[Próximo Capítulo &#62;]

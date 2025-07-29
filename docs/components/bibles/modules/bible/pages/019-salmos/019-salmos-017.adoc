@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-17-0]]
+=== Salmos, 17
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-17-1]]
+
+^<<v19-17-1,1>>^ OUVE, Senhor, a justiça, atende ao meu clamor; dá ouvidos à minha oração, que não é feita  com lábios enganosos.
+
+[[v19-17-2]]
+
+^<<v19-17-2,2>>^ Saia a minha sentença de diante do teu rosto; atendam os teus olhos à razão.
+
+[[v19-17-3]]
+
+^<<v19-17-3,3>>^ Provaste o meu coração; visitaste- me  de noite; examinaste-me, e nada achaste; o que pensei, a minha boca não transgredirá.
+
+[[v19-17-4]]
+
+^<<v19-17-4,4>>^ Quanto ao trato dos homens, pela palavra dos teus lábios me  guardei das veredas do destruidor.
+
+[[v19-17-5]]
+
+^<<v19-17-5,5>>^ Dirige os meus passos nos teus caminhos, para que  as minhas pegadas não vacilem.
+
+[[v19-17-6]]
+
+^<<v19-17-6,6>>^ Eu te invoquei, ó Deus, pois me queres ouvir; inclina para mim os teus ouvidos, e escuta  as minhas palavras.
+
+[[v19-17-7]]
+
+^<<v19-17-7,7>>^ Faze maravilhosas as tuas beneficências, tu que livras aqueles que em ti  confiam dos que se levantam contra a tua destra.
+
+[[v19-17-8]]
+
+^<<v19-17-8,8>>^ Guarda-me como à menina do olho, esconde-me à sombra das tuas asas,
+
+[[v19-17-9]]
+
+^<<v19-17-9,9>>^ Dos ímpios que me oprimem, dos  meus inimigos mortais que  me andam cercando.
+
+[[v19-17-10]]
+
+^<<v19-17-10,10>>^ Na sua gordura se encerram, com a boca falam soberbamente.
+
+[[v19-17-11]]
+
+^<<v19-17-11,11>>^ Andam-nos agora espiando os nossos passos; e fixam os seus olhos em nós para nos derribarem por terra;
+
+[[v19-17-12]]
+
+^<<v19-17-12,12>>^ Parecem-se com o leão que deseja arrebatar  a sua presa, e com o leãozinho que se põe em esconderijos.
+
+[[v19-17-13]]
+
+^<<v19-17-13,13>>^ Levanta-te, Senhor, detém-no, derriba-o, livra a minha alma do ímpio, pela tua espada;
+
+[[v19-17-14]]
+
+^<<v19-17-14,14>>^ Dos homens, com a tua mão, Senhor, dos homens do mundo, cuja porção está nesta  vida, e cujo ventre enches do teu tesouro  oculto: seus filhos estão fartos, e estes  dão os seus sobejos às suas crianças.
+
+[[v19-17-15]]
+
+^<<v19-17-15,15>>^ Quanto a mim, contemplarei a tua face na justiça; satisfazer-me-ei da tua semelhança quando acordar.
+
+'''
+
+xref:019-salmos/019-salmos-016.adoc#v19-16-0[&#60; Capítulo Anterior] | <<v19-17-0,Topo>> | xref:019-salmos/019-salmos-018.adoc#v19-18-0[Próximo Capítulo &#62;]

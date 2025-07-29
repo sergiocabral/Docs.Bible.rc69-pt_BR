@@ -1,0 +1,41 @@
+include::./index.adoc[]
+
+[[v19-61-0]]
+=== Salmos, 61
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-61-1]]
+
+^<<v19-61-1,1>>^ OUVE, ó Deus, o meu clamor; atende à minha oração.
+
+[[v19-61-2]]
+
+^<<v19-61-2,2>>^ Desde o fim da terra clamo a ti, por estar abatido o meu coração; leva-me para a rocha que é mais alta do que eu.
+
+[[v19-61-3]]
+
+^<<v19-61-3,3>>^ Pois tens sido o meu refúgio, e  uma torre forte contra o inimigo.
+
+[[v19-61-4]]
+
+^<<v19-61-4,4>>^ Habitarei no teu tabernáculo para sempre: abrigar-me-ei no oculto das tuas asas. (Selá.)
+
+[[v19-61-5]]
+
+^<<v19-61-5,5>>^ Pois tu, ó Deus, ouviste os meus votos: deste- me  a herança dos que temem o teu nome.
+
+[[v19-61-6]]
+
+^<<v19-61-6,6>>^ Prolongarás os dias do rei; e  os seus anos serão como muitas gerações.
+
+[[v19-61-7]]
+
+^<<v19-61-7,7>>^ Ele permanecerá diante de Deus para sempre; prepara- lhe  misericórdia e verdade que  o preservem.
+
+[[v19-61-8]]
+
+^<<v19-61-8,8>>^ Assim cantarei salmos ao teu nome perpetuamente, para pagar os meus votos de dia em dia.
+
+'''
+
+xref:019-salmos/019-salmos-060.adoc#v19-60-0[&#60; Capítulo Anterior] | <<v19-61-0,Topo>> | xref:019-salmos/019-salmos-062.adoc#v19-62-0[Próximo Capítulo &#62;]

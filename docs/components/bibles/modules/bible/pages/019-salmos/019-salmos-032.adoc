@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-32-0]]
+=== Salmos, 32
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-32-1]]
+
+^<<v19-32-1,1>>^ BEM-AVENTURADO aquele cuja  transgressão é  perdoada, e cujo  pecado é  coberto.
+
+[[v19-32-2]]
+
+^<<v19-32-2,2>>^ Bem-aventurado o homem a quem o Senhor não imputa maldade, e em cujo espírito não há  engano.
+
+[[v19-32-3]]
+
+^<<v19-32-3,3>>^ Enquanto eu me calei, envelheceram os meus ossos pelo meu bramido em todo o dia.
+
+[[v19-32-4]]
+
+^<<v19-32-4,4>>^ Porque de dia e de noite a tua mão pesava sobre mim; o meu humor se tornou em sequidão de estio. (Selá.)
+
+[[v19-32-5]]
+
+^<<v19-32-5,5>>^ Confessei-te o meu pecado, e a minha maldade não encobri; dizia eu: Confessarei ao Senhor as minhas transgressões; e tu perdoaste a maldade do meu pecado. (Selá.)
+
+[[v19-32-6]]
+
+^<<v19-32-6,6>>^ Pelo que todo aquele que é santo orará a ti, a tempo de te poder achar: até no transbordar de muitas águas, estas  a ele não chegarão.
+
+[[v19-32-7]]
+
+^<<v19-32-7,7>>^ Tu és o lugar em que me escondo; tu me preservas da angústia: tu me cinges de alegres cantos de livramento. (Selá.)
+
+[[v19-32-8]]
+
+^<<v19-32-8,8>>^ Instruir-te-ei, e ensinar-te-ei o caminho que deves seguir; guiar-te-ei com os meus olhos.
+
+[[v19-32-9]]
+
+^<<v19-32-9,9>>^ Não sejais como o cavalo, nem  como a mula, que  não tem entendimento, cuja boca precisa de cabresto e freio, para que se não atirem a ti.
+
+[[v19-32-10]]
+
+^<<v19-32-10,10>>^ O ímpio tem muitas dores, mas aquele que confia no Senhor a misericórdia o cercará.
+
+[[v19-32-11]]
+
+^<<v19-32-11,11>>^ Alegrai-vos no Senhor, e regozijai-vos, vós os justos; e cantai alegremente todos vós que sois  retos de coração.
+
+'''
+
+xref:019-salmos/019-salmos-031.adoc#v19-31-0[&#60; Capítulo Anterior] | <<v19-32-0,Topo>> | xref:019-salmos/019-salmos-033.adoc#v19-33-0[Próximo Capítulo &#62;]

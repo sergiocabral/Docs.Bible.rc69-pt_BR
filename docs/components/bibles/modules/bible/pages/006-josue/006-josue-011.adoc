@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v6-11-0]]
+=== Josué, 11
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-11-1]]
+
+^<<v6-11-1,1>>^ SUCEDEU depois disto que , ouvindo- o  Jabim, rei de Hazor, enviou a Jobabe, rei de Madom, e ao rei de Sinrom, e ao rei de Acsafe;
+
+[[v6-11-2]]
+
+^<<v6-11-2,2>>^ E aos reis, que estavam  ao norte, nas montanhas, e na campina para o sul de Quinerote, e nas planícies, e em Nafote-Dor, da banda do mar;
+
+[[v6-11-3]]
+
+^<<v6-11-3,3>>^ Ao cananeu do  oriente e do  ocidente ao amorreu, e ao heteu, e ao ferezeu, e ao jebuseu nas montanhas: e ao heveu ao pé de Hermom, na terra de Mizpá.
+
+[[v6-11-4]]
+
+^<<v6-11-4,4>>^ Saíram pois estes, e todos os seus exércitos com eles, muito povo, como a areia que está  na praia do mar em multidão: e muitíssimos cavalos e carros.
+
+[[v6-11-5]]
+
+^<<v6-11-5,5>>^ Todos estes reis se ajuntaram, e vieram e se acamparam junto às águas de Merom, para pelejarem contra Israel.
+
+[[v6-11-6]]
+
+^<<v6-11-6,6>>^ E disse o Senhor a Josué: Não temas diante deles; porque amanhã a esta mesma hora eu os darei todos feridos diante dos filhos de Israel; os seus cavalos jarretarás, e os seus carros queimarás a fogo.
+
+[[v6-11-7]]
+
+^<<v6-11-7,7>>^ E Josué, e toda a gente de guerra com ele, veio apressadamente sobre eles às águas de Merom: e deram neles de repente.
+
+[[v6-11-8]]
+
+^<<v6-11-8,8>>^ E o Senhor os deu na mão de Israel, e os feriram, e os seguiram até à grande Sidom, e até Misrefote-Maim, e até ao vale de Mizpá ao oriente; feriram-nos até não lhes deixarem nenhum.
+
+[[v6-11-9]]
+
+^<<v6-11-9,9>>^ E fez-lhes Josué como o Senhor lhe dissera: os seus cavalos jarretou, e os seus carros queimou a fogo.
+
+[[v6-11-10]]
+
+^<<v6-11-10,10>>^ E naquele mesmo tempo tornou Josué, e tomou a Hazor, e feriu à espada ao seu rei: porquanto Hazor dantes era a cabeça de todos estes reinos.
+
+[[v6-11-11]]
+
+^<<v6-11-11,11>>^ E a toda a alma, que nela havia , feriram ao fio da espada, e totalmente os destruíram; nada restou do que tinha fôlego, e a Hazor queimou com fogo.
+
+[[v6-11-12]]
+
+^<<v6-11-12,12>>^ E Josué tomou todas as cidades destes reis, e todos os seus reis, e os feriu ao fio da espada, destruindo-os totalmente: como ordenara Moisés servo do Senhor.
+
+[[v6-11-13]]
+
+^<<v6-11-13,13>>^ Tão somente não queimaram os israelitas as cidades que estavam  sobre os seus outeiros: salvo somente Hazor, a qual  Josué queimou.
+
+[[v6-11-14]]
+
+^<<v6-11-14,14>>^ E todos os despojos destas cidades, e o gado, os filhos de Israel saquearam para si: tão somente a todos os homens feriram ao fio da espada, até que os destruíram: nada do que fôlego tinha deixaram com vida.
+
+[[v6-11-15]]
+
+^<<v6-11-15,15>>^ Como ordenara o Senhor a Moisés seu servo, assim Moisés ordenou a Josué: e assim Josué o fez; nem uma só palavra tirou de tudo o que o Senhor ordenara a Moisés.
+
+[[v6-11-16]]
+
+^<<v6-11-16,16>>^ Assim Josué tomou toda aquela terra, as montanhas, e todo o sul, e toda a terra de Gósen, e as planícies, e as campinas, e as montanhas de Israel, e as suas planícies;
+
+[[v6-11-17]]
+
+^<<v6-11-17,17>>^ Desde o monte calvo, que sobe a Seir, até Baal-Gade, no vale do Líbano, às raízes do monte de Hermom: também tomou todos os seus reis, e os feriu e os matou.
+
+[[v6-11-18]]
+
+^<<v6-11-18,18>>^ Por muitos dias Josué fez guerra contra todos estes reis.
+
+[[v6-11-19]]
+
+^<<v6-11-19,19>>^ Não houve cidade que fizesse paz com os filhos de Israel, senão os heveus, moradores de Gibeom: por guerra as tomaram todas.
+
+[[v6-11-20]]
+
+^<<v6-11-20,20>>^ Porquanto do Senhor vinha, que os seus corações endurecessem, para saírem ao encontro a Israel na guerra, para os destruir totalmente, para se não ter piedade deles; mas para os destruir a todos, como o Senhor tinha ordenado a Moisés.
+
+[[v6-11-21]]
+
+^<<v6-11-21,21>>^ Naquele tempo veio Josué, e extirpou os enaquins das montanhas de Hebrom, de Debir, de Anabe, e de todas as montanhas de Judá, e de todas as montanhas de Israel: Josué os destruiu totalmente com as suas cidades.
+
+[[v6-11-22]]
+
+^<<v6-11-22,22>>^ Nenhum dos enaquins ficou de resto na terra dos filhos de Israel: somente ficaram de resto em Gaza, em Gate, e em Asdote.
+
+[[v6-11-23]]
+
+^<<v6-11-23,23>>^ Assim, Josué tomou toda esta terra conforme a tudo o que o Senhor tinha dito a Moisés: e Josué a deu em herança aos filhos de Israel, conforme às suas divisões, conforme às suas tribos: e a terra repousou da guerra.
+
+'''
+
+xref:006-josue/006-josue-010.adoc#v6-10-0[&#60; Capítulo Anterior] | <<v6-11-0,Topo>> | xref:006-josue/006-josue-012.adoc#v6-12-0[Próximo Capítulo &#62;]

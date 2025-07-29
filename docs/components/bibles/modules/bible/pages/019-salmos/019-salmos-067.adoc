@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-67-0]]
+=== Salmos, 67
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-67-1]]
+
+^<<v19-67-1,1>>^ DEUS tenha misericórdia de nós e nos abençoe; e  faça resplandecer o seu rosto sobre nós. (Selá.)
+
+[[v19-67-2]]
+
+^<<v19-67-2,2>>^ Para que se conheça na terra o teu caminho, e  em todas as nações a tua salvação.
+
+[[v19-67-3]]
+
+^<<v19-67-3,3>>^ Louvem-te a ti , ó Deus, os povos; louvem-te os povos todos.
+
+[[v19-67-4]]
+
+^<<v19-67-4,4>>^ Alegrem-se e regozijem-se as nações, pois julgarás os povos com  equidade, e governarás as nações sobre a terra. (Selá.)
+
+[[v19-67-5]]
+
+^<<v19-67-5,5>>^ Louvem-te a ti , ó Deus, os povos, louvem-te os povos todos.
+
+[[v19-67-6]]
+
+^<<v19-67-6,6>>^ Então  a terra dará o seu fruto; e Deus, o nosso Deus, nos abençoará.
+
+[[v19-67-7]]
+
+^<<v19-67-7,7>>^ Deus nos abençoará, e todas as extremidades da terra o temerão.
+
+'''
+
+xref:019-salmos/019-salmos-066.adoc#v19-66-0[&#60; Capítulo Anterior] | <<v19-67-0,Topo>> | xref:019-salmos/019-salmos-068.adoc#v19-68-0[Próximo Capítulo &#62;]

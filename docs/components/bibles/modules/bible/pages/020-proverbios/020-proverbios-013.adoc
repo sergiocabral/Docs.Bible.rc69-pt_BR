@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v20-13-0]]
+=== Provérbios, 13
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-13-1]]
+
+^<<v20-13-1,1>>^ O FILHO sábio ouve  a correção do pai; mas o escarnecedor não ouve a repreensão.
+
+[[v20-13-2]]
+
+^<<v20-13-2,2>>^ Do fruto da boca cada um comerá o bem, mas a alma dos prevaricadores comerá  a violência.
+
+[[v20-13-3]]
+
+^<<v20-13-3,3>>^ O que guarda a sua boca conserva a sua alma, mas  o que muito abre os seus lábios tem perturbação.
+
+[[v20-13-4]]
+
+^<<v20-13-4,4>>^ A alma do preguiçoso deseja, e cousa nenhuma alcança ; mas a alma dos diligentes engorda.
+
+[[v20-13-5]]
+
+^<<v20-13-5,5>>^ O justo aborrece a palavra de mentira, mas o ímpio é abominável e se confunde.
+
+[[v20-13-6]]
+
+^<<v20-13-6,6>>^ A justiça guarda ao que é sincero no seu caminho, mas a impiedade transtornará o pecador.
+
+[[v20-13-7]]
+
+^<<v20-13-7,7>>^ Há quem se faça rico, não tendo cousa nenhuma, e  quem se faça pobre, tendo grande riqueza.
+
+[[v20-13-8]]
+
+^<<v20-13-8,8>>^ O resgate da vida de cada um são as suas riquezas, mas o pobre não ouve as ameaças.
+
+[[v20-13-9]]
+
+^<<v20-13-9,9>>^ A luz dos justos alegra, mas a candeia dos ímpios se apagará.
+
+[[v20-13-10]]
+
+^<<v20-13-10,10>>^ Da soberba só provém a contenda, mas com os que se aconselham se acha  a sabedoria.
+
+[[v20-13-11]]
+
+^<<v20-13-11,11>>^ A fazenda que procede  da vaidade diminuirá, mas quem a  ajunta pelo trabalho terá aumento.
+
+[[v20-13-12]]
+
+^<<v20-13-12,12>>^ A esperança demorada enfraquece o coração, mas o desejo chegado é árvore de vida.
+
+[[v20-13-13]]
+
+^<<v20-13-13,13>>^ O que despreza a palavra perecerá, mas o que teme o mandamento será galardoado.
+
+[[v20-13-14]]
+
+^<<v20-13-14,14>>^ A doutrina do sábio é uma  fonte de vida para desviar dos laços da morte.
+
+[[v20-13-15]]
+
+^<<v20-13-15,15>>^ O bom entendimento dá graça, mas o caminho dos prevaricadores é  áspero.
+
+[[v20-13-16]]
+
+^<<v20-13-16,16>>^ Todo o prudente obra com conhecimento, mas o tolo espraia a sua  loucura.
+
+[[v20-13-17]]
+
+^<<v20-13-17,17>>^ Um mau mensageiro cai no mal, mas o embaixador fiel é  saúde.
+
+[[v20-13-18]]
+
+^<<v20-13-18,18>>^ Pobreza e afronta virão  ao que rejeita a correção, mas o que guarda a repreensão será venerado.
+
+[[v20-13-19]]
+
+^<<v20-13-19,19>>^ O desejo que se cumpre deleita a alma, mas aparta-se do mal é  abominação para os loucos.
+
+[[v20-13-20]]
+
+^<<v20-13-20,20>>^ Anda com os sábios e serás sábio, mas o companheiro dos tolos será afligido.
+
+[[v20-13-21]]
+
+^<<v20-13-21,21>>^ O mal perseguirá aos pecadores, mas os justos serão galardoados com o bem.
+
+[[v20-13-22]]
+
+^<<v20-13-22,22>>^ O homem de bem deixa uma herança aos filhos de seus  filhos, mas a riqueza do pecador é depositada para o justo.
+
+[[v20-13-23]]
+
+^<<v20-13-23,23>>^ Abundância de mantimento há na lavoura do pobre, mas alguns  há que se consomem por falta de juízo.
+
+[[v20-13-24]]
+
+^<<v20-13-24,24>>^ O que retém a sua vara aborrece a seu filho, mas o que o ama a seu tempo o castiga.
+
+[[v20-13-25]]
+
+^<<v20-13-25,25>>^ O justo come até que a sua alma fique satisfeita, mas o ventre dos ímpios terá necessidade.
+
+'''
+
+xref:020-proverbios/020-proverbios-012.adoc#v20-12-0[&#60; Capítulo Anterior] | <<v20-13-0,Topo>> | xref:020-proverbios/020-proverbios-014.adoc#v20-14-0[Próximo Capítulo &#62;]

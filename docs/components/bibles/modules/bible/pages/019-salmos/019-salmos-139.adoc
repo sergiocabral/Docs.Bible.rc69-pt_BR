@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-139-0]]
+=== Salmos, 139
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-139-1]]
+
+^<<v19-139-1,1>>^ SENHOR, tu me sondaste, e me  conheces.
+
+[[v19-139-2]]
+
+^<<v19-139-2,2>>^ Tu conheces o meu assentar e o meu levantar: de longe entendes o meu pensamento.
+
+[[v19-139-3]]
+
+^<<v19-139-3,3>>^ Cercas o meu andar, e o meu deitar; e conheces todos os meus caminhos.
+
+[[v19-139-4]]
+
+^<<v19-139-4,4>>^ Sem que haja uma palavra na minha língua, eis que, ó Senhor, tudo conheces.
+
+[[v19-139-5]]
+
+^<<v19-139-5,5>>^ Tu me cercaste em volta; e puseste sobre mim a tua mão.
+
+[[v19-139-6]]
+
+^<<v19-139-6,6>>^ Tal  ciência é  para mim maravilhosíssima; tão  alta que  não a posso atingir.
+
+[[v19-139-7]]
+
+^<<v19-139-7,7>>^ Para onde me irei do teu Espírito, ou para onde fugirei da tua face?
+
+[[v19-139-8]]
+
+^<<v19-139-8,8>>^ Se subir ao céu, tu aí estás ; se fizer no Seol a minha cama, eis que tu ali estás também.
+
+[[v19-139-9]]
+
+^<<v19-139-9,9>>^ Se  tomar as asas da alva, se  habitar nas extremidades do mar.
+
+[[v19-139-10]]
+
+^<<v19-139-10,10>>^ Até ali a tua mão me guiará e a tua destra me susterá.
+
+[[v19-139-11]]
+
+^<<v19-139-11,11>>^ Se disser: Decerto que as trevas me encobrirão; então a noite será  luz à roda de mim.
+
+[[v19-139-12]]
+
+^<<v19-139-12,12>>^ Nem ainda as trevas me escondem de ti: mas a noite resplandece como o dia; as trevas e a luz são para ti  a mesma cousa.
+
+[[v19-139-13]]
+
+^<<v19-139-13,13>>^ Pois possuíste os meus rins; entreteceste-me no ventre de minha mãe.
+
+[[v19-139-14]]
+
+^<<v19-139-14,14>>^ Eu te louvarei, porque de um modo terrível, e tão maravilhoso fui formado; maravilhosas são  as tuas obras, e a minha alma o sabe muito bem.
+
+[[v19-139-15]]
+
+^<<v19-139-15,15>>^ Os meus ossos não te foram encobertos, quando no oculto fui formado, e  entretecido como nas profundezas da terra.
+
+[[v19-139-16]]
+
+^<<v19-139-16,16>>^ Os teus olhos viram o meu corpo  ainda informe, e no teu livro todas estas cousas foram escritas; as quais iam sendo dia a dia formadas, quando nem ainda uma delas havia.
+
+[[v19-139-17]]
+
+^<<v19-139-17,17>>^ E quão preciosos me são, ó Deus, os teus pensamentos! Quão grandes são as somas deles!
+
+[[v19-139-18]]
+
+^<<v19-139-18,18>>^ Se  as contasse, seriam em maior número do que a areia: quando  acordo ainda estou contigo.
+
+[[v19-139-19]]
+
+^<<v19-139-19,19>>^ Ó Deus! tu matarás decerto o ímpio: apartai-vos portanto de mim, homens de sangue.
+
+[[v19-139-20]]
+
+^<<v19-139-20,20>>^ Pois falam malvadamente contra ti; e  os teus inimigos tomam o teu nome  em vão.
+
+[[v19-139-21]]
+
+^<<v19-139-21,21>>^ Não aborreço eu, ó Senhor, aqueles que te aborrecem, e não me aflijo por causa dos que se levantam contra ti?
+
+[[v19-139-22]]
+
+^<<v19-139-22,22>>^ Aborreço-os com ódio completo: tenho-os por inimigos.
+
+[[v19-139-23]]
+
+^<<v19-139-23,23>>^ Sonda-me, ó Deus, e conhece o meu coração: prova-me, e conhece os meus pensamentos.
+
+[[v19-139-24]]
+
+^<<v19-139-24,24>>^ E vê se há  em mim algum caminho mau, e guia-me pelo caminho eterno.
+
+'''
+
+xref:019-salmos/019-salmos-138.adoc#v19-138-0[&#60; Capítulo Anterior] | <<v19-139-0,Topo>> | xref:019-salmos/019-salmos-140.adoc#v19-140-0[Próximo Capítulo &#62;]

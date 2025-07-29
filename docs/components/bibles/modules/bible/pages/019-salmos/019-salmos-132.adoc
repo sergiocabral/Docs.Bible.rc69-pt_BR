@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-132-0]]
+=== Salmos, 132
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-132-1]]
+
+^<<v19-132-1,1>>^ LEMBRA-TE, Senhor, de Davi, e  de todas as suas aflições.
+
+[[v19-132-2]]
+
+^<<v19-132-2,2>>^ Como jurou ao Senhor, e  fez votos ao Poderoso de Jacó, dizendo :
+
+[[v19-132-3]]
+
+^<<v19-132-3,3>>^ Certamente que não entrarei na tenda em que habito, nem subirei ao leito em que durmo,
+
+[[v19-132-4]]
+
+^<<v19-132-4,4>>^ Não darei sono aos meus olhos, nem  repouso às minhas pálpebras,
+
+[[v19-132-5]]
+
+^<<v19-132-5,5>>^ Enquanto não achar lugar para o Senhor, uma morada para o Poderoso de Jacó.
+
+[[v19-132-6]]
+
+^<<v19-132-6,6>>^ Eis que ouvimos falar da arca em Efrata, e a achamos no campo do bosque.
+
+[[v19-132-7]]
+
+^<<v19-132-7,7>>^ Entraremos nos seus tabernáculos: prostrar-nos-emos ante o escabelo de seus pés.
+
+[[v19-132-8]]
+
+^<<v19-132-8,8>>^ Levanta-te, Senhor, no teu repouso, tu e a arca da tua força.
+
+[[v19-132-9]]
+
+^<<v19-132-9,9>>^ Vistam-se os teus sacerdotes de justiça, e alegrem-se os teus santos.
+
+[[v19-132-10]]
+
+^<<v19-132-10,10>>^ Por amor de Davi, teu servo, não faças virar o rosto do teu ungido.
+
+[[v19-132-11]]
+
+^<<v19-132-11,11>>^ O Senhor jurou a Davi com verdade, e não se desviará dela : Do fruto do teu ventre porei sobre o teu trono.
+
+[[v19-132-12]]
+
+^<<v19-132-12,12>>^ Se os teus filhos guardarem o meu concerto, e os meus testemunhos, que eu lhes hei de ensinar, também os seus filhos se assentarão perpetuamente no teu trono.
+
+[[v19-132-13]]
+
+^<<v19-132-13,13>>^ Porque o Senhor elegeu a Sião; desejou-a para sua habitação, dizendo :
+
+[[v19-132-14]]
+
+^<<v19-132-14,14>>^ Este é  o meu repouso para sempre: aqui habitarei, pois o desejei.
+
+[[v19-132-15]]
+
+^<<v19-132-15,15>>^ Abençoarei abundantemente o seu mantimento; fartarei de pão os seus necessitados.
+
+[[v19-132-16]]
+
+^<<v19-132-16,16>>^ Vestirei de salvação os seus sacerdotes, e os seus santos rejubilarão.
+
+[[v19-132-17]]
+
+^<<v19-132-17,17>>^ Ali farei brotar a força de Davi: preparei uma lâmpada para o meu ungido.
+
+[[v19-132-18]]
+
+^<<v19-132-18,18>>^ Vestirei os seus inimigos de confusão; mas sobre ele florescerá a sua coroa.
+
+'''
+
+xref:019-salmos/019-salmos-131.adoc#v19-131-0[&#60; Capítulo Anterior] | <<v19-132-0,Topo>> | xref:019-salmos/019-salmos-133.adoc#v19-133-0[Próximo Capítulo &#62;]

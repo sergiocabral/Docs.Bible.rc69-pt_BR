@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-6-0]]
+=== Salmos, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-6-1]]
+
+^<<v19-6-1,1>>^ SENHOR, não me repreendas na tua ira, nem me castigues no teu furor.
+
+[[v19-6-2]]
+
+^<<v19-6-2,2>>^ Tem misericórdia de mim, Senhor, porque sou  fraco; sara-me, Senhor, porque os meus ossos estão perturbados.
+
+[[v19-6-3]]
+
+^<<v19-6-3,3>>^ Até a minha alma está perturbada; mas tu, Senhor, até quando?
+
+[[v19-6-4]]
+
+^<<v19-6-4,4>>^ Volta-te, Senhor, livra a minha alma; salva-me por tua benignidade.
+
+[[v19-6-5]]
+
+^<<v19-6-5,5>>^ Porque na morte não há  lembrança de ti; no sepulcro quem te louvará?
+
+[[v19-6-6]]
+
+^<<v19-6-6,6>>^ Já  estou cansado do meu gemido; toda a noite faço nadar a minha cama: molho o meu leito com as minhas lágrimas.
+
+[[v19-6-7]]
+
+^<<v19-6-7,7>>^ Já  os meus olhos estão consumidos pela mágoa, e  têm envelhecido por causa de todos os meus inimigos.
+
+[[v19-6-8]]
+
+^<<v19-6-8,8>>^ Apartai-vos de mim todos os que praticais a iniquidade; porque o Senhor já ouviu a voz do meu lamento.
+
+[[v19-6-9]]
+
+^<<v19-6-9,9>>^ O Senhor já ouviu a minha súplica; o Senhor aceitará a minha oração.
+
+[[v19-6-10]]
+
+^<<v19-6-10,10>>^ Envergonhem-se e perturbem-se todos os meus inimigos; tornem atrás e envergonhem-se num momento.
+
+'''
+
+xref:019-salmos/019-salmos-005.adoc#v19-5-0[&#60; Capítulo Anterior] | <<v19-6-0,Topo>> | xref:019-salmos/019-salmos-007.adoc#v19-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v20-5-0]]
+=== Provérbios, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-5-1]]
+
+^<<v20-5-1,1>>^ FILHO meu, atende à minha sabedoria: à minha razão inclina o teu ouvido:
+
+[[v20-5-2]]
+
+^<<v20-5-2,2>>^ Para que conserves os meus avisos e os teus lábios guardem o conhecimento.
+
+[[v20-5-3]]
+
+^<<v20-5-3,3>>^ Porque os lábios da mulher estranha destilam favos de mel, e o seu paladar é  mais macio do que o azeite;
+
+[[v20-5-4]]
+
+^<<v20-5-4,4>>^ Mas o seu fim é amargoso como o absinto, agudo como a espada de dois fios.
+
+[[v20-5-5]]
+
+^<<v20-5-5,5>>^ Os seus pés descem à morte: os seus passos firmam-se no inferno.
+
+[[v20-5-6]]
+
+^<<v20-5-6,6>>^ Ela não pondera a vereda da vida; as suas carreiras são variáveis, e não as conhece.
+
+[[v20-5-7]]
+
+^<<v20-5-7,7>>^ Agora, pois, filhos, dai-me ouvidos, e não vos desvieis das palavras da minha boca.
+
+[[v20-5-8]]
+
+^<<v20-5-8,8>>^ Afasta dela o teu caminho, e não te aproximes da porta da sua casa;
+
+[[v20-5-9]]
+
+^<<v20-5-9,9>>^ Para que não dês a outros a tua honra, nem os teus anos a cruéis.
+
+[[v20-5-10]]
+
+^<<v20-5-10,10>>^ Para que não se fartem os estranhos do teu poder e todos  os teus trabalhos entrem  na casa do estrangeiro,
+
+[[v20-5-11]]
+
+^<<v20-5-11,11>>^ E gemas no teu fim, quando se consumirem a tua carne e o teu corpo.
+
+[[v20-5-12]]
+
+^<<v20-5-12,12>>^ E digas: Como aborreci a correção! e desprezou o meu coração a repreensão!
+
+[[v20-5-13]]
+
+^<<v20-5-13,13>>^ E não escutei a voz dos meus ensinadores, nem a meus mestres inclinei o meu ouvido!
+
+[[v20-5-14]]
+
+^<<v20-5-14,14>>^ Quase que em todo o mal me achei no meio da congregação e do ajuntamento.
+
+[[v20-5-15]]
+
+^<<v20-5-15,15>>^ Bebe a água da tua cisterna, e das correntes do teu poço.
+
+[[v20-5-16]]
+
+^<<v20-5-16,16>>^ Derramar-se-iam por fora as tuas fontes, e  pelas ruas os ribeiros de águas?
+
+[[v20-5-17]]
+
+^<<v20-5-17,17>>^ Sejam para ti só, e não para os estranhos contigo.
+
+[[v20-5-18]]
+
+^<<v20-5-18,18>>^ Seja bendito o teu manancial, e alegra-te com a mulher da tua mocidade.
+
+[[v20-5-19]]
+
+^<<v20-5-19,19>>^ Como cerva amorosa, e gazela graciosa, saciem-te os seus seios em todo o tempo: e pelo seu amor sê atraído perpetuamente.
+
+[[v20-5-20]]
+
+^<<v20-5-20,20>>^ E por que, filho meu, andarias atraído pela estranha, e abraçarias o seio da estrangeira?
+
+[[v20-5-21]]
+
+^<<v20-5-21,21>>^ Porque os caminhos do homem estão  perante os olhos do Senhor, e ele  aplana todas as suas carreiras.
+
+[[v20-5-22]]
+
+^<<v20-5-22,22>>^ Quanto ao ímpio, as suas iniquidades o prenderão, e com as cordas do seu pecado será detido.
+
+[[v20-5-23]]
+
+^<<v20-5-23,23>>^ Ele morrerá, porque sem correção andou, e pelo excesso da sua loucura andará errado.
+
+'''
+
+xref:020-proverbios/020-proverbios-004.adoc#v20-4-0[&#60; Capítulo Anterior] | <<v20-5-0,Topo>> | xref:020-proverbios/020-proverbios-006.adoc#v20-6-0[Próximo Capítulo &#62;]

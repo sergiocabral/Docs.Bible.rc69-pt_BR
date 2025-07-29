@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v50-4-0]]
+=== Filipenses, 4
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v50-4-1]]
+
+^<<v50-4-1,1>>^ PORTANTO, meus amados e mui queridos irmãos, minha alegria e coroa, estai assim firmes no Senhor, amados.
+
+[[v50-4-2]]
+
+^<<v50-4-2,2>>^ Rogo a Evódia, e rogo a Síntique, que sintam o mesmo no Senhor.
+
+[[v50-4-3]]
+
+^<<v50-4-3,3>>^ E peço-te também a ti, meu  verdadeiro companheiro, que ajudes essas mulheres  que trabalharam comigo no evangelho, e com Clemente, e com os outros cooperadores, cujos nomes estão no livro da vida.
+
+[[v50-4-4]]
+
+^<<v50-4-4,4>>^ Regozijai-vos sempre no Senhor; outra vez digo, regozijai-vos.
+
+[[v50-4-5]]
+
+^<<v50-4-5,5>>^ Seja a vossa equidade notória a todos os homens. Perto está  o Senhor.
+
+[[v50-4-6]]
+
+^<<v50-4-6,6>>^ Não estejais inquietos por coisa alguma: antes as vossas petições sejam em tudo conhecidas diante de Deus pela oração e súplicas, com ação de graças.
+
+[[v50-4-7]]
+
+^<<v50-4-7,7>>^ E a paz de Deus, que excede todo o entendimento, guardará os vossos corações e os vossos sentimentos em Cristo Jesus.
+
+[[v50-4-8]]
+
+^<<v50-4-8,8>>^ Quanto ao mais, irmãos, tudo o que é verdadeiro, tudo o que é  honesto, tudo o que é  justo, tudo o que é  puro, tudo o que é  amável, tudo o que é  de boa fama, se há  alguma virtude, e se há algum louvor, nisso pensai.
+
+[[v50-4-9]]
+
+^<<v50-4-9,9>>^ O que também aprendestes, e recebestes, e ouvistes, e vistes em mim, isso fazei; e o Deus de paz será convosco.
+
+[[v50-4-10]]
+
+^<<v50-4-10,10>>^ Ora muito me regozijei no Senhor por finalmente reviver a vossa lembrança de mim; pois já vos tínheis lembrado, mas não tínheis tido oportunidade.
+
+[[v50-4-11]]
+
+^<<v50-4-11,11>>^ Não digo isto como por necessidade, porque já  aprendi a contentar-me com o que tenho.
+
+[[v50-4-12]]
+
+^<<v50-4-12,12>>^ Sei estar abatido, e  sei também ter abundância: em toda a maneira, e em todas as coisas estou instruído, tanto a ter fartura, como a ter fome, tanto a ter abundância como a padecer necessidade.
+
+[[v50-4-13]]
+
+^<<v50-4-13,13>>^ Posso todas as coisas  naquele que me fortalece.
+
+[[v50-4-14]]
+
+^<<v50-4-14,14>>^ Todavia fizestes bem em tomar parte na minha aflição.
+
+[[v50-4-15]]
+
+^<<v50-4-15,15>>^ E bem sabeis também vós, ó filipenses, que, no princípio do evangelho, quando parti da Macedônia, nenhuma igreja comunicou comigo com respeito a dar e a receber, senão vós somente.
+
+[[v50-4-16]]
+
+^<<v50-4-16,16>>^ Porque também uma e outra vez me mandastes o necessário a Tessalônica.
+
+[[v50-4-17]]
+
+^<<v50-4-17,17>>^ Não que procure dádivas, mas procuro o fruto que abunde para a vossa conta.
+
+[[v50-4-18]]
+
+^<<v50-4-18,18>>^ Mas bastante tenho recebido, e tenho abundância: cheio estou, depois que recebi de Epafrodito o que da vossa parte me foi enviado, como cheiro de suavidade e sacrifício agradável e aprazível a Deus.
+
+[[v50-4-19]]
+
+^<<v50-4-19,19>>^ O meu Deus, segundo as suas riquezas, suprirá todas as vossas necessidades em glória, por Cristo Jesus.
+
+[[v50-4-20]]
+
+^<<v50-4-20,20>>^ Ora a nosso Deus e Pai seja dada glória para todo o sempre. Amém.
+
+[[v50-4-21]]
+
+^<<v50-4-21,21>>^ Saudai a todos os santos em Cristo Jesus. Os irmãos que estão comigo vos saúdam.
+
+[[v50-4-22]]
+
+^<<v50-4-22,22>>^ Todos os santos vos saúdam, mas principalmente os que são da casa de César.
+
+[[v50-4-23]]
+
+^<<v50-4-23,23>>^ A graça de nosso Senhor Jesus Cristo seja  com vós todos. Amém.
+
+'''
+
+xref:050-filipenses/050-filipenses-003.adoc#v50-3-0[&#60; Capítulo Anterior] | <<v50-4-0,Topo>> | xref:051-colossenses/051-colossenses-001.adoc#v51-1-0[Próximo Capítulo &#62;]

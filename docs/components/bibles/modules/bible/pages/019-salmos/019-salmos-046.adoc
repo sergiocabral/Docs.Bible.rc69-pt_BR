@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-46-0]]
+=== Salmos, 46
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-46-1]]
+
+^<<v19-46-1,1>>^ DEUS é  o nosso refúgio e fortaleza, socorro bem-presente na angústia.
+
+[[v19-46-2]]
+
+^<<v19-46-2,2>>^ Pelo que não temeremos, ainda que a terra se mude, e ainda que os montes se transportem para o meio dos mares.
+
+[[v19-46-3]]
+
+^<<v19-46-3,3>>^ Ainda que  as águas rujam e  se perturbem, ainda que  os montes se abalem pela sua braveza. (Selá.)
+
+[[v19-46-4]]
+
+^<<v19-46-4,4>>^ Há  um rio cujas correntes alegram a cidade de Deus, o santuário das moradas do Altíssimo.
+
+[[v19-46-5]]
+
+^<<v19-46-5,5>>^ Deus está  no meio dela; não será abalada: Deus a ajudará ao romper da manhã.
+
+[[v19-46-6]]
+
+^<<v19-46-6,6>>^ As nações se embraveceram; os reinos se moveram; ele levantou a sua voz e a terra se derreteu.
+
+[[v19-46-7]]
+
+^<<v19-46-7,7>>^ O Senhor dos Exércitos está  conosco: o Deus de Jacó é  o nosso refúgio. (Selá.)
+
+[[v19-46-8]]
+
+^<<v19-46-8,8>>^ Vinde, contemplai as obras do Senhor; que desolações tem feito na terra!
+
+[[v19-46-9]]
+
+^<<v19-46-9,9>>^ Ele faz cessar as guerras até ao fim da terra: quebra o arco e corta a lança: queima os carros no fogo.
+
+[[v19-46-10]]
+
+^<<v19-46-10,10>>^ Aquietai-vos, e sabei que eu sou Deus; serei exaltado entre as nações; serei exaltado sobre a terra.
+
+[[v19-46-11]]
+
+^<<v19-46-11,11>>^ O Senhor dos Exércitos está  conosco: o Deus de Jacó é  o nosso refúgio. (Selá.)
+
+'''
+
+xref:019-salmos/019-salmos-045.adoc#v19-45-0[&#60; Capítulo Anterior] | <<v19-46-0,Topo>> | xref:019-salmos/019-salmos-047.adoc#v19-47-0[Próximo Capítulo &#62;]

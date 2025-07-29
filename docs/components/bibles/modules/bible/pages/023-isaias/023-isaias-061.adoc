@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v23-61-0]]
+=== Isaías, 61
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-61-1]]
+
+^<<v23-61-1,1>>^ O ESPÍRITO do Senhor Jeová está  sobre mim; porque o Senhor me ungiu, para pregar boas novas aos mansos: enviou-me a restaurar os contritos de coração, a proclamar liberdade aos cativos, e a abertura de prisão aos presos;
+
+[[v23-61-2]]
+
+^<<v23-61-2,2>>^ A apregoar o ano aceitável do Senhor e o dia da vingança do nosso Deus; a consolar todos os tristes;
+
+[[v23-61-3]]
+
+^<<v23-61-3,3>>^ A ordenar acerca dos tristes de Sião que se lhes dê ornamento por cinza, óleo de gozo por tristeza, vestido de louvor por espírito angustiado; a fim de que se chamem árvores de justiça, plantação do Senhor, para que ele seja glorificado.
+
+[[v23-61-4]]
+
+^<<v23-61-4,4>>^ E edificarão os lugares antigamente assolados e  restaurarão os de antes destruídos, e renovarão as cidades assoladas, destruídas de geração em geração.
+
+[[v23-61-5]]
+
+^<<v23-61-5,5>>^ E haverá estrangeiros, que apascentarão os vossos rebanhos: e estranhos serão  os vossos lavradores e os vossos vinheiros.
+
+[[v23-61-6]]
+
+^<<v23-61-6,6>>^ Mas vós sereis chamados sacerdotes do Senhor, e vos chamarão ministros de nosso Deus: comereis a abundância das nações, e na sua glória vos gloriareis.
+
+[[v23-61-7]]
+
+^<<v23-61-7,7>>^ Por vossa dupla vergonha, e afronta, exultarão pela sua parte; pelo que na sua terra possuirão o dobro, e  terão perpétua alegria.
+
+[[v23-61-8]]
+
+^<<v23-61-8,8>>^ Porque eu, o Senhor, amo o juízo, aborreço a iniquidade; eu lhes darei sua recompensa em verdade, e farei um  concerto eterno com eles.
+
+[[v23-61-9]]
+
+^<<v23-61-9,9>>^ E a sua posteridade será conhecida entre as nações, e os seus descendentes no meio dos povos; todos quantos os virem os conhecerão como semente bendita do Senhor.
+
+[[v23-61-10]]
+
+^<<v23-61-10,10>>^ Regozijar-me-ei muito no Senhor, a minha alma se alegrara no meu Deus: porque me vestiu de vestidos de salvação, me cobriu com o manto de justiça, como um noivo que se adorna com atavios, e como noiva que se enfeita com as suas joias.
+
+[[v23-61-11]]
+
+^<<v23-61-11,11>>^ Porque, como a terra produz os seus renovos, e como o horto faz brotar o que nele se semeia, assim o Senhor Jeová  fará brotar a justiça e o louvor para todas as nações.
+
+'''
+
+xref:023-isaias/023-isaias-060.adoc#v23-60-0[&#60; Capítulo Anterior] | <<v23-61-0,Topo>> | xref:023-isaias/023-isaias-062.adoc#v23-62-0[Próximo Capítulo &#62;]

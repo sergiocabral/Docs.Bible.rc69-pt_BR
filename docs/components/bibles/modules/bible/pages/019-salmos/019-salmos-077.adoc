@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v19-77-0]]
+=== Salmos, 77
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-77-1]]
+
+^<<v19-77-1,1>>^ CLAMEI ao Senhor com  a minha voz: a Deus levantei  a minha voz, e ele inclinou para mim os ouvidos.
+
+[[v19-77-2]]
+
+^<<v19-77-2,2>>^ No dia da minha angústia busquei ao Senhor: a minha mão se estendeu de noite, e não cessava; a minha alma recusava ser consolada.
+
+[[v19-77-3]]
+
+^<<v19-77-3,3>>^ Lembrava-me de Deus, e me perturbei: queixava-me, e o meu espírito desfalecia. (Selá.)
+
+[[v19-77-4]]
+
+^<<v19-77-4,4>>^ Sustentaste os meus olhos vigilantes: estou tão perturbado que não posso falar.
+
+[[v19-77-5]]
+
+^<<v19-77-5,5>>^ Considerava os dias da antiguidade, os anos dos tempos passados.
+
+[[v19-77-6]]
+
+^<<v19-77-6,6>>^ De noite chamei à lembrança o meu cântico: meditei em meu coração, e o meu espírito investigou:
+
+[[v19-77-7]]
+
+^<<v19-77-7,7>>^ Rejeitará o Senhor para sempre e não tornará a ser favorável?
+
+[[v19-77-8]]
+
+^<<v19-77-8,8>>^ Cessou para sempre a sua benignidade? acabou-se já  a promessa que veio de geração em geração?
+
+[[v19-77-9]]
+
+^<<v19-77-9,9>>^ Esqueceu-se Deus de ter misericórdia? ou encerrou ele as suas misericórdias na sua ira? (Selá.)
+
+[[v19-77-10]]
+
+^<<v19-77-10,10>>^ E eu disse: Isto é enfermidade minha; e logo me lembrei  dos anos da destra do Altíssimo.
+
+[[v19-77-11]]
+
+^<<v19-77-11,11>>^ Lembrar-me-ei, pois, das obras do Senhor: certamente que me lembrarei das tuas maravilhas da antiguidade.
+
+[[v19-77-12]]
+
+^<<v19-77-12,12>>^ Meditarei também em todas as tuas obras, e falarei dos teus feitos.
+
+[[v19-77-13]]
+
+^<<v19-77-13,13>>^ O teu caminho, ó Deus, está  no santuário. Que Deus é tão  grande como o nosso  Deus?
+
+[[v19-77-14]]
+
+^<<v19-77-14,14>>^ Tu és o Deus que fazes maravilhas: tu fizeste notória a tua força entre os povos.
+
+[[v19-77-15]]
+
+^<<v19-77-15,15>>^ Com o teu  braço remiste o teu povo, os filhos de Jacó e de José. (Selá.)
+
+[[v19-77-16]]
+
+^<<v19-77-16,16>>^ As águas te viram, ó Deus, as águas te viram, e  tremeram; os abismos também se abalaram.
+
+[[v19-77-17]]
+
+^<<v19-77-17,17>>^ Grossas nuvens se desfizeram em água; os céus retumbaram: as tuas frechas correram duma para outra parte.
+
+[[v19-77-18]]
+
+^<<v19-77-18,18>>^ A voz do teu trovão repercutiu-se nos ares; os relâmpagos alumiaram o mundo; a terra se abalou e tremeu.
+
+[[v19-77-19]]
+
+^<<v19-77-19,19>>^ Pelo mar foi teu caminho, e tuas veredas pelas grandes águas; e as tuas pegadas não se conheceram.
+
+[[v19-77-20]]
+
+^<<v19-77-20,20>>^ Guiaste o teu povo, como a um rebanho, pela mão de Moisés e de Aarão.
+
+'''
+
+xref:019-salmos/019-salmos-076.adoc#v19-76-0[&#60; Capítulo Anterior] | <<v19-77-0,Topo>> | xref:019-salmos/019-salmos-078.adoc#v19-78-0[Próximo Capítulo &#62;]

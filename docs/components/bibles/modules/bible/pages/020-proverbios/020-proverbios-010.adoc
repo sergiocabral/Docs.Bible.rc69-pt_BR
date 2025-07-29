@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v20-10-0]]
+=== Provérbios, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-10-1]]
+
+^<<v20-10-1,1>>^ PROVÉRBIOS de Salomão. O filho sábio alegra a seu pai, mas o filho louco é  a tristeza de sua mãe.
+
+[[v20-10-2]]
+
+^<<v20-10-2,2>>^ Os tesouros da impiedade de nada aproveitam; mas a justiça livra da morte.
+
+[[v20-10-3]]
+
+^<<v20-10-3,3>>^ O Senhor não deixa ter fome a alma do justo, mas o desejo dos ímpios rechaça.
+
+[[v20-10-4]]
+
+^<<v20-10-4,4>>^ O que trabalha com mão enganosa empobrece, mas a mão dos diligentes enriquece.
+
+[[v20-10-5]]
+
+^<<v20-10-5,5>>^ O que ajunta no verão é  filho entendido, mas  o que dorme na sega é  filho que envergonha.
+
+[[v20-10-6]]
+
+^<<v20-10-6,6>>^ Bênçãos há  sobre a cabeça do justo, mas a violência cobre a boca dos ímpios.
+
+[[v20-10-7]]
+
+^<<v20-10-7,7>>^ A memória do justo é abençoada, mas o nome dos ímpios apodrecerá.
+
+[[v20-10-8]]
+
+^<<v20-10-8,8>>^ O sábio de coração aceita os mandamentos, mas o louco palrador será transtornado.
+
+[[v20-10-9]]
+
+^<<v20-10-9,9>>^ Quem anda em sinceridade, anda seguro; mas o que perverte os seus caminhos será conhecido.
+
+[[v20-10-10]]
+
+^<<v20-10-10,10>>^ O que acena com os olhos dá dores, e o tolo de lábios será transtornado.
+
+[[v20-10-11]]
+
+^<<v20-10-11,11>>^ A boca do justo é manancial de vida, mas a violência cobre a boca dos ímpios.
+
+[[v20-10-12]]
+
+^<<v20-10-12,12>>^ O ódio excita contendas, mas o amor cobre todas as transgressões.
+
+[[v20-10-13]]
+
+^<<v20-10-13,13>>^ Nos lábios do entendido se acha a sabedoria, mas a vara é para as costas do falto de entendimento.
+
+[[v20-10-14]]
+
+^<<v20-10-14,14>>^ Os sábios escondem a sabedoria; mas a boca do tolo é uma destruição.
+
+[[v20-10-15]]
+
+^<<v20-10-15,15>>^ A fazenda do rico é  a cidade da sua fortaleza: a destruição dos pobres é  a sua pobreza.
+
+[[v20-10-16]]
+
+^<<v20-10-16,16>>^ A obra do justo conduz  à vida, as produções do ímpio ao pecado.
+
+[[v20-10-17]]
+
+^<<v20-10-17,17>>^ O caminho para a vida é  daquele que guarda a correção, mas o que abandona a repreensão erra.
+
+[[v20-10-18]]
+
+^<<v20-10-18,18>>^ O que encobre o ódio tem  lábios falsos, e o que difama é um  insensato.
+
+[[v20-10-19]]
+
+^<<v20-10-19,19>>^ Na multidão de palavras não falta transgressão, mas o que modera os seus lábios é  prudente.
+
+[[v20-10-20]]
+
+^<<v20-10-20,20>>^ Prata escolhida é  a língua do justo: o coração dos ímpios é  de nenhum preço.
+
+[[v20-10-21]]
+
+^<<v20-10-21,21>>^ Os lábios do justo apascentam a muitos, mas os tolos, por falta de entendimento, morrem.
+
+[[v20-10-22]]
+
+^<<v20-10-22,22>>^ A bênção do Senhor é que enriquece; e não acrescenta dores.
+
+[[v20-10-23]]
+
+^<<v20-10-23,23>>^ Um divertimento é  para o tolo praticar a iniquidade; para o homem entendido o mesmo é o ser sábio.
+
+[[v20-10-24]]
+
+^<<v20-10-24,24>>^ O temor do ímpio virá sobre ele, mas o desejo dos justos Deus  o cumprirá.
+
+[[v20-10-25]]
+
+^<<v20-10-25,25>>^ Como a tempestade, assim passa o ímpio, mas o justo tem  perpétuo fundamento.
+
+[[v20-10-26]]
+
+^<<v20-10-26,26>>^ Como vinagre para os dentes, como fumo para os olhos, assim é o preguiçoso para aqueles que o mandam.
+
+[[v20-10-27]]
+
+^<<v20-10-27,27>>^ O temor do Senhor aumenta os dias, mas os anos dos ímpios serão abreviados.
+
+[[v20-10-28]]
+
+^<<v20-10-28,28>>^ A esperança dos justos é  alegria, mas a expectação dos ímpios perecerá.
+
+[[v20-10-29]]
+
+^<<v20-10-29,29>>^ O caminho do Senhor é  fortaleza para os retos, mas ruína virá aos que praticam a iniquidade.
+
+[[v20-10-30]]
+
+^<<v20-10-30,30>>^ O justo nunca será abalado, mas os ímpios não habitarão a terra.
+
+[[v20-10-31]]
+
+^<<v20-10-31,31>>^ A boca do justo produz sabedoria em abundância, mas a língua da perversidade será desarraigada.
+
+[[v20-10-32]]
+
+^<<v20-10-32,32>>^ Os lábios do justo sabem o que agrada, mas a boca dos ímpios anda cheia de  perversidades.
+
+'''
+
+xref:020-proverbios/020-proverbios-009.adoc#v20-9-0[&#60; Capítulo Anterior] | <<v20-10-0,Topo>> | xref:020-proverbios/020-proverbios-011.adoc#v20-11-0[Próximo Capítulo &#62;]

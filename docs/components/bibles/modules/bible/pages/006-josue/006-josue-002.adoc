@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v6-2-0]]
+=== Josué, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-2-1]]
+
+^<<v6-2-1,1>>^ E ENVIOU Josué, filho de Num, dois homens desde Sitim a espiar secretamente, dizendo: Andai e observai a terra, e a Jericó. Foram pois, e entraram na casa duma mulher prostituta, cujo nome era Raabe, e dormiram ali.
+
+[[v6-2-2]]
+
+^<<v6-2-2,2>>^ Então deu-se notícia ao rei de Jericó, dizendo: Eis que esta noite vieram aqui uns  homens dos filhos de Israel, para espiar a terra.
+
+[[v6-2-3]]
+
+^<<v6-2-3,3>>^ Pelo que enviou o rei de Jericó a Raabe, dizendo: Tira fora os homens que vieram a ti, e entraram na tua casa, porque vieram espiar toda a terra.
+
+[[v6-2-4]]
+
+^<<v6-2-4,4>>^ Porém aquela mulher tomou a ambos aqueles homens, e os escondeu, e disse: É  verdade que  vieram homens a mim, porém eu não sabia donde eram.
+
+[[v6-2-5]]
+
+^<<v6-2-5,5>>^ E aconteceu que, havendo-se  de fechar a porta, sendo já escuro, aqueles homens saíram; não sei para onde aqueles homens se foram: ide após deles depressa, porque vós os alcançareis.
+
+[[v6-2-6]]
+
+^<<v6-2-6,6>>^ Porém ela os tinha feito subir ao telhado, e os tinha escondido entre as canas do linho, que pusera em ordem sobre o telhado.
+
+[[v6-2-7]]
+
+^<<v6-2-7,7>>^ E foram-se aqueles homens após deles, pelo caminho do Jordão, até aos vaus: e fechou-se a porta, havendo saído os que iam após deles.
+
+[[v6-2-8]]
+
+^<<v6-2-8,8>>^ E, antes que eles dormissem, ela subiu a eles sobre o telhado;
+
+[[v6-2-9]]
+
+^<<v6-2-9,9>>^ E disse aos homens: Bem sei que o Senhor vos deu esta terra, e que o pavor de vós caiu sobre nós, e que todos os moradores da terra estão desmaiados diante de vós.
+
+[[v6-2-10]]
+
+^<<v6-2-10,10>>^ Porque temos ouvido que o Senhor secou as águas do Mar Vermelho diante de vós, quando saíeis do Egito, e o que fizestes aos dois reis dos amorreus, a Seom e a Ogue, que estavam  dalém do Jordão, os quais destruístes.
+
+[[v6-2-11]]
+
+^<<v6-2-11,11>>^ Ouvindo isto, desmaiou o nosso coração, e em ninguém mais há ânimo algum, por causa da vossa presença: porque o Senhor vosso Deus é Deus em cima nos céus e em baixo na terra.
+
+[[v6-2-12]]
+
+^<<v6-2-12,12>>^ Agora pois, jurai-me, vos peço, pelo Senhor, pois que vos fiz beneficência, que vós também fareis beneficência à casa de meu pai, e dai-me um sinal certo.
+
+[[v6-2-13]]
+
+^<<v6-2-13,13>>^ De que dareis a vida a meu pai e a minha mãe, como também a meus irmãos e a minhas irmãs, com tudo o que têm, e de que livrareis as nossas vidas da morte.
+
+[[v6-2-14]]
+
+^<<v6-2-14,14>>^ Então aqueles homens responderam-lhe: A nossa vida responderá  pela vossa até ao ponto de  morrer, se não denunciardes este nosso negócio, e será pois  que, dando-nos o Senhor esta terra, usaremos contigo de beneficência e de fidelidade.
+
+[[v6-2-15]]
+
+^<<v6-2-15,15>>^ Ela então os fez descer por uma corda pela janela, porquanto a sua casa estava  sobre o muro da cidade, e ela morava sobre o muro.
+
+[[v6-2-16]]
+
+^<<v6-2-16,16>>^ E disse-lhes: Ide-vos ao monte, para que, porventura, vos não encontrem os perseguidores, e escondei-vos lá três dias, até que voltem os perseguidores, e depois ide pelo  vosso caminho.
+
+[[v6-2-17]]
+
+^<<v6-2-17,17>>^ E disseram-lhe aqueles homens: Desobrigados seremos  deste teu juramento que nos fizeste jurar.
+
+[[v6-2-18]]
+
+^<<v6-2-18,18>>^ Eis que, vindo nós à terra, atarás este cordão de fio de escarlata à janela por onde nos fizeste descer; e recolherás em casa contigo a teu pai, e a tua mãe, e a teus irmãos e a toda a família de teu pai.
+
+[[v6-2-19]]
+
+^<<v6-2-19,19>>^ Será pois que  qualquer que sair fora da porta da tua casa o seu sangue será  sobre a sua cabeça, e nós seremos  sem culpa; mas qualquer que estiver contigo em casa o seu sangue seja  sobre a nossa cabeça, se nele se puser mão.
+
+[[v6-2-20]]
+
+^<<v6-2-20,20>>^ Porém, se tu denunciares este nosso negócio, seremos desobrigados do teu juramento, que nos fizeste jurar.
+
+[[v6-2-21]]
+
+^<<v6-2-21,21>>^ E ela disse: Conforme às vossas palavras, assim seja.  Então os despediu; e eles se foram; e ela atou o cordão de escarlata à janela.
+
+[[v6-2-22]]
+
+^<<v6-2-22,22>>^ Foram-se pois, e chegaram ao monte, e ficaram ali três dias, até que voltaram os perseguidores, porque os  perseguidores os buscaram por todo o caminho, porém não os  acharam.
+
+[[v6-2-23]]
+
+^<<v6-2-23,23>>^ Assim aqueles dois homens voltaram, e desceram do monte, e passaram, e vieram a Josué, filho de Num, e contaram-lhe tudo quanto lhes acontecera;
+
+[[v6-2-24]]
+
+^<<v6-2-24,24>>^ E disseram a Josué: Certamente o Senhor tem dado toda esta terra nas nossas mãos, pois até todos os moradores estão desmaiados diante de nós.
+
+'''
+
+xref:006-josue/006-josue-001.adoc#v6-1-0[&#60; Capítulo Anterior] | <<v6-2-0,Topo>> | xref:006-josue/006-josue-003.adoc#v6-3-0[Próximo Capítulo &#62;]

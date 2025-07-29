@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v3-10-0]]
+=== Levítico, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v3-10-1]]
+
+^<<v3-10-1,1>>^ E OS filhos de Aarão, Nadabe e Abiú, tomaram cada um o seu incensário, e puseram neles fogo, e puseram incenso sobre ele, e trouxeram fogo estranho perante a face do Senhor, o que lhes não ordenara.
+
+[[v3-10-2]]
+
+^<<v3-10-2,2>>^ Então saiu fogo de diante do Senhor, e os consumiu; e morreram perante o Senhor.
+
+[[v3-10-3]]
+
+^<<v3-10-3,3>>^ E disse Moisés a Aarão: Isto é  o que o Senhor falou, dizendo: Serei santificado naqueles que se cheguem a mim, e serei glorificado diante de todo o povo. Porém Aarão calou-se.
+
+[[v3-10-4]]
+
+^<<v3-10-4,4>>^ E Moisés chamou a Misael e a Elzafã, filhos de Usiel, tio de Aarão, e disse-lhes: Chegai, tirai a vossos irmãos de diante do santuário, para fora do arraial.
+
+[[v3-10-5]]
+
+^<<v3-10-5,5>>^ Então chegaram, e levaram-nos nas suas túnicas para fora do arraial, como Moisés tinha dito.
+
+[[v3-10-6]]
+
+^<<v3-10-6,6>>^ E Moisés disse a Aarão, e a seus filhos Eleazar e Itamar: Não descobrireis as vossas cabeças, nem rasgareis vossos vestidos, para que não morrais, nem venha grande indignação sobre toda a congregação: mas vossos irmãos, toda a casa de Israel, lamentem este incêndio que o Senhor acendeu.
+
+[[v3-10-7]]
+
+^<<v3-10-7,7>>^ Nem saireis da porta da tenda da congregação, para que não morrais; porque está  sobre vós o azeite da unção do Senhor. E fizeram conforme à palavra de Moisés.
+
+[[v3-10-8]]
+
+^<<v3-10-8,8>>^ E falou o Senhor a Aarão, dizendo:
+
+[[v3-10-9]]
+
+^<<v3-10-9,9>>^ Vinho nem bebida forte tu e teus filhos contigo não bebereis, quando entrardes na tenda da congregação, para que não morrais: estatuto perpétuo será isso  entre as vossas gerações;
+
+[[v3-10-10]]
+
+^<<v3-10-10,10>>^ E para fazer diferença entre o santo e o profano e entre o imundo e o limpo,
+
+[[v3-10-11]]
+
+^<<v3-10-11,11>>^ E para ensinar aos filhos de Israel todos os estatutos que o Senhor lhes tem falado pela mão de Moisés.
+
+[[v3-10-12]]
+
+^<<v3-10-12,12>>^ E disse Moisés a Aarão, e a Eleazar, e a Itamar, seus filhos, que lhe  ficaram: Tomai a oferta de manjares, restante das ofertas queimadas do Senhor, e comei-a sem levedura junto ao altar, porquanto uma cousa santíssima é.
+
+[[v3-10-13]]
+
+^<<v3-10-13,13>>^ Portanto o comereis no lugar santo; porque isto é  a tua porção, e a porção de teus filhos das ofertas queimadas do Senhor: porque assim me foi ordenado.
+
+[[v3-10-14]]
+
+^<<v3-10-14,14>>^ Também o peito da oferta do  movimento e a espádua da oferta  alçada comereis em lugar limpo, tu, e teus filhos e tuas filhas contigo; porque foram  dados por tua porção, e por porção de teus filhos, dos sacrifícios pacíficos dos filhos de Israel.
+
+[[v3-10-15]]
+
+^<<v3-10-15,15>>^ A espádua da oferta  alçada e o peito da oferta  do movimento trarão com as ofertas queimadas de gordura, para mover por oferta de  movimento perante o Senhor; o que será por estatuto perpétuo, para ti e para teus filhos contigo, como o Senhor tem ordenado.
+
+[[v3-10-16]]
+
+^<<v3-10-16,16>>^ E Moisés diligentemente buscou o bode da expiação, e eis que já era queimado: portanto indignou-se grandemente contra Eleazar e contra Itamar, os filhos que de Aarão ficaram, dizendo:
+
+[[v3-10-17]]
+
+^<<v3-10-17,17>>^ Porque não comestes a expiação do pecado no lugar santo? pois uma cousa santíssima é : e o Senhor a deu a vós, para que levásseis a iniquidade da congregação, para fazer expiação por eles diante do Senhor.
+
+[[v3-10-18]]
+
+^<<v3-10-18,18>>^ Eis que não se trouxe o seu sangue para dentro do santuário; certamente havíeis de comê-la no santuário, como tinha ordenado.
+
+[[v3-10-19]]
+
+^<<v3-10-19,19>>^ Então disse Aarão a Moisés: Eis que hoje ofereceram a sua expiação de pecado e o seu holocausto perante o Senhor, e tais cousas me sucederam: se  eu hoje comera a expiação do pecado, seria pois aceito aos olhos do Senhor?
+
+[[v3-10-20]]
+
+^<<v3-10-20,20>>^ E Moisés ouvindo isto , foi aceito aos seus olhos.
+
+'''
+
+xref:003-levitico/003-levitico-009.adoc#v3-9-0[&#60; Capítulo Anterior] | <<v3-10-0,Topo>> | xref:003-levitico/003-levitico-011.adoc#v3-11-0[Próximo Capítulo &#62;]

@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v4-9-0]]
+=== Números, 9
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-9-1]]
+
+^<<v4-9-1,1>>^ E FALOU o Senhor a Moisés no deserto de Sinai, no ano segundo da sua saída da terra do Egito, no mês primeiro, dizendo:
+
+[[v4-9-2]]
+
+^<<v4-9-2,2>>^ Que os filhos de Israel celebrem a páscoa a seu tempo determinado.
+
+[[v4-9-3]]
+
+^<<v4-9-3,3>>^ No dia catorze deste mês, pela tarde, a seu tempo determinado a celebrareis: segundo todos os seus estatutos, e segundo todos os seus ritos, a celebrareis.
+
+[[v4-9-4]]
+
+^<<v4-9-4,4>>^ Disse pois Moisés aos filhos de Israel que celebrassem a páscoa.
+
+[[v4-9-5]]
+
+^<<v4-9-5,5>>^ Então celebraram a páscoa no dia catorze do mês primeiro, pela tarde, no deserto de Sinai; conforme a tudo o que o Senhor ordenara a Moisés, assim fizeram os filhos de Israel.
+
+[[v4-9-6]]
+
+^<<v4-9-6,6>>^ E houve alguns que estavam imundos pelo corpo de um homem morto; e no mesmo dia não podiam celebrar a páscoa; pelo que se chegaram perante Moisés e perante Aarão aquele mesmo dia.
+
+[[v4-9-7]]
+
+^<<v4-9-7,7>>^ E aqueles homens disseram-lhe: Imundos estamos  nós pelo corpo de um homem morto; por que seríamos privados de oferecer a oferta do Senhor a seu tempo determinado no meio dos filhos de Israel?
+
+[[v4-9-8]]
+
+^<<v4-9-8,8>>^ E disse-lhes Moisés: Esperai, e ouvirei o que o Senhor vos ordenará.
+
+[[v4-9-9]]
+
+^<<v4-9-9,9>>^ Então falou o Senhor a Moisés, dizendo:
+
+[[v4-9-10]]
+
+^<<v4-9-10,10>>^ Fala aos filhos de Israel, dizendo: Quando alguém entre vós, ou entre as vossas gerações, for imundo por corpo morto, ou se achar em jornada longe de vós, contudo ainda celebrará a páscoa ao Senhor.
+
+[[v4-9-11]]
+
+^<<v4-9-11,11>>^ No mês segundo, no dia catorze, de tarde, a celebração: Com pães  asmos e ervas  amargas a comerão.
+
+[[v4-9-12]]
+
+^<<v4-9-12,12>>^ Dela nada deixarão até à manhã, e dela não quebrarão osso algum: segundo todo o estatuto da páscoa a celebrarão.
+
+[[v4-9-13]]
+
+^<<v4-9-13,13>>^ Porém, quando um homem for limpo, e não estiver de caminho, e deixar de celebrar a páscoa, tal alma dos seus povos será extirpada: porquanto não ofereceu a oferta do Senhor a seu tempo determinado; tal homem levará o seu pecado.
+
+[[v4-9-14]]
+
+^<<v4-9-14,14>>^ E quando um estrangeiro peregrinar entre vós, e também celebrar a páscoa ao Senhor, segundo o estatuto da páscoa e segundo o seu rito assim a celebrará: um mesmo estatuto haverá para vós, assim para o estrangeiro como para o natural da terra.
+
+[[v4-9-15]]
+
+^<<v4-9-15,15>>^ E no dia de levantar o tabernáculo, a nuvem cobriu o tabernáculo sobre a tenda do testemunho: e à tarde estava sobre o tabernáculo como uma aparência de fogo até à manhã.
+
+[[v4-9-16]]
+
+^<<v4-9-16,16>>^ Assim era de contínuo: a nuvem o cobria, e de noite havia  aparência de fogo.
+
+[[v4-9-17]]
+
+^<<v4-9-17,17>>^ Mas sempre que a nuvem se alçava sobre a tenda, os filhos de Israel após ela partiam: e no lugar onde a nuvem parava, ali os filhos de Israel assentavam o seu arraial.
+
+[[v4-9-18]]
+
+^<<v4-9-18,18>>^ Segundo o dito do Senhor, os filhos de Israel partiam, e segundo o dito do Senhor assentavam o arraial: todos os dias em que a nuvem parava sobre o tabernáculo assentavam o arraial.
+
+[[v4-9-19]]
+
+^<<v4-9-19,19>>^ E, quando a nuvem se detinha muitos dias sobre o tabernáculo, então os filhos de Israel tinham cuidado da guarda do Senhor, e não partiam.
+
+[[v4-9-20]]
+
+^<<v4-9-20,20>>^ E era que, quando a nuvem poucos dias estava sobre o tabernáculo, segundo o dito do Senhor se alojavam, e segundo o dito do Senhor partiam.
+
+[[v4-9-21]]
+
+^<<v4-9-21,21>>^ Porém era que, quando a nuvem desde a tarde até a manhã ficava ali , e a nuvem se alçava pela manhã, então partiam: quer de dia quer de noite, alçando-se a nuvem, partiam.
+
+[[v4-9-22]]
+
+^<<v4-9-22,22>>^ Ou, quando a nuvem sobre o tabernáculo se detinha dois dias, ou um mês, ou um ano, ficando sobre ele, então os filhos de Israel se alojavam, e não partiam: e alçando-se ela partiam.
+
+[[v4-9-23]]
+
+^<<v4-9-23,23>>^ Segundo o dito do Senhor se alojavam, e segundo o dito do Senhor partiam: da guarda do Senhor tinham cuidado segundo o dito do Senhor pela mão de Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-008.adoc#v4-8-0[&#60; Capítulo Anterior] | <<v4-9-0,Topo>> | xref:004-numeros/004-numeros-010.adoc#v4-10-0[Próximo Capítulo &#62;]

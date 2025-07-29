@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-38-0]]
+=== Salmos, 38
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-38-1]]
+
+^<<v19-38-1,1>>^ Ó SENHOR, não me repreendas na tua ira, nem me castigues no teu furor.
+
+[[v19-38-2]]
+
+^<<v19-38-2,2>>^ Porque as tuas frechas se cravaram em mim, e a tua mão sobre mim desceu.
+
+[[v19-38-3]]
+
+^<<v19-38-3,3>>^ Não há  cousa sã na minha carne, por causa da tua cólera; nem há  paz em meus ossos, por causa do meu pecado.
+
+[[v19-38-4]]
+
+^<<v19-38-4,4>>^ Pois já  as minhas iniquidades ultrapassam a minha cabeça: como carga pesada são de mais para as minhas forças.
+
+[[v19-38-5]]
+
+^<<v19-38-5,5>>^ As minhas chagas cheiram mal e estão corruptas, por causa da minha loucura.
+
+[[v19-38-6]]
+
+^<<v19-38-6,6>>^ Estou encurvado, estou muito abatido, ando lamentando todo o dia.
+
+[[v19-38-7]]
+
+^<<v19-38-7,7>>^ Porque as minhas ilhargas estão cheias de ardor, e não há  cousa sã na minha carne.
+
+[[v19-38-8]]
+
+^<<v19-38-8,8>>^ Estou fraco e mui quebrantado; tenho rugido por causa do desassossego do meu coração.
+
+[[v19-38-9]]
+
+^<<v19-38-9,9>>^ Senhor, diante de ti está  todo o meu desejo, e o meu gemido não te é oculto.
+
+[[v19-38-10]]
+
+^<<v19-38-10,10>>^ O meu coração dá voltas, a minha força me falta; quanto à luz dos meus olhos, até essa me deixou.
+
+[[v19-38-11]]
+
+^<<v19-38-11,11>>^ Os meus amigos e os meus propínquos afastam-se da minha chaga; e os meus parentes se põem em distância.
+
+[[v19-38-12]]
+
+^<<v19-38-12,12>>^ Também os que buscam a minha vida me  armam laços, e os que procuram o meu mal dizem cousas que danificam, e imaginam astúcias todo o dia.
+
+[[v19-38-13]]
+
+^<<v19-38-13,13>>^ Mas eu, como surdo, não ouvia, e como mudo, não abri a boca.
+
+[[v19-38-14]]
+
+^<<v19-38-14,14>>^ Assim eu sou como homem que não ouve, e em cuja boca não há  reprovação.
+
+[[v19-38-15]]
+
+^<<v19-38-15,15>>^ Porque em ti, Senhor, espero; tu, Senhor meu Deus, me ouvirás.
+
+[[v19-38-16]]
+
+^<<v19-38-16,16>>^ Porque dizia eu: Ouve-me , para que se não alegrem de mim: quando escorrega o meu pé, eles se  engrandecem contra mim.
+
+[[v19-38-17]]
+
+^<<v19-38-17,17>>^ Porque estou  prestes a coxear; a minha dor está  constantemente perante mim.
+
+[[v19-38-18]]
+
+^<<v19-38-18,18>>^ Porque eu confessarei a minha iniquidade; afligir-me-ei por causa do meu pecado.
+
+[[v19-38-19]]
+
+^<<v19-38-19,19>>^ Mas os meus inimigos estão  vivos e são fortes, e os que sem causa me odeiam se engrandecem.
+
+[[v19-38-20]]
+
+^<<v19-38-20,20>>^ Os que dão mal pelo bem são meus adversários, porque eu sigo o que é  bom.
+
+[[v19-38-21]]
+
+^<<v19-38-21,21>>^ Não me desampares, Senhor, meu Deus, não te alongues de mim.
+
+[[v19-38-22]]
+
+^<<v19-38-22,22>>^ Apressa-te em meu auxílio, Senhor, minha salvação.
+
+'''
+
+xref:019-salmos/019-salmos-037.adoc#v19-37-0[&#60; Capítulo Anterior] | <<v19-38-0,Topo>> | xref:019-salmos/019-salmos-039.adoc#v19-39-0[Próximo Capítulo &#62;]

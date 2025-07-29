@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-40-0]]
+=== Salmos, 40
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-40-1]]
+
+^<<v19-40-1,1>>^ ESPEREI com paciência no Senhor, e ele se inclinou para mim, e ouviu o meu clamor.
+
+[[v19-40-2]]
+
+^<<v19-40-2,2>>^ Tirou-me dum lago horrível, dum charco de lodo, pôs os meus pés sobre uma rocha, firmou os meus passos;
+
+[[v19-40-3]]
+
+^<<v19-40-3,3>>^ E pôs um novo cântico na minha boca, um hino ao nosso Deus; muitos o  verão, e temerão, e confiarão no Senhor.
+
+[[v19-40-4]]
+
+^<<v19-40-4,4>>^ Bem-aventurado o homem que põe no Senhor a sua confiança, e que não respeita os soberbos nem os que se desviam para a mentira.
+
+[[v19-40-5]]
+
+^<<v19-40-5,5>>^ Muitas são, Senhor meu Deus, as maravilhas que  tens operado para conosco, e os teus pensamentos não se podem contar diante de ti; eu quisera anunciá-los, e manifestá-los, mas são mais do que se podem contar.
+
+[[v19-40-6]]
+
+^<<v19-40-6,6>>^ Sacrifício e oferta não quiseste; as minhas orelhas furaste; holocausto e expiação pelo pecado não reclamaste.
+
+[[v19-40-7]]
+
+^<<v19-40-7,7>>^ Então disse: Eis aqui venho; no rolo do livro está  escrito de mim:
+
+[[v19-40-8]]
+
+^<<v19-40-8,8>>^ Deleito-me em fazer a tua vontade, ó Deus meu; sim, a tua lei está  dentro do meu coração.
+
+[[v19-40-9]]
+
+^<<v19-40-9,9>>^ Preguei a justiça na grande congregação; eis que não retive os meus lábios, Senhor, tu o sabes.
+
+[[v19-40-10]]
+
+^<<v19-40-10,10>>^ Não escondi a tua justiça dentro do meu coração; apregoei a tua fidelidade e a tua salvação: não escondi da grande congregação a tua benignidade e a tua verdade.
+
+[[v19-40-11]]
+
+^<<v19-40-11,11>>^ Não detenhas para comigo, Senhor, as tuas misericórdias; guardem-me continuamente a tua benignidade e a tua verdade.
+
+[[v19-40-12]]
+
+^<<v19-40-12,12>>^ Porque males sem número me têm rodeado: as minhas iniquidades me prenderam de modo que não posso olhar para cima; são mais numerosas do que os cabelos da minha cabeça; pelo que desfalece o meu coração.
+
+[[v19-40-13]]
+
+^<<v19-40-13,13>>^ Digna-te, Senhor, livrar-me: Senhor, apressa-te em meu auxílio.
+
+[[v19-40-14]]
+
+^<<v19-40-14,14>>^ Sejam à uma confundidos e envergonhados os que buscam a minha vida para destruí-la; tornem atrás e confundam-se os que me querem mal.
+
+[[v19-40-15]]
+
+^<<v19-40-15,15>>^ Confundidos sejam em troca da sua afronta os que me dizem: Ah! Ah!
+
+[[v19-40-16]]
+
+^<<v19-40-16,16>>^ Folguem e alegrem-se em ti os que te buscam: digam constantemente os que amam a tua salvação: Engrandecido seja o Senhor.
+
+[[v19-40-17]]
+
+^<<v19-40-17,17>>^ Eu sou  pobre e necessitado; mas o Senhor cuida de mim: tu és  o meu auxílio e o meu libertador; não te detenhas, ó meu Deus.
+
+'''
+
+xref:019-salmos/019-salmos-039.adoc#v19-39-0[&#60; Capítulo Anterior] | <<v19-40-0,Topo>> | xref:019-salmos/019-salmos-041.adoc#v19-41-0[Próximo Capítulo &#62;]

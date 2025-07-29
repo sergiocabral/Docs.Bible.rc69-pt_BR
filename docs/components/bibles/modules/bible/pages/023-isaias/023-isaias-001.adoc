@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v23-1-0]]
+=== Isaías, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-1-1]]
+
+^<<v23-1-1,1>>^ VISÃO de Isaías, filho de Amós, a qual ele viu a respeito de Judá e Jerusalém, nos dias de Uzias, Jotão, Acaz, e  Ezequias, reis de Judá.
+
+[[v23-1-2]]
+
+^<<v23-1-2,2>>^ Ouvi, ó céus, e presta ouvidos, tu ó terra, porque fala o Senhor: Criei filhos, e exalcei-os; mas eles prevaricaram contra mim.
+
+[[v23-1-3]]
+
+^<<v23-1-3,3>>^ O boi conhece o seu possuidor, e o jumento a manjedoura do seu dono; mas  Israel não tem conhecimento, o meu povo não entende.
+
+[[v23-1-4]]
+
+^<<v23-1-4,4>>^ Ai da nação pecadora, do povo carregado de iniquidade da semente de malignos, dos filhos corrutores: deixaram ao Senhor, blasfemaram do Santo de Israel, voltaram para trás.
+
+[[v23-1-5]]
+
+^<<v23-1-5,5>>^ Porque seríeis ainda castigados, se mais vos rebelaríeis? toda a cabeça está  enferma e todo o coração fraco.
+
+[[v23-1-6]]
+
+^<<v23-1-6,6>>^ Desde a planta do pé até à cabeça não há nele cousa sã, senão  feridas, e inchaços, e chagas podres, não espremidas, nem ligadas, nem nenhuma delas amolecida com óleo.
+
+[[v23-1-7]]
+
+^<<v23-1-7,7>>^ A vossa terra está assolada, as vossas cidades abrasadas pelo fogo: a vossa região os estranhos a devoram em vossa presença; e está devastada, como numa subversão de estranhos.
+
+[[v23-1-8]]
+
+^<<v23-1-8,8>>^ E a filha de Sião se ficou como a cabana na vinha, como a choupana no pepinal, como cidade sitiada.
+
+[[v23-1-9]]
+
+^<<v23-1-9,9>>^ Se o Senhor dos Exércitos nos não deixara algum remanescente, já  como Sodoma seríamos, e semelhantes a Gomorra.
+
+[[v23-1-10]]
+
+^<<v23-1-10,10>>^ Ouvi a palavra do Senhor, vós príncipes de Sodoma: prestai ouvidos à lei de nosso Deus, vós, ó povo de Gomorra.
+
+[[v23-1-11]]
+
+^<<v23-1-11,11>>^ De que me serve  a mim a multidão de vossos sacrifícios, diz o Senhor? Já  estou farto dos holocaustos de carneiros, e da gordura de animais  nédios; e não folgo com o sangue de bezerros, nem de cordeiros, nem de bodes.
+
+[[v23-1-12]]
+
+^<<v23-1-12,12>>^ Quando vindes para comparecerdes perante mim, quem requereu isto de vossas mãos, que viésseis  pisar os meus átrios?
+
+[[v23-1-13]]
+
+^<<v23-1-13,13>>^ Não tragais mais ofertas debalde: o incenso é para mim abominação e as luas novas, e os sábados, e a convocação das congregações; não posso suportar iniquidade, nem mesmo o ajuntamento solene.
+
+[[v23-1-14]]
+
+^<<v23-1-14,14>>^ As vossas luas novas, e as vossas solenidades as aborrece a minha alma; já  me são pesadas: já estou cansado de as  sofrer.
+
+[[v23-1-15]]
+
+^<<v23-1-15,15>>^ Pelo que, quando estendeis as vossas mãos, escondo de vós os meus olhos; sim, quando multiplicais as vossas orações, não as ouço, porque  as vossas mãos estão cheias de sangue.
+
+[[v23-1-16]]
+
+^<<v23-1-16,16>>^ Lavai-vos, purificai-vos, tirai a maldade de vossos atos de diante dos meus olhos: cessai de fazer mal:
+
+[[v23-1-17]]
+
+^<<v23-1-17,17>>^ Aprendei a fazer bem; praticai o que é reto; ajudai o oprimido: fazei justiça ao órfão; tratai da causa das viúvas.
+
+[[v23-1-18]]
+
+^<<v23-1-18,18>>^ Vinde então, e argui-me, diz o Senhor: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve: ainda que sejam vermelhos como o carmesim, se tornarão como a branca  lã.
+
+[[v23-1-19]]
+
+^<<v23-1-19,19>>^ Se quiserdes, e ouvirdes, comereis o bem desta terra.
+
+[[v23-1-20]]
+
+^<<v23-1-20,20>>^ Mas se recusardes, e fordes rebeldes, sereis devorados à espada, porque a boca do Senhor o disse.
+
+[[v23-1-21]]
+
+^<<v23-1-21,21>>^ Como se fez prostituta a cidade fiel! ela que estava cheia de retidão! A justiça habitava nela, mas agora homicidas.
+
+[[v23-1-22]]
+
+^<<v23-1-22,22>>^ A tua prata se tornou em escórias, o teu vinho se misturou com água.
+
+[[v23-1-23]]
+
+^<<v23-1-23,23>>^ Os teus príncipes são  rebeldes, e companheiros de ladrões: cada um deles ama as peitas, e corre após salários: não fazem justiça ao órfão, e não chega perante eles a causa das viúvas.
+
+[[v23-1-24]]
+
+^<<v23-1-24,24>>^ Portanto diz o Senhor Deus dos Exércitos, o Forte de Israel: Ah! consolar-me-ei acerca dos meus adversários, e vingar-me dos meus inimigos.
+
+[[v23-1-25]]
+
+^<<v23-1-25,25>>^ E voltarei contra ti a minha mão, e purificarei inteiramente as tuas escórias; e tirar-te-ei toda a impureza.
+
+[[v23-1-26]]
+
+^<<v23-1-26,26>>^ E te restituirei os teus juízes, como eram dantes; e  os teus conselheiros, como antigamente; e então te chamarão cidade de justiça, cidade fiel.
+
+[[v23-1-27]]
+
+^<<v23-1-27,27>>^ Sião será remida com juízo, e os que voltam para ela com justiça.
+
+[[v23-1-28]]
+
+^<<v23-1-28,28>>^ Mas os transgressores e os pecadores serão juntamente destruídos; e os que deixarem o Senhor serão consumidos.
+
+[[v23-1-29]]
+
+^<<v23-1-29,29>>^ Porque vos envergonhareis pelos carvalhos que cobiçastes, e sereis confundidos pelos jardins que escolhestes.
+
+[[v23-1-30]]
+
+^<<v23-1-30,30>>^ Porque sereis como o carvalho, ao qual caem as folhas, e como a floresta que não tem água.
+
+[[v23-1-31]]
+
+^<<v23-1-31,31>>^ E o forte se tornará em estopa, e a sua obra em faísca; e ambos arderão juntamente, e não haverá  quem os apague.
+
+'''
+
+xref:022-canticos/022-canticos-008.adoc#v22-8-0[&#60; Capítulo Anterior] | <<v23-1-0,Topo>> | xref:023-isaias/023-isaias-002.adoc#v23-2-0[Próximo Capítulo &#62;]

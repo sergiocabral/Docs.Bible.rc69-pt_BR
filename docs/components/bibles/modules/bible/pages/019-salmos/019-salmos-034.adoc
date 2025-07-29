@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-34-0]]
+=== Salmos, 34
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-34-1]]
+
+^<<v19-34-1,1>>^ LOUVAREI ao Senhor em todo o tempo: o seu louvor estará  continuamente na minha boca.
+
+[[v19-34-2]]
+
+^<<v19-34-2,2>>^ A minha alma se gloriará no Senhor: os mansos o  ouvirão e se alegrarão.
+
+[[v19-34-3]]
+
+^<<v19-34-3,3>>^ Engrandecei ao Senhor comigo, e juntos exaltemos o seu nome.
+
+[[v19-34-4]]
+
+^<<v19-34-4,4>>^ Busquei ao Senhor, e ele me respondeu: livrou-me de todos os meus temores.
+
+[[v19-34-5]]
+
+^<<v19-34-5,5>>^ Olharam para ele, e foram iluminados; e os seus rostos não ficarão confundidos.
+
+[[v19-34-6]]
+
+^<<v19-34-6,6>>^ Clamou este pobre, e o Senhor o  ouviu, e o salvou de todas as suas angústias.
+
+[[v19-34-7]]
+
+^<<v19-34-7,7>>^ O anjo do Senhor acampa-se ao redor dos que o temem, e os livra.
+
+[[v19-34-8]]
+
+^<<v19-34-8,8>>^ Provai, e vede que o Senhor é bom; bem-aventurado o homem que nele confia.
+
+[[v19-34-9]]
+
+^<<v19-34-9,9>>^ Temei ao Senhor, vós , os seus santos, pois não têm falta alguma aqueles que o temem.
+
+[[v19-34-10]]
+
+^<<v19-34-10,10>>^ Os filhos dos leões necessitam e sofrem fome, mas aqueles que buscam ao Senhor de nada têm falta.
+
+[[v19-34-11]]
+
+^<<v19-34-11,11>>^ Vinde, meninos, ouvi-me: eu vos ensinarei o temor do Senhor.
+
+[[v19-34-12]]
+
+^<<v19-34-12,12>>^ Quem é  o homem que deseja a vida, que quer largos  dias para ver o bem?
+
+[[v19-34-13]]
+
+^<<v19-34-13,13>>^ Guarda a tua língua do mal, e os teus lábios de falarem enganosamente.
+
+[[v19-34-14]]
+
+^<<v19-34-14,14>>^ Aparta-te do mal, e faze o bem: procura a paz e segue-a.
+
+[[v19-34-15]]
+
+^<<v19-34-15,15>>^ Os olhos do Senhor estão  sobre os justos, e os seus ouvidos atentos  ao seu clamor.
+
+[[v19-34-16]]
+
+^<<v19-34-16,16>>^ A face do Senhor está  contra os que fazem o mal, para desarraigar da terra a memória deles.
+
+[[v19-34-17]]
+
+^<<v19-34-17,17>>^ Os justos  clamam, e o Senhor os ouve, e os livra de todas as suas angústias.
+
+[[v19-34-18]]
+
+^<<v19-34-18,18>>^ Perto está  o Senhor dos que têm o coração quebrantado, e salva os contritos de espírito.
+
+[[v19-34-19]]
+
+^<<v19-34-19,19>>^ Muitas são  as aflições do justo, mas o Senhor o livra de todas.
+
+[[v19-34-20]]
+
+^<<v19-34-20,20>>^ Ele lhe guarda todos os seus ossos; nem sequer um deles se quebra.
+
+[[v19-34-21]]
+
+^<<v19-34-21,21>>^ A malícia matará o ímpio, e os que aborrecem o justo serão punidos.
+
+[[v19-34-22]]
+
+^<<v19-34-22,22>>^ O Senhor resgata a alma dos seus servos, e nenhum dos que nele confiam será condenado.
+
+'''
+
+xref:019-salmos/019-salmos-033.adoc#v19-33-0[&#60; Capítulo Anterior] | <<v19-34-0,Topo>> | xref:019-salmos/019-salmos-035.adoc#v19-35-0[Próximo Capítulo &#62;]

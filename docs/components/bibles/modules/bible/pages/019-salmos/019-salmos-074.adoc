@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v19-74-0]]
+=== Salmos, 74
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-74-1]]
+
+^<<v19-74-1,1>>^ Ó DEUS, por que nos  rejeitaste para sempre? Por que  se acende a tua ira contra as ovelhas do teu pasto?
+
+[[v19-74-2]]
+
+^<<v19-74-2,2>>^ Lembra-te da tua congregação, que compraste desde a antiguidade; da tua herança que  remiste, deste monte de Sião, em que habitaste.
+
+[[v19-74-3]]
+
+^<<v19-74-3,3>>^ Levanta-te contra as perpétuas assolações, contra tudo o  que o inimigo tem feito de  mal no santuário.
+
+[[v19-74-4]]
+
+^<<v19-74-4,4>>^ Os teus inimigos bramam no meio dos lugares santos; põem neles  as suas insígnias por  sinais.
+
+[[v19-74-5]]
+
+^<<v19-74-5,5>>^ Parecem-se com o homem que avança com o seu machado através da espessura do arvoredo.
+
+[[v19-74-6]]
+
+^<<v19-74-6,6>>^ Eis que toda a obra entalhada quebram com machados e martelos.
+
+[[v19-74-7]]
+
+^<<v19-74-7,7>>^ Lançaram fogo ao teu santuário; profanaram, derribando-a até ao chão, a morada do teu nome.
+
+[[v19-74-8]]
+
+^<<v19-74-8,8>>^ Disseram nos seus corações: Despojemo-los duma vez. Queimaram todos os lugares santos de Deus na terra.
+
+[[v19-74-9]]
+
+^<<v19-74-9,9>>^ Já não vemos os nossos sinais, já não há  profeta: nem há  entre nós alguém que saiba até quando isto durará.
+
+[[v19-74-10]]
+
+^<<v19-74-10,10>>^ Até quando, ó Deus, nos  afrontará o adversário? Blasfemará o inimigo o teu nome para sempre?
+
+[[v19-74-11]]
+
+^<<v19-74-11,11>>^ Por que retiras a tua mão, sim a tua destra? tira- a  do teu seio, e consome-os.
+
+[[v19-74-12]]
+
+^<<v19-74-12,12>>^ Todavia, Deus é  o meu Rei desde a antiguidade, operando a salvação no meio da terra.
+
+[[v19-74-13]]
+
+^<<v19-74-13,13>>^ Tu dividiste o mar pela tua força; quebrantaste as cabeças dos monstros das águas.
+
+[[v19-74-14]]
+
+^<<v19-74-14,14>>^ Fizeste em pedaços as cabeças do leviatã, e  o deste por mantimento aos habitantes do deserto.
+
+[[v19-74-15]]
+
+^<<v19-74-15,15>>^ Fendeste a fonte e o ribeiro: secaste os rios impetuosos.
+
+[[v19-74-16]]
+
+^<<v19-74-16,16>>^ Teu é  o dia e tua é  a noite: preparaste a luz e o sol.
+
+[[v19-74-17]]
+
+^<<v19-74-17,17>>^ Estabeleceste todos os limites da terra; verão e inverno tu os formaste.
+
+[[v19-74-18]]
+
+^<<v19-74-18,18>>^ Lembra-te disto: que  o inimigo afrontou ao Senhor, e que  um povo louco blasfemou o teu nome.
+
+[[v19-74-19]]
+
+^<<v19-74-19,19>>^ Não entregues às feras a alma da tua rola: não te esqueças para sempre da vida dos teus aflitos.
+
+[[v19-74-20]]
+
+^<<v19-74-20,20>>^ Atenta para o teu  concerto; pois os lugares tenebrosos da terra estão cheios de moradas de crueldade.
+
+[[v19-74-21]]
+
+^<<v19-74-21,21>>^ Oh! não volte envergonhado o oprimido: Louvem o teu nome o aflito e o necessitado.
+
+[[v19-74-22]]
+
+^<<v19-74-22,22>>^ Levanta-te, ó Deus, pleiteia a tua própria causa; lembra-te da afronta que o louco te faz cada dia.
+
+[[v19-74-23]]
+
+^<<v19-74-23,23>>^ Não te esqueças dos gritos dos teus inimigos: o tumulto daqueles que se levantam contra ti aumenta continuamente.
+
+'''
+
+xref:019-salmos/019-salmos-073.adoc#v19-73-0[&#60; Capítulo Anterior] | <<v19-74-0,Topo>> | xref:019-salmos/019-salmos-075.adoc#v19-75-0[Próximo Capítulo &#62;]

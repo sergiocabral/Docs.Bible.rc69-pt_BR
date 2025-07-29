@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v30-6-0]]
+=== Amós, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v30-6-1]]
+
+^<<v30-6-1,1>>^ AI dos que repousam em Sião, e dos que estão seguros no monte de Samaria; que têm nome entre as primeiras nações, e aos quais vem a casa de Israel!
+
+[[v30-6-2]]
+
+^<<v30-6-2,2>>^ Passai a Calne, e vede; e dali ide à grande Hamate; depois descei a Gate dos filisteus: serão melhores que estes reinos? ou será maior o seu termo do que o vosso termo?
+
+[[v30-6-3]]
+
+^<<v30-6-3,3>>^ Vós, que dilatais o dia mau, e vos chegais ao lugar de violência;
+
+[[v30-6-4]]
+
+^<<v30-6-4,4>>^ Que dormis em camas de marfim, e vos estendeis sobre os vossos leitos, e comeis os cordeiros do rebanho, e os bezerros do meio da manada;
+
+[[v30-6-5]]
+
+^<<v30-6-5,5>>^ Que cantais ao som do alaúde, e inventais para vós instrumentos músicos, como Davi:
+
+[[v30-6-6]]
+
+^<<v30-6-6,6>>^ Que bebeis vinho em taças, e vos ungis com o mais excelente óleo: mas não vos afligis pela quebra de José:
+
+[[v30-6-7]]
+
+^<<v30-6-7,7>>^ Eis que agora ireis em cativeiro entre os primeiros que forem cativos, e cessarão os festins dos regalados.
+
+[[v30-6-8]]
+
+^<<v30-6-8,8>>^ Jurou o Senhor Jeová  pela sua alma, o Senhor Deus dos exércitos: Tenho abominação pela soberba de Jacó, e aborreço os seus palácios; e entregarei a cidade e tudo o que nela há.
+
+[[v30-6-9]]
+
+^<<v30-6-9,9>>^ E acontecerá que, ficando de resto dez homens numa casa, morrerão.
+
+[[v30-6-10]]
+
+^<<v30-6-10,10>>^ E a alguém tomará o seu tio, ou o que o queima, para levar os ossos para fora da casa; e dirá ao que estiver nos cantos da casa: Está ainda alguém  contigo? E ele dirá: Ninguém. E dirá este : Cala-te, porque não podemos fazer menção do nome do Senhor.
+
+[[v30-6-11]]
+
+^<<v30-6-11,11>>^ Porque, eis que o Senhor manda, e será ferida a casa grande de quebraduras, e a casa pequena de fendas.
+
+[[v30-6-12]]
+
+^<<v30-6-12,12>>^ Poderão correr cavalos na rocha? poderão lavrá-la com bois? por que quebraduras, haveis vós tornado o juízo em fel, e o fruto da justiça em alosna?
+
+[[v30-6-13]]
+
+^<<v30-6-13,13>>^ Vós que vos alegrais de nada, vós que dizeis: Não nos temos nós tornado poderosos por nossa força?
+
+[[v30-6-14]]
+
+^<<v30-6-14,14>>^ Porque, eis que eu  levantarei sobre vós, ó casa de Israel, um  povo, diz o Senhor Deus dos Exércitos, e oprimir-vos-á, desde a entrada de Hemate até ao ribeiro da planície.
+
+'''
+
+xref:030-amos/030-amos-005.adoc#v30-5-0[&#60; Capítulo Anterior] | <<v30-6-0,Topo>> | xref:030-amos/030-amos-007.adoc#v30-7-0[Próximo Capítulo &#62;]

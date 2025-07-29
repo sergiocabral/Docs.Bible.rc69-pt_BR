@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v12-22-0]]
+=== 2 Reis, 22
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v12-22-1]]
+
+^<<v12-22-1,1>>^ TINHA Josias oito anos de idade quando começou a reinar, e reinou trinta e um anos em Jerusalém: e era  o nome de sua mãe, Jedida, filha de Adaís, de Bozcate.
+
+[[v12-22-2]]
+
+^<<v12-22-2,2>>^ E fez o que era  reto aos olhos do Senhor; e andou em todo o caminho de Davi, seu pai, e não se apartou dele  nem para a direita nem para a esquerda.
+
+[[v12-22-3]]
+
+^<<v12-22-3,3>>^ Sucedeu pois que, no ano décimo oitavo do rei Josias, o rei mandou o escrivão Safã, filho de Azalias, filho de Mesulão, à casa do Senhor, dizendo:
+
+[[v12-22-4]]
+
+^<<v12-22-4,4>>^ Sobe a Hilquias, o sumo sacerdote, para que tome o dinheiro que se trouxe à casa do Senhor, o qual os guardas do umbral da porta  ajuntaram do povo.
+
+[[v12-22-5]]
+
+^<<v12-22-5,5>>^ E que o deem na mão dos que têm o cargo da obra e estão encarregados da casa do Senhor; para que o deem àqueles que fazem a obra que há  na casa do Senhor, para repararem as fendas da casa:
+
+[[v12-22-6]]
+
+^<<v12-22-6,6>>^ Aos carpinteiros, e aos edificadores, e aos pedreiros: e para comprar madeira e pedras lavradas, para repararem a casa.
+
+[[v12-22-7]]
+
+^<<v12-22-7,7>>^ Porém com eles se não fez conta do dinheiro que se lhes entregara nas suas mãos, porquanto obravam com fidelidade.
+
+[[v12-22-8]]
+
+^<<v12-22-8,8>>^ Então disse o sumo sacerdote Hilquias ao escrivão Safã: Achei o livro da lei na casa do Senhor. E Hilquias deu o livro a Safã, e ele  o leu.
+
+[[v12-22-9]]
+
+^<<v12-22-9,9>>^ Então o escrivão Safã veio ao rei, e referiu ao rei a resposta: e disse: Teus servos ajuntaram o dinheiro que se achou na casa, e o entregaram na mão dos que têm o cargo da obra, que estão encarregados da casa do Senhor.
+
+[[v12-22-10]]
+
+^<<v12-22-10,10>>^ Também Safã, o escrivão, fez saber ao rei dizendo: O sacerdote Hilquias me deu um  livro. E Safã o leu diante do rei.
+
+[[v12-22-11]]
+
+^<<v12-22-11,11>>^ Sucedeu pois que, ouvindo o rei as palavras do livro da lei, rasgou os seus vestidos.
+
+[[v12-22-12]]
+
+^<<v12-22-12,12>>^ E o rei mandou a Hilquias, o sacerdote, e a Aicão, filho de Safã, e a Acbor, filho de Micaias, e a Safã, o escrivão, e a Asaías, o servo do rei, dizendo:
+
+[[v12-22-13]]
+
+^<<v12-22-13,13>>^ Ide, e consultai ao Senhor por mim, e pelo povo, e por todo o Judá, acerca das palavras deste livro que se achou; porque grande é o furor do Senhor, que se acendeu contra nós; porquanto nossos pais não deram ouvidos às palavras deste livro, para fazerem conforme tudo quanto de nós está escrito.
+
+[[v12-22-14]]
+
+^<<v12-22-14,14>>^ Então foi o sacerdote Hilquias, e Aicão, e Acbor, e Safã, e Asaías à profetisa Hulda, mulher de Salum, filho de Ticva, o filho de Harás, o guarda das vestiduras (e ela habitava em Jerusalém, na segunda parte), e lhe falaram.
+
+[[v12-22-15]]
+
+^<<v12-22-15,15>>^ E ela lhes disse: Assim diz o Senhor, o Deus de Israel: Dizei ao homem que vos enviou a mim:
+
+[[v12-22-16]]
+
+^<<v12-22-16,16>>^ Assim diz o Senhor: Eis que trarei mal sobre este lugar, e sobre os seus moradores a saber : todas as palavras do livro que leu o rei de Judá.
+
+[[v12-22-17]]
+
+^<<v12-22-17,17>>^ Porquanto me deixaram, e queimaram incenso a outros deuses, para me provocarem à ira por todas as obras das suas mãos, o meu furor se acendeu contra este lugar, e não se apagará.
+
+[[v12-22-18]]
+
+^<<v12-22-18,18>>^ Porém ao rei de Judá, que vos enviou a consultar ao Senhor, assim lhe direis: Assim diz o Senhor, o Deus de Israel, acerca das palavras que ouviste:
+
+[[v12-22-19]]
+
+^<<v12-22-19,19>>^ Porquanto o teu coração se enterneceu, e te humilhaste perante o Senhor, quando ouviste o que falei contra este lugar, e contra os seus moradores, que seriam para assolação e para maldição, e rasgaste os teus vestidos, e choraste perante mim, também eu te  ouvi, diz o Senhor.
+
+[[v12-22-20]]
+
+^<<v12-22-20,20>>^ Pelo que eis que eu te ajuntarei a teus pais, e tu serás ajuntado em paz à tua sepultura, e os teus olhos não verão todo o mal que hei de trazer sobre este lugar. Então tornaram a trazer ao rei a resposta.
+
+'''
+
+xref:012-2-reis/012-2-reis-021.adoc#v12-21-0[&#60; Capítulo Anterior] | <<v12-22-0,Topo>> | xref:012-2-reis/012-2-reis-023.adoc#v12-23-0[Próximo Capítulo &#62;]

@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v23-26-0]]
+=== Isaías, 26
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-26-1]]
+
+^<<v23-26-1,1>>^ NAQUELE dia se entoará este cântico na terra de Judá: Uma forte cidade temos, a que Deus  pôs a salvação por muros e antemuros.
+
+[[v23-26-2]]
+
+^<<v23-26-2,2>>^ Abri as portas, para que entre nela a nação justa, que observa a verdade.
+
+[[v23-26-3]]
+
+^<<v23-26-3,3>>^ Tu conservarás em paz aquele cuja  mente está  firme em ti ; porque ele confia em ti.
+
+[[v23-26-4]]
+
+^<<v23-26-4,4>>^ Confiai no Senhor perpetuamente; porque o Senhor Deus é uma rocha eterna.
+
+[[v23-26-5]]
+
+^<<v23-26-5,5>>^ Porque ele abate os que habitam em lugares  sublimes; a cidade exaltada humilhará até ao chão, e  a derribará até ao pó.
+
+[[v23-26-6]]
+
+^<<v23-26-6,6>>^ O pé a pisará: os pés dos aflitos, e  os passos dos pobres.
+
+[[v23-26-7]]
+
+^<<v23-26-7,7>>^ O caminho do justo é  todo plano: tu retamente pesas o andar do justo.
+
+[[v23-26-8]]
+
+^<<v23-26-8,8>>^ Até no caminho dos teus juízos, Senhor, te esperamos; no teu nome e na tua memória está  o desejo da nossa  alma.
+
+[[v23-26-9]]
+
+^<<v23-26-9,9>>^ Com minha alma te desejei de noite, e com o meu espírito, que está  dentro de mim, madrugarei a buscar-te; porque, havendo  os teus juízos na terra, os moradores do mundo aprendem justiça.
+
+[[v23-26-10]]
+
+^<<v23-26-10,10>>^ Ainda que se mostre favor ao ímpio, nem por isso  aprende a justiça; até  na terra da retidão ele pratica a iniquidade, e não atenta para a majestade do Senhor.
+
+[[v23-26-11]]
+
+^<<v23-26-11,11>>^ Senhor, a tua mão está exaltada, mas nem por isso  a veem: vê-la-ão, porém , e confundir-se-ão por causa do zelo que tens  do teu  povo; e o fogo consumirá os teus adversários.
+
+[[v23-26-12]]
+
+^<<v23-26-12,12>>^ Senhor, tu nos darás a paz, porque tu és o que fizeste em nós todas as nossas obras.
+
+[[v23-26-13]]
+
+^<<v23-26-13,13>>^ Ó Senhor Deus nosso, outros  senhores têm tido domínio sobre nós; mas, por ti só, nos lembramos do teu nome.
+
+[[v23-26-14]]
+
+^<<v23-26-14,14>>^ Morrendo eles, não tornarão  a viver; falecendo, não ressuscitarão; por isso os visitaste e destruíste, e apagaste toda a sua memória.
+
+[[v23-26-15]]
+
+^<<v23-26-15,15>>^ Tu, Senhor, aumentaste esta gente, tu aumentaste esta gente, fizeste-te glorioso; mas  longe os lançaste, para todos os fins da terra.
+
+[[v23-26-16]]
+
+^<<v23-26-16,16>>^ Senhor, no aperto te visitaram; vindo  sobre eles a tua correção, derramaram a sua  oração secreta.
+
+[[v23-26-17]]
+
+^<<v23-26-17,17>>^ Como a mulher grávida, quando está próxima a sua hora, tem dores de parto, e dá gritos nas suas dores, assim fomos nós por causa da tua face, ó Senhor!
+
+[[v23-26-18]]
+
+^<<v23-26-18,18>>^ Bem  concebemos nós, e  tivemos dores de parto, mas isso não foi senão vento: livramento não trouxemos à terra, nem caíram os moradores do mundo.
+
+[[v23-26-19]]
+
+^<<v23-26-19,19>>^ Os teus mortos viverão, os teus mortos ressuscitarão; despertai e exultai, os que habitais no pó, porque o teu orvalho será como  o orvalho das ervas, e a terra lançará de si  os mortos.
+
+[[v23-26-20]]
+
+^<<v23-26-20,20>>^ Vai pois , povo meu, entra nos teus quartos, e fecha as tuas portas sobre ti: esconde-te só por um momento, até que passe a ira.
+
+[[v23-26-21]]
+
+^<<v23-26-21,21>>^ Porque eis que o Senhor sairá do seu lugar, para castigar os moradores da terra, por causa da sua iniquidade, e a terra descobrirá o seu sangue, e não encobrirá mais aqueles que foram mortos.
+
+'''
+
+xref:023-isaias/023-isaias-025.adoc#v23-25-0[&#60; Capítulo Anterior] | <<v23-26-0,Topo>> | xref:023-isaias/023-isaias-027.adoc#v23-27-0[Próximo Capítulo &#62;]

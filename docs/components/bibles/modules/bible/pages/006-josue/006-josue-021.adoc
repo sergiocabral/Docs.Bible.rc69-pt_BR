@@ -1,0 +1,189 @@
+include::./index.adoc[]
+
+[[v6-21-0]]
+=== Josué, 21
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-21-1]]
+
+^<<v6-21-1,1>>^ ENTÃO os cabeças dos pais dos levitas se achegaram a Eleazar o sacerdote, e a Josué, filho de Num, e aos cabeças dos pais das tribos dos filhos de Israel;
+
+[[v6-21-2]]
+
+^<<v6-21-2,2>>^ E falaram-lhes em Silo, na terra de Canaã, dizendo: O Senhor ordenou, pelo ministério de Moisés, que se nos dessem cidades para habitar, e os seus arrabaldes para os nossos animais.
+
+[[v6-21-3]]
+
+^<<v6-21-3,3>>^ Pelo que os filhos de Israel deram aos levitas da sua herança, conforme ao dito do Senhor, estas cidades e os seus arrabaldes.
+
+[[v6-21-4]]
+
+^<<v6-21-4,4>>^ E saiu a sorte pelas famílias dos coatitas: e aos filhos de Aarão, o sacerdote, dentre os levitas, caíram por sorte da tribo de Judá, e da tribo de Simeão, e da tribo de Benjamim, treze cidades;
+
+[[v6-21-5]]
+
+^<<v6-21-5,5>>^ E aos outros filhos de Coate caíram  por sorte das famílias da tribo de Efraim, e da tribo de Dã, e da meia tribo de Manassés, dez cidades;
+
+[[v6-21-6]]
+
+^<<v6-21-6,6>>^ E aos filhos de Gérson, caíram  por sorte das famílias da tribo de Issacar, e da tribo de Aser, e da tribo de Naftali, e da meia tribo de Manassés em Basã, treze cidades.
+
+[[v6-21-7]]
+
+^<<v6-21-7,7>>^ Aos filhos de Merari, segundo as suas famílias, da tribo de Rúben, e da tribo de Gade, e da tribo de Zebulom, doze cidades.
+
+[[v6-21-8]]
+
+^<<v6-21-8,8>>^ E deram os filhos de Israel aos levitas estas cidades e os seus arrabaldes por sorte, como o Senhor ordenara pelo ministério de Moisés.
+
+[[v6-21-9]]
+
+^<<v6-21-9,9>>^ Deram mais, da tribo dos filhos de Judá e da tribo dos filhos de Simeão, estas cidades, que por nome foram nomeadas,
+
+[[v6-21-10]]
+
+^<<v6-21-10,10>>^ Para que fossem dos filhos de Aarão, das famílias dos coatitas, dos filhos de Levi: porquanto a primeira sorte foi sua.
+
+[[v6-21-11]]
+
+^<<v6-21-11,11>>^ Assim lhes deram a cidade de Arba, do pai de Anoque (esta é  Hebrom), no monte de Judá, e os seus arrabaldes em redor dela.
+
+[[v6-21-12]]
+
+^<<v6-21-12,12>>^ Porém o campo da cidade, e as suas aldeias, deram a Calebe, filho de Jefoné, por sua possessão.
+
+[[v6-21-13]]
+
+^<<v6-21-13,13>>^ Assim aos filhos de Aarão, o sacerdote, deram a cidade de refúgio do homicida, Hebrom, e os seus arrabaldes, e Libna, e os seus arrabaldes;
+
+[[v6-21-14]]
+
+^<<v6-21-14,14>>^ E Jatir, e os seus arrabaldes, e Estmoa, e os seus arrabaldes;
+
+[[v6-21-15]]
+
+^<<v6-21-15,15>>^ E Colom, e os seus arrabaldes, e Debir, e os seus arrabaldes,
+
+[[v6-21-16]]
+
+^<<v6-21-16,16>>^ E Aim, e os seus arrabaldes, e Juta, e os seus arrabaldes, e  Bete-Semes, e os seus arrabaldes: nove cidades destas duas tribos.
+
+[[v6-21-17]]
+
+^<<v6-21-17,17>>^ E da tribo de Benjamim, Gibeom, e os seus arrabaldes, Geba, e os seus arrabaldes;
+
+[[v6-21-18]]
+
+^<<v6-21-18,18>>^ Anatote, e os seus arrabaldes, e Almom, e os seus arrabaldes; quatro cidades.
+
+[[v6-21-19]]
+
+^<<v6-21-19,19>>^ Todas as cidades dos sacerdotes, filhos de Aarão, foram  treze cidades e os seus arrabaldes.
+
+[[v6-21-20]]
+
+^<<v6-21-20,20>>^ E as famílias dos filhos de Coate, levitas, que ficaram dos filhos de Coate, tiveram as cidades da sua sorte da tribo de Efraim.
+
+[[v6-21-21]]
+
+^<<v6-21-21,21>>^ E deram-lhes Siquém, cidade de refúgio do homicida, e os seus arrabaldes, no monte de Efraim, e Gezer, e os seus arrabaldes;
+
+[[v6-21-22]]
+
+^<<v6-21-22,22>>^ Quibsaim, e os seus arrabaldes, e Beterom, e os seus arrabaldes: quatro cidades.
+
+[[v6-21-23]]
+
+^<<v6-21-23,23>>^ E da tribo de Dã Elteque, e os seus arrabaldes, Gibetom, e os seus arrabaldes;
+
+[[v6-21-24]]
+
+^<<v6-21-24,24>>^ Ajalom, e os seus arrabaldes, Gatrimom, e os seus arrabaldes: quatro cidades.
+
+[[v6-21-25]]
+
+^<<v6-21-25,25>>^ E da meia tribo de Manassés, Taanaque, e os seus arrabaldes, e Gatrimom, e os seus arrabaldes: duas cidades.
+
+[[v6-21-26]]
+
+^<<v6-21-26,26>>^ Todas as cidades para as famílias dos demais filhos de Coate foram  dez e os seus arrabaldes.
+
+[[v6-21-27]]
+
+^<<v6-21-27,27>>^ E aos filhos de Gérson, das famílias dos levitas, Golã da meia tribo de Manassés, cidade de refúgio do homicida, em Basã, e os seus arrabaldes, e Beestrá, e os seus arrabaldes: duas cidades.
+
+[[v6-21-28]]
+
+^<<v6-21-28,28>>^ E da tribo de Issacar, Quisjom, e os seus arrabaldes: Daberate, e os seus arrabaldes;
+
+[[v6-21-29]]
+
+^<<v6-21-29,29>>^ Jarmute, e os seus arrabaldes, En-Ganim, e os seus arrabaldes: quatro cidades.
+
+[[v6-21-30]]
+
+^<<v6-21-30,30>>^ E da tribo de Aser, Misal, e os seus arrabaldes, Abdom, e os seus arrabaldes;
+
+[[v6-21-31]]
+
+^<<v6-21-31,31>>^ Helcate, e os seus arrabaldes, e Roobe, e os seus arrabaldes: quatro cidades.
+
+[[v6-21-32]]
+
+^<<v6-21-32,32>>^ E da tribo de Naftali, Quedes, cidade de refúgio do homicida, em Galileia, e os seus arrabaldes, e Hamote-Dor e os seus arrabaldes; e Cartã, e os seus arrabaldes: três cidades.
+
+[[v6-21-33]]
+
+^<<v6-21-33,33>>^ Todas as cidades dos gersonitas, segundo as suas famílias, foram  treze cidades e os seus arrabaldes.
+
+[[v6-21-34]]
+
+^<<v6-21-34,34>>^ E às famílias dos demais filhos de Merari, dos levitas foram dadas  da tribo de Zebulom. Jocneão e os seus arrabaldes, Cartá e os seus arrabaldes.
+
+[[v6-21-35]]
+
+^<<v6-21-35,35>>^ Dimná e os seus arrabaldes, Naalal e os seus arrabaldes: quatro cidades.
+
+[[v6-21-36]]
+
+^<<v6-21-36,36>>^ E da tribo de Rúben, Bezer, e os seus arrabaldes, e Jaaz, e os seus arrabaldes;
+
+[[v6-21-37]]
+
+^<<v6-21-37,37>>^ Quedemote, e os seus arrabaldes, e Mefaate, e os seus arrabaldes: quatro cidades.
+
+[[v6-21-38]]
+
+^<<v6-21-38,38>>^ E da tribo de Gade, Ramote, cidade de refúgio do homicida, em Gileade, e os seus arrabaldes, e Maanaim, e os seus arrabaldes;
+
+[[v6-21-39]]
+
+^<<v6-21-39,39>>^ Hesbom, e os seus arrabaldes, Jaezer e os seus arrabaldes: por todas, quatro cidades.
+
+[[v6-21-40]]
+
+^<<v6-21-40,40>>^ Todas estas cidades foram  dos filhos de Merari, segundo as suas famílias, que ainda  restavam das famílias dos levitas: e foi a sua sorte doze cidades.
+
+[[v6-21-41]]
+
+^<<v6-21-41,41>>^ Todas as cidades dos levitas, no meio da herança dos filhos de Israel, foram  quarenta e oito cidades e os seus arrabaldes.
+
+[[v6-21-42]]
+
+^<<v6-21-42,42>>^ Estavam estas cidades cada qual com os seus arrabaldes em redor delas: assim estavam  todas estas cidades.
+
+[[v6-21-43]]
+
+^<<v6-21-43,43>>^ Desta sorte deu o Senhor a Israel toda a terra que jurara dar a seus pais: e a possuíram e habitaram nela.
+
+[[v6-21-44]]
+
+^<<v6-21-44,44>>^ E o Senhor lhes deu repouso em redor, conforme a tudo quanto jurara a seus pais: e nenhum de todos os seus inimigos ficou em pé diante deles; todos os seus inimigos o Senhor deu na sua mão.
+
+[[v6-21-45]]
+
+^<<v6-21-45,45>>^ Palavra alguma falhou de todas as boas palavras que o Senhor falara à casa de Israel: tudo se cumpriu.
+
+'''
+
+xref:006-josue/006-josue-020.adoc#v6-20-0[&#60; Capítulo Anterior] | <<v6-21-0,Topo>> | xref:006-josue/006-josue-022.adoc#v6-22-0[Próximo Capítulo &#62;]

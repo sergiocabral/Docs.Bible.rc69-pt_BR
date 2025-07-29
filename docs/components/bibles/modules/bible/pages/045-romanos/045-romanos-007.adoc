@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v45-7-0]]
+=== Romanos, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v45-7-1]]
+
+^<<v45-7-1,1>>^ NÃO sabeis vós, irmãos (pois que falo aos que sabem a lei), que a lei tem domínio sobre o homem por todo o tempo que vive?
+
+[[v45-7-2]]
+
+^<<v45-7-2,2>>^ Porque a mulher que está sujeita ao marido, enquanto ele viver, está-lhe ligada pela lei; mas, morto o marido, está livre da lei do marido.
+
+[[v45-7-3]]
+
+^<<v45-7-3,3>>^ De sorte que, vivendo o marido, será chamada adúltera, se for doutro marido; mas, morto o marido, livre está da lei, e assim não será adúltera, se for doutro marido.
+
+[[v45-7-4]]
+
+^<<v45-7-4,4>>^ Assim, meus irmãos, também vós estais mortos para a lei pelo corpo de Cristo, para que sejais doutro, daquele que ressuscitou de entre os mortos, a fim de que demos fruto para Deus.
+
+[[v45-7-5]]
+
+^<<v45-7-5,5>>^ Porque, quando estávamos na carne, as paixões dos pecados, que são pela lei, obravam em nossos membros para darem fruto para a morte.
+
+[[v45-7-6]]
+
+^<<v45-7-6,6>>^ Mas agora estamos livres da lei, pois morremos para aquilo em que estávamos retidos; para que sirvamos em novidade de espírito, e não na velhice da letra.
+
+[[v45-7-7]]
+
+^<<v45-7-7,7>>^ Que diremos pois? É a lei pecado? De modo nenhum: mas eu não conheci o pecado senão pela lei; porque eu não conheceria a concupiscência, se a lei não dissesse: Não cobiçarás.
+
+[[v45-7-8]]
+
+^<<v45-7-8,8>>^ Mas o pecado, tomando ocasião pelo mandamento, obrou em mim toda a concupiscência: porquanto sem a lei estava  morto o pecado.
+
+[[v45-7-9]]
+
+^<<v45-7-9,9>>^ E eu, nalgum tempo, vivia sem lei, mas, vindo o mandamento, reviveu o pecado, e eu morri;
+
+[[v45-7-10]]
+
+^<<v45-7-10,10>>^ E o mandamento que era para vida, achei eu que me era  para morte.
+
+[[v45-7-11]]
+
+^<<v45-7-11,11>>^ Porque o pecado, tomando ocasião pelo mandamento, me enganou, e por ele me  matou.
+
+[[v45-7-12]]
+
+^<<v45-7-12,12>>^ E assim a lei é  santa, e o mandamento santo, justo e bom.
+
+[[v45-7-13]]
+
+^<<v45-7-13,13>>^ Logo tornou-se-me o bom em morte? De modo nenhum; mas o pecado, para que se mostrasse pecado, operou em mim a morte pelo bem; a fim de que pelo mandamento o pecado se fizesse excessivamente maligno.
+
+[[v45-7-14]]
+
+^<<v45-7-14,14>>^ Porque bem sabemos que a lei é espiritual; mas eu sou carnal, vendido sob o pecado.
+
+[[v45-7-15]]
+
+^<<v45-7-15,15>>^ Porque o que faço não o aprovo, pois o que quero isso não faço, mas o que aborreço isso faço.
+
+[[v45-7-16]]
+
+^<<v45-7-16,16>>^ E, se faço o que não quero, consinto com a lei, que é  boa.
+
+[[v45-7-17]]
+
+^<<v45-7-17,17>>^ De maneira que agora já não sou eu que faço isto, mas o pecado que habita em mim.
+
+[[v45-7-18]]
+
+^<<v45-7-18,18>>^ Porque eu sei que em mim, isto é, na minha carne, não habita bem algum: e com efeito o querer está em mim, mas não consigo realizar o bem.
+
+[[v45-7-19]]
+
+^<<v45-7-19,19>>^ Porque não faço o bem que quero, mas o mal que não quero esse faço.
+
+[[v45-7-20]]
+
+^<<v45-7-20,20>>^ Ora, se eu faço o que não quero, já o não faço eu, mas o pecado que habita em mim.
+
+[[v45-7-21]]
+
+^<<v45-7-21,21>>^ Acho então esta lei em mim : que, quando quero fazer o bem, o mal está comigo.
+
+[[v45-7-22]]
+
+^<<v45-7-22,22>>^ Porque, segundo o homem interior, tenho prazer na lei de Deus.
+
+[[v45-7-23]]
+
+^<<v45-7-23,23>>^ Mas vejo nos meus membros outra lei que batalha contra a lei do meu entendimento, e me prende debaixo da lei do pecado que está nos meus membros.
+
+[[v45-7-24]]
+
+^<<v45-7-24,24>>^ Miserável homem que eu sou! quem me livrará do corpo desta morte?
+
+[[v45-7-25]]
+
+^<<v45-7-25,25>>^ Dou graças a Deus por Jesus Cristo nosso Senhor. Assim que eu mesmo com o entendimento sirvo à lei de Deus, mas com a carne à lei do pecado.
+
+'''
+
+xref:045-romanos/045-romanos-006.adoc#v45-6-0[&#60; Capítulo Anterior] | <<v45-7-0,Topo>> | xref:045-romanos/045-romanos-008.adoc#v45-8-0[Próximo Capítulo &#62;]

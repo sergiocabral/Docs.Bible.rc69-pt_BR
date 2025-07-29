@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v19-118-0]]
+=== Salmos, 118
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-118-1]]
+
+^<<v19-118-1,1>>^ LOUVAI ao Senhor, porque ele é bom, porque a sua benignidade é para sempre.
+
+[[v19-118-2]]
+
+^<<v19-118-2,2>>^ Diga agora Israel que a sua benignidade é para sempre.
+
+[[v19-118-3]]
+
+^<<v19-118-3,3>>^ Diga agora a casa de Aarão que a sua benignidade é para sempre.
+
+[[v19-118-4]]
+
+^<<v19-118-4,4>>^ Digam agora os que temem ao Senhor que a sua benignidade é para sempre.
+
+[[v19-118-5]]
+
+^<<v19-118-5,5>>^ Invoquei o Senhor na angústia; o Senhor me ouviu, e me pôs em um  lugar largo.
+
+[[v19-118-6]]
+
+^<<v19-118-6,6>>^ O Senhor está  comigo: não temerei o que me pode fazer o homem.
+
+[[v19-118-7]]
+
+^<<v19-118-7,7>>^ O Senhor está  comigo entre aqueles que me ajudam; pelo que verei cumprido o meu desejo  sobre os que me aborrecem.
+
+[[v19-118-8]]
+
+^<<v19-118-8,8>>^ É  melhor confiar no Senhor do que confiar no homem.
+
+[[v19-118-9]]
+
+^<<v19-118-9,9>>^ É  melhor confiar no Senhor do que confiar nos príncipes.
+
+[[v19-118-10]]
+
+^<<v19-118-10,10>>^ Todas as gentes me cercaram, mas no nome do Senhor as despedacei.
+
+[[v19-118-11]]
+
+^<<v19-118-11,11>>^ Cercaram-me, e tornaram a cercar-me; mas no nome do Senhor eu as despedacei.
+
+[[v19-118-12]]
+
+^<<v19-118-12,12>>^ Cercaram-me como abelhas: mas apagaram-se como fogo de espinhos; pois no nome do Senhor as despedacei.
+
+[[v19-118-13]]
+
+^<<v19-118-13,13>>^ Com força me impeliste para me fazeres cair, mas o Senhor me ajudou.
+
+[[v19-118-14]]
+
+^<<v19-118-14,14>>^ O Senhor é  a minha força e o meu  cântico, porque ele me salvou.
+
+[[v19-118-15]]
+
+^<<v19-118-15,15>>^ Nas tendas dos justos há  voz de júbilo e de salvação: a destra do Senhor faz proezas.
+
+[[v19-118-16]]
+
+^<<v19-118-16,16>>^ A destra do Senhor se exalta: a destra do Senhor faz proezas.
+
+[[v19-118-17]]
+
+^<<v19-118-17,17>>^ Não morrerei, mas viverei; e contarei as obras do Senhor.
+
+[[v19-118-18]]
+
+^<<v19-118-18,18>>^ O Senhor castigou-me muito, mas não me entregou à morte.
+
+[[v19-118-19]]
+
+^<<v19-118-19,19>>^ Abri-me as portas da justiça: entrarei por elas, e  louvarei ao Senhor.
+
+[[v19-118-20]]
+
+^<<v19-118-20,20>>^ Esta é  a porta do Senhor, pela qual os justos entrarão.
+
+[[v19-118-21]]
+
+^<<v19-118-21,21>>^ Louvar-te-ei, porque me escutaste, e me salvaste.
+
+[[v19-118-22]]
+
+^<<v19-118-22,22>>^ A pedra que  os edificadores rejeitaram tornou-se cabeça da esquina.
+
+[[v19-118-23]]
+
+^<<v19-118-23,23>>^ Foi o Senhor que fez isto, e é cousa maravilhosa aos nossos olhos.
+
+[[v19-118-24]]
+
+^<<v19-118-24,24>>^ Este é  o dia que fez o Senhor: regozijemo-nos, e alegremo-nos nele.
+
+[[v19-118-25]]
+
+^<<v19-118-25,25>>^ Oh! salva, Senhor, nós te pedimos; ó Senhor, nós te pedimos, prospera.
+
+[[v19-118-26]]
+
+^<<v19-118-26,26>>^ Bendito aquele que vem em nome do Senhor: nós vos bendizemos desde a casa do Senhor.
+
+[[v19-118-27]]
+
+^<<v19-118-27,27>>^ Deus é  o Senhor que nos deu a luz: atai a vítima da festa  com cordas, e levai-a até aos ângulos do altar.
+
+[[v19-118-28]]
+
+^<<v19-118-28,28>>^ Tu és  o meu Deus, e eu te louvarei; tu és  o meu Deus, e eu te exaltarei.
+
+[[v19-118-29]]
+
+^<<v19-118-29,29>>^ Louvai ao Senhor, porque ele é  bom; porque a sua benignidade é para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-117.adoc#v19-117-0[&#60; Capítulo Anterior] | <<v19-118-0,Topo>> | xref:019-salmos/019-salmos-119.adoc#v19-119-0[Próximo Capítulo &#62;]

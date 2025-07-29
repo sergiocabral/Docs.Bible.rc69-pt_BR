@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v47-1-0]]
+=== 2 Coríntios, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v47-1-1]]
+
+^<<v47-1-1,1>>^ PAULO, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo, à igreja de Deus, que está em Corinto, com todos os santos que estão em toda a Acaia.
+
+[[v47-1-2]]
+
+^<<v47-1-2,2>>^ Graça a vós e paz da parte de Deus nosso Pai e da do Senhor Jesus Cristo.
+
+[[v47-1-3]]
+
+^<<v47-1-3,3>>^ Bendito seja  o Deus e Pai de nosso Senhor Jesus Cristo, o Pai das misericórdias e o Deus de toda a consolação;
+
+[[v47-1-4]]
+
+^<<v47-1-4,4>>^ Que nos consola em toda a nossa tribulação, para que também possamos consolar os que estiverem em alguma tribulação, com a consolação com que nós mesmos somos consolados de Deus.
+
+[[v47-1-5]]
+
+^<<v47-1-5,5>>^ Porque, como as aflições de Cristo abundam em nós, assim também a nossa consolação abunda por meio de Cristo.
+
+[[v47-1-6]]
+
+^<<v47-1-6,6>>^ Mas, se somos atribulados, é  para vossa consolação e salvação; ou, se somos consolados, para vossa consolação é, a qual se opera suportando com paciência as mesmas aflições que nós também padecemos;
+
+[[v47-1-7]]
+
+^<<v47-1-7,7>>^ E a nossa esperança acerca de vós é firme, sabendo que, como sois participantes das aflições, assim o sereis  também da consolação.
+
+[[v47-1-8]]
+
+^<<v47-1-8,8>>^ Porque não queremos, irmãos, que ignoreis a tribulação que nos sobreveio na Ásia, pois que fomos sobremaneira agravados mais do que podíamos suportar, de modo tal que até da vida desesperamos.
+
+[[v47-1-9]]
+
+^<<v47-1-9,9>>^ Mas já em nós mesmos tínhamos a sentença de morte, para que não confiássemos em nós, mas em Deus, que ressuscita os mortos;
+
+[[v47-1-10]]
+
+^<<v47-1-10,10>>^ O qual nos livrou de tão grande morte, e livrará; em quem esperamos que também nos livrará ainda.
+
+[[v47-1-11]]
+
+^<<v47-1-11,11>>^ Ajudando-nos também vós com orações por nós, para que pela mercê, que por muitas pessoas nos foi feita , por muitas também  sejam dadas graças a nosso respeito.
+
+[[v47-1-12]]
+
+^<<v47-1-12,12>>^ Porque a nossa glória é esta: o testemunho da nossa consciência, de que com simplicidade e sinceridade de Deus, não com sabedoria carnal, mas na graça de Deus, temos vivido no mundo, e maiormente convosco.
+
+[[v47-1-13]]
+
+^<<v47-1-13,13>>^ Porque nenhumas outras coisas  vos escrevemos, senão as que já  sabeis ou também reconheceis; e espero que também até ao fim as reconhecereis.
+
+[[v47-1-14]]
+
+^<<v47-1-14,14>>^ Como também já  em parte reconhecestes em nós, que somos a vossa glória, como também vós sereis  a nossa no dia do Senhor Jesus.
+
+[[v47-1-15]]
+
+^<<v47-1-15,15>>^ E com esta confiança quis primeiro ir ter convosco, para que tivésseis uma segunda graça;
+
+[[v47-1-16]]
+
+^<<v47-1-16,16>>^ E por vós passar à Macedônia, e da Macedônia ir outra vez ter convosco, e ser guiado por vós à Judeia.
+
+[[v47-1-17]]
+
+^<<v47-1-17,17>>^ E, deliberando isto, usei porventura de leviandade? Ou o que delibero, o delibero segundo a carne, para que haja em mim sim sim, e não não?
+
+[[v47-1-18]]
+
+^<<v47-1-18,18>>^ Antes, como Deus é fiel, a nossa palavra para convosco, não foi sim e não.
+
+[[v47-1-19]]
+
+^<<v47-1-19,19>>^ Porque o Filho de Deus, Jesus Cristo, que entre vós foi pregado por nós, isto é, por mim, e Silvano, e Timóteo, não foi sim e não; mas nele houve sim.
+
+[[v47-1-20]]
+
+^<<v47-1-20,20>>^ Porque todas quantas promessas há de Deus, são nele sim, e por ele o Amém, para glória de Deus por nós.
+
+[[v47-1-21]]
+
+^<<v47-1-21,21>>^ Mas o que nos confirma convosco em Cristo, e o que nos ungiu, é  Deus,
+
+[[v47-1-22]]
+
+^<<v47-1-22,22>>^ O qual também nos selou e deu o penhor do Espírito em nossos corações.
+
+[[v47-1-23]]
+
+^<<v47-1-23,23>>^ Invoco, porém, a Deus por testemunha sobre a minha alma, que para vos poupar não tenho até agora ido a Corinto.
+
+[[v47-1-24]]
+
+^<<v47-1-24,24>>^ Não que tenhamos domínio sobre a vossa fé, mas porque somos cooperadores de vosso gozo; porque pela fé estais em pé.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-016.adoc#v46-16-0[&#60; Capítulo Anterior] | <<v47-1-0,Topo>> | xref:047-2-corintios/047-2-corintios-002.adoc#v47-2-0[Próximo Capítulo &#62;]

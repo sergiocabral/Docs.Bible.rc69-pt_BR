@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v7-2-0]]
+=== Juízes, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v7-2-1]]
+
+^<<v7-2-1,1>>^ E SUBIU o anjo do Senhor de Gilgal a Boquim, e disse: Do Egito vos fiz subir, e vos trouxe à terra que a vossos pais tinha jurado, e disse: Nunca invalidarei o meu concerto convosco.
+
+[[v7-2-2]]
+
+^<<v7-2-2,2>>^ E, quanto a vós, não fareis concerto com os moradores desta terra, antes  derrubareis os seus altares: mas vós não obedecestes à minha voz. Por que fizestes isto?
+
+[[v7-2-3]]
+
+^<<v7-2-3,3>>^ Pelo que também eu disse: Não os expelirei de diante de vós: antes estarão às vossas ilhargas, e os seus deuses vos serão por laço.
+
+[[v7-2-4]]
+
+^<<v7-2-4,4>>^ E sucedeu que , falando o anjo do Senhor estas palavras a todos os filhos de Israel, o povo levantou a sua voz e chorou.
+
+[[v7-2-5]]
+
+^<<v7-2-5,5>>^ Pelo que chamaram àquele lugar, Boquim: e sacrificaram ali ao Senhor.
+
+[[v7-2-6]]
+
+^<<v7-2-6,6>>^ E havendo Josué despedido o povo, foram-se os filhos de Israel, cada um à sua herdade, para possuírem a terra.
+
+[[v7-2-7]]
+
+^<<v7-2-7,7>>^ E serviu o povo ao Senhor todos os dias de Josué, e todos os dias dos anciãos que prolongaram os seus dias depois de Josué, e viram toda aquela grande obra do Senhor, a qual ele fizera a Israel.
+
+[[v7-2-8]]
+
+^<<v7-2-8,8>>^ Faleceu porém Josué, filho de Num, servo do Senhor, da idade de cento e dez anos;
+
+[[v7-2-9]]
+
+^<<v7-2-9,9>>^ E sepultaram-no no termo da sua herdade, em Timnate-Heres, no monte de Efraim, para o norte do monte de Gaás.
+
+[[v7-2-10]]
+
+^<<v7-2-10,10>>^ E foi também congregada toda aquela geração a seus pais, e outra geração após deles se levantou, que não conhecia ao Senhor, nem tão pouco a obra que fizera a Israel.
+
+[[v7-2-11]]
+
+^<<v7-2-11,11>>^ Então fizeram os filhos de Israel o que parecia  mal aos olhos do Senhor: e serviram aos baalins.
+
+[[v7-2-12]]
+
+^<<v7-2-12,12>>^ E deixaram ao Senhor Deus de seus pais, que os tirara da terra do Egito, e foram-se após doutros deuses, dentre os deuses das gentes, que havia  ao redor deles, e encurvaram-se a eles: e provocaram ao Senhor a ira.
+
+[[v7-2-13]]
+
+^<<v7-2-13,13>>^ Porquanto deixaram ao Senhor: e serviram a Baal e a Astarote.
+
+[[v7-2-14]]
+
+^<<v7-2-14,14>>^ Pelo que a ira do Senhor se acendeu contra Israel, e os deu na mão dos roubadores, e os roubaram: e os entregou na mão dos seus inimigos ao redor: e não puderam mais estar em pé diante dos seus inimigos.
+
+[[v7-2-15]]
+
+^<<v7-2-15,15>>^ Por onde quer que saíam, a mão do Senhor era contra eles para mal, como o Senhor tinha dito, e como o Senhor lho tinha jurado: e estavam em grande aperto.
+
+[[v7-2-16]]
+
+^<<v7-2-16,16>>^ E levantou o Senhor juízes, que os livraram da mão dos que os roubaram.
+
+[[v7-2-17]]
+
+^<<v7-2-17,17>>^ Porém tão pouco ouviram aos juízes, antes se prostituíram após outros deuses, e encurvaram-se a eles: depressa se desviaram do caminho, por onde andaram seus pais ouvindo os mandamentos do Senhor; mas eles  não fizeram assim.
+
+[[v7-2-18]]
+
+^<<v7-2-18,18>>^ E, quando o Senhor lhes levantava juízes, o Senhor era com o juiz, e os livrava da mão dos seus inimigos, todos os dias daquele juiz; porquanto o Senhor se arrependia pelo seu gemido, por causa dos que os apertavam e oprimiam.
+
+[[v7-2-19]]
+
+^<<v7-2-19,19>>^ Porém sucedia que , falecendo o juiz, tornavam e se corrompiam mais do que seus pais, andando após de outros deuses, servindo-os, e encurvando-se a eles: nada deixavam das suas obras, nem do seu duro caminho.
+
+[[v7-2-20]]
+
+^<<v7-2-20,20>>^ Pelo que a ira do Senhor se acendeu contra Israel; e disse: Porquanto este povo traspassou o meu concerto, que tinha ordenado a seus pais, e não deram ouvidos à minha voz.
+
+[[v7-2-21]]
+
+^<<v7-2-21,21>>^ Tão pouco desapossarei mais de diante deles a nenhuma das nações, que Josué deixou, morrendo;
+
+[[v7-2-22]]
+
+^<<v7-2-22,22>>^ Para por elas provar a Israel, se hão de guardar o caminho do Senhor, como seus pais o guardaram, para por ele andarem, ou não.
+
+[[v7-2-23]]
+
+^<<v7-2-23,23>>^ Assim o Senhor deixou ficar aquelas nações, e não as desterrou logo, nem as entregou na mão de Josué.
+
+'''
+
+xref:007-juizes/007-juizes-001.adoc#v7-1-0[&#60; Capítulo Anterior] | <<v7-2-0,Topo>> | xref:007-juizes/007-juizes-003.adoc#v7-3-0[Próximo Capítulo &#62;]

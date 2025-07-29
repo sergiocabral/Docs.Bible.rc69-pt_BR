@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v22-6-0]]
+=== Cânticos, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v22-6-1]]
+
+^<<v22-6-1,1>>^ PARA onde foi o teu amado, ó mais formosa entre as mulheres? para onde virou a vista o teu amado, e o buscaremos contigo?
+
+[[v22-6-2]]
+
+^<<v22-6-2,2>>^ O meu amado desceu ao seu jardim, aos canteiros de bálsamo, para se alimentar nos jardins e para colher os lírios.
+
+[[v22-6-3]]
+
+^<<v22-6-3,3>>^ Eu sou  do meu amado, e o meu amado é  meu: ele se alimenta entre os lírios.
+
+[[v22-6-4]]
+
+^<<v22-6-4,4>>^ Formosa és , amiga minha, como Tirzá, aprazível como Jerusalém, formidável como um exército com bandeiras.
+
+[[v22-6-5]]
+
+^<<v22-6-5,5>>^ Desvia de mim os teus olhos, porque eles me perturbam. O teu cabelo é como o rebanho das cabras que pastam em Gileade.
+
+[[v22-6-6]]
+
+^<<v22-6-6,6>>^ Os teus dentes são como o rebanho de ovelhas que sobem do lavadouro, e das quais todas produzem gêmeos, e não há  estéril entre elas.
+
+[[v22-6-7]]
+
+^<<v22-6-7,7>>^ Como um  pedaço de romã, assim são  as tuas faces entre as tuas tranças.
+
+[[v22-6-8]]
+
+^<<v22-6-8,8>>^ Sessenta são as rainhas, e oitenta as concubinas, e as virgens sem número.
+
+[[v22-6-9]]
+
+^<<v22-6-9,9>>^ Mas uma é a minha pomba, a minha imaculada, a única de sua mãe, e a mais querida de aquela que a deu à luz; vendo-a, as filhas lhe chamarão bem-aventurada, as rainhas e as concubinas a louvarão.
+
+[[v22-6-10]]
+
+^<<v22-6-10,10>>^ Quem é  esta que aparece como a alva do dia, formosa como a lua, brilhante como o sol, formidável como um exército com bandeiras?
+
+[[v22-6-11]]
+
+^<<v22-6-11,11>>^ Desci ao jardim das nogueiras, para ver os novos frutos do vale, a ver se floresciam as vides e  brotavam as romeiras.
+
+[[v22-6-12]]
+
+^<<v22-6-12,12>>^ Antes de eu o  sentir, me pôs a minha alma nos carros do meu povo excelente.
+
+[[v22-6-13]]
+
+^<<v22-6-13,13>>^ Volta, volta, ó Sulamita, volta, volta, para que nós te vejamos. Por que olhas para a Sulamita como para as fileiras de dois exércitos?
+
+'''
+
+xref:022-canticos/022-canticos-005.adoc#v22-5-0[&#60; Capítulo Anterior] | <<v22-6-0,Topo>> | xref:022-canticos/022-canticos-007.adoc#v22-7-0[Próximo Capítulo &#62;]

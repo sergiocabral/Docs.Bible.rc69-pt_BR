@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v4-36-0]]
+=== Números, 36
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-36-1]]
+
+^<<v4-36-1,1>>^ E CHEGARAM os cabeças dos pais da geração dos filhos de Gileade, filho de Maquir, filho de Manassés, das famílias dos filhos de José, e falaram diante de Moisés, e diante dos maiorais, cabeças dos pais dos filhos de Israel.
+
+[[v4-36-2]]
+
+^<<v4-36-2,2>>^ E disseram: O Senhor mandou dar esta terra a meu senhor por sorte, em herança aos filhos de Israel: e a meu senhor foi ordenado pelo Senhor, que a herança do nosso irmão Selofade se desse a suas filhas.
+
+[[v4-36-3]]
+
+^<<v4-36-3,3>>^ E, casando-se elas com algum dos filhos das outras  tribos dos filhos de Israel, então a sua herança seria diminuída da herança de nossos pais, e acrescentada à herança da tribo de quem forem: assim se tiraria da sorte da nossa herança.
+
+[[v4-36-4]]
+
+^<<v4-36-4,4>>^ Vindo também o ano do  jubileu dos filhos de Israel, a sua herança se acrescentaria à herança da tribo daqueles com que se casarem: assim a sua herança será tirada da herança da tribo de nossos pais.
+
+[[v4-36-5]]
+
+^<<v4-36-5,5>>^ Então Moisés deu ordem aos filhos de Israel, segundo o mandado do Senhor, dizendo: A tribo dos filhos de José fala bem.
+
+[[v4-36-6]]
+
+^<<v4-36-6,6>>^ Esta é  a palavra que o Senhor mandou acerca das filhas de Selofade, dizendo: Sejam por mulheres a quem bem parecer aos seus olhos, contanto que se casem na família da tribo de seu pai.
+
+[[v4-36-7]]
+
+^<<v4-36-7,7>>^ Assim a herança dos filhos de Israel não passará de tribo em tribo: pois os filhos de Israel se chegarão cada um à herança da tribo de seus pais.
+
+[[v4-36-8]]
+
+^<<v4-36-8,8>>^ E qualquer filha que herdar alguma  herança das tribos dos filhos de Israel se casará com alguém da geração da tribo de seu pai: para que os filhos de Israel possuam cada um a herança de seus pais.
+
+[[v4-36-9]]
+
+^<<v4-36-9,9>>^ Assim a herança não passará duma tribo a outra: pois as tribos dos filhos de Israel se chegarão cada uma à sua herança.
+
+[[v4-36-10]]
+
+^<<v4-36-10,10>>^ Como o Senhor ordenara a Moisés, assim fizeram as filhas de Selofade.
+
+[[v4-36-11]]
+
+^<<v4-36-11,11>>^ Pois Macla, Tirzá, e Hogla, e Milca e Noa, filhas de Selofade, se casaram com os  filhos de seus tios.
+
+[[v4-36-12]]
+
+^<<v4-36-12,12>>^ Das famílias dos de Manassés filho de José, elas foram mulheres: assim a sua herança ficou à tribo da família de seu pai.
+
+[[v4-36-13]]
+
+^<<v4-36-13,13>>^ Estes são  os mandamentos e os juízos que mandou o Senhor pela mão de Moisés aos filhos de Israel nas campinas dos moabitas, junto ao Jordão de  Jericó.
+
+'''
+
+xref:004-numeros/004-numeros-035.adoc#v4-35-0[&#60; Capítulo Anterior] | <<v4-36-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-001.adoc#v5-1-0[Próximo Capítulo &#62;]

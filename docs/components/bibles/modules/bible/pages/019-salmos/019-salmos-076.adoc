@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-76-0]]
+=== Salmos, 76
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-76-1]]
+
+^<<v19-76-1,1>>^ CONHECIDO é  Deus em Judá: grande é  o seu nome em Israel.
+
+[[v19-76-2]]
+
+^<<v19-76-2,2>>^ E em Salém está o seu tabernáculo, e a sua morada em Sião.
+
+[[v19-76-3]]
+
+^<<v19-76-3,3>>^ Ali quebrou as frechas do arco; o escudo, e a espada, e a guerra. (Selá.)
+
+[[v19-76-4]]
+
+^<<v19-76-4,4>>^ Tu és  mais ilustre, e glorioso, do que os montes de presa.
+
+[[v19-76-5]]
+
+^<<v19-76-5,5>>^ Os que são ousados de coração foram despojados; dormiram o seu sono, e nenhum dos homens de força achou as suas mãos.
+
+[[v19-76-6]]
+
+^<<v19-76-6,6>>^ À tua repreensão, ó Deus de Jacó, carros e cavalos são lançados num sono profundo.
+
+[[v19-76-7]]
+
+^<<v19-76-7,7>>^ Tu, tu és  terrível; e quem subsistirá à tua vista, se te irares?
+
+[[v19-76-8]]
+
+^<<v19-76-8,8>>^ Desde os céus fizeste ouvir o teu juízo; a terra tremeu e se aquietou,
+
+[[v19-76-9]]
+
+^<<v19-76-9,9>>^ Quando Deus se levantou para julgar, para livrar a todos os mansos da terra. (Selá.)
+
+[[v19-76-10]]
+
+^<<v19-76-10,10>>^ Porque a cólera do homem redundará em teu louvor, o restante da cólera tu o restringirás.
+
+[[v19-76-11]]
+
+^<<v19-76-11,11>>^ Fazei votos, e pagai ao Senhor, vosso Deus: tragam presentes, os que estão em redor dele, àquele que é tremendo.
+
+[[v19-76-12]]
+
+^<<v19-76-12,12>>^ Ele ceifará o espírito dos príncipes: é  tremendo para com os reis da terra.
+
+'''
+
+xref:019-salmos/019-salmos-075.adoc#v19-75-0[&#60; Capítulo Anterior] | <<v19-76-0,Topo>> | xref:019-salmos/019-salmos-077.adoc#v19-77-0[Próximo Capítulo &#62;]

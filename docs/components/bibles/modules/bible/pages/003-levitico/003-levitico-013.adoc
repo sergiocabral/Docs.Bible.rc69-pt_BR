@@ -1,0 +1,245 @@
+include::./index.adoc[]
+
+[[v3-13-0]]
+=== Levítico, 13
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v3-13-1]]
+
+^<<v3-13-1,1>>^ FALOU mais o Senhor a Moisés, e a Aarão, dizendo:
+
+[[v3-13-2]]
+
+^<<v3-13-2,2>>^ O homem, quando na pele da sua carne houver inchação, ou pústula, ou empola branca, que estiver na pele de sua carne como  praga de lepra, então será levado a Aarão o sacerdote, ou a um de seus filhos, os sacerdotes,
+
+[[v3-13-3]]
+
+^<<v3-13-3,3>>^ E o sacerdote examinará a praga na pele da carne; se o pelo na praga se tornou branco, e a praga parecer mais profunda do que a pele da sua carne, praga da lepra é ; o sacerdote, vendo-o, o declarará por imundo.
+
+[[v3-13-4]]
+
+^<<v3-13-4,4>>^ Mas, se a empola na pele de sua carne for  branca, e não parecer mais profunda do que a pele, e o pelo não se tornou branco, então o sacerdote encerrará o que tem  a praga por sete dias;
+
+[[v3-13-5]]
+
+^<<v3-13-5,5>>^ E ao sétimo dia o sacerdote o examinará; e eis que, se a praga ao seu parecer parou, e a praga na pele se não estendeu, então o sacerdote o encerrará por outros sete dias;
+
+[[v3-13-6]]
+
+^<<v3-13-6,6>>^ E o sacerdote ao sétimo dia o examinará outra vez; e eis que, se a praga se recolheu, e a praga na pele se não estendeu, então o sacerdote o declarará por limpo: apostema é ; e lavará os seus vestidos, e será limpo.
+
+[[v3-13-7]]
+
+^<<v3-13-7,7>>^ Mas, se o apostema na pele se estende grandemente, depois que foi mostrado ao sacerdote para a sua purificação, outra vez será mostrado ao sacerdote,
+
+[[v3-13-8]]
+
+^<<v3-13-8,8>>^ E o sacerdote o examinará, e eis que, se o apostema na pele se tem estendido, o sacerdote o declarará por imundo: lepra é.
+
+[[v3-13-9]]
+
+^<<v3-13-9,9>>^ Quando no homem houver praga de lepra, será levado ao sacerdote,
+
+[[v3-13-10]]
+
+^<<v3-13-10,10>>^ E o sacerdote o examinará, e eis que, se há inchação branca na pele, a qual tornou o pelo branco, e houver alguma  vivificação da carne viva na inchação,
+
+[[v3-13-11]]
+
+^<<v3-13-11,11>>^ Lepra envelhecida é na pele da sua carne: portanto o sacerdote o declarará por imundo: não o encerrará, porque imundo é.
+
+[[v3-13-12]]
+
+^<<v3-13-12,12>>^ E, se a lepra florescer de todo na pele, e a lepra cobrir toda a pele do que tem a praga, desde a sua cabeça até aos seus pés, quanto podem ver os olhos do sacerdote,
+
+[[v3-13-13]]
+
+^<<v3-13-13,13>>^ Então o sacerdote examinará, e eis que, se a lepra tem coberto toda a sua carne, então declarará limpo o que tem a mancha: todo se tornou branco; limpo está.
+
+[[v3-13-14]]
+
+^<<v3-13-14,14>>^ Mas no dia em que aparecer nela carne viva será imundo.
+
+[[v3-13-15]]
+
+^<<v3-13-15,15>>^ Vendo pois o sacerdote a carne viva, declará-lo-á por imundo: a carne é imunda: lepra é.
+
+[[v3-13-16]]
+
+^<<v3-13-16,16>>^ Ou, tornando a carne viva, e mudando-se em branca, então virá ao sacerdote,
+
+[[v3-13-17]]
+
+^<<v3-13-17,17>>^ E o sacerdote o examinará, e eis que, se a praga se tornou branca, então o sacerdote por limpo declarará o que tem  a mancha; limpo está.
+
+[[v3-13-18]]
+
+^<<v3-13-18,18>>^ Se também a carne, em cuja pele houver alguma úlcera, se sarar,
+
+[[v3-13-19]]
+
+^<<v3-13-19,19>>^ E, em lugar do apostema, vier inchação branca ou empola branca, tirando a vermelho, mostrar-se-á então ao sacerdote.
+
+[[v3-13-20]]
+
+^<<v3-13-20,20>>^ E o sacerdote examinará, e eis que, se ela parece mais funda do que a pele, e o seu pelo se tornou branco, o sacerdote o declarará por imundo: praga de lepra é; pelo apostema brotou.
+
+[[v3-13-21]]
+
+^<<v3-13-21,21>>^ E o sacerdote, vendo-a, e eis que nela não aparece  pelo branco, nem está mais funda do que a pele, mas encolhida, então o sacerdote o encerrará por sete dias.
+
+[[v3-13-22]]
+
+^<<v3-13-22,22>>^ Se depois grandemente se estender na pele, o sacerdote o declarará por imundo; praga é.
+
+[[v3-13-23]]
+
+^<<v3-13-23,23>>^ Mas, se a empola parar no seu lugar, não se estendendo, inflamação do apostema é; o sacerdote pois o declarará por limpo.
+
+[[v3-13-24]]
+
+^<<v3-13-24,24>>^ Ou, quando na pele da carne houver queimadura de fogo, e no que é sarado da queimadura houver empola branca, tirando a vermelho ou branco,
+
+[[v3-13-25]]
+
+^<<v3-13-25,25>>^ E o sacerdote, vendo-a, e eis que o pelo na empola se tornou branco, e ela parece mais funda do que a pele, lepra é, que  floresceu pela queimadura: portanto o sacerdote o declarará por imundo; praga de lepra é.
+
+[[v3-13-26]]
+
+^<<v3-13-26,26>>^ Mas, se o sacerdote, vendo-a, e eis que, na empola não aparecer pelo branco, nem estiver mais funda do que a pele, mas recolhida, o sacerdote o encerrará por sete dias.
+
+[[v3-13-27]]
+
+^<<v3-13-27,27>>^ Depois o sacerdote o examinará ao sétimo dia; se grandemente se houver estendido na pele, o sacerdote o declarará por imundo; praga de lepra é.
+
+[[v3-13-28]]
+
+^<<v3-13-28,28>>^ Mas se a empola parar no seu lugar, e na pele não se estender, mas se recolher, inchação da queimadura é: portanto o sacerdote o declarará por limpo, porque sinal é da queimadura.
+
+[[v3-13-29]]
+
+^<<v3-13-29,29>>^ E, quando homem ou mulher tiverem chaga na cabeça ou na barba,
+
+[[v3-13-30]]
+
+^<<v3-13-30,30>>^ E o sacerdote, examinando a chaga, e eis que, se ela parece mais funda do que a pele, e pelo amarelo fino nela há, o sacerdote o declarará por imundo; tinha é, lepra da cabeça ou da barba é.
+
+[[v3-13-31]]
+
+^<<v3-13-31,31>>^ Mas, se o sacerdote, havendo examinado a praga da tinha, e eis que, se ela não parece mais funda do que a pele, e se nela não houver pelo preto, então o sacerdote encerrará o que tem  a praga da tinha por sete dias,
+
+[[v3-13-32]]
+
+^<<v3-13-32,32>>^ E o sacerdote examinará a praga ao sétimo dia, e eis que se a tinha não for estendida, e nela não houver pelo amarelo, nem a tinha parecer mais funda do que a pele,
+
+[[v3-13-33]]
+
+^<<v3-13-33,33>>^ Então se rapará; mas não rapará a tinha; e o sacerdote segunda vez encerrará o que tem  a tinha por sete dias.
+
+[[v3-13-34]]
+
+^<<v3-13-34,34>>^ Depois o sacerdote examinará a tinha ao sétimo dia; e eis que, se a tinha não se houver estendido na pele, e ela não parecer mais funda do que a pele, o sacerdote o declarará por limpo, e lavará os seus vestidos, e será limpo.
+
+[[v3-13-35]]
+
+^<<v3-13-35,35>>^ Mas, se a tinha, depois da sua purificação, se houver estendido grandemente na pele,
+
+[[v3-13-36]]
+
+^<<v3-13-36,36>>^ Então o sacerdote o examinará, e eis que, se a tinha se tem estendido na pele, o sacerdote não buscará pelo amarelo: imundo está.
+
+[[v3-13-37]]
+
+^<<v3-13-37,37>>^ Mas, se a tinha, a seu ver, parou, e pelo preto nela cresceu, a tinha está sã, limpo está; portanto o sacerdote o declarará por limpo.
+
+[[v3-13-38]]
+
+^<<v3-13-38,38>>^ E, quando homem ou mulher tiverem empolas brancas na pele da sua carne,
+
+[[v3-13-39]]
+
+^<<v3-13-39,39>>^ Então o sacerdote olhará, e eis que, se na pele da sua carne aparecem empolas recolhidas, brancas, bostela branca é, que  floresceu na pele; limpo está.
+
+[[v3-13-40]]
+
+^<<v3-13-40,40>>^ E, quando se pelar a cabeça do homem, calvo é, limpo está.
+
+[[v3-13-41]]
+
+^<<v3-13-41,41>>^ E, se lhe pelar a frente da cabeça, meio calvo é; limpo está.
+
+[[v3-13-42]]
+
+^<<v3-13-42,42>>^ Porém, se na calva, ou na meia calva houver praga branca avermelhada, lepra é, florescendo na sua calva ou na sua meia-calva.
+
+[[v3-13-43]]
+
+^<<v3-13-43,43>>^ Havendo pois o sacerdote examinado, e eis que, se a inchação da praga na sua calva ou meia-calva está  branca, tirando a vermelho, como parece a lepra na pele da carne,
+
+[[v3-13-44]]
+
+^<<v3-13-44,44>>^ Leproso é aquele homem, imundo está: o sacerdote o declarará totalmente por imundo, na sua cabeça tem a sua praga.
+
+[[v3-13-45]]
+
+^<<v3-13-45,45>>^ Também os vestidos do leproso, em quem está a praga, serão rasgados, e a sua cabeça será descoberta, e cobrirá o beiço superior, e clamará: Imundo, imundo.
+
+[[v3-13-46]]
+
+^<<v3-13-46,46>>^ Todos os dias em que a praga estiver nele, será imundo; imundo está, habitará só, a sua habitação será  fora do arraial.
+
+[[v3-13-47]]
+
+^<<v3-13-47,47>>^ Quando também em algum vestido houver praga de lepra, em vestido de lã, ou em vestido de linho,
+
+[[v3-13-48]]
+
+^<<v3-13-48,48>>^ Ou no fio urdido, ou no fio tecido, seja de linho, ou seja de lã, ou em pele, ou em qualquer obra de peles,
+
+[[v3-13-49]]
+
+^<<v3-13-49,49>>^ E a praga no vestido, ou na pele, ou no fio urdido, ou no fio tecido, ou em qualquer cousa de peles aparecer verde ou vermelha, praga de lepra é, pelo que se mostrará ao sacerdote,
+
+[[v3-13-50]]
+
+^<<v3-13-50,50>>^ E o sacerdote examinará a praga, e encerrará a cousa que tem  a praga por sete dias.
+
+[[v3-13-51]]
+
+^<<v3-13-51,51>>^ Então examinará a praga ao sétimo dia; se a praga se houver estendido no vestido, ou no fio urdido, ou no fio tecido, ou na pele, para qualquer obra que for feita da pele, lepra roedora é, imundo está;
+
+[[v3-13-52]]
+
+^<<v3-13-52,52>>^ Pelo que se queimará aquele vestido, ou fio urdido, ou fio tecido de lã, ou de linho, ou de qualquer obra de peles, em que houver a praga, porque lepra roedora é; com fogo se queimará.
+
+[[v3-13-53]]
+
+^<<v3-13-53,53>>^ Mas se, vendo-a o sacerdote, a praga se não estendeu no vestido, ou no fio urdido, ou no tecido, ou em qualquer obra de peles,
+
+[[v3-13-54]]
+
+^<<v3-13-54,54>>^ Então o sacerdote ordenará que se lave aquilo  no qual havia  a praga, e o encerrará segunda vez por sete dias;
+
+[[v3-13-55]]
+
+^<<v3-13-55,55>>^ E o sacerdote, examinando a praga, depois que for lavada, e eis que se a praga não mudou o seu parecer, nem a praga se estendeu, imundo está, com fogo o queimarás; praga  penetrante é, seja pelado em todo ou em parte.
+
+[[v3-13-56]]
+
+^<<v3-13-56,56>>^ Mas se o sacerdote vir que a praga se tem recolhido, depois que for lavada, então a rasgará do vestido, ou da pele, ou do fio urdido ou tecido;
+
+[[v3-13-57]]
+
+^<<v3-13-57,57>>^ E, se ainda aparecer no vestido, ou no fio urdido ou tecido ou em qualquer cousa de peles, lepra  brotante é: com fogo queimarás aquilo em que há a praga;
+
+[[v3-13-58]]
+
+^<<v3-13-58,58>>^ Mas o vestido, ou fio urdido ou tecido, ou qualquer cousa de peles, que lavares, e de que a praga se retirar, se lavará segunda vez, e será limpo.
+
+[[v3-13-59]]
+
+^<<v3-13-59,59>>^ Esta é  a lei de praga da lepra do vestido de lã, ou de linho, ou do fio urdido ou tecido, ou de qualquer cousa de peles, para declará-lo por limpo, ou para declará-lo por imundo.
+
+'''
+
+xref:003-levitico/003-levitico-012.adoc#v3-12-0[&#60; Capítulo Anterior] | <<v3-13-0,Topo>> | xref:003-levitico/003-levitico-014.adoc#v3-14-0[Próximo Capítulo &#62;]

@@ -1,0 +1,233 @@
+include::./index.adoc[]
+
+[[v42-23-0]]
+=== Lucas, 23
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v42-23-1]]
+
+^<<v42-23-1,1>>^ E, LEVANTANDO-SE toda a multidão deles, o levaram a Pilatos.
+
+[[v42-23-2]]
+
+^<<v42-23-2,2>>^ E começaram a acusá-lo, dizendo: Havemos achado este, pervertendo a nossa nação, proibindo dar o tributo a César, e dizendo que ele mesmo é Cristo, o  rei.
+
+[[v42-23-3]]
+
+^<<v42-23-3,3>>^ E Pilatos perguntou-lhe, dizendo: Tu és o Rei dos Judeus? E ele, respondendo, disse-lhe: Tu o  dizes.
+
+[[v42-23-4]]
+
+^<<v42-23-4,4>>^ E disse Pilatos aos principais dos sacerdotes, e à multidão: Não acho culpa alguma neste homem.
+
+[[v42-23-5]]
+
+^<<v42-23-5,5>>^ Mas eles insistiam cada vez mais, dizendo: Alvoroça o povo ensinando por toda a Judeia, começando desde a Galileia até aqui.
+
+[[v42-23-6]]
+
+^<<v42-23-6,6>>^ Então Pilatos, ouvindo falar  da Galileia, perguntou se aquele homem era galileu.
+
+[[v42-23-7]]
+
+^<<v42-23-7,7>>^ E, sabendo que era da jurisdição de Herodes, remeteu-o a Herodes, que também naqueles dias estava em Jerusalém.
+
+[[v42-23-8]]
+
+^<<v42-23-8,8>>^ E Herodes, quando viu a Jesus alegrou-se muito; porque havia muito que desejava vê-lo, por ter ouvido dele muitas coisas ; e esperava que lhe veria fazer algum sinal;
+
+[[v42-23-9]]
+
+^<<v42-23-9,9>>^ E interrogava-o com muitas palavras, mas ele nada lhe respondia.
+
+[[v42-23-10]]
+
+^<<v42-23-10,10>>^ E estavam os principais dos sacerdotes, e os escribas, acusando-o com grande veemência.
+
+[[v42-23-11]]
+
+^<<v42-23-11,11>>^ E Herodes, com os seus soldados, desprezou-o, e, escarnecendo dele, vestiu-o de uma roupa resplandecente e tornou a enviá-lo a Pilatos.
+
+[[v42-23-12]]
+
+^<<v42-23-12,12>>^ E no mesmo dia Pilatos e Herodes entre si se fizeram amigos; pois dantes andavam em inimizade um com o outro.
+
+[[v42-23-13]]
+
+^<<v42-23-13,13>>^ E, convocando Pilatos os principais dos sacerdotes, e os magistrados, e o povo, disse-lhes:
+
+[[v42-23-14]]
+
+^<<v42-23-14,14>>^ Haveis-me apresentado este homem como pervertedor do povo; e eis que, examinando-o na vossa presença, nenhuma culpa, das de que o acusais, acho neste homem.
+
+[[v42-23-15]]
+
+^<<v42-23-15,15>>^ Nem mesmo Herodes, porque a ele vos remeti, e eis que não tem feito coisa alguma digna de morte.
+
+[[v42-23-16]]
+
+^<<v42-23-16,16>>^ Castigá-lo-ei pois, e soltá-lo-ei.
+
+[[v42-23-17]]
+
+^<<v42-23-17,17>>^ E era-lhe necessário soltar-lhes um pela festa.
+
+[[v42-23-18]]
+
+^<<v42-23-18,18>>^ Mas toda a multidão clamou à uma, dizendo: Fora daqui com este, e solta-nos Barrabás.
+
+[[v42-23-19]]
+
+^<<v42-23-19,19>>^ O qual fora lançado na prisão por causa de uma sedição feita na cidade, e de um homicídio.
+
+[[v42-23-20]]
+
+^<<v42-23-20,20>>^ Falou pois outra vez Pilatos, querendo soltar a Jesus.
+
+[[v42-23-21]]
+
+^<<v42-23-21,21>>^ Mas eles clamavam em contrário, dizendo: Crucifica- o  crucifica-o
+
+[[v42-23-22]]
+
+^<<v42-23-22,22>>^ Então ele, pela terceira vez, lhes disse: Mas que mal fez este? Não acho nele culpa alguma de morte. Castigá-lo-ei pois, e soltá-lo-ei.
+
+[[v42-23-23]]
+
+^<<v42-23-23,23>>^ Mas eles instavam com grandes gritos, pedindo que fosse crucificado. E os seus gritos, e os dos principais dos sacerdotes, redobravam.
+
+[[v42-23-24]]
+
+^<<v42-23-24,24>>^ Então Pilatos julgou que devia fazer o que eles pediam.
+
+[[v42-23-25]]
+
+^<<v42-23-25,25>>^ E soltou-lhes o que fora lançado na prisão por uma sedição e homicídio, que era o que pediam; mas entregou Jesus à vontade deles.
+
+[[v42-23-26]]
+
+^<<v42-23-26,26>>^ E quando o iam levando, tomaram um certo Simão, cireneu, que vinha do campo, e puseram-lhe a cruz às costas, para que a levasse após Jesus.
+
+[[v42-23-27]]
+
+^<<v42-23-27,27>>^ E seguia-o grande multidão de povo e de mulheres, as quais batiam nos peitos, e o lamentavam.
+
+[[v42-23-28]]
+
+^<<v42-23-28,28>>^ Porém Jesus, voltando-se para elas, disse: Filhas de Jerusalém, não choreis por mim, chorai antes por vós mesmas, e por vossos filhos.
+
+[[v42-23-29]]
+
+^<<v42-23-29,29>>^ Porque eis que hão de vir dias em que dirão: Bem-aventuradas as estéreis, e os ventres que não geraram, e os peitos que não amamentaram!
+
+[[v42-23-30]]
+
+^<<v42-23-30,30>>^ Então começarão a dizer aos montes: Caí sobre nós, e aos outeiros: Cobri-nos.
+
+[[v42-23-31]]
+
+^<<v42-23-31,31>>^ Porque, se ao madeiro verde fazem isto, que se fará ao seco?
+
+[[v42-23-32]]
+
+^<<v42-23-32,32>>^ E também conduziram outros dois, que eram malfeitores, para com ele serem mortos.
+
+[[v42-23-33]]
+
+^<<v42-23-33,33>>^ E, quando chegaram ao lugar chamado a Caveira, ali o crucificaram, e aos malfeitores, um à direita e outro à esquerda.
+
+[[v42-23-34]]
+
+^<<v42-23-34,34>>^ E dizia Jesus: Pai, perdoa-lhes, porque não sabem o que fazem. E, repartindo os seus vestidos lançaram sortes.
+
+[[v42-23-35]]
+
+^<<v42-23-35,35>>^ E o povo estava olhando. E também os príncipes zombavam dele, dizendo: Aos outros salvou, salve-se a si mesmo, se este é o Cristo, o escolhido de Deus.
+
+[[v42-23-36]]
+
+^<<v42-23-36,36>>^ E também os soldados, o escarneciam chegando-se a ele, e apresentando-lhe vinagre,
+
+[[v42-23-37]]
+
+^<<v42-23-37,37>>^ E dizendo: Se tu és o Rei dos Judeus salva-te a ti mesmo.
+
+[[v42-23-38]]
+
+^<<v42-23-38,38>>^ E também por cima dele estava um título, escrito em letras gregas, romanas, e hebraicas: Este É O Rei dos Judeus .
+
+[[v42-23-39]]
+
+^<<v42-23-39,39>>^ E um dos malfeitores que estavam pendurados blasfemava dele, dizendo: Se tu és o Cristo, salva-te a ti mesmo, e a nós.
+
+[[v42-23-40]]
+
+^<<v42-23-40,40>>^ Respondendo, porém, o outro, repreendia-o, dizendo: Tu nem ainda temes a Deus, estando na mesma condenação?
+
+[[v42-23-41]]
+
+^<<v42-23-41,41>>^ E nós, na verdade, com justiça, porque recebemos o que os nossos feitos mereciam; mas este nenhum mal fez.
+
+[[v42-23-42]]
+
+^<<v42-23-42,42>>^ E disse a Jesus: Senhor, lembra-te de mim, quando entrares no teu reino.
+
+[[v42-23-43]]
+
+^<<v42-23-43,43>>^ E disse-lhe Jesus: Em verdade te digo que hoje estarás comigo no Paraíso.
+
+[[v42-23-44]]
+
+^<<v42-23-44,44>>^ E era já quase a hora sexta, e houve trevas em toda a terra até a hora nona,
+
+[[v42-23-45]]
+
+^<<v42-23-45,45>>^ Escurecendo-se o sol; e rasgou-se ao meio o véu do templo.
+
+[[v42-23-46]]
+
+^<<v42-23-46,46>>^ E, clamando Jesus com grande voz, disse: Pai, nas tuas mãos entrego o meu espírito. E, havendo dito isto, expirou.
+
+[[v42-23-47]]
+
+^<<v42-23-47,47>>^ E o centurião, vendo o que tinha acontecido, deu glória a Deus, dizendo: Na verdade, este homem era justo.
+
+[[v42-23-48]]
+
+^<<v42-23-48,48>>^ E toda a multidão que se ajuntara a este espetáculo, vendo o que havia acontecido, voltava batendo nos peitos.
+
+[[v42-23-49]]
+
+^<<v42-23-49,49>>^ E todos os seus conhecidos, e as mulheres que juntamente o haviam seguido desde a Galileia, estavam de longe vendo estas coisas.
+
+[[v42-23-50]]
+
+^<<v42-23-50,50>>^ E eis que um varão por nome José, senador, homem de bem e justo,
+
+[[v42-23-51]]
+
+^<<v42-23-51,51>>^ Que não tinha consentido no conselho e nos atos dos outros, de Arimateia, cidade dos judeus, e que também esperava o reino de Deus;
+
+[[v42-23-52]]
+
+^<<v42-23-52,52>>^ Esse, chegando a Pilatos, pediu o corpo de Jesus.
+
+[[v42-23-53]]
+
+^<<v42-23-53,53>>^ E, havendo-o tirado, envolveu-o num lençol, e pô-lo num sepulcro escavado numa penha, onde ninguém ainda havia sido posto.
+
+[[v42-23-54]]
+
+^<<v42-23-54,54>>^ E era o dia da preparação, e amanhecia o sábado.
+
+[[v42-23-55]]
+
+^<<v42-23-55,55>>^ E as mulheres, que tinham vindo com ele da Galileia, seguiram também e viram o sepulcro, e como foi posto o seu corpo.
+
+[[v42-23-56]]
+
+^<<v42-23-56,56>>^ E, voltando elas, prepararam especiarias e unguentos, e no sábado repousaram, conforme o mandamento.
+
+'''
+
+xref:042-lucas/042-lucas-022.adoc#v42-22-0[&#60; Capítulo Anterior] | <<v42-23-0,Topo>> | xref:042-lucas/042-lucas-024.adoc#v42-24-0[Próximo Capítulo &#62;]

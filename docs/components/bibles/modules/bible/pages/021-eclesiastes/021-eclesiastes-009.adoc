@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v21-9-0]]
+=== Eclesiastes, 9
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v21-9-1]]
+
+^<<v21-9-1,1>>^ DEVERAS revolvi todas estas cousas no meu coração, para claramente entender tudo isto: que os justos, e  os sábios, e as suas obras, estão  nas mãos de Deus, e também  que o homem não conhece nem o amor nem o ódio; tudo passa  perante a sua face.
+
+[[v21-9-2]]
+
+^<<v21-9-2,2>>^ Tudo sucede  igualmente a todos; o mesmo sucede ao justo e ao ímpio: ao bom e ao puro, como ao impuro; assim ao que sacrifica como ao que não sacrifica: assim ao bom como ao pecador; ao que jura como ao que teme o juramento.
+
+[[v21-9-3]]
+
+^<<v21-9-3,3>>^ Este é o mal que há entre tudo quanto se faz debaixo do sol: que a todos sucede o mesmo; que também o coração dos filhos dos homens está cheio de maldade; que há  desvarios no seu coração, na sua vida, e que depois se vão  aos mortos.
+
+[[v21-9-4]]
+
+^<<v21-9-4,4>>^ Ora, para o que acompanha com todos os vivos há esperança (porque melhor é o cão vivo do que o leão morto).
+
+[[v21-9-5]]
+
+^<<v21-9-5,5>>^ Porque os vivos sabem que hão de morrer, mas os mortos não sabem cousa nenhuma, nem tão pouco eles têm jamais recompensa, mas a sua memória ficou entregue ao esquecimento.
+
+[[v21-9-6]]
+
+^<<v21-9-6,6>>^ Até o seu amor, o seu ódio, e a sua inveja já pereceram, e já não têm parte alguma neste  século, em cousa alguma do que se faz debaixo do sol.
+
+[[v21-9-7]]
+
+^<<v21-9-7,7>>^ Vai, pois , come com alegria o teu pão e bebe com bom coração o teu vinho, pois já Deus se agrada das tuas obras.
+
+[[v21-9-8]]
+
+^<<v21-9-8,8>>^ Em todo o tempo sejam alvos os teus vestidos, e nunca falte o óleo sobre a tua cabeça.
+
+[[v21-9-9]]
+
+^<<v21-9-9,9>>^ Goza a vida com a mulher que amas, todos os dias de vida da tua vaidade, os quais Deus  te deu debaixo do sol, todos os dias da tua vaidade: porque esta é a tua porção nesta  vida, e do teu trabalho, que tu fizeste debaixo do sol.
+
+[[v21-9-10]]
+
+^<<v21-9-10,10>>^ Tudo quanto te vier à mão para fazer, faze-o conforme as tuas forças, porque na sepultura, para onde tu vais, não há  obra, nem indústria, nem ciência, nem sabedoria alguma.
+
+[[v21-9-11]]
+
+^<<v21-9-11,11>>^ Voltei-me, e vi debaixo do sol que não é  dos ligeiros a carreira, nem dos valentes a peleja, nem tão pouco dos sábios o pão, nem ainda dos prudentes a riqueza, nem dos entendidos o favor, mas que o tempo e a sorte pertencem a todos.
+
+[[v21-9-12]]
+
+^<<v21-9-12,12>>^ Que também o homem não conhece o seu tempo; como os peixes que se pescam com a rede maligna, e como os passarinhos que se prendem com o laço, assim se enlaçam também  os filhos dos homens no mau tempo, quando cai de repente sobre eles.
+
+[[v21-9-13]]
+
+^<<v21-9-13,13>>^ Também vi sabedoria debaixo do sol, que foi  para mim grande:
+
+[[v21-9-14]]
+
+^<<v21-9-14,14>>^ Houve  uma pequena cidade em que havia  poucos homens, e veio contra ela um grande rei, e a cercou e levantou contra ela grandes tranqueiras:
+
+[[v21-9-15]]
+
+^<<v21-9-15,15>>^ E vivia nela um  sábio pobre, que livrou aquela cidade pela sua sabedoria, e ninguém se lembrava daquele pobre homem.
+
+[[v21-9-16]]
+
+^<<v21-9-16,16>>^ Então disse eu: Melhor é  a sabedoria do que a força, ainda que a sabedoria do pobre foi  desprezada, e as suas palavras não foram ouvidas.
+
+[[v21-9-17]]
+
+^<<v21-9-17,17>>^ As palavras dos sábios devem em silêncio ser ouvidas, mais do que o clamor do que domina sobre os tolos.
+
+[[v21-9-18]]
+
+^<<v21-9-18,18>>^ Melhor é  a sabedoria do que as armas de guerra, mas um só  pecador destrói muitos bens.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-008.adoc#v21-8-0[&#60; Capítulo Anterior] | <<v21-9-0,Topo>> | xref:021-eclesiastes/021-eclesiastes-010.adoc#v21-10-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v23-54-0]]
+=== Isaías, 54
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-54-1]]
+
+^<<v23-54-1,1>>^ CANTA alegremente, ó estéril, que  não deste à luz: exulta de prazer com alegre canto, e exclama, tu que  não tiveste dores de parto; porque mais são  os filhos da solitária, do que os filhos da casada, diz o Senhor.
+
+[[v23-54-2]]
+
+^<<v23-54-2,2>>^ Amplia o lugar da tua tenda, e as cortinas das tuas habitações se estendam; não o impeças; alonga as tuas cordas, e firma bem as tuas estacas.
+
+[[v23-54-3]]
+
+^<<v23-54-3,3>>^ Porque trasbordarás à mão direita e à esquerda; e a tua posteridade possuirá as nações e fará que sejam habitadas as cidades assoladas.
+
+[[v23-54-4]]
+
+^<<v23-54-4,4>>^ Não temas, porque não serás envergonhada; e não te envergonhes, porque não serás confundida: antes te esquecerás da vergonha da tua mocidade e não te lembrarás mais do opróbrio da tua viuvez.
+
+[[v23-54-5]]
+
+^<<v23-54-5,5>>^ Porque o teu Criador é  o teu marido; o senhor dos Exércitos é  o seu nome; e o Santo de Israel é  o teu Redentor: ele será chamado o Deus de toda a terra.
+
+[[v23-54-6]]
+
+^<<v23-54-6,6>>^ Porque o Senhor te chamou como a mulher desamparada e triste de espírito; como a mulher da mocidade, que é  desprezada, diz o teu Deus.
+
+[[v23-54-7]]
+
+^<<v23-54-7,7>>^ Por um pequeno momento te deixei, mas com grande misericórdia te recolherei;
+
+[[v23-54-8]]
+
+^<<v23-54-8,8>>^ Em grande ira escondi a minha face de ti por um momento; mas com benignidade eterna me compadecerei de ti, diz o Senhor, o teu Redentor.
+
+[[v23-54-9]]
+
+^<<v23-54-9,9>>^ Porque isto será  para mim como  as águas de Noé; pois jurei que as águas de Noé não inundariam mais a terra: assim jurei que não me irarei mais  contra ti, nem te repreenderei.
+
+[[v23-54-10]]
+
+^<<v23-54-10,10>>^ Porque as montanhas se desviarão e os outeiros tremerão; mas a minha benignidade não se desviará de ti, e o concerto da minha paz não mudará, diz o Senhor, que se compadece de ti.
+
+[[v23-54-11]]
+
+^<<v23-54-11,11>>^ Ó oprimida, arrojada com a tormenta e  desconsolada! eis que eu porei as tuas pedras com todo o ornamento, e te fundarei sobre safiras.
+
+[[v23-54-12]]
+
+^<<v23-54-12,12>>^ E as tuas janelas farei cristalinas, e as tuas portas de rubins, e todos os teus termos de pedras aprazíveis.
+
+[[v23-54-13]]
+
+^<<v23-54-13,13>>^ E todos os teus filhos serão  discípulos do Senhor; e a paz de teus filhos será  abundante.
+
+[[v23-54-14]]
+
+^<<v23-54-14,14>>^ Com justiça serás confirmada: estarás longe da opressão, porque já  não temerás; e também do espanto, porque não chegará a ti.
+
+[[v23-54-15]]
+
+^<<v23-54-15,15>>^ Eis que poderão vir a juntar-se, mas não será por mim: quem se ajuntar contra ti, cairá por amor de ti.
+
+[[v23-54-16]]
+
+^<<v23-54-16,16>>^ Eis que eu criei o ferreiro, que assopra as brasas no fogo, que produz a ferramenta para a sua obra: também criei o assolador, para destruir.
+
+[[v23-54-17]]
+
+^<<v23-54-17,17>>^ Toda a ferramenta preparada contra ti, não prosperará; e toda a língua que  se levantar contra ti em juízo, tu a condenarás: esta é  a herança dos servos do Senhor, e a sua justiça que vem de mim, diz o Senhor.
+
+'''
+
+xref:023-isaias/023-isaias-053.adoc#v23-53-0[&#60; Capítulo Anterior] | <<v23-54-0,Topo>> | xref:023-isaias/023-isaias-055.adoc#v23-55-0[Próximo Capítulo &#62;]

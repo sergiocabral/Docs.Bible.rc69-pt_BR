@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v16-8-0]]
+=== Neemias, 8
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v16-8-1]]
+
+^<<v16-8-1,1>>^ E CHEGADO o sétimo mês, e estando os filhos de Israel nas suas cidades, todo o povo se ajuntou como um só homem, na praça, diante da porta das águas; e disseram a Esdras, o escriba, que trouxesse o livro da lei de Moisés, que o Senhor tinha ordenado a Israel.
+
+[[v16-8-2]]
+
+^<<v16-8-2,2>>^ E Esdras, o sacerdote, trouxe a lei perante a congregação, assim de homens como de mulheres, e de todos os entendidos para ouvirem, no primeiro dia do sétimo mês.
+
+[[v16-8-3]]
+
+^<<v16-8-3,3>>^ E leu nela diante da praça, que está diante da porta das águas, desde a alva até ao meio-dia, perante homens e mulheres, e entendidos: e os ouvidos de todo o povo estavam atentos  ao livro da lei.
+
+[[v16-8-4]]
+
+^<<v16-8-4,4>>^ E Esdras, o escriba, estava sobre um púlpito de madeira, que fizeram para aquele fim; e estavam em pé  junto a ele, à sua mão direita, Matitias, e Sema, e Anaias, e Urias, e Hilquias, e Maaseias; e à sua mão esquerda, Pedaías, e Misael, e Melquias, e Hasum, e Hasbadana, Zacarias, e Mesulão.
+
+[[v16-8-5]]
+
+^<<v16-8-5,5>>^ E Esdras abriu o livro perante os olhos de todo o povo; porque estava acima de todo o povo; e, abrindo-o ele, todo o povo se pôs em pé.
+
+[[v16-8-6]]
+
+^<<v16-8-6,6>>^ E Esdras louvou ao Senhor, o grande Deus: e todo o povo respondeu: Amém, Amém! levantando as suas mãos; e inclinaram-se, e adoraram ao Senhor, com os rostos em terra.
+
+[[v16-8-7]]
+
+^<<v16-8-7,7>>^ E Jesua, e Bani, e Serebias, Jamim, Acube, Sabetai, Hodias, Maaseias, Quelita, Azarias, Jozabade, Hanã, Pelaías, e os levitas ensinavam ao povo na lei; e o povo estava  no seu posto.
+
+[[v16-8-8]]
+
+^<<v16-8-8,8>>^ E leram no livro, na lei de Deus: e declarando, e explicando o sentido, faziam que, lendo, se entendesse.
+
+[[v16-8-9]]
+
+^<<v16-8-9,9>>^ E Neemias (que era o tirsata), e o sacerdote Esdras, o escriba, e os levitas que ensinavam ao povo disseram a todo o povo: Este dia é  consagrado ao Senhor vosso Deus, pelo que  não vos lamenteis, nem choreis. Porque todo o povo chorava, ouvindo as palavras da lei.
+
+[[v16-8-10]]
+
+^<<v16-8-10,10>>^ Disse-lhes mais: Ide, comei as gorduras, e bebei as doçuras, e enviai porções aos que não têm nada preparado para si; porque esse dia é  consagrado ao nosso Senhor: portanto não vos entristeçais, porque a alegria do Senhor é a vossa força.
+
+[[v16-8-11]]
+
+^<<v16-8-11,11>>^ E os levitas fizeram calar a todo o povo, dizendo: Calai-vos; porque este dia é santo: por isso não vos entristeçais.
+
+[[v16-8-12]]
+
+^<<v16-8-12,12>>^ Então todo o povo se foi a comer, e a beber, e a enviar porções, e a fazer grandes festas: porque entenderam as palavras que lhes fizeram saber.
+
+[[v16-8-13]]
+
+^<<v16-8-13,13>>^ E no dia seguinte ajuntaram-se os cabeças dos pais de todo o povo, os sacerdotes, e os levitas, a Esdras, o escriba: e isto para atentarem nas palavras da lei.
+
+[[v16-8-14]]
+
+^<<v16-8-14,14>>^ E acharam escrito na lei que o Senhor ordenara, pelo ministério de Moisés, que os filhos de Israel habitassem em cabanas, na solenidade da festa , no sétimo mês.
+
+[[v16-8-15]]
+
+^<<v16-8-15,15>>^ Assim o publicaram, e fizeram passar pregão por todas as suas cidades e em Jerusalém, dizendo: Saí ao monte, e trazei ramos de oliveira, e ramos de zambujeiros, e ramos de murtas, e ramos de palmeiras, e ramos de árvores espessas, para fazer cabanas, como está  escrito.
+
+[[v16-8-16]]
+
+^<<v16-8-16,16>>^ Saiu, pois, o povo, e de tudo  trouxeram e fizeram para si cabanas, cada um no seu terraço, e nos seus pátios, e nos átrios da casa de Deus, e na praça da porta das águas, e na praça da porta de Efraim.
+
+[[v16-8-17]]
+
+^<<v16-8-17,17>>^ E toda a congregação dos que voltaram do cativeiro fizeram cabanas e habitaram nas cabanas; porque nunca fizeram assim os filhos de Israel, desde os dias de Josué, filho de Num, até àquele dia; e houve mui grande alegria.
+
+[[v16-8-18]]
+
+^<<v16-8-18,18>>^ E de dia em dia ele lia o livro da lei de Deus, desde o primeiro dia até ao derradeiro; e celebraram a solenidade da festa  sete dias, e no oitavo dia, a festa do encerramento, segundo o rito.
+
+'''
+
+xref:016-neemias/016-neemias-007.adoc#v16-7-0[&#60; Capítulo Anterior] | <<v16-8-0,Topo>> | xref:016-neemias/016-neemias-009.adoc#v16-9-0[Próximo Capítulo &#62;]

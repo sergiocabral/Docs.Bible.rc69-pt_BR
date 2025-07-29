@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v23-52-0]]
+=== Isaías, 52
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-52-1]]
+
+^<<v23-52-1,1>>^ DESPERTA, desperta, veste-te da tua fortaleza, ó Sião: veste-te dos teus vestidos formosos, ó Jerusalém, cidade santa; porque nunca mais entrará em ti nem incircunciso nem imundo.
+
+[[v23-52-2]]
+
+^<<v23-52-2,2>>^ Sacode o pó, levanta-te, e  assenta-te, ó Jerusalém: solta-te das  ataduras de teu pescoço, ó cativa filha de Sião.
+
+[[v23-52-3]]
+
+^<<v23-52-3,3>>^ Porque assim diz o Senhor: Por nada fostes vendidos: também sem dinheiro sereis resgatados.
+
+[[v23-52-4]]
+
+^<<v23-52-4,4>>^ Porque assim diz o Senhor Jeová : O meu povo em tempos passados desceu ao Egito, para peregrinar lá, e a Assíria sem razão o oprimiu.
+
+[[v23-52-5]]
+
+^<<v23-52-5,5>>^ E agora, que tenho eu aqui que  fazer, diz o Senhor, pois o meu povo foi tomado sem nenhuma razão? os que dominam sobre ele dão uivos, diz o Senhor; e o meu nome é  blasfemado incessantemente todo o dia.
+
+[[v23-52-6]]
+
+^<<v23-52-6,6>>^ Portanto o meu povo saberá o meu nome, por esta causa, naquele dia; porque eu mesmo sou o que digo: Eis-me aqui.
+
+[[v23-52-7]]
+
+^<<v23-52-7,7>>^ Quão suaves são sobre os montes os pés do que anuncia as boas novas, que faz ouvir a paz, que anuncia o bem, que faz ouvir a salvação, que diz a Sião: O teu Deus reina!
+
+[[v23-52-8]]
+
+^<<v23-52-8,8>>^ Eis a voz dos teus atalaias! eles alçam a voz, juntamente exultam; porque olho a olho verão, quando o Senhor voltar a Sião.
+
+[[v23-52-9]]
+
+^<<v23-52-9,9>>^ Clamai cantando, exultai juntamente, desertos de Jerusalém; porque o Senhor consolou o seu povo, remiu a Jerusalém.
+
+[[v23-52-10]]
+
+^<<v23-52-10,10>>^ O Senhor desnudou o seu santo braço perante os olhos de todas as nações; e todos os confins da terra verão a salvação do nosso Deus.
+
+[[v23-52-11]]
+
+^<<v23-52-11,11>>^ Retirai-vos, retirai-vos, saí daí, não toqueis cousa imunda: saí do meio dela, purificai-vos, os que levais os vasos do Senhor.
+
+[[v23-52-12]]
+
+^<<v23-52-12,12>>^ Porque não saireis apressadamente, nem vos ireis fugindo; porque o Senhor irá diante de vós, e o Deus de Israel será  a vossa retaguarda.
+
+[[v23-52-13]]
+
+^<<v23-52-13,13>>^ Eis que o meu servo operará com prudência: será engrandecido, e elevado, e mui sublime.
+
+[[v23-52-14]]
+
+^<<v23-52-14,14>>^ Como pasmaram muitos à vista dele, pois o seu parecer estava tão desfigurado, mais do que o de outro qualquer, e a sua figura mais do que a  dos outros  filhos dos homens.
+
+[[v23-52-15]]
+
+^<<v23-52-15,15>>^ Assim borrifará muitas nações, e os reis fecharão as suas bocas por causa dele; porque aquilo que não lhes foi anunciado verão, e aquilo que eles não ouviram entenderão.
+
+'''
+
+xref:023-isaias/023-isaias-051.adoc#v23-51-0[&#60; Capítulo Anterior] | <<v23-52-0,Topo>> | xref:023-isaias/023-isaias-053.adoc#v23-53-0[Próximo Capítulo &#62;]

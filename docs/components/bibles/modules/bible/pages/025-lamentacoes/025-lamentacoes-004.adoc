@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-4-0]]
+=== Lamentações, 4
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v25-4-1]]
+
+^<<v25-4-1,1>>^ Álefe. COMO se escureceu o ouro! como  se mudou o ouro fino e bom! como  estão espalhadas as pedras do santuário ao canto de todas as ruas! Beta.
+
+[[v25-4-2]]
+
+^<<v25-4-2,2>>^ Os preciosos filhos de Sião, comparáveis a puro ouro, como são agora  reputados por vasos de barro, obra das mãos do oleiro! Guímel.
+
+[[v25-4-3]]
+
+^<<v25-4-3,3>>^ Até os chacais abaixam o peito, dão de mamar aos seus filhos; mas a filha do meu povo tornou-se cruel como os avestruzes no deserto. Dálete.
+
+[[v25-4-4]]
+
+^<<v25-4-4,4>>^ A língua do que mama fica pegada pela sede ao seu paladar: os meninos pedem pão, e ninguém lho dá. Hê.
+
+[[v25-4-5]]
+
+^<<v25-4-5,5>>^ Os que comiam iguarias delicadas desfalecem nas ruas: os que se criaram em carmesim abraçam o esterco. Vau.
+
+[[v25-4-6]]
+
+^<<v25-4-6,6>>^ Porque maior é a maldade da filha do meu povo do que o pecado de Sodoma, a qual se subverteu como num momento, sem que trabalhassem nela mãos algumas. Zaine.
+
+[[v25-4-7]]
+
+^<<v25-4-7,7>>^ Os seus nazireus eram mais alvos do que a neve, eram mais brancos do que o leite, eram mais roxos de corpo do que os rubis, mais polidos do que a safira. Hete.
+
+[[v25-4-8]]
+
+^<<v25-4-8,8>>^ Mas agora  escureceu-se o seu parecer mais do que o negrume, não se conhecem nas ruas; a sua pele se lhes pegou aos ossos, secou-se, tornou-se como um pau. Tete.
+
+[[v25-4-9]]
+
+^<<v25-4-9,9>>^ Os mortos à espada mais ditosos são do que os mortos à fome; porque estes se esgotam como  traspassados, por falta dos frutos dos campos. Jode.
+
+[[v25-4-10]]
+
+^<<v25-4-10,10>>^ As mãos das mulheres piedosas cozeram seus próprios filhos: serviram-lhes de alimento na destruição da filha do meu povo. Cafe.
+
+[[v25-4-11]]
+
+^<<v25-4-11,11>>^ Deu o Senhor cumprimento ao seu furor: derramou o ardor da sua ira, e acendeu fogo em Sião, que consumiu os seus fundamentos. Lâmede.
+
+[[v25-4-12]]
+
+^<<v25-4-12,12>>^ Não creram os reis da terra, nem todos os moradores do mundo, que entrasse o adversário e o inimigo pelas portas de Jerusalém. Mem.
+
+[[v25-4-13]]
+
+^<<v25-4-13,13>>^ Por causa dos pecados dos profetas, das maldades dos seus sacerdotes, que derramaram o sangue dos justos no meio dela. Num.
+
+[[v25-4-14]]
+
+^<<v25-4-14,14>>^ Erram como os cegos nas ruas, andam contaminados de sangue; de tal sorte que ninguém pode tocar nas suas roupas. Sâmeque.
+
+[[v25-4-15]]
+
+^<<v25-4-15,15>>^ Desviai-vos, bradavam eles. Imundo! desviai-vos, desviai-vos, não toqueis; quando fugiram e erraram, disseram entre as nações: Nunca mais morarão aqui. Pê.
+
+[[v25-4-16]]
+
+^<<v25-4-16,16>>^ A ira do Senhor os dividiu; ele nunca mais tornará a olhar para eles: não reverenciaram a face dos sacerdotes, nem se compadeceram dos velhos. Aim.
+
+[[v25-4-17]]
+
+^<<v25-4-17,17>>^ Os nossos olhos desfaleciam esperando  vão socorro: olhávamos atentamente para gente que  não podia livrar. Tsadê.
+
+[[v25-4-18]]
+
+^<<v25-4-18,18>>^ Espiaram os nossos passos, de maneira que não podíamos andar pelas nossas ruas: está chegando o nosso fim, estão cumpridos os nossos dias, porque é vindo o nosso fim. Cofe.
+
+[[v25-4-19]]
+
+^<<v25-4-19,19>>^ Os nossos perseguidores, foram mais ligeiros do que as aves dos céus: sobre os montes nos perseguiram, no deserto nos armaram ciladas. Rexe.
+
+[[v25-4-20]]
+
+^<<v25-4-20,20>>^ O respiro dos nossos narizes, o ungido do Senhor, foi preso nas suas covas; dele dizíamos: Debaixo da sua sombra viveremos entre as nações. Chim.
+
+[[v25-4-21]]
+
+^<<v25-4-21,21>>^ Regozija-te, e alegra-te, ó filha de Edom, que habitas na terra de Uz: o cálice chegará também para ti; embebedar-te-ás, e te descobrirás. Tau.
+
+[[v25-4-22]]
+
+^<<v25-4-22,22>>^ O castigo da tua maldade está consumado, ó filha de Sião; ele nunca mais te levará para o cativeiro: ele visitará a tua maldade, ó filha de Edom, descobrirá os teus pecados.
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-003.adoc#v25-3-0[&#60; Capítulo Anterior] | <<v25-4-0,Topo>> | xref:025-lamentacoes/025-lamentacoes-005.adoc#v25-5-0[Próximo Capítulo &#62;]

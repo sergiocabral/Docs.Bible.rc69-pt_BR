@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v2-27-0]]
+=== Êxodo, 27
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v2-27-1]]
+
+^<<v2-27-1,1>>^ FARÁS também o altar de madeira  de cetim: cinco côvados será o comprimento, e cinco côvados a largura ( será  quadrado o altar), e três côvados a sua altura.
+
+[[v2-27-2]]
+
+^<<v2-27-2,2>>^ E farás as suas pontas nos seus quatro cantos: as suas pontas serão do mesmo, e o cobrirás de cobre.
+
+[[v2-27-3]]
+
+^<<v2-27-3,3>>^ Far- lhe- ás também as suas caldeirinhas, para recolher a sua cinza, e as suas pás, e as suas bacias, e os seus garfos, e os seus braseiros: todos os seus vasos farás de cobre.
+
+[[v2-27-4]]
+
+^<<v2-27-4,4>>^ Far-lhe-ás também um crivo de cobre em forma de rede, e farás a esta rede quatro argolas de metal aos seus quatro cantos,
+
+[[v2-27-5]]
+
+^<<v2-27-5,5>>^ E as porás dentro do cerco do altar para baixo, de maneira que a rede chegue até ao meio do altar.
+
+[[v2-27-6]]
+
+^<<v2-27-6,6>>^ Farás também varais para o altar, varais de madeira de  cetim, e os cobrirás de cobre.
+
+[[v2-27-7]]
+
+^<<v2-27-7,7>>^ E os varais se meterão nas argolas, de maneira que os varais estejam de ambos os lados do altar, quando for levado.
+
+[[v2-27-8]]
+
+^<<v2-27-8,8>>^ Oco de tábuas o farás; como se  te mostrou no monte, assim o farão.
+
+[[v2-27-9]]
+
+^<<v2-27-9,9>>^ Farás também o pátio do tabernáculo; ao lado do meio-dia para o sul, o pátio terá  cortinas de linho fino torcido; o comprimento de cada lado será  de cem côvados.
+
+[[v2-27-10]]
+
+^<<v2-27-10,10>>^ Também as suas vinte colunas e as suas vinte bases serão  de cobre: os colchetes das colunas e as suas faixas serão de prata.
+
+[[v2-27-11]]
+
+^<<v2-27-11,11>>^ Assim também do lado do norte as cortinas na longura serão  de cem côvados de comprimento: e as suas vinte colunas e as suas vinte bases serão  de cobre; os colchetes das colunas e as suas faixas serão de prata.
+
+[[v2-27-12]]
+
+^<<v2-27-12,12>>^ E na largura do pátio do lado do ocidente haverá  cortinas de cinquenta côvados: as suas colunas dez, e as suas bases dez.
+
+[[v2-27-13]]
+
+^<<v2-27-13,13>>^ Semelhantemente a largura do pátio do lado oriental para o levante será  de cinquenta côvados.
+
+[[v2-27-14]]
+
+^<<v2-27-14,14>>^ De maneira que haja  quinze côvados de cortinas de um lado: suas colunas três, e as suas bases três.
+
+[[v2-27-15]]
+
+^<<v2-27-15,15>>^ E quinze côvados  de cortinas do outro lado: as suas colunas três, e as suas bases três.
+
+[[v2-27-16]]
+
+^<<v2-27-16,16>>^ E à porta do pátio haverá  uma coberta de vinte côvados, de azul, e púrpura, e carmesim, e de linho fino torcido, de obra de bordador: as suas colunas quatro, e as suas bases quatro.
+
+[[v2-27-17]]
+
+^<<v2-27-17,17>>^ Todas as colunas do pátio ao redor serão  cingidas de faixas de prata; os seus colchetes serão de prata, mas as suas bases de cobre.
+
+[[v2-27-18]]
+
+^<<v2-27-18,18>>^ O comprimento do pátio será  de cem côvados, e a largura de cada banda de cinquenta, e a altura de cinco côvados, de linho fino torcido: mas as suas bases serão  de cobre.
+
+[[v2-27-19]]
+
+^<<v2-27-19,19>>^ No tocante a todos os vasos do tabernáculo em todo o seu serviço, até  todos os seus pregos, e todos os pregos do pátio, serão  de cobre.
+
+[[v2-27-20]]
+
+^<<v2-27-20,20>>^ Tu pois ordenarás aos filhos de Israel que te tragam azeite puro de oliveiras, batido para o candeeiro; para fazer arder as lâmpadas continuamente.
+
+[[v2-27-21]]
+
+^<<v2-27-21,21>>^ Na tenda da congregação fora do véu, que está  diante do testemunho, Aarão e seus filhos as porão em ordem, desde a tarde até pela manhã, perante o Senhor: um estatuto perpétuo será este  pelas suas gerações, aos filhos de Israel.
+
+'''
+
+xref:002-exodo/002-exodo-026.adoc#v2-26-0[&#60; Capítulo Anterior] | <<v2-27-0,Topo>> | xref:002-exodo/002-exodo-028.adoc#v2-28-0[Próximo Capítulo &#62;]

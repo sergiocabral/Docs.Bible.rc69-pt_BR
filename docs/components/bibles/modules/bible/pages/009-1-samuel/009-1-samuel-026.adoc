@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v9-26-0]]
+=== 1 Samuel, 26
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-26-1]]
+
+^<<v9-26-1,1>>^ E VIERAM os zifeus a Saul, a Gibeá dizendo: Não está Davi escondido no outeiro de Háquila, à entrada de Jesimom?
+
+[[v9-26-2]]
+
+^<<v9-26-2,2>>^ Então Saul se levantou, e desceu ao deserto de Zife, e com ele três mil homens escolhidos de Israel, a buscar a Davi no deserto de Zife.
+
+[[v9-26-3]]
+
+^<<v9-26-3,3>>^ E acampou-se Saul no outeiro de Háquila, que está  à entrada de Jesimom, junto ao caminho: porém Davi ficou no deserto, e viu que Saul vinha após dele ao deserto.
+
+[[v9-26-4]]
+
+^<<v9-26-4,4>>^ Pois Davi enviou espias, e soube que Saul vinha decerto.
+
+[[v9-26-5]]
+
+^<<v9-26-5,5>>^ E Davi se levantou, e veio ao lugar onde Saul se tinha acampado; viu Davi o lugar onde se tinha deitado Saul, e Abner, filho de Ner, chefe do seu exército: e Saul estava deitado dentro do lugar dos carros, e o povo estava acampado ao redor dele.
+
+[[v9-26-6]]
+
+^<<v9-26-6,6>>^ E respondeu Davi, e falou a Aquimeleque, o heteu, e a Abisai, filho de Zeruia, irmão de Joabe, dizendo: Quem descerá comigo a Saul ao arraial? E disse Abisai: Eu descerei contigo.
+
+[[v9-26-7]]
+
+^<<v9-26-7,7>>^ Vieram pois Davi e Abisai de noite ao povo, e eis que Saul estava deitado, dormindo dentro do lugar dos carros, e a sua lança estava  pregada na terra à sua cabeceira: e Abner e o povo estavam deitados ao redor dele.
+
+[[v9-26-8]]
+
+^<<v9-26-8,8>>^ Então disse Abisai a Davi: Deus te entregou hoje nas mãos a teu inimigo; deixa-mo pois agora encravar com a lança duma vez na terra, e não o ferirei  segunda vez.
+
+[[v9-26-9]]
+
+^<<v9-26-9,9>>^ E disse Davi a Abisai: Nenhum dano lhe faças: porque quem estendeu a sua mão contra o ungido do Senhor, e ficou inocente?
+
+[[v9-26-10]]
+
+^<<v9-26-10,10>>^ Disse mais Davi: Vive o Senhor, que o Senhor o ferirá, ou o seu dia chegará em que morra, ou descerá para a batalha e perecerá;
+
+[[v9-26-11]]
+
+^<<v9-26-11,11>>^ O Senhor me guarde, de que eu estenda a mão contra o ungido do Senhor: agora porém toma lá a lança que está  à sua cabeceira e a bilha da água, e vamo-nos.
+
+[[v9-26-12]]
+
+^<<v9-26-12,12>>^ Tomou pois Davi a lança e a bilha da água, da cabeceira de Saul, e foram-se: e ninguém houve que o  visse, nem que o  advertisse nem que acordasse; porque todos estavam  dormindo pois havia caído sobre eles um profundo sono do Senhor.
+
+[[v9-26-13]]
+
+^<<v9-26-13,13>>^ E Davi, passando à outra banda, pôs-se no cume do monte ao longe, de maneira  que entre eles havia grande distância.
+
+[[v9-26-14]]
+
+^<<v9-26-14,14>>^ E Davi bradou ao povo, e a Abner, filho de Ner, dizendo: Não responderás, Abner? Então Abner respondeu e disse: Quem és  tu, que  bradas ao rei?
+
+[[v9-26-15]]
+
+^<<v9-26-15,15>>^ Então disse Davi a Abner: Porventura  não és varão? e quem há  em Israel como tu, porque, pois, não guardaste tu o rei teu senhor? porque um do povo veio para destruir o rei teu senhor.
+
+[[v9-26-16]]
+
+^<<v9-26-16,16>>^ Não é bom isto, que fizeste; vive o Senhor, que sois dignos de morte, vós que não guardastes a vosso senhor, o ungido do Senhor: vede pois agora onde está  a lança do rei, e a bilha da água, que tinha  à sua cabeceira.
+
+[[v9-26-17]]
+
+^<<v9-26-17,17>>^ Então conheceu Saul a voz de Davi, e disse: Não é  esta a tua voz, meu filho Davi? E disse Davi: Minha voz é , ó rei meu senhor.
+
+[[v9-26-18]]
+
+^<<v9-26-18,18>>^ Disse mais: Por que persegue o meu senhor assim o seu servo? pois que fiz eu? e que maldade se acha  nas minhas mãos?
+
+[[v9-26-19]]
+
+^<<v9-26-19,19>>^ Ouve pois agora, te rogo, rei meu senhor, as palavras de teu servo: Se o senhor te incita contra mim, cheire ele a oferta de manjares : porém se são os  filhos dos homens, malditos sejam perante o Senhor: pois eles  me têm repelido hoje para que eu  não fique apegado à herança do Senhor, dizendo: Vai, serve a outros deuses.
+
+[[v9-26-20]]
+
+^<<v9-26-20,20>>^ Agora pois não se derrame o meu sangue na terra diante do Senhor: pois saiu o rei de Israel em busca de uma pulga; como quem persegue uma perdiz nos montes.
+
+[[v9-26-21]]
+
+^<<v9-26-21,21>>^ Então disse Saul: Pequei; volta, meu filho Davi, porque não mandarei fazer-te mal; porque foi hoje preciosa a minha vida aos teus olhos: eis que procedi loucamente e errei grandissimamente.
+
+[[v9-26-22]]
+
+^<<v9-26-22,22>>^ Davi então respondeu, e disse: Eis aqui a lança do rei; passe cá um dos mancebos, e leve-a.
+
+[[v9-26-23]]
+
+^<<v9-26-23,23>>^ O Senhor porém pague a cada um a sua justiça e a sua lealdade; pois o Senhor te tinha dado hoje na minha  mão, porém não quis estender a minha mão contra o ungido do Senhor.
+
+[[v9-26-24]]
+
+^<<v9-26-24,24>>^ E eis que assim como foi a tua vida hoje de tanta estima aos meus olhos, doutra tanta estima seja a minha vida aos olhos do Senhor, e ele me livre de toda a tribulação.
+
+[[v9-26-25]]
+
+^<<v9-26-25,25>>^ Então Saul disse a Davi: Bendito sejas  tu, meu filho Davi; pois grandes cousas  farás e também prevalecerás. Então Davi se foi pelo  seu caminho e Saul voltou para o seu lugar.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-025.adoc#v9-25-0[&#60; Capítulo Anterior] | <<v9-26-0,Topo>> | xref:009-1-samuel/009-1-samuel-027.adoc#v9-27-0[Próximo Capítulo &#62;]

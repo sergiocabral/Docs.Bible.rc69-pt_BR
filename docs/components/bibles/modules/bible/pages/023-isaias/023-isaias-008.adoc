@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-8-0]]
+=== Isaías, 8
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-8-1]]
+
+^<<v23-8-1,1>>^ DISSE-ME também o Senhor: Toma um grande volume, e escreve nele em estilo de homem: Apressando-se ao despojo, apressurou-se à presa.
+
+[[v23-8-2]]
+
+^<<v23-8-2,2>>^ Então tomei comigo fiéis testemunhas, a Urias sacerdote, e a Zacarias, filho de Jeberequias.
+
+[[v23-8-3]]
+
+^<<v23-8-3,3>>^ E fui ter com a profetisa; e ela concebeu, e deu à luz um  filho; e o Senhor me disse: Põe-lhe o nome de Maer-Salal-Hás-Baz.
+
+[[v23-8-4]]
+
+^<<v23-8-4,4>>^ Porque antes que o menino saiba dizer meu pai ou minha mãe se levarão as riquezas de Damasco, e os despojos de Samaria, diante do rei da Assíria.
+
+[[v23-8-5]]
+
+^<<v23-8-5,5>>^ E continuou o Senhor a falar ainda comigo, dizendo:
+
+[[v23-8-6]]
+
+^<<v23-8-6,6>>^ Porquanto este povo desprezou as águas de Siloé que correm brandamente, e com Rezim e com o filho de Remalias se alegrou:
+
+[[v23-8-7]]
+
+^<<v23-8-7,7>>^ Eis que o Senhor fará vir sobre eles as águas do rio, fortes e impetuosas, isto é , o rei da Assíria, com toda a sua glória; e subirá sobre todos os seus leitos, e transbordará por todas as suas ribanceiras;
+
+[[v23-8-8]]
+
+^<<v23-8-8,8>>^ E passará a Judá inundando-o, e irá passando por ele e  chegará até ao pescoço; e a extensão de suas asas encherá a largura da tua terra, ó Emanuel.
+
+[[v23-8-9]]
+
+^<<v23-8-9,9>>^ Alvoroçai-vos, ó povos, e sereis quebrantados; dai ouvidos, todos os que sois de longes terras: cingi-vos e sereis feitos em pedaços, cingi-vos e sereis feitos em pedaços.
+
+[[v23-8-10]]
+
+^<<v23-8-10,10>>^ Tomai juntamente conselho, e ele será dissipado: dizei a palavra, e ela não subsistirá, porque Deus é  conosco.
+
+[[v23-8-11]]
+
+^<<v23-8-11,11>>^ Porque assim o Senhor me disse com uma forte mão, e me ensinou que não andasse pelo caminho deste povo, dizendo:
+
+[[v23-8-12]]
+
+^<<v23-8-12,12>>^ Não chameis conjuração, a tudo quanto este povo chama conjuração: e não temais o seu temor, nem tão pouco vos assombreis.
+
+[[v23-8-13]]
+
+^<<v23-8-13,13>>^ Ao Senhor dos Exércitos, a ele santificai: e seja  ele o vosso temor e seja  ele o vosso assombro.
+
+[[v23-8-14]]
+
+^<<v23-8-14,14>>^ Então ele vos  será santuário; mas servirá de pedra de tropeço, e de rocha de escândalo, às duas casas de Israel; de laço e rede aos moradores de Jerusalém.
+
+[[v23-8-15]]
+
+^<<v23-8-15,15>>^ E muitos dentre eles tropeçarão, e cairão, e serão quebrantados, e enlaçados, e presos.
+
+[[v23-8-16]]
+
+^<<v23-8-16,16>>^ Liga o testemunho, sela a lei entre os meus discípulos.
+
+[[v23-8-17]]
+
+^<<v23-8-17,17>>^ E esperarei ao Senhor, que esconde o seu rosto da casa de Jacó, e a ele aguardarei.
+
+[[v23-8-18]]
+
+^<<v23-8-18,18>>^ Eis-me aqui, com os filhos que me deu o Senhor, como sinais e maravilhas em Israel da parte do Senhor dos Exércitos, que habita no monte de Sião.
+
+[[v23-8-19]]
+
+^<<v23-8-19,19>>^ Quando vos disserem: Consultai os que têm espíritos familiares e os adivinhos, que chilreiam e murmuram entre dentes; — não recorrerá um povo ao seu Deus? a favor dos vivos interrogar-se-ão  os mortos?
+
+[[v23-8-20]]
+
+^<<v23-8-20,20>>^ À Lei e ao Testemunho! se eles não falarem segundo esta palavra, nunca verão a alva.
+
+[[v23-8-21]]
+
+^<<v23-8-21,21>>^ E passarão pela terra  duramente oprimidos e famintos: e será que, tendo fome, e enfurecendo-se, então amaldiçoarão ao seu rei e ao seu Deus, olhando para cima.
+
+[[v23-8-22]]
+
+^<<v23-8-22,22>>^ E, olhando para a terra, eis que haverá  angústia e escuridão, e  serão entenebrecidos com ânsias, e arrastados para a escuridão.
+
+'''
+
+xref:023-isaias/023-isaias-007.adoc#v23-7-0[&#60; Capítulo Anterior] | <<v23-8-0,Topo>> | xref:023-isaias/023-isaias-009.adoc#v23-9-0[Próximo Capítulo &#62;]

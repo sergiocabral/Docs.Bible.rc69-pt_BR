@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v6-3-0]]
+=== Josué, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-3-1]]
+
+^<<v6-3-1,1>>^ LEVANTOU-SE pois Josué de madrugada, e partiram de Sitim, e vieram até ao Jordão, ele e todos os filhos de Israel: e pousaram ali, antes que passassem.
+
+[[v6-3-2]]
+
+^<<v6-3-2,2>>^ E sucedeu, ao fim de três dias, que os príncipes passaram pelo meio do arraial;
+
+[[v6-3-3]]
+
+^<<v6-3-3,3>>^ E ordenaram ao povo, dizendo: Quando virdes a arca do concerto do Senhor vosso Deus, e que os sacerdotes levitas a levam, parti vós também do vosso lugar, e segui-a.
+
+[[v6-3-4]]
+
+^<<v6-3-4,4>>^ Haja contudo distância entre vós e ela, como da medida de dois mil côvados: e não vos chegueis a ela, para que saibais o caminho pelo qual haveis de ir; porquanto por este caminho nunca passastes antes.
+
+[[v6-3-5]]
+
+^<<v6-3-5,5>>^ Disse Josué também ao povo: Santificai-vos, porque amanhã fará o Senhor maravilhas no meio de vós.
+
+[[v6-3-6]]
+
+^<<v6-3-6,6>>^ E falou Josué aos sacerdotes, dizendo: Levantai a arca do concerto e passai adiante deste povo. Levantaram pois a arca do concerto, e foram andando adiante do povo.
+
+[[v6-3-7]]
+
+^<<v6-3-7,7>>^ E o Senhor disse a Josué: Este dia começarei a engrandecer-te perante os olhos de todo o Israel, para que saibam, que assim  como fui com Moisés assim  serei contigo.
+
+[[v6-3-8]]
+
+^<<v6-3-8,8>>^ Tu pois ordenarás aos sacerdotes que levam a arca do concerto, dizendo: Quando vierdes até à borda das águas do Jordão, parareis no Jordão.
+
+[[v6-3-9]]
+
+^<<v6-3-9,9>>^ Então disse Josué aos filhos de Israel: Chegai-vos para cá, e ouvi as palavras do Senhor vosso Deus.
+
+[[v6-3-10]]
+
+^<<v6-3-10,10>>^ Disse mais Josué: Nisto conhecereis que o Deus vivo está  no meio de vós: e que de todo lançará de diante de vós aos cananeus, e aos heteus, e aos heveus, e aos ferezeus, e aos girgaseus, e aos amorreus, e aos jebuseus.
+
+[[v6-3-11]]
+
+^<<v6-3-11,11>>^ Eis que a arca do concerto do Senhor de toda a terra passa o Jordão diante de vós.
+
+[[v6-3-12]]
+
+^<<v6-3-12,12>>^ Tomai pois agora doze homens das tribos de Israel, de cada tribo um homem;
+
+[[v6-3-13]]
+
+^<<v6-3-13,13>>^ Porque há de acontecer que , assim que as plantas dos pés dos sacerdotes que levam a arca do Senhor, o Senhor de toda a terra, repousem nas águas do Jordão, se separarão as águas do Jordão, e as águas que de cima descem pararão num montão.
+
+[[v6-3-14]]
+
+^<<v6-3-14,14>>^ E aconteceu que, partindo o povo das suas tendas, para passar o Jordão levavam os sacerdotes a arca do concerto diante do povo.
+
+[[v6-3-15]]
+
+^<<v6-3-15,15>>^ E quando os que levavam a arca chegaram até ao Jordão, e os pés dos sacerdotes que levavam a arca, se molharam na borda das águas (porque o Jordão transbordava sobre todas as suas ribanceiras, todos os dias da sega),
+
+[[v6-3-16]]
+
+^<<v6-3-16,16>>^ Pararam-se as águas, que vinham de cima; levantaram-se num montão, mui longe da cidade de Adã, que está  da banda de Sartã; e as que desciam ao mar das campinas, que é o mar salgado, faltavam de todo e separaram-se: então passou o povo defronte de Jericó.
+
+[[v6-3-17]]
+
+^<<v6-3-17,17>>^ Porém os sacerdotes, que levavam a arca do concerto do Senhor, pararam firmes em seco no meio do Jordão: e todo o Israel passou em seco, até que todo o povo acabou de passar o Jordão.
+
+'''
+
+xref:006-josue/006-josue-002.adoc#v6-2-0[&#60; Capítulo Anterior] | <<v6-3-0,Topo>> | xref:006-josue/006-josue-004.adoc#v6-4-0[Próximo Capítulo &#62;]

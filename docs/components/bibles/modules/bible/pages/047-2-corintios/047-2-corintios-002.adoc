@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v47-2-0]]
+=== 2 Coríntios, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v47-2-1]]
+
+^<<v47-2-1,1>>^ MAS deliberei isto comigo mesmo: não ir mais ter convosco em tristeza.
+
+[[v47-2-2]]
+
+^<<v47-2-2,2>>^ Porque, se eu vos entristeço, quem é que me alegrará, senão aquele que por mim foi contristado?
+
+[[v47-2-3]]
+
+^<<v47-2-3,3>>^ E escrevi-vos isto mesmo, para que, quando lá  for, não tenha tristeza da parte dos que deveriam alegrar-me; confiando em vós todos, que a minha alegria é a de todos vós.
+
+[[v47-2-4]]
+
+^<<v47-2-4,4>>^ Porque em muita tribulação e angústia do coração vos escrevi, com muitas lágrimas, não para que vos entristecêsseis, mas para que conhecêsseis o amor que abundantemente vos tenho.
+
+[[v47-2-5]]
+
+^<<v47-2-5,5>>^ Porque, se alguém me  contristou, não me contristou a mim  senão em parte, para vos não sobrecarregar a vós todos.
+
+[[v47-2-6]]
+
+^<<v47-2-6,6>>^ Basta-lhe ao tal esta repreensão feita  por muitos.
+
+[[v47-2-7]]
+
+^<<v47-2-7,7>>^ De maneira que pelo contrário deveis antes perdoar-lhe e consolá-lo, para que o tal não seja de modo algum devorado de demasiada tristeza.
+
+[[v47-2-8]]
+
+^<<v47-2-8,8>>^ Pelo que vos rogo que confirmeis para com ele o vosso amor.
+
+[[v47-2-9]]
+
+^<<v47-2-9,9>>^ E para isso vos escrevi também, para por esta prova saber se sois obedientes em tudo.
+
+[[v47-2-10]]
+
+^<<v47-2-10,10>>^ E a quem perdoardes alguma coisa  também eu; porque, o que eu também perdoei, se é que tenho perdoado, por amor de vós o fiz  na presença de Cristo; para que não sejamos vencidos por Satanás;
+
+[[v47-2-11]]
+
+^<<v47-2-11,11>>^ Porque não ignoramos os seus ardis.
+
+[[v47-2-12]]
+
+^<<v47-2-12,12>>^ Ora, quando cheguei a Troas para pregar  o evangelho de Cristo, e abrindo-se-me uma porta no Senhor,
+
+[[v47-2-13]]
+
+^<<v47-2-13,13>>^ Não tive descanso no meu espírito, porque não achei ali meu irmão Tito; mas, despedindo-me deles, parti para a Macedônia.
+
+[[v47-2-14]]
+
+^<<v47-2-14,14>>^ E graças a Deus, que sempre nos faz triunfar em Cristo, e por meio de nós manifesta em todo o lugar o cheiro do seu conhecimento.
+
+[[v47-2-15]]
+
+^<<v47-2-15,15>>^ Porque para Deus somos o bom cheiro de Cristo, nos que se salvam e nos que se perdem.
+
+[[v47-2-16]]
+
+^<<v47-2-16,16>>^ Para estes certamente cheiro de morte para morte: mas para aqueles cheiro de vida para vida. E para estas coisas  quem é  idôneo?
+
+[[v47-2-17]]
+
+^<<v47-2-17,17>>^ Porque nós não somos, como muitos, falsificadores da palavra de Deus, antes falamos de Cristo com sinceridade, como de Deus na presença de Deus.
+
+'''
+
+xref:047-2-corintios/047-2-corintios-001.adoc#v47-1-0[&#60; Capítulo Anterior] | <<v47-2-0,Topo>> | xref:047-2-corintios/047-2-corintios-003.adoc#v47-3-0[Próximo Capítulo &#62;]

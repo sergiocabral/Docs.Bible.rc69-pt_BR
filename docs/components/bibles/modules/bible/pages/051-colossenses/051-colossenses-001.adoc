@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v51-1-0]]
+=== Colossenses, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v51-1-1]]
+
+^<<v51-1-1,1>>^ PAULO, apóstolo de Jesus Cristo, pela vontade de Deus, e o irmão Timóteo:
+
+[[v51-1-2]]
+
+^<<v51-1-2,2>>^ Aos santos e irmãos fiéis em Cristo, que estão em Colossos. Graça a vós, e paz da parte de Deus nosso Pai e da do Senhor Jesus Cristo.
+
+[[v51-1-3]]
+
+^<<v51-1-3,3>>^ Graças damos a Deus, Pai de nosso Senhor Jesus Cristo, orando sempre por vós.
+
+[[v51-1-4]]
+
+^<<v51-1-4,4>>^ Porquanto ouvimos da vossa fé em Cristo Jesus, e da caridade que tendes  para com todos os santos;
+
+[[v51-1-5]]
+
+^<<v51-1-5,5>>^ Por causa da esperança que vos está reservada nos céus, da qual já antes ouvistes pela palavra da verdade do evangelho,
+
+[[v51-1-6]]
+
+^<<v51-1-6,6>>^ Que já  chegou a vós, como também está  em todo o mundo; e já vai frutificando, como também entre vós, desde o dia em que ouvistes e conhecestes a graça de Deus em verdade;
+
+[[v51-1-7]]
+
+^<<v51-1-7,7>>^ Como aprendestes de Epafras, nosso amado conservo, que para vós é um fiel ministro de Cristo.
+
+[[v51-1-8]]
+
+^<<v51-1-8,8>>^ O qual nos declarou também a vossa caridade no Espírito.
+
+[[v51-1-9]]
+
+^<<v51-1-9,9>>^ Por esta razão, nós também, desde o dia em que o ouvimos, não cessamos de orar por vós, e de pedir que sejais cheios do conhecimento da sua vontade, em toda a sabedoria e inteligência espiritual;
+
+[[v51-1-10]]
+
+^<<v51-1-10,10>>^ Para que possais andar dignamente diante  do Senhor, agradando-lhe em tudo, frutificando em toda a boa obra, e crescendo no conhecimento de Deus;
+
+[[v51-1-11]]
+
+^<<v51-1-11,11>>^ Corroborados em toda a fortaleza, segundo a força da sua glória, em toda a paciência, e longanimidade com gozo;
+
+[[v51-1-12]]
+
+^<<v51-1-12,12>>^ Dando graças ao Pai que nos fez idôneos para participar da herança dos santos na luz;
+
+[[v51-1-13]]
+
+^<<v51-1-13,13>>^ O qual nos tirou da potestade das trevas, e nos transportou para o reino do Filho do seu amor;
+
+[[v51-1-14]]
+
+^<<v51-1-14,14>>^ Em quem temos a redenção pelo seu sangue, a saber , a remissão dos pecados;
+
+[[v51-1-15]]
+
+^<<v51-1-15,15>>^ O qual é imagem do Deus invisível, o primogênito de toda a criação;
+
+[[v51-1-16]]
+
+^<<v51-1-16,16>>^ Porque nele foram criadas todas as coisas  que há nos céus e na terra, visíveis e invisíveis, sejam tronos, sejam dominações, sejam principados, sejam potestades: tudo foi criado por ele e para ele.
+
+[[v51-1-17]]
+
+^<<v51-1-17,17>>^ E ele é antes de todas as coisas , e todas as coisas  subsistem por ele.
+
+[[v51-1-18]]
+
+^<<v51-1-18,18>>^ E ele é a cabeça do corpo da igreja: é o princípio e  o primogênito dentre os mortos, para que em tudo tenha a preeminência.
+
+[[v51-1-19]]
+
+^<<v51-1-19,19>>^ Porque foi do agrado do Pai  que toda a plenitude nele habitasse.
+
+[[v51-1-20]]
+
+^<<v51-1-20,20>>^ E que, havendo por ele feito a paz pelo sangue da sua cruz, por meio dele reconciliasse consigo mesmo todas as coisas , tanto as que estão  na terra como as que estão  nos céus.
+
+[[v51-1-21]]
+
+^<<v51-1-21,21>>^ A vós também, que noutro tempo éreis estranhos, e inimigos no entendimento pelas vossas obras más, agora contudo vos reconciliou.
+
+[[v51-1-22]]
+
+^<<v51-1-22,22>>^ No corpo da sua carne, pela morte, para perante ele vos apresentar santos, e irrepreensíveis, e inculpáveis,
+
+[[v51-1-23]]
+
+^<<v51-1-23,23>>^ Se, na verdade, permanecerdes fundados e firmes na fé, e não vos moverdes da esperança do evangelho que tendes ouvido, o qual foi pregado a toda criatura que há debaixo do céu, e do qual eu, Paulo, estou feito ministro.
+
+[[v51-1-24]]
+
+^<<v51-1-24,24>>^ Regozijo-me agora no que padeço por vós, e na minha carne cumpro o resto das aflições de Cristo, pelo seu corpo, que é a igreja;
+
+[[v51-1-25]]
+
+^<<v51-1-25,25>>^ Da qual eu estou feito ministro segundo a dispensação de Deus, que me foi concedida para convosco, para cumprir a palavra de Deus;
+
+[[v51-1-26]]
+
+^<<v51-1-26,26>>^ O mistério que esteve oculto desde todos os séculos, e em todas as gerações, e que agora foi manifesto aos seus santos;
+
+[[v51-1-27]]
+
+^<<v51-1-27,27>>^ Aos quais Deus quis fazer conhecer quais são as riquezas da glória deste mistério entre os gentios, que é Cristo em vós, esperança da glória;
+
+[[v51-1-28]]
+
+^<<v51-1-28,28>>^ A quem anunciamos, admoestando a todo o homem, e ensinando a todo o homem em toda a sabedoria; para que apresentemos todo o homem perfeito em Jesus Cristo;
+
+[[v51-1-29]]
+
+^<<v51-1-29,29>>^ E para isto também trabalho, combatendo segundo a sua eficácia, que obra em mim poderosamente.
+
+'''
+
+xref:050-filipenses/050-filipenses-004.adoc#v50-4-0[&#60; Capítulo Anterior] | <<v51-1-0,Topo>> | xref:051-colossenses/051-colossenses-002.adoc#v51-2-0[Próximo Capítulo &#62;]

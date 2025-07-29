@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-1-0]]
+=== Provérbios, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-1-1]]
+
+^<<v20-1-1,1>>^ PROVÉRBIOS de Salomão, filho de Davi, rei de Israel;
+
+[[v20-1-2]]
+
+^<<v20-1-2,2>>^ Para se conhecer a sabedoria e a instrução; para se entenderem as palavras da prudência;
+
+[[v20-1-3]]
+
+^<<v20-1-3,3>>^ Para se receber a instrução do entendimento, a justiça, o juízo, e a equidade;
+
+[[v20-1-4]]
+
+^<<v20-1-4,4>>^ Para dar aos simples prudência, e aos jovens conhecimento e bom siso;
+
+[[v20-1-5]]
+
+^<<v20-1-5,5>>^ Para o sábio ouvir e crescer em sabedoria, e o entendido adquirir sábios conselhos;
+
+[[v20-1-6]]
+
+^<<v20-1-6,6>>^ Para entender provérbios e sua  interpretação: como também  as palavras dos sábios, e suas adivinhações.
+
+[[v20-1-7]]
+
+^<<v20-1-7,7>>^ O temor do Senhor é  o princípio da ciência: os loucos desprezam a sabedoria e a instrução.
+
+[[v20-1-8]]
+
+^<<v20-1-8,8>>^ Filho meu, ouve a instrução de teu pai, e não deixes a doutrina de tua mãe.
+
+[[v20-1-9]]
+
+^<<v20-1-9,9>>^ Porque diadema de graça serão  para a tua cabeça, e colares para o teu pescoço.
+
+[[v20-1-10]]
+
+^<<v20-1-10,10>>^ Filho meu, se os pecadores com blandícias te quiserem tentar, não consintas.
+
+[[v20-1-11]]
+
+^<<v20-1-11,11>>^ Se disserem: Vem conosco; espiemos o sangue; espreitemos sem razão o inocente;
+
+[[v20-1-12]]
+
+^<<v20-1-12,12>>^ Traguemo-los vivos, como a sepultura; e inteiros, como os que descem à cova;
+
+[[v20-1-13]]
+
+^<<v20-1-13,13>>^ Acharemos toda a sorte de fazenda preciosa; encheremos as nossas casas de despojos;
+
+[[v20-1-14]]
+
+^<<v20-1-14,14>>^ Lançarás a tua sorte entre nós; teremos todos uma só bolsa;
+
+[[v20-1-15]]
+
+^<<v20-1-15,15>>^ Filho meu, não te ponhas a caminho com eles: desvia o teu pé das suas veredas.
+
+[[v20-1-16]]
+
+^<<v20-1-16,16>>^ Porque os pés deles correm para o mal e se apressam a derramar sangue.
+
+[[v20-1-17]]
+
+^<<v20-1-17,17>>^ Na verdade, debalde se estenderia a rede perante os olhos de qualquer ave.
+
+[[v20-1-18]]
+
+^<<v20-1-18,18>>^ E estes armam ciladas contra o seu próprio  sangue; e as suas próprias vidas espreitam.
+
+[[v20-1-19]]
+
+^<<v20-1-19,19>>^ Tais são  as veredas de todo aquele que se entrega à cobiça; ela  prenderá a alma dos que a possuem.
+
+[[v20-1-20]]
+
+^<<v20-1-20,20>>^ A suprema sabedoria altissonantemente clama de fora: pelas ruas levanta a sua voz.
+
+[[v20-1-21]]
+
+^<<v20-1-21,21>>^ Nas encruzilhadas, no meio dos tumultos, clama: às entradas das portas e na cidade profere as suas palavras:
+
+[[v20-1-22]]
+
+^<<v20-1-22,22>>^ Até quando, ó simples, amareis a simplicidade? e vós, escarnecedores, desejareis o escárnio? e vós , loucos, aborrecereis o conhecimento?
+
+[[v20-1-23]]
+
+^<<v20-1-23,23>>^ Convertei-vos pela minha repreensão: eis que abundantemente derramarei sobre vós meu espírito e  vos farei saber as minhas palavras.
+
+[[v20-1-24]]
+
+^<<v20-1-24,24>>^ Mas, porque clamei, e vós  recusastes; porque estendi a minha mão, e  não houve quem desse atenção;
+
+[[v20-1-25]]
+
+^<<v20-1-25,25>>^ Antes rejeitastes todo o meu conselho, e não quisestes a minha repreensão;
+
+[[v20-1-26]]
+
+^<<v20-1-26,26>>^ Também eu me rirei na vossa perdição, e  zombarei, vindo o vosso temor.
+
+[[v20-1-27]]
+
+^<<v20-1-27,27>>^ Vindo como assolação o vosso temor, e vindo a vossa perdição como tormenta, sobrevindo-vos aperto e angústia.
+
+[[v20-1-28]]
+
+^<<v20-1-28,28>>^ Então a mim clamarão, mas eu  não responderei; de madrugada me buscarão, mas não me acharão.
+
+[[v20-1-29]]
+
+^<<v20-1-29,29>>^ Porquanto aborreceram o conhecimento; e não preferiram o temor do Senhor;
+
+[[v20-1-30]]
+
+^<<v20-1-30,30>>^ Não quiseram o meu conselho e  desprezaram toda a minha repreensão.
+
+[[v20-1-31]]
+
+^<<v20-1-31,31>>^ Portanto comerão do fruto do seu caminho, e fartar-se-ão dos seus próprios  conselhos.
+
+[[v20-1-32]]
+
+^<<v20-1-32,32>>^ Porque o desvio dos simples os matará, e a prosperidade dos loucos os destruirá.
+
+[[v20-1-33]]
+
+^<<v20-1-33,33>>^ Mas o que me der ouvidos habitará seguramente, e estará descansado do temor do mal.
+
+'''
+
+xref:019-salmos/019-salmos-150.adoc#v19-150-0[&#60; Capítulo Anterior] | <<v20-1-0,Topo>> | xref:020-proverbios/020-proverbios-002.adoc#v20-2-0[Próximo Capítulo &#62;]

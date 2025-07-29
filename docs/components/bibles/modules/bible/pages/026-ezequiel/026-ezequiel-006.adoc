@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v26-6-0]]
+=== Ezequiel, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v26-6-1]]
+
+^<<v26-6-1,1>>^ E VEIO a mim a palavra do Senhor, dizendo:
+
+[[v26-6-2]]
+
+^<<v26-6-2,2>>^ Filho do homem, dirige o teu rosto para os montes de Israel; e profetiza contra eles.
+
+[[v26-6-3]]
+
+^<<v26-6-3,3>>^ E dirás: Montes de Israel, ouvi a palavra do Senhor Jeová : Assim diz o Senhor Jeová  aos montes, aos outeiros, aos ribeiros e aos vales: Eis que eu, sim  eu, trarei a espada sobre vós, e destruirei os vossos altos.
+
+[[v26-6-4]]
+
+^<<v26-6-4,4>>^ E serão assolados os vossos altares, e quebradas as vossas imagens do sol, e derribarei os vossos traspassados, diante dos vossos ídolos.
+
+[[v26-6-5]]
+
+^<<v26-6-5,5>>^ E porei os cadáveres dos filhos de Israel diante dos seus ídolos; e espalharei os vossos ossos em redor dos vossos altares.
+
+[[v26-6-6]]
+
+^<<v26-6-6,6>>^ Em todos os vossos lugares habitáveis as cidades serão destruídas, e os altos assolados; para que os vossos altares sejam destruídos e assolados, e os vossos ídolos se quebrem e cessem, e as vossas imagens do sol sejam cortadas, e desfeitas as vossas obras.
+
+[[v26-6-7]]
+
+^<<v26-6-7,7>>^ E os traspassados cairão no meio de vós; para que saibais que eu sou  o Senhor.
+
+[[v26-6-8]]
+
+^<<v26-6-8,8>>^ Mas deixarei um resto, para que haja alguns  que escapem da espada entre as nações, quando fordes espalhados pelas terras.
+
+[[v26-6-9]]
+
+^<<v26-6-9,9>>^ Então se lembrarão de mim os que de vós escaparem entre as nações para onde foram levados em cativeiro; porquanto me quebrantei por causa do seu coração corrompido, que se desviou de mim, e por causa dos seus olhos, que se andaram corrompendo após os seus ídolos; e terão nojo de si mesmos, por causa das maldades que fizeram em todas as suas abominações.
+
+[[v26-6-10]]
+
+^<<v26-6-10,10>>^ E saberão que eu, o Senhor, não disse debalde que lhes faria este mal.
+
+[[v26-6-11]]
+
+^<<v26-6-11,11>>^ Assim diz o Senhor Jeová : Bate com a mão, e bate com o teu pé, e dize: Ah! por todas as abominações das maldades da casa de Israel! porque cairão à espada, e de fome, e de peste.
+
+[[v26-6-12]]
+
+^<<v26-6-12,12>>^ O que estiver longe morrerá de peste, e o que está  perto cairá à espada; e o que ficar de resto e cercado morrerá de fome; e cumprirei o meu furor contra eles.
+
+[[v26-6-13]]
+
+^<<v26-6-13,13>>^ Então sabereis que eu sou  o Senhor, quando estiverem os seus traspassados no meio dos seus ídolos, em redor dos seus altares, em todo o outeiro alto, em todos os cumes dos montes, e debaixo de toda a árvore verde, e debaixo de todo o carvalho espesso, no lugar onde ofereciam suave perfume a todos os seus ídolos.
+
+[[v26-6-14]]
+
+^<<v26-6-14,14>>^ E estenderei a minha mão sobre eles, e farei a terra assolada, e mais assolada do que o deserto da banda de Diblá, em todas as suas habitações; e saberão que eu sou o Senhor.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-005.adoc#v26-5-0[&#60; Capítulo Anterior] | <<v26-6-0,Topo>> | xref:026-ezequiel/026-ezequiel-007.adoc#v26-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-20-0]]
+=== Salmos, 20
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-20-1]]
+
+^<<v19-20-1,1>>^ O SENHOR te ouça no dia da angústia; o nome do Deus de Jacó te proteja.
+
+[[v19-20-2]]
+
+^<<v19-20-2,2>>^ Envie-te socorro desde o seu santuário, e te sustenha desde Sião.
+
+[[v19-20-3]]
+
+^<<v19-20-3,3>>^ Lembre-se de todas as tuas ofertas, e aceite os teus holocaustos. (Selá.)
+
+[[v19-20-4]]
+
+^<<v19-20-4,4>>^ Conceda-te conforme ao teu coração, e cumpra todo o teu desígnio.
+
+[[v19-20-5]]
+
+^<<v19-20-5,5>>^ Nós nos alegraremos pela tua salvação, e em nome do nosso Deus arvoraremos pendões; satisfaça o Senhor todas as tuas petições.
+
+[[v19-20-6]]
+
+^<<v19-20-6,6>>^ Agora sei que o Senhor salva o seu ungido: ele o ouvirá desde o seu santo céu, com a força salvadora da sua destra.
+
+[[v19-20-7]]
+
+^<<v19-20-7,7>>^ Uns confiam  em carros e outros em cavalos, mas nós faremos menção do nome do Senhor nosso Deus.
+
+[[v19-20-8]]
+
+^<<v19-20-8,8>>^ Uns encurvam-se e caem, mas nós nos levantamos e estamos de pé.
+
+[[v19-20-9]]
+
+^<<v19-20-9,9>>^ Salva- nos , Senhor, ouça-nos o Rei quando clamarmos.
+
+'''
+
+xref:019-salmos/019-salmos-019.adoc#v19-19-0[&#60; Capítulo Anterior] | <<v19-20-0,Topo>> | xref:019-salmos/019-salmos-021.adoc#v19-21-0[Próximo Capítulo &#62;]

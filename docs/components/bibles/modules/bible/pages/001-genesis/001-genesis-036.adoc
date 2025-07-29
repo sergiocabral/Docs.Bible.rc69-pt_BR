@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v1-36-0]]
+=== Gênesis, 36
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-36-1]]
+
+^<<v1-36-1,1>>^ E ESTAS são  as gerações de Esaú (que é  Edom).
+
+[[v1-36-2]]
+
+^<<v1-36-2,2>>^ Esaú tomou suas mulheres das filhas de Canaã: a Ada, filha de Elom heteu, e a Aolibama, filha de Ana, filha de Zibeom heveu,
+
+[[v1-36-3]]
+
+^<<v1-36-3,3>>^ E a Basemate, filha de Ismael, irmã de Nebaiote.
+
+[[v1-36-4]]
+
+^<<v1-36-4,4>>^ E Ada teve de Esaú a Elifaz; e Basemate teve a Reuel;
+
+[[v1-36-5]]
+
+^<<v1-36-5,5>>^ E Aolibama teve a Jeús, e Jalão e Corá; estes são  os filhos de Esaú, que lhe nasceram na terra de Canaã.
+
+[[v1-36-6]]
+
+^<<v1-36-6,6>>^ E Esaú tomou suas mulheres, e seus filhos, e suas filhas, e todas as almas de sua casa, e seu gado, e todos os seus animais, e toda a sua fazenda, que havia adquirido na terra de Canaã; e foi-se a outra  terra de diante da face de Jacó seu irmão;
+
+[[v1-36-7]]
+
+^<<v1-36-7,7>>^ Porque a fazenda deles era muita para habitarem juntos; e a terra de suas peregrinações não os podia sustentar por causa de seu gado.
+
+[[v1-36-8]]
+
+^<<v1-36-8,8>>^ Portanto Esaú habitou na montanha de Seir; Esaú é Edom.
+
+[[v1-36-9]]
+
+^<<v1-36-9,9>>^ Estas pois são  as gerações de Esaú, pai dos idumeus, na montanha de Seir.
+
+[[v1-36-10]]
+
+^<<v1-36-10,10>>^ Estes são  os nomes dos filhos de Esaú: Elifaz, filho de Ada, mulher de Esaú; Reuel, filho de Basemate, mulher de Esaú.
+
+[[v1-36-11]]
+
+^<<v1-36-11,11>>^ E os filhos de Elifaz foram: Temã, Omar, Zefo, e Gaetã, e Quenaz.
+
+[[v1-36-12]]
+
+^<<v1-36-12,12>>^ E Timna era concubina de Elifaz, filho de Esaú, e teve de Elifaz a Amaleque: estes são  os filhos de Ada, mulher de Esaú.
+
+[[v1-36-13]]
+
+^<<v1-36-13,13>>^ E estes foram  os filhos de Reuel: Naate, e Zerá, Samá, e Mizá: estes foram os filhos de Basemate, mulher de Esaú.
+
+[[v1-36-14]]
+
+^<<v1-36-14,14>>^ E estes foram os filhos de Aolibama, filha de Ana, filha de Zibeom, mulher de Esaú: e deu a Esaú: Jeús, e Jalão, e Corá.
+
+[[v1-36-15]]
+
+^<<v1-36-15,15>>^ Estes são  os príncipes dos filhos de Esaú: Os filhos de Elifaz, o primogênito de Esaú, foram : o príncipe Temã, o príncipe Omar, o príncipe Zefo, o príncipe Quenaz,
+
+[[v1-36-16]]
+
+^<<v1-36-16,16>>^ O príncipe Corá, o príncipe Gaetã, o príncipe Amaleque; estes são os príncipes de Elifaz na terra de Edom, estes são  os filhos de Ada.
+
+[[v1-36-17]]
+
+^<<v1-36-17,17>>^ E estes são  os filhos de Reuel, filho de Esaú: o príncipe Naate, o príncipe Zerá, o príncipe Samá, o príncipe Mizá; estes são os príncipes de Reuel, na terra de Edom, estes são  os filhos de Basemate, mulher de Esaú.
+
+[[v1-36-18]]
+
+^<<v1-36-18,18>>^ E estes são  os filhos de Aolibama, mulher de Esaú: o príncipe Jeús, o príncipe Jalão, o príncipe Corá; estes são  os príncipes de Aolibama, filha de Ana, mulher de Esaú.
+
+[[v1-36-19]]
+
+^<<v1-36-19,19>>^ Estes são  os filhos de Esaú, e estes são  seus príncipes: ele é  Edom.
+
+[[v1-36-20]]
+
+^<<v1-36-20,20>>^ Estes são  os filhos de Seir horeu, moradores daquela terra: Lotã, e Sobal, e Zibeom, e Aná,
+
+[[v1-36-21]]
+
+^<<v1-36-21,21>>^ E Disom, e Ezer, e Disã; estes são  os príncipes dos horeus, filhos de Seir, na terra de Edom.
+
+[[v1-36-22]]
+
+^<<v1-36-22,22>>^ E os filhos de Lotã foram: Hori e Hemã; e a irmã de Lotã era  Timna.
+
+[[v1-36-23]]
+
+^<<v1-36-23,23>>^ Estes são  os filhos de Sobal: Alvã, e Manaate, e Ebal, e Sefo, e Onã.
+
+[[v1-36-24]]
+
+^<<v1-36-24,24>>^ E estes são  os filhos de Zibeão: Aiá, e Aná; este é  o Aná que achou as caldas no deserto, quando apascentava os jumentos de Zibeão seu pai.
+
+[[v1-36-25]]
+
+^<<v1-36-25,25>>^ E estes são  os filhos de Aná: Disom, e Aolibama, a filha de Aná.
+
+[[v1-36-26]]
+
+^<<v1-36-26,26>>^ E estes são  os filhos de Disom: Hendã, e Esbã, e Itrã, e Querã.
+
+[[v1-36-27]]
+
+^<<v1-36-27,27>>^ Estes são  os filhos de Ezer: Bilhã, e Zaavã, e Acã.
+
+[[v1-36-28]]
+
+^<<v1-36-28,28>>^ Estes são  os filhos de Disã: Uz, e Arã.
+
+[[v1-36-29]]
+
+^<<v1-36-29,29>>^ Estes são  os príncipes dos horeus: O príncipe Lotã, o príncipe Sobal, o príncipe Zibeão, o príncipe Aná,
+
+[[v1-36-30]]
+
+^<<v1-36-30,30>>^ O príncipe Disom, o príncipe Ezer, o príncipe Disã; estes são  os príncipes dos horeus segundo seus príncipes na terra de Seir.
+
+[[v1-36-31]]
+
+^<<v1-36-31,31>>^ E estes são  os reis que reinaram na terra de Edom, antes que reinasse rei algum  sobre os filhos de Israel.
+
+[[v1-36-32]]
+
+^<<v1-36-32,32>>^ Reinou pois em Edom Bela, filho de Beor, e o nome da sua cidade foi  Dinabá.
+
+[[v1-36-33]]
+
+^<<v1-36-33,33>>^ E morreu Bela; e Jobabe, filho de Zerá de Bozra, reinou em seu lugar.
+
+[[v1-36-34]]
+
+^<<v1-36-34,34>>^ E morreu Jobabe; e Husão, da terra dos temanitas, reinou em seu lugar.
+
+[[v1-36-35]]
+
+^<<v1-36-35,35>>^ E morreu Husão, e em seu lugar reinou Hadade, filho de Bedade, o que feriu a Midiã no campo de Moabe; e o nome da sua cidade foi  Avite.
+
+[[v1-36-36]]
+
+^<<v1-36-36,36>>^ E morreu Hadade; e Sanlá de Masreca reinou em seu lugar.
+
+[[v1-36-37]]
+
+^<<v1-36-37,37>>^ E morreu Sanlá; e Saul de Reobote do rio reinou em seu lugar.
+
+[[v1-36-38]]
+
+^<<v1-36-38,38>>^ E morreu Saul; e Baal-Hanã filho de Acbor, reinou em seu lugar.
+
+[[v1-36-39]]
+
+^<<v1-36-39,39>>^ E morreu Baal-Hanã, filho de Acbor; e Hadar reinou em seu lugar, e o nome da sua cidade foi  Pau; e o nome de sua mulher foi  Meetabel, filha de Matrede, filha de Mezaabe.
+
+[[v1-36-40]]
+
+^<<v1-36-40,40>>^ E estes são  os nomes dos príncipes de Esaú, segundo as suas gerações, segundo os seus lugares, pelos seus nomes: O príncipe Timna, o príncipe Alvá, o príncipe Jetete,
+
+[[v1-36-41]]
+
+^<<v1-36-41,41>>^ O príncipe Aolibama, o príncipe Elá, o príncipe Pinom,
+
+[[v1-36-42]]
+
+^<<v1-36-42,42>>^ O príncipe Quenaz, o príncipe Temã, o príncipe Mibzar,
+
+[[v1-36-43]]
+
+^<<v1-36-43,43>>^ O príncipe Magdiel, o príncipe Irão: estes são  os príncipes de Edom, segundo as suas habitações, na terra da sua possessão; este é  Esaú, pai de Edom.
+
+'''
+
+xref:001-genesis/001-genesis-035.adoc#v1-35-0[&#60; Capítulo Anterior] | <<v1-36-0,Topo>> | xref:001-genesis/001-genesis-037.adoc#v1-37-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v14-3-0]]
+=== 2 Crônicas, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v14-3-1]]
+
+^<<v14-3-1,1>>^ E COMEÇOU Salomão a edificar a casa do Senhor em Jerusalém, no monte de Moriá, onde o Senhor se tinha mostrado a Davi seu pai, no lugar que Davi tinha preparado na eira de Ornã, jebuseu,
+
+[[v14-3-2]]
+
+^<<v14-3-2,2>>^ E começou a edificar no segundo mês, no dia  segundo, no ano quarto do seu reinado.
+
+[[v14-3-3]]
+
+^<<v14-3-3,3>>^ E estes foram  os fundamentos que Salomão pôs para edificar a casa de Deus: O comprimento em côvados, segundo a medida primeira, de sessenta côvados, e a largura de vinte côvados.
+
+[[v14-3-4]]
+
+^<<v14-3-4,4>>^ E o alpendre, que estava  na frente, de comprimento, segundo a largura da casa, era  de vinte côvados, e a altura de cento e vinte, o que dentro cobriu com ouro puro.
+
+[[v14-3-5]]
+
+^<<v14-3-5,5>>^ E a casa grande forrou com madeira de faia; e então a cobriu com ouro fino; e fez sobre ela palmas e cadeias.
+
+[[v14-3-6]]
+
+^<<v14-3-6,6>>^ Também a casa adornou de pedras preciosas para ornamento: e o ouro era  ouro de Parvaim.
+
+[[v14-3-7]]
+
+^<<v14-3-7,7>>^ Também na casa cobriu as traves, os umbrais, e as suas paredes, e as suas portas, com ouro: e lavrou querubins nas paredes.
+
+[[v14-3-8]]
+
+^<<v14-3-8,8>>^ Fez mais a casa da santidade das santidades, cujo comprimento, segundo a largura da casa, era  de vinte côvados, e a sua largura de vinte côvados: e cobriu-a de ouro fino, do peso de seiscentos talentos.
+
+[[v14-3-9]]
+
+^<<v14-3-9,9>>^ O peso dos pregos era  de cinquenta siclos de ouro: e cobriu de ouro os cenáculos.
+
+[[v14-3-10]]
+
+^<<v14-3-10,10>>^ Também fez na casa da santidade das santidades dois querubins na forma de andantes, e cobriu-os de ouro.
+
+[[v14-3-11]]
+
+^<<v14-3-11,11>>^ E, quanto às asas dos querubins, o seu comprimento era  de vinte côvados; a asa dum deles  de cinco côvados, e  tocava na parede da casa; e a outra asa de cinco côvados, e  tocava na asa do outro querubim.
+
+[[v14-3-12]]
+
+^<<v14-3-12,12>>^ Também a asa do outro querubim era  de cinco côvados, e  tocava na parede da casa: era  também a outra asa de cinco côvados, e  estava pegada à asa do outro querubim.
+
+[[v14-3-13]]
+
+^<<v14-3-13,13>>^ E as asas destes querubins se estendiam vinte côvados: e estavam postos em pé, e os seus rostos virados  para a casa.
+
+[[v14-3-14]]
+
+^<<v14-3-14,14>>^ Também fez o véu de azul, e púrpura, e carmesim, e linho fino: e pôs sobre ele querubins.
+
+[[v14-3-15]]
+
+^<<v14-3-15,15>>^ Fez também diante da casa duas colunas de trinta e cinco côvados de altura; e o capitel, que estava  sobre cada uma, era  de cinco côvados.
+
+[[v14-3-16]]
+
+^<<v14-3-16,16>>^ Também fez as cadeias, como  no oráculo, e as pôs sobre as cabeças das colunas: fez também cem romãs, as quais pôs entre as cadeias.
+
+[[v14-3-17]]
+
+^<<v14-3-17,17>>^ E levantou as colunas diante do templo, uma à direita, e outra à esquerda; e chamou o nome da que estava  à direita Jaquim, e o nome da que estava  à esquerda Boaz.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-002.adoc#v14-2-0[&#60; Capítulo Anterior] | <<v14-3-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-004.adoc#v14-4-0[Próximo Capítulo &#62;]

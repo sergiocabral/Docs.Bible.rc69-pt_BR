@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-95-0]]
+=== Salmos, 95
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-95-1]]
+
+^<<v19-95-1,1>>^ VINDE, cantemos ao Senhor: cantemos com júbilo à rocha da nossa salvação.
+
+[[v19-95-2]]
+
+^<<v19-95-2,2>>^ Apresentemo-nos ante a sua face com louvores, e celebremo-lo com salmos.
+
+[[v19-95-3]]
+
+^<<v19-95-3,3>>^ Porque o Senhor é  Deus grande, e Rei grande acima de todos os deuses.
+
+[[v19-95-4]]
+
+^<<v19-95-4,4>>^ Nas suas mãos estão  as profundezas da terra, e as alturas dos montes são  suas.
+
+[[v19-95-5]]
+
+^<<v19-95-5,5>>^ Seu é o mar, pois ele o fez, e as suas mãos formaram a terra seca.
+
+[[v19-95-6]]
+
+^<<v19-95-6,6>>^ Ó, vinde, adoremos e prostremo-nos; ajoelhemos diante do Senhor que nos criou.
+
+[[v19-95-7]]
+
+^<<v19-95-7,7>>^ Porque ele é  o nosso Deus, e nós povo do seu pasto e ovelhas da sua mão. Se hoje ouvirdes a sua voz,
+
+[[v19-95-8]]
+
+^<<v19-95-8,8>>^ Não endureçais os vossos corações como em Meribá e  como no  dia da tentação no deserto;
+
+[[v19-95-9]]
+
+^<<v19-95-9,9>>^ Quando vossos pais me tentaram; provaram-me e viram a minha obra.
+
+[[v19-95-10]]
+
+^<<v19-95-10,10>>^ Quarenta anos estive desgostado com esta  geração, e disse: É um  povo que erra de coração, e não tem conhecimento dos meus caminhos.
+
+[[v19-95-11]]
+
+^<<v19-95-11,11>>^ Por isso jurei na minha ira que não entrarão no meu repouso.
+
+'''
+
+xref:019-salmos/019-salmos-094.adoc#v19-94-0[&#60; Capítulo Anterior] | <<v19-95-0,Topo>> | xref:019-salmos/019-salmos-096.adoc#v19-96-0[Próximo Capítulo &#62;]

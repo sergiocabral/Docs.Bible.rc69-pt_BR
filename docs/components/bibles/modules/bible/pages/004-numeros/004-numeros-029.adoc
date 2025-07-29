@@ -1,0 +1,169 @@
+include::./index.adoc[]
+
+[[v4-29-0]]
+=== Números, 29
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-29-1]]
+
+^<<v4-29-1,1>>^ SEMELHANTEMENTE, tereis santa convocação no sétimo mês, no primeiro dia  do mês: nenhuma obra servil fareis: ser-vos-á um dia de jubilação.
+
+[[v4-29-2]]
+
+^<<v4-29-2,2>>^ Então por  holocausto, em cheiro suave ao Senhor, oferecereis um bezerro, um carneiro e sete cordeiros dum ano, sem mancha.
+
+[[v4-29-3]]
+
+^<<v4-29-3,3>>^ E pela  sua oferta de manjares de  flor de farinha misturada com azeite, três décimas para o bezerro, e duas décimas para o carneiro,
+
+[[v4-29-4]]
+
+^<<v4-29-4,4>>^ E uma décima para um cordeiro, para cada um dos sete cordeiros.
+
+[[v4-29-5]]
+
+^<<v4-29-5,5>>^ E um bode para  expiação do pecado, para fazer expiação por vós;
+
+[[v4-29-6]]
+
+^<<v4-29-6,6>>^ Além do holocausto do mês, e a sua oferta de manjares, e o holocausto contínuo, e a sua oferta de manjares, com as suas libações, segundo o seu estatuto, em cheiro suave, oferta queimada ao Senhor.
+
+[[v4-29-7]]
+
+^<<v4-29-7,7>>^ E no dia dez deste sétimo mês tereis santa convocação, e afligireis as vossas almas: nenhuma obra fareis.
+
+[[v4-29-8]]
+
+^<<v4-29-8,8>>^ Mas por  holocausto, em  cheiro suave ao Senhor, oferecereis um bezerro, um carneiro e sete cordeiros dum ano: ser-vos-ão eles sem mancha.
+
+[[v4-29-9]]
+
+^<<v4-29-9,9>>^ E, pela  sua oferta de manjares de  flor de farinha misturada com azeite, três décimas para o bezerro, duas décimas para o carneiro,
+
+[[v4-29-10]]
+
+^<<v4-29-10,10>>^ E uma décima para um cordeiro, para cada um dos sete cordeiros;
+
+[[v4-29-11]]
+
+^<<v4-29-11,11>>^ Um bode para expiação do pecado, além da expiação do pecado pelas propiciações, e o holocausto contínuo, e a sua oferta de manjares com as suas libações.
+
+[[v4-29-12]]
+
+^<<v4-29-12,12>>^ Semelhantemente, aos quinze dias deste sétimo mês, tereis santa convocação; nenhuma obra servil fareis: mas sete dias celebrareis festa ao Senhor.
+
+[[v4-29-13]]
+
+^<<v4-29-13,13>>^ E, por  holocausto em  oferta queimada, de cheiro suave ao Senhor, oferecereis treze bezerros, dois carneiros e catorze cordeiros dum ano: ser-vos-ão eles sem mancha.
+
+[[v4-29-14]]
+
+^<<v4-29-14,14>>^ E, pela  sua oferta de manjares de  flor de farinha misturada com azeite, três décimas para um bezerro, para cada um dos treze bezerros, duas décimas para cada carneiro, entre os dois carneiros:
+
+[[v4-29-15]]
+
+^<<v4-29-15,15>>^ E para um cordeiro uma décima, para cada um dos catorze cordeiros;
+
+[[v4-29-16]]
+
+^<<v4-29-16,16>>^ E um bode para  expiação do pecado, além do holocausto contínuo, a sua oferta de manjares e a sua libação:
+
+[[v4-29-17]]
+
+^<<v4-29-17,17>>^ Depois, no segundo dia, doze bezerros, dois carneiros, catorze cordeiros dum ano, sem mancha;
+
+[[v4-29-18]]
+
+^<<v4-29-18,18>>^ E a sua oferta de manjares e as suas libações para os bezerros, para os carneiros e para os cordeiros, conforme ao seu número, segundo o estatuto;
+
+[[v4-29-19]]
+
+^<<v4-29-19,19>>^ E um bode para  expiação do pecado, além do holocausto contínuo, a sua oferta de manjares e as suas libações.
+
+[[v4-29-20]]
+
+^<<v4-29-20,20>>^ E, no terceiro dia, onze bezerros, dois carneiros, catorze cordeiros dum ano, sem mancha;
+
+[[v4-29-21]]
+
+^<<v4-29-21,21>>^ E as suas ofertas de manjares, e as suas libações para os bezerros, para os carneiros e para os cordeiros, conforme ao seu número, segundo o estatuto;
+
+[[v4-29-22]]
+
+^<<v4-29-22,22>>^ E um bode para  expiação do pecado, além do holocausto contínuo, e a sua oferta de manjares e a sua libação.
+
+[[v4-29-23]]
+
+^<<v4-29-23,23>>^ E, no quarto dia, dez bezerros, dois carneiros, catorze cordeiros dum ano, sem mancha;
+
+[[v4-29-24]]
+
+^<<v4-29-24,24>>^ A sua oferta de manjares, e as suas libações para os bezerros, para os carneiros e para os cordeiros, conforme ao número, segundo o estatuto;
+
+[[v4-29-25]]
+
+^<<v4-29-25,25>>^ E um bode para  expiação do pecado, além do holocausto contínuo, a sua oferta de manjares e a sua libação.
+
+[[v4-29-26]]
+
+^<<v4-29-26,26>>^ E, no quinto dia, nove bezerros, dois carneiros e catorze cordeiros dum ano, sem mancha;
+
+[[v4-29-27]]
+
+^<<v4-29-27,27>>^ E a sua oferta de manjares, e as suas libações para os bezerros, para os carneiros e para os cordeiros, conforme ao número, segundo o estatuto;
+
+[[v4-29-28]]
+
+^<<v4-29-28,28>>^ E um bode para  expiação do pecado, além do holocausto contínuo, e a sua oferta de manjares e a sua libação.
+
+[[v4-29-29]]
+
+^<<v4-29-29,29>>^ E, no sexto dia, oito bezerros, dois carneiros, catorze cordeiros dum ano, sem mancha;
+
+[[v4-29-30]]
+
+^<<v4-29-30,30>>^ E a sua oferta de manjares, e as suas libações para os bezerros, para os carneiros e para os cordeiros, conforme ao seu número, segundo o estatuto;
+
+[[v4-29-31]]
+
+^<<v4-29-31,31>>^ E um bode para  expiação do pecado, além do holocausto contínuo, a sua oferta de manjares e a sua libação.
+
+[[v4-29-32]]
+
+^<<v4-29-32,32>>^ E, no sétimo dia, sete bezerros, dois carneiros, catorze cordeiros dum ano, sem mancha;
+
+[[v4-29-33]]
+
+^<<v4-29-33,33>>^ E a sua oferta de manjares, e as suas libações para os bezerros, para os carneiros e para os cordeiros, conforme ao seu número, segundo o seu estatuto,
+
+[[v4-29-34]]
+
+^<<v4-29-34,34>>^ E um bode para  expiação do pecado, além do holocausto contínuo, a sua oferta de manjares e a sua libação.
+
+[[v4-29-35]]
+
+^<<v4-29-35,35>>^ No oitavo dia tereis dia de  solenidade; nenhuma obra servil fareis;
+
+[[v4-29-36]]
+
+^<<v4-29-36,36>>^ E por  holocausto em  oferta queimada de cheiro suave ao Senhor oferecereis um bezerro, um carneiro, sete cordeiros dum ano, sem mancha;
+
+[[v4-29-37]]
+
+^<<v4-29-37,37>>^ A sua oferta de manjares e as suas libações para o bezerro, para o carneiro e para os cordeiros, conforme ao seu número, segundo o estatuto,
+
+[[v4-29-38]]
+
+^<<v4-29-38,38>>^ E um bode para  expiação do pecado, além do holocausto contínuo e a sua oferta de manjares e a sua libação.
+
+[[v4-29-39]]
+
+^<<v4-29-39,39>>^ Estas cousas  fareis ao Senhor nas vossas solenidades, além dos vossos votos, e das vossas ofertas voluntárias, com os vossos holocaustos, e com as vossas ofertas de manjares, e com as vossas libações, e com as vossas ofertas pacíficas.
+
+[[v4-29-40]]
+
+^<<v4-29-40,40>>^ E falou Moisés aos filhos de Israel, conforme a tudo o que o Senhor ordenara a Moisés.
+
+'''
+
+xref:004-numeros/004-numeros-028.adoc#v4-28-0[&#60; Capítulo Anterior] | <<v4-29-0,Topo>> | xref:004-numeros/004-numeros-030.adoc#v4-30-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v25-5-0]]
+=== Lamentações, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v25-5-1]]
+
+^<<v25-5-1,1>>^ LEMBRA-TE, Senhor do que nos tem sucedido: considera, e olha para o nosso opróbrio.
+
+[[v25-5-2]]
+
+^<<v25-5-2,2>>^ A nossa herdade passou a estranhos, e  as nossas casas a forasteiros.
+
+[[v25-5-3]]
+
+^<<v25-5-3,3>>^ Órfãos somos sem pai, nossas mães são  como viúvas.
+
+[[v25-5-4]]
+
+^<<v25-5-4,4>>^ A nossa água por dinheiro a bebemos, por preço vem a nossa lenha.
+
+[[v25-5-5]]
+
+^<<v25-5-5,5>>^ Os nossos perseguidores estão sobre os nossos pescoços: estamos cansados, e não temos descanso.
+
+[[v25-5-6]]
+
+^<<v25-5-6,6>>^ Aos egípcios estendemos as mãos, e  aos assírios, para nos fartarem de  pão.
+
+[[v25-5-7]]
+
+^<<v25-5-7,7>>^ Nossos pais pecaram, e já  não existem: nós levamos as suas maldades.
+
+[[v25-5-8]]
+
+^<<v25-5-8,8>>^ Servos dominam sobre nós; ninguém há  que nos  arranque da sua mão.
+
+[[v25-5-9]]
+
+^<<v25-5-9,9>>^ Com perigo de nossas vidas trazemos o nosso pão, por causa da espada do deserto.
+
+[[v25-5-10]]
+
+^<<v25-5-10,10>>^ Nossa pele se enegreceu como um forno, por causa do ardor da fome.
+
+[[v25-5-11]]
+
+^<<v25-5-11,11>>^ Forçaram as mulheres em Sião, as virgens nas cidades de Judá.
+
+[[v25-5-12]]
+
+^<<v25-5-12,12>>^ Os príncipes foram enforcados pelas mãos deles; as faces dos velhos não foram reverenciadas.
+
+[[v25-5-13]]
+
+^<<v25-5-13,13>>^ Aos mancebos obrigam a moer e os moços tropeçaram debaixo da lenha.
+
+[[v25-5-14]]
+
+^<<v25-5-14,14>>^ Os velhos já não têm assento na porta, os mancebos já não cantam.
+
+[[v25-5-15]]
+
+^<<v25-5-15,15>>^ Cessou o gozo de nosso coração, converteu-se em lamentação a nossa dança.
+
+[[v25-5-16]]
+
+^<<v25-5-16,16>>^ Caiu a coroa da nossa cabeça; ai de nós, porque pecamos.
+
+[[v25-5-17]]
+
+^<<v25-5-17,17>>^ Por isso desmaiou o nosso coração; por isso se escureceram os nossos olhos.
+
+[[v25-5-18]]
+
+^<<v25-5-18,18>>^ Pelo monte de Sião; que está assolado, andam as raposas.
+
+[[v25-5-19]]
+
+^<<v25-5-19,19>>^ Tu, Senhor, permaneces eternamente, e  o teu trono de geração em geração.
+
+[[v25-5-20]]
+
+^<<v25-5-20,20>>^ Por que te esquecerias de nós para sempre? por que  nos desampararias por tanto tempo?
+
+[[v25-5-21]]
+
+^<<v25-5-21,21>>^ Converte-nos, Senhor, a ti, e nós nos converteremos: renova os nossos dias como dantes.
+
+[[v25-5-22]]
+
+^<<v25-5-22,22>>^ Por que nos rejeitarias totalmente? por que te enfurecerias contra nós em tão  grande maneira?
+
+'''
+
+xref:025-lamentacoes/025-lamentacoes-004.adoc#v25-4-0[&#60; Capítulo Anterior] | <<v25-5-0,Topo>> | xref:026-ezequiel/026-ezequiel-001.adoc#v26-1-0[Próximo Capítulo &#62;]

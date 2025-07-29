@@ -1,0 +1,29 @@
+include::./index.adoc[]
+
+[[v19-70-0]]
+=== Salmos, 70
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-70-1]]
+
+^<<v19-70-1,1>>^ APRESSA-TE, ó Deus, em me livrar; Senhor, apressa-te  em ajudar-me.
+
+[[v19-70-2]]
+
+^<<v19-70-2,2>>^ Fiquem envergonhados e confundidos os que procuram a minha alma; tornem atrás e confundam-se os que me desejam mal.
+
+[[v19-70-3]]
+
+^<<v19-70-3,3>>^ Voltem as costas cobertos de vergonha os que dizem: Ah! Ah!
+
+[[v19-70-4]]
+
+^<<v19-70-4,4>>^ Folguem e alegrem-se em ti todos os que te buscam; e aqueles que amam a tua salvação digam continuamente: Engrandecido seja Deus.
+
+[[v19-70-5]]
+
+^<<v19-70-5,5>>^ Eu porém estou  aflito e necessitado: apressa-te por mim, ó Deus; tu és o meu auxílio e o meu libertador: Senhor, não te detenhas.
+
+'''
+
+xref:019-salmos/019-salmos-069.adoc#v19-69-0[&#60; Capítulo Anterior] | <<v19-70-0,Topo>> | xref:019-salmos/019-salmos-071.adoc#v19-71-0[Próximo Capítulo &#62;]

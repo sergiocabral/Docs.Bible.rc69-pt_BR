@@ -1,0 +1,213 @@
+include::./index.adoc[]
+
+[[v6-19-0]]
+=== Josué, 19
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-19-1]]
+
+^<<v6-19-1,1>>^ E SAIU a segunda sorte a Simeão, à tribo dos filhos de Simeão, segundo as suas famílias: e foi a sua herança no meio da herança dos filhos de Judá.
+
+[[v6-19-2]]
+
+^<<v6-19-2,2>>^ E tiveram na sua herança: Beerseba, e Seba, e Molada,
+
+[[v6-19-3]]
+
+^<<v6-19-3,3>>^ E Hazarsual, e Bala, e Azém,
+
+[[v6-19-4]]
+
+^<<v6-19-4,4>>^ E Eltolade, e Betul, e Hormá,
+
+[[v6-19-5]]
+
+^<<v6-19-5,5>>^ E Siclague, e Bete-Amarcabote, e Hazar-Suza,
+
+[[v6-19-6]]
+
+^<<v6-19-6,6>>^ E Bete-Lebaote, e Saruém: treze cidades e as suas aldeias.
+
+[[v6-19-7]]
+
+^<<v6-19-7,7>>^ Aim, e Rimom, e Eter, e Asã: quatro cidades e as suas aldeias;
+
+[[v6-19-8]]
+
+^<<v6-19-8,8>>^ E todas as aldeias que havia  em redor destas cidades, até Baalate-Ber, que é  Ramate do sul: esta é  a herança da tribo dos filhos de Simeão, segundo as suas famílias.
+
+[[v6-19-9]]
+
+^<<v6-19-9,9>>^ A herança dos filhos de Simeão está  entre o quinhão dos de Judá; porquanto a herança dos filhos de Judá era demasiadamente grande para eles: pelo que os filhos de Simeão tiveram a sua herança no meio deles.
+
+[[v6-19-10]]
+
+^<<v6-19-10,10>>^ E saiu a terceira sorte aos filhos de Zebulom, segundo as suas famílias: e foi o termo da sua herança até Saride.
+
+[[v6-19-11]]
+
+^<<v6-19-11,11>>^ E sobe o seu termo pelo ocidente a Marala, e chega até Dabesete: chega também até ao ribeiro que está  defronte de Jocneão.
+
+[[v6-19-12]]
+
+^<<v6-19-12,12>>^ E de Saride volta para o oriente, para o nascente do sol, até ao termo de Quislote-Tabor, e sai a Dobrate, e vai subindo a Jafia.
+
+[[v6-19-13]]
+
+^<<v6-19-13,13>>^ E dali passa pelo oriente, para o nascente, a Gatefer, em Etcasim; e sai a Rimom-Metoar, que é  Neá.
+
+[[v6-19-14]]
+
+^<<v6-19-14,14>>^ E torna este termo para o norte a Hanatom; e as suas saídas são  o vale de Iftael;
+
+[[v6-19-15]]
+
+^<<v6-19-15,15>>^ E Catate, e Naalal, e Sinrom, e Idala, e Belém: doze cidades e as suas aldeias.
+
+[[v6-19-16]]
+
+^<<v6-19-16,16>>^ Esta é  a herança dos filhos de Zebulom, segundo as suas famílias: estas cidades e as suas aldeias.
+
+[[v6-19-17]]
+
+^<<v6-19-17,17>>^ A quarta sorte saiu por Issacar: pelos filhos de Issacar, segundo as suas famílias.
+
+[[v6-19-18]]
+
+^<<v6-19-18,18>>^ E foi o seu termo Jezreela, e Quesulote, e Suném,
+
+[[v6-19-19]]
+
+^<<v6-19-19,19>>^ E Hafaraim, e Siom, e Anacarate,
+
+[[v6-19-20]]
+
+^<<v6-19-20,20>>^ E Rabite, e Quisiom, e Ebes,
+
+[[v6-19-21]]
+
+^<<v6-19-21,21>>^ E Remete, e En-Ganim, e En-Adá, e Bete-Patzez.
+
+[[v6-19-22]]
+
+^<<v6-19-22,22>>^ E chega este termo até Tabor, e Saazima, e Bete-Semes; e as saídas do seu termo estão  para o Jordão: dezesseis cidades e as suas aldeias.
+
+[[v6-19-23]]
+
+^<<v6-19-23,23>>^ Esta é  a herança da tribo dos filhos de Issacar, segundo as suas famílias: estas cidades e as suas aldeias.
+
+[[v6-19-24]]
+
+^<<v6-19-24,24>>^ E saiu a quinta sorte à tribo dos filhos de Aser, segundo as suas famílias.
+
+[[v6-19-25]]
+
+^<<v6-19-25,25>>^ E foi o seu termo Helcate, e Hali, e Béten, e Acsafe,
+
+[[v6-19-26]]
+
+^<<v6-19-26,26>>^ E Alameleque, e Amade, e Misal: e chega ao Carmelo para o ocidente, e a Sior-Libnate;
+
+[[v6-19-27]]
+
+^<<v6-19-27,27>>^ E volta do nascente do sol a Bete-Dagom, e chega a Zebulom e ao vale de Iftael, ao norte de Bete-Meque e de Nil, e vem sair a Cabul pela esquerda,
+
+[[v6-19-28]]
+
+^<<v6-19-28,28>>^ E Ebrom, e Reobe, e Hamom, e Caná até à grande Sidom.
+
+[[v6-19-29]]
+
+^<<v6-19-29,29>>^ E volta este termo a Ramá, e até à forte cidade de Tiro: então torna este termo a Hosa, e as suas saídas estão para o mar, desde o quinhão da terra  até Aczibe;
+
+[[v6-19-30]]
+
+^<<v6-19-30,30>>^ E Umá, e Afeque e Recobe: vinte e duas cidades e as suas aldeias.
+
+[[v6-19-31]]
+
+^<<v6-19-31,31>>^ Esta é  a herança da tribo dos filhos de Aser, segundo as suas famílias: estas cidades e as suas aldeias.
+
+[[v6-19-32]]
+
+^<<v6-19-32,32>>^ E saiu a sexta sorte aos filhos de Naftali; para os filhos de Naftali, segundo as suas famílias.
+
+[[v6-19-33]]
+
+^<<v6-19-33,33>>^ E foi o seu termo desde Helefe e desde Alom em Saananim, e Adami, Nequebe, e Jabneel, até Lacum: e estão as suas saídas no Jordão.
+
+[[v6-19-34]]
+
+^<<v6-19-34,34>>^ E volta este termo pelo ocidente a Azmote-Tabor, e dali passa a Hucoque: e chega a Zebulom para o sul, e chega a Aser para o ocidente, e a Judá pelo Jordão, para o nascente do sol.
+
+[[v6-19-35]]
+
+^<<v6-19-35,35>>^ E são  as cidades fortes: Sidim, Sér, e Hamate, Racate, e Quinerete,
+
+[[v6-19-36]]
+
+^<<v6-19-36,36>>^ E Adama, e Ramá, e Hazor,
+
+[[v6-19-37]]
+
+^<<v6-19-37,37>>^ E Quedes, e Edrei, e Enazor,
+
+[[v6-19-38]]
+
+^<<v6-19-38,38>>^ E Irom, e Migdalel, Horém, e Bete-Anate, e Bete-Semes: dezenove cidades e as suas aldeias.
+
+[[v6-19-39]]
+
+^<<v6-19-39,39>>^ Esta é  a herança da tribo dos filhos de Naftali, segundo as suas famílias: estas cidades e as suas aldeias.
+
+[[v6-19-40]]
+
+^<<v6-19-40,40>>^ A sétima sorte saiu à tribo dos filhos de Dã, segundo as suas famílias.
+
+[[v6-19-41]]
+
+^<<v6-19-41,41>>^ E foi o termo da sua herança, Zorá, e Estaol, e Irsemes,
+
+[[v6-19-42]]
+
+^<<v6-19-42,42>>^ E Saalabim, e Aialom, e Itla,
+
+[[v6-19-43]]
+
+^<<v6-19-43,43>>^ E Elom, e Timnate, e Ecrom,
+
+[[v6-19-44]]
+
+^<<v6-19-44,44>>^ E Elteque, e Gibtom, e Baalate,
+
+[[v6-19-45]]
+
+^<<v6-19-45,45>>^ E Jeúde, e Bene-Beraque, e Gatrimom,
+
+[[v6-19-46]]
+
+^<<v6-19-46,46>>^ E Mejarcom, e Racom: com o termo defronte de Jafo:
+
+[[v6-19-47]]
+
+^<<v6-19-47,47>>^ Saiu porém pequeno o termo aos filhos de Dã: pelo que subiram os filhos de Dã, e pelejaram contra Lesém, e a tomaram, e a feriram ao fio da espada, e a possuíram e habitaram nela; e a Lesém chamaram Dã, conforme ao nome de Dã seu pai.
+
+[[v6-19-48]]
+
+^<<v6-19-48,48>>^ Esta é  a herança da tribo dos filhos de Dã, segundo as suas famílias: estas cidades e as suas aldeias.
+
+[[v6-19-49]]
+
+^<<v6-19-49,49>>^ Acabando pois de repartir a terra em herança segundo os seus termos, deram os filhos de Israel a Josué, filho de Num, herança no meio deles.
+
+[[v6-19-50]]
+
+^<<v6-19-50,50>>^ Segundo o dito do Senhor lhe deram a cidade que pediu, Timnate-Sera, na montanha de Efraim: e reedificou aquela cidade, e habitou nela.
+
+[[v6-19-51]]
+
+^<<v6-19-51,51>>^ Estas são  as heranças que Eleazar, o sacerdote, e Josué filho de Num, e os cabeças dos pais das famílias por sorte em herança repartiram pelas tribos dos filhos de Israel em Silo, perante o Senhor, à porta da tenda da congregação. E assim  acabaram de repartir a terra.
+
+'''
+
+xref:006-josue/006-josue-018.adoc#v6-18-0[&#60; Capítulo Anterior] | <<v6-19-0,Topo>> | xref:006-josue/006-josue-020.adoc#v6-20-0[Próximo Capítulo &#62;]

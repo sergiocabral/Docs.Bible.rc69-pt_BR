@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v19-44-0]]
+=== Salmos, 44
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-44-1]]
+
+^<<v19-44-1,1>>^ Ó DEUS, nós ouvimos com os nossos ouvidos, e nossos pais nos têm contado os feitos que realizaste em seus dias, nos tempos da antiguidade.
+
+[[v19-44-2]]
+
+^<<v19-44-2,2>>^ Como expeliste as nações com a tua mão e os plantaste a eles: como  afligiste os povos, e a eles os alargaste.
+
+[[v19-44-3]]
+
+^<<v19-44-3,3>>^ Pois não conquistaram a terra pela sua espada, nem o seu braço os salvou, mas a tua destra e o teu braço, e a luz da tua face, porquanto te agradaste deles.
+
+[[v19-44-4]]
+
+^<<v19-44-4,4>>^ Tu és o meu Rei, ó Deus: ordena salvações para Jacó.
+
+[[v19-44-5]]
+
+^<<v19-44-5,5>>^ Por ti venceremos os nossos inimigos: pelo teu nome pisaremos os que se levantam contra nós.
+
+[[v19-44-6]]
+
+^<<v19-44-6,6>>^ Pois eu não confiarei no meu arco, nem a minha espada me salvará.
+
+[[v19-44-7]]
+
+^<<v19-44-7,7>>^ Mas tu nos salvaste dos nossos inimigos, e confundiste os que nos aborreciam.
+
+[[v19-44-8]]
+
+^<<v19-44-8,8>>^ Em Deus nos gloriamos todo o dia, e louvamos o teu nome eternamente. (Selá.)
+
+[[v19-44-9]]
+
+^<<v19-44-9,9>>^ Mas agora tu nos rejeitaste e nos confundiste, e não sais com os nossos exércitos.
+
+[[v19-44-10]]
+
+^<<v19-44-10,10>>^ Tu nos fazes retirar do inimigo, e aqueles que nos odeiam nos  tomam como saque.
+
+[[v19-44-11]]
+
+^<<v19-44-11,11>>^ Tu nos entregaste como ovelhas para comer, e nos espalhaste entre as nações.
+
+[[v19-44-12]]
+
+^<<v19-44-12,12>>^ Tu vendes por nada o teu povo, e não aumentas a tua riqueza  com o seu preço.
+
+[[v19-44-13]]
+
+^<<v19-44-13,13>>^ Tu nos fazes o opróbrio dos nossos vizinhos, o escárnio e a zombaria daqueles que estão à roda de nós.
+
+[[v19-44-14]]
+
+^<<v19-44-14,14>>^ Tu nos pões por provérbio entre as nações, por movimento de cabeça entre os povos.
+
+[[v19-44-15]]
+
+^<<v19-44-15,15>>^ A minha confusão está  constantemente diante de mim, e a vergonha do meu rosto me cobre.
+
+[[v19-44-16]]
+
+^<<v19-44-16,16>>^ À voz daquele que afronta e blasfema, por causa do inimigo e do que se vinga.
+
+[[v19-44-17]]
+
+^<<v19-44-17,17>>^ Tudo isto nos sobreveio: todavia não nos esquecemos de ti, nem nos houvemos falsamente contra o teu concerto.
+
+[[v19-44-18]]
+
+^<<v19-44-18,18>>^ O nosso coração não voltou atrás, nem os nossos passos se desviaram das tuas veredas;
+
+[[v19-44-19]]
+
+^<<v19-44-19,19>>^ Ainda que nos quebrantaste num lugar de dragões, e nos cobriste com a sombra da morte.
+
+[[v19-44-20]]
+
+^<<v19-44-20,20>>^ Se nós esquecemos o nome do nosso Deus, e estendemos as nossas mãos para um  deus estranho,
+
+[[v19-44-21]]
+
+^<<v19-44-21,21>>^ Porventura  não conhecerá Deus isso? pois ele sabe os segredos do coração.
+
+[[v19-44-22]]
+
+^<<v19-44-22,22>>^ Sim, por amor de ti, somos mortos todo dia: somos reputados como ovelhas para o matadouro.
+
+[[v19-44-23]]
+
+^<<v19-44-23,23>>^ Desperta! por que dormes, Senhor? acorda! não nos  rejeites para sempre.
+
+[[v19-44-24]]
+
+^<<v19-44-24,24>>^ Por que escondes a tua face, e te esqueces da nossa miséria e da nossa opressão?
+
+[[v19-44-25]]
+
+^<<v19-44-25,25>>^ Pois a nossa alma está abatida até ao pó; o nosso corpo curvado até ao chão.
+
+[[v19-44-26]]
+
+^<<v19-44-26,26>>^ Levanta-te em nosso auxílio, e resgata-nos por amor das tuas misericórdias.
+
+'''
+
+xref:019-salmos/019-salmos-043.adoc#v19-43-0[&#60; Capítulo Anterior] | <<v19-44-0,Topo>> | xref:019-salmos/019-salmos-045.adoc#v19-45-0[Próximo Capítulo &#62;]

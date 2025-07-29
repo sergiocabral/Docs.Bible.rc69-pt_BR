@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v5-24-0]]
+=== Deuteronômio, 24
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v5-24-1]]
+
+^<<v5-24-1,1>>^ QUANDO um homem tomar uma mulher, e se casar com ela, então será que, se não achar graça em seus olhos, por nela achar cousa feia, ele lhe fará escrito de repúdio, e lho dará na sua mão, e a despedirá da sua casa.
+
+[[v5-24-2]]
+
+^<<v5-24-2,2>>^ Se, pois, saindo da sua casa, for, e se casar com outro  homem,
+
+[[v5-24-3]]
+
+^<<v5-24-3,3>>^ E este último homem a aborrecer, e lhe fizer escrito de repúdio, e lho der na sua mão, e a despedir da sua casa, ou se este último homem, que a tomou para si por mulher, vier a morrer,
+
+[[v5-24-4]]
+
+^<<v5-24-4,4>>^ Então seu primeiro marido, que a despediu não poderá tornar a tomá-la, para que seja sua mulher, depois que foi contaminada: pois é  abominação perante o Senhor; assim não farás pecar a terra que o Senhor teu Deus te dá por herança.
+
+[[v5-24-5]]
+
+^<<v5-24-5,5>>^ Quando algum homem tomar uma mulher nova, não sairá à guerra, nem se lhe imporá carga alguma; por um ano inteiro ficará livre na sua casa, e alegrará a sua mulher, que tomou.
+
+[[v5-24-6]]
+
+^<<v5-24-6,6>>^ Não se tomarão em penhor as mós ambas, nem mesmo a mó de cima, pois se penhoraria assim  a vida.
+
+[[v5-24-7]]
+
+^<<v5-24-7,7>>^ Quando se achar alguém que furtar um dentre os seus irmãos dos filhos de Israel, e com ele ganhar, e o vender, o tal ladrão morrerá, e tirarás o mal do meio de ti.
+
+[[v5-24-8]]
+
+^<<v5-24-8,8>>^ Guarda-te da praga da lepra, e tem grande cuidado de fazer conforme a tudo o que te ensinarem os sacerdotes levitas; como lhes tenho ordenado, terás cuidado de o  fazer.
+
+[[v5-24-9]]
+
+^<<v5-24-9,9>>^ Lembra-te do que o Senhor teu Deus fez a Miriã no caminho, quando saíste do Egito.
+
+[[v5-24-10]]
+
+^<<v5-24-10,10>>^ Quando emprestares alguma cousa ao teu próximo, não entrarás em sua casa, para lhe tirar o penhor.
+
+[[v5-24-11]]
+
+^<<v5-24-11,11>>^ Fora estarás; e o homem, a quem emprestaste, te trará fora o penhor.
+
+[[v5-24-12]]
+
+^<<v5-24-12,12>>^ Porém, se for homem pobre, te não deitarás com o seu penhor.
+
+[[v5-24-13]]
+
+^<<v5-24-13,13>>^ Em se pondo o sol, certamente lhe restituirás o penhor; para que durma na sua roupa, e te abençoe: e isto  te será justiça diante do Senhor teu Deus.
+
+[[v5-24-14]]
+
+^<<v5-24-14,14>>^ Não oprimirás o jornaleiro pobre e necessitado de teus irmãos, ou de teus estrangeiros, que estão , na tua terra e nas tuas portas.
+
+[[v5-24-15]]
+
+^<<v5-24-15,15>>^ No seu dia lhe  darás o seu jornal, e o sol se não porá sobre isso: porquanto pobre é, e sua alma se atém a isso: para que não clame contra ti ao Senhor, e haja em ti pecado.
+
+[[v5-24-16]]
+
+^<<v5-24-16,16>>^ Os pais não morrerão pelos filhos, nem os filhos pelos pais: cada qual morrerá pelo seu pecado.
+
+[[v5-24-17]]
+
+^<<v5-24-17,17>>^ Não perverterás o direito do estrangeiro e  do órfão; nem tomarás em penhor a roupa da viúva.
+
+[[v5-24-18]]
+
+^<<v5-24-18,18>>^ Mas lembrar-te-ás de que foste servo no Egito, e de que o Senhor te livrou dali: pelo que te ordeno que faças isto.
+
+[[v5-24-19]]
+
+^<<v5-24-19,19>>^ Quando no teu campo segares a tua sega, e esqueceres uma gavela no campo, não tornarás a tomá-la; para o estrangeiro, para o órfão, e para a viúva será; para que o Senhor teu Deus te abençoe em toda a obra das tuas mãos.
+
+[[v5-24-20]]
+
+^<<v5-24-20,20>>^ Quando sacudires a tua oliveira, não tornarás atrás de ti a sacudir os ramos: para o estrangeiro, para o órfão, e para a viúva será.
+
+[[v5-24-21]]
+
+^<<v5-24-21,21>>^ Quando vindimares a tua vinha, não tornarás atrás de ti a rebuscá-la; para o estrangeiro, para o órfão, e para a viúva será.
+
+[[v5-24-22]]
+
+^<<v5-24-22,22>>^ E lembrar-te-ás de que foste servo na terra do Egito: pelo que te ordeno que faças isto.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-023.adoc#v5-23-0[&#60; Capítulo Anterior] | <<v5-24-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[Próximo Capítulo &#62;]

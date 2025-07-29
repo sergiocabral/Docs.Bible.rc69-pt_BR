@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-30-0]]
+=== Salmos, 30
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-30-1]]
+
+^<<v19-30-1,1>>^ EXALTAR-TE-EI, ó Senhor, porque tu me exaltaste; e não fizeste com que meus inimigos se alegrassem sobre mim.
+
+[[v19-30-2]]
+
+^<<v19-30-2,2>>^ Senhor, meu Deus, clamei a ti, e tu me saraste.
+
+[[v19-30-3]]
+
+^<<v19-30-3,3>>^ Senhor, fizeste subir a minha alma da sepultura: conservaste-me a vida para que não descesse ao abismo.
+
+[[v19-30-4]]
+
+^<<v19-30-4,4>>^ Cantai ao Senhor, vós que sois seus santos, e celebrai a memória da sua santidade.
+
+[[v19-30-5]]
+
+^<<v19-30-5,5>>^ Porque a sua ira dura só  um momento; no seu favor está  a vida; o choro pode durar uma noite, mas a alegria vem  pela manhã.
+
+[[v19-30-6]]
+
+^<<v19-30-6,6>>^ Eu dizia na minha prosperidade: Não vacilarei jamais.
+
+[[v19-30-7]]
+
+^<<v19-30-7,7>>^ Tu, Senhor, pelo teu favor fizeste forte a minha montanha; tu encobriste o teu rosto, e fiquei perturbado.
+
+[[v19-30-8]]
+
+^<<v19-30-8,8>>^ A ti, Senhor, clamei, e ao Senhor supliquei.
+
+[[v19-30-9]]
+
+^<<v19-30-9,9>>^ Que proveito há  no meu sangue, quando desço à cova? Porventura  te louvará o pó? anunciará ele a tua verdade?
+
+[[v19-30-10]]
+
+^<<v19-30-10,10>>^ Ouve, Senhor, e tem piedade de mim, Senhor; sê o meu auxílio.
+
+[[v19-30-11]]
+
+^<<v19-30-11,11>>^ Tornaste o meu pranto em folguedo; tiraste o meu cilício e me cingiste de alegria:
+
+[[v19-30-12]]
+
+^<<v19-30-12,12>>^ Para que a minha  glória te cante louvores, e não se cale: Senhor, Deus meu, eu te louvarei para sempre.
+
+'''
+
+xref:019-salmos/019-salmos-029.adoc#v19-29-0[&#60; Capítulo Anterior] | <<v19-30-0,Topo>> | xref:019-salmos/019-salmos-031.adoc#v19-31-0[Próximo Capítulo &#62;]

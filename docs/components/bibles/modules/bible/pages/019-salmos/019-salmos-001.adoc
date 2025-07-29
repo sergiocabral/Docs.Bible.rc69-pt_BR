@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v19-1-0]]
+=== Salmos, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-1-1]]
+
+^<<v19-1-1,1>>^ BEM-AVENTURADO o varão que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se assenta na roda dos escarnecedores.
+
+[[v19-1-2]]
+
+^<<v19-1-2,2>>^ Antes tem  o seu prazer na lei do Senhor, e na sua lei medita de dia e de noite.
+
+[[v19-1-3]]
+
+^<<v19-1-3,3>>^ Pois será como a árvore plantada junto a ribeiros de águas, a qual dá o seu fruto na estação própria, e cujas folhas não caem, e tudo quanto fizer prosperará.
+
+[[v19-1-4]]
+
+^<<v19-1-4,4>>^ Não são  assim os ímpios; mas são  como a moinha que o vento espalha.
+
+[[v19-1-5]]
+
+^<<v19-1-5,5>>^ Pelo que os ímpios não subsistirão no juízo, nem os pecadores na congregação dos justos.
+
+[[v19-1-6]]
+
+^<<v19-1-6,6>>^ Porque o Senhor conhece o caminho dos justos; mas o caminho dos ímpios perecerá.
+
+'''
+
+xref:018-jo/018-jo-042.adoc#v18-42-0[&#60; Capítulo Anterior] | <<v19-1-0,Topo>> | xref:019-salmos/019-salmos-002.adoc#v19-2-0[Próximo Capítulo &#62;]

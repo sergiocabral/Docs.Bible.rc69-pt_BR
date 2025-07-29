@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-143-0]]
+=== Salmos, 143
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-143-1]]
+
+^<<v19-143-1,1>>^ Ó SENHOR, ouve a minha oração, inclina os ouvidos às minhas súplicas: escuta-me segundo a tua verdade, e  segundo a tua justiça,
+
+[[v19-143-2]]
+
+^<<v19-143-2,2>>^ E não entres em juízo com o teu servo, porque à tua vista não se achará justo nenhum vivente.
+
+[[v19-143-3]]
+
+^<<v19-143-3,3>>^ Pois o inimigo perseguiu a minha alma; abateu-me até ao chão; fez-me habitar na escuridão, como aqueles que morreram há muito.
+
+[[v19-143-4]]
+
+^<<v19-143-4,4>>^ Pelo que o meu espírito se angustia em mim; e  o meu coração em mim está desolado.
+
+[[v19-143-5]]
+
+^<<v19-143-5,5>>^ Lembro-me dos dias antigos; considero todos os teus feitos; medito na obra das tuas mãos.
+
+[[v19-143-6]]
+
+^<<v19-143-6,6>>^ Estendo para ti as minhas mãos; a minha alma tem sede  de ti, como terra sedenta. (Selá.)
+
+[[v19-143-7]]
+
+^<<v19-143-7,7>>^ Ouve-me depressa, ó Senhor; o meu espírito desfalece; não escondas de mim a tua face, para que não seja semelhante aos que descem à cova.
+
+[[v19-143-8]]
+
+^<<v19-143-8,8>>^ Faze-me ouvir a tua benignidade pela manhã, pois em ti confio; faze-me saber o caminho que devo seguir, porque a ti levanto a minha alma.
+
+[[v19-143-9]]
+
+^<<v19-143-9,9>>^ Livra-me, ó Senhor, dos meus inimigos; porque em ti é que eu me refugio.
+
+[[v19-143-10]]
+
+^<<v19-143-10,10>>^ Ensina-me a fazer a tua vontade, pois és  o meu Deus: guie-me o teu bom Espírito por terra plana.
+
+[[v19-143-11]]
+
+^<<v19-143-11,11>>^ Vivifica-me, ó Senhor, por amor do teu nome; por amor da tua justiça, tira a minha alma da angústia.
+
+[[v19-143-12]]
+
+^<<v19-143-12,12>>^ E por tua misericórdia desarraiga os meus inimigos, e destrói a todos os que angustiam a minha alma: pois sou  teu servo.
+
+'''
+
+xref:019-salmos/019-salmos-142.adoc#v19-142-0[&#60; Capítulo Anterior] | <<v19-143-0,Topo>> | xref:019-salmos/019-salmos-144.adoc#v19-144-0[Próximo Capítulo &#62;]

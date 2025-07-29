@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v4-21-0]]
+=== Números, 21
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-21-1]]
+
+^<<v4-21-1,1>>^ OUVINDO o cananeu, o rei de Harade, que habitava para a banda do sul, que Israel vinha pelo caminho dos espias, pelejou contra Israel, e dele levou alguns  deles por prisioneiros.
+
+[[v4-21-2]]
+
+^<<v4-21-2,2>>^ Então Israel fez um voto ao Senhor, dizendo: Se totalmente entregares este povo na minha mão, destruirei totalmente as suas cidades.
+
+[[v4-21-3]]
+
+^<<v4-21-3,3>>^ O Senhor pois ouviu a voz de Israel, e entregou os cananeus, que foram destruídos totalmente, eles e as suas cidades: e o nome daquele lugar chamou Hormá.
+
+[[v4-21-4]]
+
+^<<v4-21-4,4>>^ Então partiram do monte de Hor, pelo caminho do Mar Vermelho, a rodear a terra de Edom: porém a alma do povo angustiou-se neste caminho.
+
+[[v4-21-5]]
+
+^<<v4-21-5,5>>^ E o povo falou contra Deus e contra Moisés: Por que nos fizestes subir do Egito, para que morrêssemos neste deserto? pois aqui nem pão nem água há ; e a nossa alma tem fastio deste pão tão vil.
+
+[[v4-21-6]]
+
+^<<v4-21-6,6>>^ Então o Senhor mandou entre o povo serpentes ardentes, que morderam o povo; e morreu muito povo de Israel.
+
+[[v4-21-7]]
+
+^<<v4-21-7,7>>^ Pelo que o povo veio a Moisés, e disse: Havemos pecado, porquanto temos falado contra o Senhor e contra ti; ora ao Senhor que tire de nós estas serpentes. Então Moisés orou pelo povo.
+
+[[v4-21-8]]
+
+^<<v4-21-8,8>>^ E disse o Senhor a Moisés: Faze uma serpente ardente, e põe-na sobre uma haste: e será que viverá todo o mordido que olhar para ela.
+
+[[v4-21-9]]
+
+^<<v4-21-9,9>>^ E Moisés fez uma serpente de metal, e pô-la sobre uma haste; e era que, mordendo alguma serpente a alguém, olhava para a serpente de metal, e ficava vivo.
+
+[[v4-21-10]]
+
+^<<v4-21-10,10>>^ Então os filhos de Israel partiram, e alojaram-se em Obote.
+
+[[v4-21-11]]
+
+^<<v4-21-11,11>>^ Depois partiram de Obote, e alojaram-se nos outeiros de Abarim, no deserto que está  defronte de Moabe, ao nascente do sol.
+
+[[v4-21-12]]
+
+^<<v4-21-12,12>>^ Dali partiram, e alojaram-se junto ao ribeiro de Zerede.
+
+[[v4-21-13]]
+
+^<<v4-21-13,13>>^ E dali partiram, e alojaram-se desta banda de Arnom, que está  no deserto e sai dos termos dos amorreus: porque Arnom é  o termo de Moabe, entre Moabe e os amorreus.
+
+[[v4-21-14]]
+
+^<<v4-21-14,14>>^ Pelo que se diz no livro das guerras do Senhor: Contra Vaebe em Sufá, e contra os ribeiros de Arnom,
+
+[[v4-21-15]]
+
+^<<v4-21-15,15>>^ E contra  a corrente dos ribeiros, que se volve para a situação de Ar, e se encosta aos termos de Moabe.
+
+[[v4-21-16]]
+
+^<<v4-21-16,16>>^ E dali partiram  para Beer; este é o poço do qual o Senhor disse a Moisés: Ajunta o povo, e lhe darei água.
+
+[[v4-21-17]]
+
+^<<v4-21-17,17>>^ (Então Israel cantou este cântico: Sobe, poço, e vós cantai dele:
+
+[[v4-21-18]]
+
+^<<v4-21-18,18>>^ Tu poço, que cavaram os príncipes, que escavaram os nobres do povo, e o legislador com os seus bordões.) E do deserto partiram  para Matana;
+
+[[v4-21-19]]
+
+^<<v4-21-19,19>>^ E de Matana para Naaliel, e de Naaliel para Bamote;
+
+[[v4-21-20]]
+
+^<<v4-21-20,20>>^ E de Bamote ao vale que está  no campo de Moabe, no cume de Pisga, e à vista do deserto.
+
+[[v4-21-21]]
+
+^<<v4-21-21,21>>^ Então Israel mandou mensageiros a Seom, rei dos amorreus, dizendo:
+
+[[v4-21-22]]
+
+^<<v4-21-22,22>>^ Deixa-me passar pela tua terra; não nos desviaremos pelos campos nem pelas vinhas, as águas dos poços não beberemos: iremos pela estrada real até que passemos os teus termos.
+
+[[v4-21-23]]
+
+^<<v4-21-23,23>>^ Porém Seom não deixou passar a Israel pelos seus termos; antes Seom congregou todo o seu povo, e saiu ao encontro de Israel ao deserto, e veio a Jaaz, e pelejou contra Israel.
+
+[[v4-21-24]]
+
+^<<v4-21-24,24>>^ Mas Israel o feriu ao fio da espada, e tomou a sua terra em possessão, desde Arnom até Jaboque, até aos filhos de Amom: porquanto o termo dos filhos de Amom era firme.
+
+[[v4-21-25]]
+
+^<<v4-21-25,25>>^ Assim Israel tomou todas estas cidades: e Israel habitou em todas as cidades dos amorreus, em Hesbom e em todas as suas aldeias.
+
+[[v4-21-26]]
+
+^<<v4-21-26,26>>^ Porque Hesbom era  cidade de Seom, rei dos amorreus, que tinha pelejado contra o precedente rei dos moabitas, e tinha tomado da sua mão toda a sua terra até Arnom.
+
+[[v4-21-27]]
+
+^<<v4-21-27,27>>^ Pelo que dizem os que falam em provérbios: Vinde a Hesbom; edifique-se e fortifique-se a cidade de Seom.
+
+[[v4-21-28]]
+
+^<<v4-21-28,28>>^ Porque fogo saiu de Hesbom, e uma chama da cidade de Seom; e consumiu a Ar dos moabitas, e  os senhores dos altos de Arnom.
+
+[[v4-21-29]]
+
+^<<v4-21-29,29>>^ Ai de ti Moabe! perdido és, povo de Camós! Entregou seus filhos, que iam fugindo, e suas filhas, como cativas a Seom, rei dos amorreus.
+
+[[v4-21-30]]
+
+^<<v4-21-30,30>>^ E nós os derribamos: Hesbom perdida é até Dibom, e os assolamos até Nofá, que se estende  até Medeba.
+
+[[v4-21-31]]
+
+^<<v4-21-31,31>>^ Assim Israel habitou na terra dos amorreus.
+
+[[v4-21-32]]
+
+^<<v4-21-32,32>>^ Depois mandou Moisés espiar a Jaezer, e tomaram as suas aldeias, e daquela possessão lançaram os amorreus que estavam  ali.
+
+[[v4-21-33]]
+
+^<<v4-21-33,33>>^ Então viraram-se e subiram o caminho de Basã: e Ogue, rei de Basã, saiu contra eles, e todo o seu povo, à peleja em Edrei.
+
+[[v4-21-34]]
+
+^<<v4-21-34,34>>^ E disse o Senhor a Moisés: Não o temas, porque eu to tenho dado na tua mão, a ele, e a todo o seu povo, e à sua terra, e far-lhe-ás como fizeste a Seom, rei dos amorreus, que habitava em Hesbom.
+
+[[v4-21-35]]
+
+^<<v4-21-35,35>>^ E de tal maneira o feriram, a ele e a seus filhos e a todo o seu povo, que nenhum deles escapou: e tomaram a sua terra em possessão.
+
+'''
+
+xref:004-numeros/004-numeros-020.adoc#v4-20-0[&#60; Capítulo Anterior] | <<v4-21-0,Topo>> | xref:004-numeros/004-numeros-022.adoc#v4-22-0[Próximo Capítulo &#62;]

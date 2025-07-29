@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v56-2-0]]
+=== Tito, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v56-2-1]]
+
+^<<v56-2-1,1>>^ TU, porém, fala o que convém à sã doutrina.
+
+[[v56-2-2]]
+
+^<<v56-2-2,2>>^ Os velhos que sejam sóbrios, graves, prudentes, sãos na fé, na caridade, e  na paciência;
+
+[[v56-2-3]]
+
+^<<v56-2-3,3>>^ As mulheres idosas, semelhantemente, que sejam sérias no seu viver, como convém a santas, não caluniadoras, não dadas a muito vinho, mestras no bem;
+
+[[v56-2-4]]
+
+^<<v56-2-4,4>>^ Para que ensinem as mulheres novas a serem prudentes, a amarem seus maridos, a amarem seus filhos,
+
+[[v56-2-5]]
+
+^<<v56-2-5,5>>^ A serem  moderadas, castas, boas donas de casa, sujeitas a seus maridos, a fim de que a palavra de Deus não seja blasfemada.
+
+[[v56-2-6]]
+
+^<<v56-2-6,6>>^ Exorta semelhantemente os mancebos a que sejam moderados.
+
+[[v56-2-7]]
+
+^<<v56-2-7,7>>^ Em tudo te dá por exemplo de boas obras; na doutrina mostra  incorrupção, gravidade, sinceridade,
+
+[[v56-2-8]]
+
+^<<v56-2-8,8>>^ Linguagem sã e irrepreensível, para que o adversário se envergonhe, não tendo nenhum mal que dizer de nós.
+
+[[v56-2-9]]
+
+^<<v56-2-9,9>>^ Exorta  os servos a que se sujeitem a seus senhores, e em tudo agradem, não contradizendo,
+
+[[v56-2-10]]
+
+^<<v56-2-10,10>>^ Não defraudando, antes mostrando toda a boa lealdade, para que em tudo sejam ornamento da doutrina de Deus, nosso Salvador.
+
+[[v56-2-11]]
+
+^<<v56-2-11,11>>^ Porque a graça de Deus se há manifestado, trazendo salvação a todos os homens.
+
+[[v56-2-12]]
+
+^<<v56-2-12,12>>^ Ensinando-nos que, renunciando à impiedade e às concupiscências mundanas, vivamos neste  presente século sóbria, e justa, e piamente.
+
+[[v56-2-13]]
+
+^<<v56-2-13,13>>^ Aguardando a bem-aventurada esperança e o aparecimento da glória do grande Deus e nosso Senhor Jesus Cristo;
+
+[[v56-2-14]]
+
+^<<v56-2-14,14>>^ O qual se deu a si mesmo por nós para nos remir de toda a iniquidade, e purificar para si um povo seu especial, zeloso de boas obras.
+
+[[v56-2-15]]
+
+^<<v56-2-15,15>>^ Fala disto, e exorta e repreende com toda a autoridade. Ninguém te despreze.
+
+'''
+
+xref:056-tito/056-tito-001.adoc#v56-1-0[&#60; Capítulo Anterior] | <<v56-2-0,Topo>> | xref:056-tito/056-tito-003.adoc#v56-3-0[Próximo Capítulo &#62;]

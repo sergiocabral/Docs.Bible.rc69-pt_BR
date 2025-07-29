@@ -1,0 +1,49 @@
+include::./index.adoc[]
+
+[[v19-141-0]]
+=== Salmos, 141
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-141-1]]
+
+^<<v19-141-1,1>>^ SENHOR, a ti clamo, escuta-me; inclina os teus ouvidos à minha voz, quando a ti clamar.
+
+[[v19-141-2]]
+
+^<<v19-141-2,2>>^ Suba a minha oração perante a tua face como  incenso, e  seja o levantar das minhas mãos como  o sacrifício da tarde.
+
+[[v19-141-3]]
+
+^<<v19-141-3,3>>^ Põe, ó Senhor, uma guarda à minha boca: guarda a porta dos meus lábios.
+
+[[v19-141-4]]
+
+^<<v19-141-4,4>>^ Não inclines o meu coração para o mal, nem para se ocupar de cousas más, com aqueles que praticam a iniquidade; e não coma das suas delícias.
+
+[[v19-141-5]]
+
+^<<v19-141-5,5>>^ Fira-me o justo, será  isso uma  benignidade; e repreenda-me, será um  excelente óleo, que  a minha cabeça não rejeitará; porque continuarei a orar a despeito das suas maldades.
+
+[[v19-141-6]]
+
+^<<v19-141-6,6>>^ Quando os seus juízes forem arremessados da rocha, ouvirão as minhas palavras, pois são agradáveis.
+
+[[v19-141-7]]
+
+^<<v19-141-7,7>>^ Como quando alguém lavra e sulca a terra, são os nossos ossos espalhados à boca da sepultura.
+
+[[v19-141-8]]
+
+^<<v19-141-8,8>>^ Mas os meus olhos te contemplam, ó  Deus, Senhor: em ti confio; não desampares a minha alma.
+
+[[v19-141-9]]
+
+^<<v19-141-9,9>>^ Guarda-me dos laços que  me armaram; e dos laços corrediços dos que praticam a iniquidade.
+
+[[v19-141-10]]
+
+^<<v19-141-10,10>>^ Caiam os ímpios nas suas próprias redes, até que eu tenha escapado inteiramente.
+
+'''
+
+xref:019-salmos/019-salmos-140.adoc#v19-140-0[&#60; Capítulo Anterior] | <<v19-141-0,Topo>> | xref:019-salmos/019-salmos-142.adoc#v19-142-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v55-3-0]]
+=== 2 Timóteo, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v55-3-1]]
+
+^<<v55-3-1,1>>^ SABE, porém, isto: que nos últimos dias sobrevirão tempos trabalhosos.
+
+[[v55-3-2]]
+
+^<<v55-3-2,2>>^ Porque haverá homens amantes de si mesmos, avarentos, presunçosos, soberbos, blasfemos, desobedientes a pais e mães, ingratos, profanos,
+
+[[v55-3-3]]
+
+^<<v55-3-3,3>>^ Sem afeto natural, irreconciliáveis, caluniadores, incontinentes, cruéis, sem amor para com os bons,
+
+[[v55-3-4]]
+
+^<<v55-3-4,4>>^ Traidores, obstinados, orgulhosos, mais amigos dos deleites do que amigos de Deus,
+
+[[v55-3-5]]
+
+^<<v55-3-5,5>>^ Tendo aparência de piedade, mas negando a eficácia dela. Destes afasta-te.
+
+[[v55-3-6]]
+
+^<<v55-3-6,6>>^ Porque deste número são os que se introduzem pelas casas, e levam cativas mulheres néscias carregadas de pecados, levadas de várias concupiscências;
+
+[[v55-3-7]]
+
+^<<v55-3-7,7>>^ Que aprendem sempre, e nunca podem chegar ao conhecimento da verdade.
+
+[[v55-3-8]]
+
+^<<v55-3-8,8>>^ E, como Janes e Jambres resistiram a Moisés, assim também estes resistem à verdade, sendo homens corruptos de entendimento e réprobos quanto à fé.
+
+[[v55-3-9]]
+
+^<<v55-3-9,9>>^ Não irão, porém, avante; porque a todos será manifesto o seu desvario, como também o  foi o daqueles.
+
+[[v55-3-10]]
+
+^<<v55-3-10,10>>^ Tu, porém, tens seguido a minha doutrina, modo de viver, intenção, fé, longanimidade, caridade, paciência,
+
+[[v55-3-11]]
+
+^<<v55-3-11,11>>^ Perseguições e aflições tais quais me aconteceram em Antioquia, em Icônio, e  em Listra: quantas perseguições sofri, e o Senhor de todas me livrou;
+
+[[v55-3-12]]
+
+^<<v55-3-12,12>>^ E também todos os que piamente querem viver em Cristo Jesus padecerão perseguições.
+
+[[v55-3-13]]
+
+^<<v55-3-13,13>>^ Mas os homens maus e enganadores irão de mal para pior, enganando e sendo enganados.
+
+[[v55-3-14]]
+
+^<<v55-3-14,14>>^ Tu, porém, permanece naquilo que aprendeste, e de que  foste inteirado, sabendo de quem o tens aprendido,
+
+[[v55-3-15]]
+
+^<<v55-3-15,15>>^ E que desde a tua meninice sabes as sagradas letras, que podem fazer-te sábio para a salvação, pela fé que há em Cristo Jesus.
+
+[[v55-3-16]]
+
+^<<v55-3-16,16>>^ Toda a Escritura divinamente inspirada é proveitosa para ensinar, para redarguir, para corrigir, para instruir em justiça;
+
+[[v55-3-17]]
+
+^<<v55-3-17,17>>^ Para que o homem de Deus seja perfeito, e  perfeitamente instruído para toda a boa obra.
+
+'''
+
+xref:055-2-timoteo/055-2-timoteo-002.adoc#v55-2-0[&#60; Capítulo Anterior] | <<v55-3-0,Topo>> | xref:055-2-timoteo/055-2-timoteo-004.adoc#v55-4-0[Próximo Capítulo &#62;]

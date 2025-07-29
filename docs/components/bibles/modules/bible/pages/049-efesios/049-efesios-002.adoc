@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v49-2-0]]
+=== Efésios, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v49-2-1]]
+
+^<<v49-2-1,1>>^ E VOS vivificou , estando vós mortos em ofensas e pecados.
+
+[[v49-2-2]]
+
+^<<v49-2-2,2>>^ Em que noutro tempo andastes segundo o curso deste mundo, segundo o príncipe das potestades do ar, do espírito que agora opera nos filhos da desobediência.
+
+[[v49-2-3]]
+
+^<<v49-2-3,3>>^ Entre os quais todos nós também antes andávamos nos desejos da nossa carne, fazendo a vontade da carne e dos pensamentos; e éramos por natureza filhos da ira, como os outros também.
+
+[[v49-2-4]]
+
+^<<v49-2-4,4>>^ Mas Deus, que é riquíssimo em misericórdia, pelo seu muito amor com que nos amou,
+
+[[v49-2-5]]
+
+^<<v49-2-5,5>>^ Estando nós ainda mortos em nossas ofensas, nos vivificou juntamente com Cristo (pela graça sois salvos),
+
+[[v49-2-6]]
+
+^<<v49-2-6,6>>^ E nos  ressuscitou juntamente com ele e nos  fez assentar nos lugares  celestiais, em Cristo Jesus;
+
+[[v49-2-7]]
+
+^<<v49-2-7,7>>^ Para mostrar nos séculos vindouros as abundantes riquezas da sua graça, pela sua  benignidade para conosco em Cristo Jesus.
+
+[[v49-2-8]]
+
+^<<v49-2-8,8>>^ Porque pela graça sois salvos, por meio da fé; e isto não vem de vós; é  dom de Deus.
+
+[[v49-2-9]]
+
+^<<v49-2-9,9>>^ Não vem das obras, para que ninguém se glorie.
+
+[[v49-2-10]]
+
+^<<v49-2-10,10>>^ Porque somos feitura sua, criados em Cristo Jesus para as boas obras, as quais Deus preparou para que andássemos nelas.
+
+[[v49-2-11]]
+
+^<<v49-2-11,11>>^ Portanto, lembrai-vos de que vós noutro tempo éreis gentios na carne, e chamados incircuncisão pelos que na carne se chamam circuncisão feita pela mão dos homens;
+
+[[v49-2-12]]
+
+^<<v49-2-12,12>>^ Que naquele tempo estáveis sem Cristo, separados da comunidade d’Israel, e estranhos aos concertos da promessa, não tendo esperança, e sem Deus no mundo.
+
+[[v49-2-13]]
+
+^<<v49-2-13,13>>^ Mas agora em Cristo Jesus, vós, que antes estáveis longe, já  pelo sangue de Cristo chegastes perto.
+
+[[v49-2-14]]
+
+^<<v49-2-14,14>>^ Porque ele é a nossa paz, o qual de ambos os povos  fez um; e, derribando a parede de separação que estava  no meio.
+
+[[v49-2-15]]
+
+^<<v49-2-15,15>>^ Na sua carne desfez a inimizade, isto é, a lei dos mandamentos, que consistia  em ordenanças, para criar em si mesmo dos dois um novo homem, fazendo a paz,
+
+[[v49-2-16]]
+
+^<<v49-2-16,16>>^ E pela cruz reconciliar ambos com Deus em um corpo, matando com ela as inimizades.
+
+[[v49-2-17]]
+
+^<<v49-2-17,17>>^ E, vindo, ele evangelizou a paz, a vós que estáveis  longe, e aos que estavam perto;
+
+[[v49-2-18]]
+
+^<<v49-2-18,18>>^ Porque por ele ambos temos acesso ao Pai em um mesmo Espírito.
+
+[[v49-2-19]]
+
+^<<v49-2-19,19>>^ Assim que já não sois estrangeiros, nem forasteiros, mas concidadãos dos Santos, e da família de Deus;
+
+[[v49-2-20]]
+
+^<<v49-2-20,20>>^ Edificados sobre o fundamento dos apóstolos e dos profetas, de que Jesus Cristo é a principal pedra da esquina;
+
+[[v49-2-21]]
+
+^<<v49-2-21,21>>^ No qual todo o edifício, bem-ajustado, cresce para templo santo no Senhor.
+
+[[v49-2-22]]
+
+^<<v49-2-22,22>>^ No qual também vós juntamente sois edificados para morada de Deus em Espírito.
+
+'''
+
+xref:049-efesios/049-efesios-001.adoc#v49-1-0[&#60; Capítulo Anterior] | <<v49-2-0,Topo>> | xref:049-efesios/049-efesios-003.adoc#v49-3-0[Próximo Capítulo &#62;]

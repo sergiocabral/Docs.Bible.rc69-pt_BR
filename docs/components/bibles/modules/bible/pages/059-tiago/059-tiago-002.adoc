@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v59-2-0]]
+=== Tiago, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v59-2-1]]
+
+^<<v59-2-1,1>>^ MEUS irmãos, não tenhais a fé de nosso Senhor Jesus Cristo, Senhor  da glória, em acepção de pessoas.
+
+[[v59-2-2]]
+
+^<<v59-2-2,2>>^ Porque, se no vosso ajuntamento entrar algum homem com anel de ouro no dedo, com vestidos preciosos, e entrar também algum pobre com sórdido vestido,
+
+[[v59-2-3]]
+
+^<<v59-2-3,3>>^ E atentardes para o que traz o vestido precioso, e lhe disserdes: Assenta-te tu aqui num lugar de honra, e disserdes ao pobre: Tu, fica aí em pé, ou assenta-te abaixo do meu estrado,
+
+[[v59-2-4]]
+
+^<<v59-2-4,4>>^ Porventura não fizestes distinção dentro de vós mesmos, e não vos fizestes juízes de maus pensamentos?
+
+[[v59-2-5]]
+
+^<<v59-2-5,5>>^ Ouvi, meus amados irmãos: Porventura não escolheu Deus aos pobres deste mundo para serem ricos na fé, e herdeiros do reino que prometeu aos que o amam?
+
+[[v59-2-6]]
+
+^<<v59-2-6,6>>^ Mas vós desonrastes o pobre. Porventura não vos oprimem os ricos, e não vos arrastam aos tribunais?
+
+[[v59-2-7]]
+
+^<<v59-2-7,7>>^ Porventura não blasfemam eles o bom nome que sobre vós foi invocado?
+
+[[v59-2-8]]
+
+^<<v59-2-8,8>>^ Todavia, se cumprirdes, conforme a Escritura, a lei real: Amarás a teu próximo como a ti mesmo, bem fazeis.
+
+[[v59-2-9]]
+
+^<<v59-2-9,9>>^ Mas, se fazeis acepção de pessoas, cometeis pecado, e sois redarguidos pela lei como transgressores.
+
+[[v59-2-10]]
+
+^<<v59-2-10,10>>^ Porque qualquer que guardar toda a lei, e tropeçar em um só ponto , tornou-se culpado de todos.
+
+[[v59-2-11]]
+
+^<<v59-2-11,11>>^ Porque aquele que disse: Não cometerás adultério, também disse: Não matarás. Se tu pois não cometeres adultério, mas matares, estás feito transgressor da lei.
+
+[[v59-2-12]]
+
+^<<v59-2-12,12>>^ Assim falai, e assim procedei, como devendo ser julgados pela lei da liberdade.
+
+[[v59-2-13]]
+
+^<<v59-2-13,13>>^ Porque o juízo será sem misericórdia sobre aquele que não fez misericórdia; e a misericórdia triunfa do juízo.
+
+[[v59-2-14]]
+
+^<<v59-2-14,14>>^ Meus irmãos, que aproveita se alguém disser que tem fé, e não tiver as obras? Porventura a fé pode salvá-lo?
+
+[[v59-2-15]]
+
+^<<v59-2-15,15>>^ E, se o irmão ou a irmã estiverem nus, e tiverem falta de mantimento quotidiano,
+
+[[v59-2-16]]
+
+^<<v59-2-16,16>>^ E algum de vós lhes disser: Ide em paz, aquentai-vos, e fartai-vos; e lhes não derdes as coisas necessárias para o corpo, que proveito virá daí?
+
+[[v59-2-17]]
+
+^<<v59-2-17,17>>^ Assim também a fé, se não tiver as obras, é morta em si mesma.
+
+[[v59-2-18]]
+
+^<<v59-2-18,18>>^ Mas dirá alguém: Tu tens a fé e eu tenho as obras: mostra-me a tua fé sem as tuas obras, e eu te mostrarei a minha fé pelas minhas obras.
+
+[[v59-2-19]]
+
+^<<v59-2-19,19>>^ Tu crês que há um só Deus: fazes bem: também os demônios o creem, e estremecem.
+
+[[v59-2-20]]
+
+^<<v59-2-20,20>>^ Mas, ó homem vão, queres tu saber que a fé sem as obras é morta?
+
+[[v59-2-21]]
+
+^<<v59-2-21,21>>^ Porventura o nosso pai Abraão não foi justificado pelas obras, quando ofereceu sobre o altar o seu filho Isaque?
+
+[[v59-2-22]]
+
+^<<v59-2-22,22>>^ Bem vês que a fé cooperou com as suas obras, e que pelas obras a fé foi aperfeiçoada.
+
+[[v59-2-23]]
+
+^<<v59-2-23,23>>^ E cumpriu-se a Escritura, que diz: E creu Abraão em Deus, e foi-lhe isso imputado como justiça, e foi chamado o amigo de Deus.
+
+[[v59-2-24]]
+
+^<<v59-2-24,24>>^ Vedes então que o homem é justificado pelas obras, e não somente pela fé.
+
+[[v59-2-25]]
+
+^<<v59-2-25,25>>^ E de igual modo Raabe, a meretriz, não foi também justificada pelas obras, quando recolheu os emissários, e os despediu por outro caminho?
+
+[[v59-2-26]]
+
+^<<v59-2-26,26>>^ Porque, assim como o corpo sem o espírito está morto, assim também a fé sem obras é morta.
+
+'''
+
+xref:059-tiago/059-tiago-001.adoc#v59-1-0[&#60; Capítulo Anterior] | <<v59-2-0,Topo>> | xref:059-tiago/059-tiago-003.adoc#v59-3-0[Próximo Capítulo &#62;]

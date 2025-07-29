@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v49-1-0]]
+=== Efésios, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v49-1-1]]
+
+^<<v49-1-1,1>>^ PAULO, apóstolo de Jesus Cristo, pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Cristo Jesus.
+
+[[v49-1-2]]
+
+^<<v49-1-2,2>>^ A vós graça, e paz da parte de Deus nosso Pai e da do Senhor Jesus Cristo.
+
+[[v49-1-3]]
+
+^<<v49-1-3,3>>^ Bendito o Deus e Pai de nosso Senhor Jesus Cristo, o qual nos abençoou com todas as bênçãos espirituais nos lugares  celestiais em Cristo;
+
+[[v49-1-4]]
+
+^<<v49-1-4,4>>^ Como também nos elegeu nele antes da fundação do mundo, para que fôssemos santos e irrepreensíveis diante dele em caridade;
+
+[[v49-1-5]]
+
+^<<v49-1-5,5>>^ E nos predestinou para filhos de adoção por Jesus Cristo, para si mesmo, segundo o beneplácito de sua vontade,
+
+[[v49-1-6]]
+
+^<<v49-1-6,6>>^ Para louvor e glória da sua graça, pela qual nos fez agradáveis a si no Amado.
+
+[[v49-1-7]]
+
+^<<v49-1-7,7>>^ Em quem temos a redenção pelo seu sangue, a remissão das ofensas, segundo as riquezas da sua graça.
+
+[[v49-1-8]]
+
+^<<v49-1-8,8>>^ Que Ele fez abundar para conosco em toda a sabedoria e prudência;
+
+[[v49-1-9]]
+
+^<<v49-1-9,9>>^ Descobrindo-nos o mistério da sua vontade, segundo o seu beneplácito, que propusera em si mesmo,
+
+[[v49-1-10]]
+
+^<<v49-1-10,10>>^ De tornar a congregar em Cristo todas as coisas , na dispensação da plenitude dos tempos, tanto as que estão  nos céus como as que estão  na terra;
+
+[[v49-1-11]]
+
+^<<v49-1-11,11>>^ Nele, digo , em quem também fomos feitos herança, havendo sido predestinados, conforme o propósito daquele que faz todas as coisas , segundo o conselho da sua vontade;
+
+[[v49-1-12]]
+
+^<<v49-1-12,12>>^ Com o fim de sermos para louvor da sua glória, nós, os que primeiro esperamos em Cristo;
+
+[[v49-1-13]]
+
+^<<v49-1-13,13>>^ Em quem também vós estais , depois que ouvistes a palavra da verdade, o evangelho da vossa salvação; e, tendo nele também crido, fostes selados com o Espírito Santo da promessa.
+
+[[v49-1-14]]
+
+^<<v49-1-14,14>>^ O qual é o penhor da nossa herança, para redenção da possessão de Deus , para louvor da sua glória.
+
+[[v49-1-15]]
+
+^<<v49-1-15,15>>^ Pelo que, ouvindo eu também a fé que entre vós há no Senhor Jesus, e a vossa caridade para com todos os santos,
+
+[[v49-1-16]]
+
+^<<v49-1-16,16>>^ Não cesso de dar graças a Deus  por vós lembrando-me de vós nas minhas orações;
+
+[[v49-1-17]]
+
+^<<v49-1-17,17>>^ Para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê em seu conhecimento o espírito de sabedoria e de revelação;
+
+[[v49-1-18]]
+
+^<<v49-1-18,18>>^ Tendo iluminados os olhos do vosso entendimento, para que saibais qual seja a esperança da sua vocação, e quais as riquezas da glória da sua herança nos santos;
+
+[[v49-1-19]]
+
+^<<v49-1-19,19>>^ E qual a sobre-excelente grandeza do seu poder sobre nós, os que cremos, segundo a operação da força do seu poder,
+
+[[v49-1-20]]
+
+^<<v49-1-20,20>>^ Que manifestou em Cristo, ressuscitando-o dos mortos, e pondo-o à sua direita nos céus.
+
+[[v49-1-21]]
+
+^<<v49-1-21,21>>^ Acima de todo o principado, e poder, e potestade, e domínio, e de todo o nome que se nomeia, não só neste século, mas também no vindouro;
+
+[[v49-1-22]]
+
+^<<v49-1-22,22>>^ E sujeitou todas as coisas  a seus pés, e sobre todas as coisas  o constituiu como cabeça da igreja,
+
+[[v49-1-23]]
+
+^<<v49-1-23,23>>^ Que é o seu corpo, a plenitude daquele que cumpre tudo em todos.
+
+'''
+
+xref:048-galatas/048-galatas-006.adoc#v48-6-0[&#60; Capítulo Anterior] | <<v49-1-0,Topo>> | xref:049-efesios/049-efesios-002.adoc#v49-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v19-149-0]]
+=== Salmos, 149
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-149-1]]
+
+^<<v19-149-1,1>>^ LOUVAI ao Senhor. Cantai ao Senhor um cântico novo, e o seu louvor na congregação dos santos.
+
+[[v19-149-2]]
+
+^<<v19-149-2,2>>^ Alegre-se Israel naquele que o fez, regozijem-se os filhos de Sião no seu Rei.
+
+[[v19-149-3]]
+
+^<<v19-149-3,3>>^ Louvem o seu nome com flauta, cantem-lhe o seu louvor com adufe e harpa.
+
+[[v19-149-4]]
+
+^<<v19-149-4,4>>^ Porque o Senhor se agrada do seu povo; ele adornará os mansos com a salvação.
+
+[[v19-149-5]]
+
+^<<v19-149-5,5>>^ Exultem os santos na glória, cantem de alegria nos seus leitos.
+
+[[v19-149-6]]
+
+^<<v19-149-6,6>>^ Estejam na sua garganta os altos louvores de Deus, e espada de dois fios nas suas mãos.
+
+[[v19-149-7]]
+
+^<<v19-149-7,7>>^ Para tomarem vingança das nações, e darem repreensões aos povos.
+
+[[v19-149-8]]
+
+^<<v19-149-8,8>>^ Para prenderem os seus reis com cadeias, e os seus nobres com grilhões de ferro;
+
+[[v19-149-9]]
+
+^<<v19-149-9,9>>^ Para fazerem neles o juízo escrito; esta honra tê-la-ão todos os santos. Louvai ao Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-148.adoc#v19-148-0[&#60; Capítulo Anterior] | <<v19-149-0,Topo>> | xref:019-salmos/019-salmos-150.adoc#v19-150-0[Próximo Capítulo &#62;]

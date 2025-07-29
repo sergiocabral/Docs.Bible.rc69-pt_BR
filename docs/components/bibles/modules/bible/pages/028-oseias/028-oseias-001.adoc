@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v28-1-0]]
+=== Oséias, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v28-1-1]]
+
+^<<v28-1-1,1>>^ PALAVRA do Senhor, que foi dita a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz, Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel.
+
+[[v28-1-2]]
+
+^<<v28-1-2,2>>^ O princípio da palavra do Senhor por Oseias: disse pois o Senhor a Oseias: Vai, toma uma  mulher de prostituições, e filhos de prostituição; porque a terra se prostituiu, desviando-se do Senhor.
+
+[[v28-1-3]]
+
+^<<v28-1-3,3>>^ E foi-se, e tomou a Gomer, filha de Diblaim, e ela concebeu, e lhe deu um filho.
+
+[[v28-1-4]]
+
+^<<v28-1-4,4>>^ E disse-lhe o Senhor: Põe-lhe o nome de Jezreel; porque daqui a pouco visitarei o sangue de Jezreel sobre a casa de Jeú, e farei cessar o reino da casa de Israel.
+
+[[v28-1-5]]
+
+^<<v28-1-5,5>>^ E será naquele dia que quebrarei o arco de Israel no vale de Jezreel.
+
+[[v28-1-6]]
+
+^<<v28-1-6,6>>^ E tornou ela  a conceber, e deu à luz uma filha; e ele disse: Põe-lhe o nome de Lo-Ruama; porque eu não me tornarei mais a compadecer da casa de Israel, mas tudo lhe tirarei.
+
+[[v28-1-7]]
+
+^<<v28-1-7,7>>^ Mas da casa de Judá me compadecerei, e os salvarei pelo Senhor seu Deus, pois não os salvarei pelo arco, nem pela espada, nem pela guerra, nem pelos cavalos nem pelos cavaleiros.
+
+[[v28-1-8]]
+
+^<<v28-1-8,8>>^ E, depois, de haver desmamado a Lo-Ruama, concebeu e deu à luz um filho.
+
+[[v28-1-9]]
+
+^<<v28-1-9,9>>^ E ele disse: Põe-lhe o nome de Lo-Ami: porque vós não sois meu povo, nem eu serei vosso Deus.
+
+[[v28-1-10]]
+
+^<<v28-1-10,10>>^ Todavia o número dos filhos de Israel será como a areia do mar, que não pode medir-se nem contar-se; e acontecerá que no lugar onde se lhes dizia: Vós não sois meu povo, se lhes dirá: Vós sois  filhos do Deus vivo.
+
+[[v28-1-11]]
+
+^<<v28-1-11,11>>^ E os filhos de Judá e os filhos de Israel juntos se congregarão, e constituirão sobre si uma única cabeça, e subirão da terra; porque grande será  o dia de Jezreel.
+
+'''
+
+xref:027-daniel/027-daniel-012.adoc#v27-12-0[&#60; Capítulo Anterior] | <<v28-1-0,Topo>> | xref:028-oseias/028-oseias-002.adoc#v28-2-0[Próximo Capítulo &#62;]

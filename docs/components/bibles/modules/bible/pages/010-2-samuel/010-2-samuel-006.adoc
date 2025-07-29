@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v10-6-0]]
+=== 2 Samuel, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v10-6-1]]
+
+^<<v10-6-1,1>>^ E TORNOU Davi a ajuntar todos os escolhidos de Israel, em número  de trinta mil.
+
+[[v10-6-2]]
+
+^<<v10-6-2,2>>^ E levantou-se Davi, e partiu com todo o povo que tinha  consigo de Baalim de Judá, para levarem dali para cima a arca de Deus, sobre a qual se invoca o nome, o nome do Senhor dos exércitos, que se assenta entre  os querubins.
+
+[[v10-6-3]]
+
+^<<v10-6-3,3>>^ E puseram a arca de Deus em um carro novo, e a levaram da casa de Abinadabe, que está  em Gibeá: e Uza e Aío, filhos de Abinadabe; guiavam o carro novo.
+
+[[v10-6-4]]
+
+^<<v10-6-4,4>>^ E levando-o da casa de Abinadabe, que está  em Gibeá, com a arca de Deus, Aío ia adiante da arca.
+
+[[v10-6-5]]
+
+^<<v10-6-5,5>>^ E Davi, e toda a casa de Israel, alegravam-se perante o Senhor, com toda a sorte de instrumentos de  pau de faia: como com harpas, e com saltérios, e com tamboris, e com pandeiros, e com címbalos.
+
+[[v10-6-6]]
+
+^<<v10-6-6,6>>^ E, chegando à eira de Nacom, estendeu Uza a mão  à arca de Deus, e teve mão nela; porque os bois a  deixavam pender.
+
+[[v10-6-7]]
+
+^<<v10-6-7,7>>^ Então a ira do Senhor se acendeu contra Uza, e Deus o feriu ali por esta imprudência: e morreu ali junto à arca de Deus.
+
+[[v10-6-8]]
+
+^<<v10-6-8,8>>^ E Davi se contristou, porque o Senhor abrira rotura em Uzá; e chamou aquele lugar Perez-Uzá, até ao dia de hoje.
+
+[[v10-6-9]]
+
+^<<v10-6-9,9>>^ E temeu Davi ao Senhor naquele dia; e disse: Como virá a mim a arca do Senhor?
+
+[[v10-6-10]]
+
+^<<v10-6-10,10>>^ E não quis Davi retirar para si a arca do Senhor, para a cidade de Davi; mas Davi a fez levar à casa de Obede-Edom, o geteu.
+
+[[v10-6-11]]
+
+^<<v10-6-11,11>>^ E ficou a arca do Senhor em casa de Obede-Edom, o geteu, três meses: e abençoou o Senhor a Obede-Edom, e a toda a sua casa.
+
+[[v10-6-12]]
+
+^<<v10-6-12,12>>^ Então avisaram a Davi, dizendo: Abençoou o Senhor a casa de Obede-Edom, e tudo quanto tem, por amor da arca de Deus: foi pois Davi, e trouxe a arca de Deus para cima, da casa de Obede-Edom, à cidade de Davi, com alegria.
+
+[[v10-6-13]]
+
+^<<v10-6-13,13>>^ E sucedeu que, quando os que levavam a arca do Senhor tinham dado seis passos, sacrificava bois e carneiros  cevados.
+
+[[v10-6-14]]
+
+^<<v10-6-14,14>>^ E Davi saltava com todas as suas forças diante do Senhor: e estava  Davi cingido dum éfode de linho.
+
+[[v10-6-15]]
+
+^<<v10-6-15,15>>^ Assim subindo, levavam Davi e todo o Israel a arca do Senhor, com júbilo, e ao som das trombetas.
+
+[[v10-6-16]]
+
+^<<v10-6-16,16>>^ E sucedeu que, entrando a arca do Senhor na cidade de Davi Mical, a filha de Saul, estava olhando pela janela: e, vendo ao rei Davi, que ia  bailando e saltando diante do Senhor, o desprezou no seu coração.
+
+[[v10-6-17]]
+
+^<<v10-6-17,17>>^ E introduzindo a arca do Senhor, a puseram no seu lugar, na tenda que Davi lhe armara: e ofereceu Davi holocaustos e ofertas pacíficas perante o Senhor.
+
+[[v10-6-18]]
+
+^<<v10-6-18,18>>^ E acabando Davi de oferecer os holocaustos e ofertas pacíficas, abençoou o povo em nome do Senhor dos exércitos.
+
+[[v10-6-19]]
+
+^<<v10-6-19,19>>^ E repartiu a todo o povo, e a toda a multidão de Israel, desde os homens até às mulheres, a cada um, um bolo de pão, e um  bom pedaço de carne , e um  frasco de vinho : então foi-se todo o povo, cada um para sua casa.
+
+[[v10-6-20]]
+
+^<<v10-6-20,20>>^ E, voltando Davi para abençoar a sua casa, Mical, a filha de Saul, saiu a encontrar-se com Davi e disse: Quão honrado foi o rei de Israel, descobrindo-se hoje aos olhos das servas de seus servos, como sem pejo se descobre qualquer dos vadios.
+
+[[v10-6-21]]
+
+^<<v10-6-21,21>>^ Disse porém Davi a Mical: Perante o Senhor que me escolheu a mim antes do que a teu pai, e a toda a sua casa, mandando-me que fosse  chefe sobre o povo do Senhor, sobre Israel: perante o Senhor me tenho alegrado.
+
+[[v10-6-22]]
+
+^<<v10-6-22,22>>^ E ainda mais do que isto me envilecerei, e me humilharei aos meus olhos: e das servas, de quem falaste, delas serei honrado.
+
+[[v10-6-23]]
+
+^<<v10-6-23,23>>^ E Mical, a filha de Saul, não teve filhos, até ao dia da sua morte.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-005.adoc#v10-5-0[&#60; Capítulo Anterior] | <<v10-6-0,Topo>> | xref:010-2-samuel/010-2-samuel-007.adoc#v10-7-0[Próximo Capítulo &#62;]

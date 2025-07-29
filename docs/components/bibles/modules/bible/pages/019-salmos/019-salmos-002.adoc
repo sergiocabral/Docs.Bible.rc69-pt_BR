@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v19-2-0]]
+=== Salmos, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-2-1]]
+
+^<<v19-2-1,1>>^ POR QUE se amotinam as gentes, e os povos imaginam cousas vãs?
+
+[[v19-2-2]]
+
+^<<v19-2-2,2>>^ Os reis da terra se levantam, e os príncipes juntos se mancomunam contra o Senhor e contra o seu ungido, dizendo :
+
+[[v19-2-3]]
+
+^<<v19-2-3,3>>^ Rompamos as suas ataduras, e sacudamos de nós as suas cordas.
+
+[[v19-2-4]]
+
+^<<v19-2-4,4>>^ Aquele que habita nos céus se rirá; o Senhor zombará deles.
+
+[[v19-2-5]]
+
+^<<v19-2-5,5>>^ Então lhes falará na sua ira, e no seu furor os confundirá.
+
+[[v19-2-6]]
+
+^<<v19-2-6,6>>^ Eu porém ungi o meu Rei sobre o meu santo monte de Sião.
+
+[[v19-2-7]]
+
+^<<v19-2-7,7>>^ Recitarei o decreto: O Senhor me disse: Tu és  meu Filho, eu hoje te gerei.
+
+[[v19-2-8]]
+
+^<<v19-2-8,8>>^ Pede-me, e eu te  darei as nações por  herança, e os fins da terra por  tua possessão.
+
+[[v19-2-9]]
+
+^<<v19-2-9,9>>^ Tu os esmigalharás com uma vara de ferro; tu os despedaçarás como a  um vaso de oleiro.
+
+[[v19-2-10]]
+
+^<<v19-2-10,10>>^ Agora pois, ó reis, sede prudentes; deixai-vos instruir, juízes da terra.
+
+[[v19-2-11]]
+
+^<<v19-2-11,11>>^ Servi ao Senhor com temor, e alegrai-vos com tremor.
+
+[[v19-2-12]]
+
+^<<v19-2-12,12>>^ Beijai o Filho, para que se não ire, e pereçais no caminho, quando em breve se inflamar a sua ira; bem-aventurados todos aqueles que nele confiam.
+
+'''
+
+xref:019-salmos/019-salmos-001.adoc#v19-1-0[&#60; Capítulo Anterior] | <<v19-2-0,Topo>> | xref:019-salmos/019-salmos-003.adoc#v19-3-0[Próximo Capítulo &#62;]

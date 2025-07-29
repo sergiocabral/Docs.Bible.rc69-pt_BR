@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v24-10-0]]
+=== Jeremias, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v24-10-1]]
+
+^<<v24-10-1,1>>^ OUVI a palavra que o Senhor vos fala a vós, ó casa de Israel.
+
+[[v24-10-2]]
+
+^<<v24-10-2,2>>^ Assim diz o Senhor: Não aprendais o caminho das nações, nem vos espanteis com os sinais dos céus: porque com eles se atemorizam as nações.
+
+[[v24-10-3]]
+
+^<<v24-10-3,3>>^ Porque os costumes dos povos são  vaidade: pois cortam do bosque um madeiro, obra das mãos do artífice, com machado.
+
+[[v24-10-4]]
+
+^<<v24-10-4,4>>^ Com prata e com ouro o enfeitam, com pregos e com martelos o firmam, para que não se mova.
+
+[[v24-10-5]]
+
+^<<v24-10-5,5>>^ São  como a palmeira, obra torneada, mas não podem falar; necessitam de quem  os leve, porquanto não podem andar: não tenhais receio deles, pois não podem fazer mal, nem tão pouco têm poder de fazer bem.
+
+[[v24-10-6]]
+
+^<<v24-10-6,6>>^ Ninguém há  semelhante a ti, ó Senhor: tu és  grande, e grande o teu nome em força.
+
+[[v24-10-7]]
+
+^<<v24-10-7,7>>^ Quem te não temeria a ti, ó Rei das nações? pois isto só a ti pertence; porquanto entre todos os sábios das nações, e em todo o seu reino, ninguém há semelhante a ti.
+
+[[v24-10-8]]
+
+^<<v24-10-8,8>>^ Mas eles todos se embruteceram e se tornaram loucos: ensino de vaidades é  o madeiro.
+
+[[v24-10-9]]
+
+^<<v24-10-9,9>>^ Trazem prata estendida de Tarsis e ouro de Ufaz, trabalho do artífice, e das mãos do fundidor: fazem  seus vestidos de azul celeste e púrpura; obra de sábios são  todos eles.
+
+[[v24-10-10]]
+
+^<<v24-10-10,10>>^ Mas o Senhor Deus é  a verdade: ele mesmo é  o Deus vivo e o Rei eterno; do seu furor treme a terra, e as nações não podem suportar a sua indignação.
+
+[[v24-10-11]]
+
+^<<v24-10-11,11>>^ Assim lhes direis: Os deuses que não fizeram os céus e a terra desaparecerão da terra e de debaixo deste céu.
+
+[[v24-10-12]]
+
+^<<v24-10-12,12>>^ Ele fez a terra pelo seu poder; ele estabeleceu o mundo por sua sabedoria e com a sua inteligência estendeu os céus.
+
+[[v24-10-13]]
+
+^<<v24-10-13,13>>^ Fazendo ele soar a sua  voz, logo há arruído de águas no céu, e sobem os vapores da extremidade da terra; ele faz os relâmpagos para a chuva, e faz sair o vento dos seus tesouros.
+
+[[v24-10-14]]
+
+^<<v24-10-14,14>>^ Todo o homem se embruteceu, e não tem ciência; envergonha-se todo o fundidor da sua imagem de escultura; porque sua imagem fundida mentira é , e não há  espírito nelas.
+
+[[v24-10-15]]
+
+^<<v24-10-15,15>>^ Vaidade são, obra de enganos: no tempo da sua visitação virão a perecer.
+
+[[v24-10-16]]
+
+^<<v24-10-16,16>>^ Não é semelhante a estes a porção de Jacó; porque ele é o criador de todas as cousas, e Israel é  a vara da sua herança: Senhor dos Exércitos é o seu nome.
+
+[[v24-10-17]]
+
+^<<v24-10-17,17>>^ Ajunta da terra a tua mercadoria, ó habitadora da fortaleza.
+
+[[v24-10-18]]
+
+^<<v24-10-18,18>>^ Porque assim diz o Senhor: Eis que desta vez arrojarei como  se fora com uma funda os moradores da terra, e os angustiarei, para que venham a senti-lo, dizendo :
+
+[[v24-10-19]]
+
+^<<v24-10-19,19>>^ Ai de mim, por causa do meu quebrantamento! a minha chaga me  causa grande dor; e eu havia dito: Certamente isto é enfermidade que eu poderei suportar.
+
+[[v24-10-20]]
+
+^<<v24-10-20,20>>^ A minha tenda está  destruída, e todas as minhas cordas se quebraram; os meus filhos foram-se de mim, e não existem; ninguém há mais que estenda a minha tenda, e que levante as minhas cortinas.
+
+[[v24-10-21]]
+
+^<<v24-10-21,21>>^ Porque os pastores se embruteceram, e não buscaram ao Senhor: por isso não prosperaram, e todos os seus gados se espalharam.
+
+[[v24-10-22]]
+
+^<<v24-10-22,22>>^ Eis que vem uma voz de fama, grande tumulto da terra do norte, para fazer das cidades de Judá uma assolação, uma morada de dragões.
+
+[[v24-10-23]]
+
+^<<v24-10-23,23>>^ Eu sei, ó Senhor, que não é  do homem o seu caminho nem do homem que caminha o dirigir os seus passos.
+
+[[v24-10-24]]
+
+^<<v24-10-24,24>>^ Castiga-me, ó Senhor, mas com medida, não na tua ira, para que me não reduzas a nada.
+
+[[v24-10-25]]
+
+^<<v24-10-25,25>>^ Derrama a tua indignação sobre as nações que te não conhecem, e sobre as gerações que não invocam o teu nome; porque devoraram a Jacó; devoraram-no e consumiram-no, e assolaram a sua morada.
+
+'''
+
+xref:024-jeremias/024-jeremias-009.adoc#v24-9-0[&#60; Capítulo Anterior] | <<v24-10-0,Topo>> | xref:024-jeremias/024-jeremias-011.adoc#v24-11-0[Próximo Capítulo &#62;]

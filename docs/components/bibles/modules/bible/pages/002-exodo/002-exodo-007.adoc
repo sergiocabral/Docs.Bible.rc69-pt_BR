@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v2-7-0]]
+=== Êxodo, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v2-7-1]]
+
+^<<v2-7-1,1>>^ ENTÃO disse o Senhor a Moisés: Eis que te tenho posto por  Deus sobre Faraó, e Aarão, teu irmão, será o teu profeta.
+
+[[v2-7-2]]
+
+^<<v2-7-2,2>>^ Tu falarás tudo o que eu te mandar; e Aarão teu irmão falará a Faraó, que deixe ir os filhos de Israel da sua terra.
+
+[[v2-7-3]]
+
+^<<v2-7-3,3>>^ Eu, porém, endurecerei o coração de Faraó, e multiplicarei na terra do Egito os meus sinais e as minhas maravilhas.
+
+[[v2-7-4]]
+
+^<<v2-7-4,4>>^ Faraó, porém, não vos ouvirá; e eu porei minha mão sobre o Egito, e tirarei os meus exércitos, o meu povo, os filhos de Israel, da terra do Egito, com grandes juízos.
+
+[[v2-7-5]]
+
+^<<v2-7-5,5>>^ Então os egípcios saberão que eu sou  o Senhor, quando estender a minha mão sobre o Egito, e tirar os filhos de Israel do meio deles.
+
+[[v2-7-6]]
+
+^<<v2-7-6,6>>^ Então fez assim Moisés e Aarão, como o Senhor lhes ordenara, assim fizeram.
+
+[[v2-7-7]]
+
+^<<v2-7-7,7>>^ E Moisés era  da idade de oitenta anos, e Aarão da idade de oitenta e três anos, quando falaram a Faraó.
+
+[[v2-7-8]]
+
+^<<v2-7-8,8>>^ E o Senhor falou a Moisés e a Aarão, dizendo:
+
+[[v2-7-9]]
+
+^<<v2-7-9,9>>^ Quando Faraó vos falar, dizendo: Fazei por vós algum milagre; dirás a Aarão: Toma a tua vara, e lança-a diante de Faraó; e se tornará em serpente.
+
+[[v2-7-10]]
+
+^<<v2-7-10,10>>^ Então Moisés e Aarão entraram a Faraó, e fizeram assim como o Senhor ordenara; e lançou Aarão a sua vara diante de Faraó, e diante dos seus servos, e tornou-se em serpente.
+
+[[v2-7-11]]
+
+^<<v2-7-11,11>>^ E Faraó também chamou os sábios e encantadores; e os magos do Egito fizeram também o mesmo com os seus encantamentos.
+
+[[v2-7-12]]
+
+^<<v2-7-12,12>>^ Porque cada um lançou sua vara, e tornaram-se em serpentes; mas a vara de Aarão tragou as varas deles.
+
+[[v2-7-13]]
+
+^<<v2-7-13,13>>^ Porém o coração de Faraó se endureceu, e não os ouviu, como o Senhor tinha dito.
+
+[[v2-7-14]]
+
+^<<v2-7-14,14>>^ Então disse o Senhor a Moisés: O coração de Faraó está obstinado; recusa deixar ir o povo.
+
+[[v2-7-15]]
+
+^<<v2-7-15,15>>^ Vai pela manhã a Faraó; eis que ele sairá às águas; põe-te em frente dele na praia do rio, e tomarás em tua mão a vara que se tornou em cobra.
+
+[[v2-7-16]]
+
+^<<v2-7-16,16>>^ E lhe dirás: O Senhor, o Deus dos hebreus, me tem enviado a ti, dizendo: Deixa ir o meu povo, para que me sirva no deserto; porém eis que até agora não tens ouvido.
+
+[[v2-7-17]]
+
+^<<v2-7-17,17>>^ Assim diz o Senhor: Nisto saberás que eu sou  o senhor: Eis que eu com esta vara, que tenho em minha mão, ferirei as águas que estão  no rio, e tornar-se-ão em sangue.
+
+[[v2-7-18]]
+
+^<<v2-7-18,18>>^ E os peixes, que estão  no rio, morrerão, e o rio cheirará mal; e os egípcios nausear-se-ão, bebendo a água do rio.
+
+[[v2-7-19]]
+
+^<<v2-7-19,19>>^ Disse mais o Senhor a Moisés: Dize a Aarão: Toma tua vara, e estende a tua mão sobre as águas do Egito, sobre as suas correntes, sobre os seus rios, e sobre os seus tanques, e sobre todo o ajuntamento das suas águas, para que se tornem em sangue; e haja sangue em toda a terra do Egito, assim nos vasos  de madeira como nos de pedra.
+
+[[v2-7-20]]
+
+^<<v2-7-20,20>>^ E Moisés e Aarão fizeram assim como o Senhor tinha mandado; e levantou a vara, e feriu as águas que estavam  no rio, diante dos olhos de Faraó, e diante dos olhos de seus servos; e todas as águas do rio se tornaram em sangue.
+
+[[v2-7-21]]
+
+^<<v2-7-21,21>>^ E os peixes, que estavam  no rio, morreram, e o rio fedeu, e os egípcios não podiam beber a água do rio; e houve sangue por toda a terra do Egito.
+
+[[v2-7-22]]
+
+^<<v2-7-22,22>>^ Porém os magos do Egito também  fizeram o mesmo com os seus encantamentos; de maneira que o coração de Faraó se endureceu, e não os ouviu, como o Senhor tinha dito.
+
+[[v2-7-23]]
+
+^<<v2-7-23,23>>^ E virou-se Faraó, e foi para sua casa; nem ainda nisto pôs seu coração.
+
+[[v2-7-24]]
+
+^<<v2-7-24,24>>^ E todos os egípcios cavaram poços junto ao rio, para beberem água; porquanto não podiam beber das águas do rio.
+
+[[v2-7-25]]
+
+^<<v2-7-25,25>>^ Assim se cumpriram sete dias, depois que o Senhor ferira o rio.
+
+'''
+
+xref:002-exodo/002-exodo-006.adoc#v2-6-0[&#60; Capítulo Anterior] | <<v2-7-0,Topo>> | xref:002-exodo/002-exodo-008.adoc#v2-8-0[Próximo Capítulo &#62;]

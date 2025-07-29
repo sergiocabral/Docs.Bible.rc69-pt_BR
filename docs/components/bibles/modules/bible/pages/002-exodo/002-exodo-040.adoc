@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v2-40-0]]
+=== Êxodo, 40
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v2-40-1]]
+
+^<<v2-40-1,1>>^ FALOU mais o Senhor a Moisés, dizendo:
+
+[[v2-40-2]]
+
+^<<v2-40-2,2>>^ No primeiro mês, no primeiro dia do mês, levantarás o tabernáculo da tenda da congregação,
+
+[[v2-40-3]]
+
+^<<v2-40-3,3>>^ E porás nele a arca do testemunho, e cobrirás a arca com o véu.
+
+[[v2-40-4]]
+
+^<<v2-40-4,4>>^ Depois meterás nele  a mesa, e porás em ordem o que se deve pôr em ordem nela; também meterás nele  o castiçal, e acenderás as suas lâmpadas.
+
+[[v2-40-5]]
+
+^<<v2-40-5,5>>^ E porás o altar de ouro para o incenso diante da arca do testemunho: então pendurarás a coberta da porta do tabernáculo.
+
+[[v2-40-6]]
+
+^<<v2-40-6,6>>^ Porás também o altar do holocausto diante da porta do tabernáculo da tenda da congregação.
+
+[[v2-40-7]]
+
+^<<v2-40-7,7>>^ E porás a pia entre a tenda da congregação e o altar, e nela porás água.
+
+[[v2-40-8]]
+
+^<<v2-40-8,8>>^ Depois porás o pátio ao redor, e pendurarás a coberta à porta do pátio.
+
+[[v2-40-9]]
+
+^<<v2-40-9,9>>^ Então tomarás o azeite da unção, e ungirás o tabernáculo, e tudo o que há  nele: e o santificarás com todos os seus vasos e será santo.
+
+[[v2-40-10]]
+
+^<<v2-40-10,10>>^ Ungirás também o altar do holocausto, e a todos os seus vasos; e santificarás o altar; e o altar será uma cousa santíssima.
+
+[[v2-40-11]]
+
+^<<v2-40-11,11>>^ Então ungirás a pia e a sua base, e a santificarás.
+
+[[v2-40-12]]
+
+^<<v2-40-12,12>>^ Farás também chegar Aarão e seus filhos à porta da tenda da congregação, e os lavarás com água.
+
+[[v2-40-13]]
+
+^<<v2-40-13,13>>^ E vestirás a Aarão os vestidos santos, e o ungirás, e o santificarás, para que me administre o sacerdócio.
+
+[[v2-40-14]]
+
+^<<v2-40-14,14>>^ Também farás chegar seus filhos, e lhes vestirás as túnicas,
+
+[[v2-40-15]]
+
+^<<v2-40-15,15>>^ E os ungirás como ungiste a seu pai, para que me administrem o sacerdócio, e a sua unção lhes será por sacerdócio perpétuo nas suas gerações.
+
+[[v2-40-16]]
+
+^<<v2-40-16,16>>^ E fê-lo Moisés: conforme a tudo o que o Senhor lhe ordenou, assim o fez.
+
+[[v2-40-17]]
+
+^<<v2-40-17,17>>^ E aconteceu no mês primeiro, no ano segundo, ao primeiro do mês, que o tabernáculo foi levantado;
+
+[[v2-40-18]]
+
+^<<v2-40-18,18>>^ Porque Moisés levantou o tabernáculo, e pôs as suas bases, e armou as suas tábuas, e meteu nele os seus varais, e levantou as suas colunas;
+
+[[v2-40-19]]
+
+^<<v2-40-19,19>>^ E estendeu a tenda sobre o tabernáculo, e pôs a coberta da tenda sobre ela, em cima, como o Senhor ordenara a Moisés.
+
+[[v2-40-20]]
+
+^<<v2-40-20,20>>^ E tomou o testemunho, e pô-lo na arca, e meteu os varais à arca; e pôs o propiciatório sobre a arca, em cima.
+
+[[v2-40-21]]
+
+^<<v2-40-21,21>>^ E levou a arca ao tabernáculo, e pendurou o véu da cobertura, e cobriu a arca do testemunho, como o Senhor ordenara a Moisés.
+
+[[v2-40-22]]
+
+^<<v2-40-22,22>>^ Pôs também a mesa na tenda da congregação, ao lado do tabernáculo para o norte, fora do véu.
+
+[[v2-40-23]]
+
+^<<v2-40-23,23>>^ E sobre ela pôs em ordem o pão perante o Senhor, como o Senhor ordenara a Moisés.
+
+[[v2-40-24]]
+
+^<<v2-40-24,24>>^ Pôs também na tenda da congregação o castiçal defronte da mesa, ao lado do tabernáculo para o sul,
+
+[[v2-40-25]]
+
+^<<v2-40-25,25>>^ E acendeu as lâmpadas perante o Senhor, como o Senhor ordenara a Moisés.
+
+[[v2-40-26]]
+
+^<<v2-40-26,26>>^ E pôs o altar de ouro na tenda da congregação, diante do véu.
+
+[[v2-40-27]]
+
+^<<v2-40-27,27>>^ E acendeu sobre ele o incenso de especiarias aromáticas, como o Senhor ordenara a Moisés.
+
+[[v2-40-28]]
+
+^<<v2-40-28,28>>^ Pendurou também a coberta da porta do tabernáculo,
+
+[[v2-40-29]]
+
+^<<v2-40-29,29>>^ E pôs o altar do holocausto à porta do tabernáculo da tenda da congregação, e ofereceu sobre ele holocausto e oferta de manjares, como o Senhor ordenara a Moisés.
+
+[[v2-40-30]]
+
+^<<v2-40-30,30>>^ Pôs também a pia entre a tenda da congregação e o altar, e derramou água nela, para lavar.
+
+[[v2-40-31]]
+
+^<<v2-40-31,31>>^ E Moisés, e Aarão e seus filhos lavaram nela as suas mãos e os seus pés.
+
+[[v2-40-32]]
+
+^<<v2-40-32,32>>^ Quando entravam na tenda da congregação, e quando chegavam ao altar, lavavam-se, como o Senhor ordenara a Moisés.
+
+[[v2-40-33]]
+
+^<<v2-40-33,33>>^ Levantou também o pátio ao redor do tabernáculo e do altar, e pendurou a coberta da porta do pátio. Assim Moisés acabou a obra.
+
+[[v2-40-34]]
+
+^<<v2-40-34,34>>^ Então a nuvem cobriu a tenda da congregação, e a glória do Senhor encheu o tabernáculo:
+
+[[v2-40-35]]
+
+^<<v2-40-35,35>>^ De maneira que Moisés não podia entrar na tenda da congregação, porquanto a nuvem ficava sobre ela, e a glória do Senhor enchia o tabernáculo.
+
+[[v2-40-36]]
+
+^<<v2-40-36,36>>^ Quando pois a nuvem se levantava de sobre o tabernáculo, então os filhos de Israel caminhavam em todas as suas jornadas.
+
+[[v2-40-37]]
+
+^<<v2-40-37,37>>^ Se a nuvem porém não se levantava, não caminhavam até ao dia em que ela se levantava;
+
+[[v2-40-38]]
+
+^<<v2-40-38,38>>^ Porquanto a nuvem do Senhor estava  de dia sobre o tabernáculo, e o fogo estava de noite sobre ele, perante os olhos de toda a casa de Israel, em todas as suas jornadas.
+
+'''
+
+xref:002-exodo/002-exodo-039.adoc#v2-39-0[&#60; Capítulo Anterior] | <<v2-40-0,Topo>> | xref:003-levitico/003-levitico-001.adoc#v3-1-0[Próximo Capítulo &#62;]

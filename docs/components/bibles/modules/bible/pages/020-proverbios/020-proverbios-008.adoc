@@ -1,0 +1,153 @@
+include::./index.adoc[]
+
+[[v20-8-0]]
+=== Provérbios, 8
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-8-1]]
+
+^<<v20-8-1,1>>^ NÃO clama porventura  a sabedoria, e a inteligência não dá a sua voz?
+
+[[v20-8-2]]
+
+^<<v20-8-2,2>>^ No cume das alturas, junto ao caminho, nas encruzilhadas das veredas se coloca.
+
+[[v20-8-3]]
+
+^<<v20-8-3,3>>^ Da banda das portas da  cidade, à entrada da cidade, e  à entrada das portas está clamando:
+
+[[v20-8-4]]
+
+^<<v20-8-4,4>>^ A vós, ó homens, clamo; e a minha voz se dirige  aos filhos dos homens.
+
+[[v20-8-5]]
+
+^<<v20-8-5,5>>^ Entendei, ó simples, a prudência: e vós , loucos, entendei de  coração.
+
+[[v20-8-6]]
+
+^<<v20-8-6,6>>^ Ouvi, porque proferirei cousas excelentes: os meus lábios se abrirão para a equidade.
+
+[[v20-8-7]]
+
+^<<v20-8-7,7>>^ Porque a minha boca proferirá a verdade: os meus lábios abominam a impiedade.
+
+[[v20-8-8]]
+
+^<<v20-8-8,8>>^ Em justiça são todas as palavras da minha boca: não há  nelas nenhuma cousa tortuosa nem perversa.
+
+[[v20-8-9]]
+
+^<<v20-8-9,9>>^ Todas elas são  retas para o que bem as  entende, e justas para os que acham o conhecimento.
+
+[[v20-8-10]]
+
+^<<v20-8-10,10>>^ Aceitai a minha correção, e não a prata: e o conhecimento, mais do que o ouro fino escolhido.
+
+[[v20-8-11]]
+
+^<<v20-8-11,11>>^ Porque melhor é  a sabedoria do que os rubins; e de tudo o que se deseja nada se pode comparar com ela.
+
+[[v20-8-12]]
+
+^<<v20-8-12,12>>^ Eu, a sabedoria, habito com  a prudência e acho a ciência dos conselhos.
+
+[[v20-8-13]]
+
+^<<v20-8-13,13>>^ O temor do Senhor é  aborrecer o mal: a soberba, e a arrogância, e o mau caminho, e a boca perversa, aborreço.
+
+[[v20-8-14]]
+
+^<<v20-8-14,14>>^ Meu é o conselho e a verdadeira  sabedoria: eu sou  o entendimento, minha é  a fortaleza.
+
+[[v20-8-15]]
+
+^<<v20-8-15,15>>^ Por mim reinam os reis e os príncipes ordenam justiça.
+
+[[v20-8-16]]
+
+^<<v20-8-16,16>>^ Por mim governam os príncipes e os nobres; sim, todos os juízes da terra.
+
+[[v20-8-17]]
+
+^<<v20-8-17,17>>^ Eu amo aos que me amam, e os que de madrugada me buscam me acharão.
+
+[[v20-8-18]]
+
+^<<v20-8-18,18>>^ Riquezas e honra estão  comigo; sim, riquezas duráveis e justiça.
+
+[[v20-8-19]]
+
+^<<v20-8-19,19>>^ Melhor é  o meu fruto do que o ouro, sim, do que o ouro refinado; e as minhas novidades melhores do que a prata escolhida.
+
+[[v20-8-20]]
+
+^<<v20-8-20,20>>^ Faço andar pelo caminho da justiça, no meio das veredas do juízo.
+
+[[v20-8-21]]
+
+^<<v20-8-21,21>>^ Para fazer herdar bens permanentes aos que me amam, e encher os seus tesouros.
+
+[[v20-8-22]]
+
+^<<v20-8-22,22>>^ O Senhor me possuiu no princípio de seus caminhos, e  antes de suas obras mais antigas.
+
+[[v20-8-23]]
+
+^<<v20-8-23,23>>^ Desde a eternidade fui ungida, desde o princípio, antes do começo da terra.
+
+[[v20-8-24]]
+
+^<<v20-8-24,24>>^ Antes de haver abismos, fui gerada, e antes ainda de haver fontes carregadas de águas.
+
+[[v20-8-25]]
+
+^<<v20-8-25,25>>^ Antes que os montes fossem firmados, antes dos outeiros, eu fui gerada.
+
+[[v20-8-26]]
+
+^<<v20-8-26,26>>^ Ainda ele não tinha feito a terra, nem os campos, nem sequer o princípio do pó do mundo.
+
+[[v20-8-27]]
+
+^<<v20-8-27,27>>^ Quando ele preparava os céus, aí estava  eu; quando compassava ao redor a face do abismo,
+
+[[v20-8-28]]
+
+^<<v20-8-28,28>>^ Quando firmava as nuvens de cima, quando fortificava as fontes do abismo;
+
+[[v20-8-29]]
+
+^<<v20-8-29,29>>^ Quando punha ao mar o seu termo, para que as águas não trespassassem o seu mando; quando compunha os fundamentos da terra;
+
+[[v20-8-30]]
+
+^<<v20-8-30,30>>^ Então eu  estava com ele e era seu aluno: e era cada dia as suas  delícias, folgando perante ele em todo o tempo;
+
+[[v20-8-31]]
+
+^<<v20-8-31,31>>^ Folgando no seu mundo habitável, e achando  as minhas delícias com os filhos dos homens.
+
+[[v20-8-32]]
+
+^<<v20-8-32,32>>^ Agora, pois, filhos, ouvi-me, porque bem-aventurados serão os que  guardarem os meus caminhos.
+
+[[v20-8-33]]
+
+^<<v20-8-33,33>>^ Ouvi a correção, não a rejeiteis, e sede sábios.
+
+[[v20-8-34]]
+
+^<<v20-8-34,34>>^ Bem-aventurado o homem que me dá ouvidos, velando às minhas portas cada dia, esperando às ombreiras da minha entrada.
+
+[[v20-8-35]]
+
+^<<v20-8-35,35>>^ Porque o que me achar achará a vida, e alcançará favor do Senhor.
+
+[[v20-8-36]]
+
+^<<v20-8-36,36>>^ Mas o que pecar contra  mim violentará a sua própria  alma: todos os que me aborrecem amam a morte.
+
+'''
+
+xref:020-proverbios/020-proverbios-007.adoc#v20-7-0[&#60; Capítulo Anterior] | <<v20-8-0,Topo>> | xref:020-proverbios/020-proverbios-009.adoc#v20-9-0[Próximo Capítulo &#62;]

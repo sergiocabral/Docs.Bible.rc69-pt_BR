@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v2-31-0]]
+=== Êxodo, 31
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v2-31-1]]
+
+^<<v2-31-1,1>>^ DEPOIS falou o Senhor a Moisés, dizendo:
+
+[[v2-31-2]]
+
+^<<v2-31-2,2>>^ Eis que eu tenho chamado por nome a Bazaleel, o filho de Uri, filho de Hur, da tribo de Judá,
+
+[[v2-31-3]]
+
+^<<v2-31-3,3>>^ E o enchi do espírito de Deus, de sabedoria, e de entendimento, e de ciência, em todo o artifício,
+
+[[v2-31-4]]
+
+^<<v2-31-4,4>>^ Para inventar invenções, e trabalhar em ouro, em prata, e em cobre,
+
+[[v2-31-5]]
+
+^<<v2-31-5,5>>^ E em lavramento de pedras para engastar, e em artifício de madeira, para obrar em todo o lavor.
+
+[[v2-31-6]]
+
+^<<v2-31-6,6>>^ E eis que eu tenho posto com ele a Aoliabe, o filho de Aisamaque, da tribo de Dã, e tenho dado sabedoria ao coração de todo aquele que é  sábio de  coração, para que façam tudo o que te tenho ordenado;
+
+[[v2-31-7]]
+
+^<<v2-31-7,7>>^ A saber , a tenda da congregação, e a arca do testemunho, e o propiciatório que estará  sobre ela, e todos os vasos da tenda;
+
+[[v2-31-8]]
+
+^<<v2-31-8,8>>^ E a mesa com os seus vasos, e o castiçal puro com todos os seus vasos, e o altar do incenso;
+
+[[v2-31-9]]
+
+^<<v2-31-9,9>>^ E o altar do holocausto com todos os seus vasos, e a pia com a sua base;
+
+[[v2-31-10]]
+
+^<<v2-31-10,10>>^ E os vestidos do ministério, e os vestidos santos de Aarão o sacerdote, e os vestidos de seus filhos, para administrarem o sacerdócio;
+
+[[v2-31-11]]
+
+^<<v2-31-11,11>>^ E o azeite da unção, e o incenso aromático para o santuário; farão conforme a tudo que te tenho mandado.
+
+[[v2-31-12]]
+
+^<<v2-31-12,12>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v2-31-13]]
+
+^<<v2-31-13,13>>^ Tu pois fala aos filhos de Israel, dizendo: Certamente guardareis meus sábados: porquanto isso é  um sinal entre mim e vós nas vossas gerações; para que saibais que eu sou  o Senhor, que vos santifica.
+
+[[v2-31-14]]
+
+^<<v2-31-14,14>>^ Portanto guardareis o sábado, porque santo é  para vós: aquele que o profanar certamente morrerá; porque qualquer que nele fizer alguma  obra, aquela alma será extirpada do meio do seu povo.
+
+[[v2-31-15]]
+
+^<<v2-31-15,15>>^ Seis dias se fará obra, porém o sétimo dia é  o sábado do descanso, santo ao Senhor; qualquer que no dia do sábado fizer obra, certamente morrerá.
+
+[[v2-31-16]]
+
+^<<v2-31-16,16>>^ Guardarão pois o sábado os filhos de Israel, celebrando o sábado nas suas gerações por  concerto perpétuo.
+
+[[v2-31-17]]
+
+^<<v2-31-17,17>>^ Entre mim e os filhos de Israel será  um sinal para sempre: porque em  seis dias fez o Senhor os céus e a terra, e ao sétimo dia descansou, e restaurou-se.
+
+[[v2-31-18]]
+
+^<<v2-31-18,18>>^ E deu a Moisés (quando acabou de falar com ele no monte de Sinai) as duas tábuas do testemunho, tábuas de pedra, escritas pelo dedo de Deus.
+
+'''
+
+xref:002-exodo/002-exodo-030.adoc#v2-30-0[&#60; Capítulo Anterior] | <<v2-31-0,Topo>> | xref:002-exodo/002-exodo-032.adoc#v2-32-0[Próximo Capítulo &#62;]

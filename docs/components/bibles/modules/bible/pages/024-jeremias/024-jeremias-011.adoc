@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v24-11-0]]
+=== Jeremias, 11
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v24-11-1]]
+
+^<<v24-11-1,1>>^ A PALAVRA que veio a Jeremias, da parte do Senhor, dizendo:
+
+[[v24-11-2]]
+
+^<<v24-11-2,2>>^ Ouvi as palavras deste concerto, e falai aos homens de Judá, e aos habitantes de Jerusalém.
+
+[[v24-11-3]]
+
+^<<v24-11-3,3>>^ Dize-lhes pois: Assim diz o Senhor, o Deus de Israel: Maldito o homem que não escutar as palavras deste concerto.
+
+[[v24-11-4]]
+
+^<<v24-11-4,4>>^ Que ordenei a vossos pais no dia em que os tirei da terra do Egito, da fornalha de ferro, dizendo: Dai ouvidos à minha voz, e fazei conforme a tudo que vos mando; e vós me sereis a mim por povo, e eu vos serei a vós por Deus:
+
+[[v24-11-5]]
+
+^<<v24-11-5,5>>^ Para que confirme o juramento que fiz a vossos pais de dar-lhes uma terra que manasse leite e mel, como se vê neste  dia. Então eu respondi, e disse: Amém, ó Senhor.
+
+[[v24-11-6]]
+
+^<<v24-11-6,6>>^ E disse-me o Senhor: Apregoa todas estas palavras nas cidades de Judá, e nas ruas de Jerusalém, dizendo: Ouvi as palavras deste concerto, e cumpri-as.
+
+[[v24-11-7]]
+
+^<<v24-11-7,7>>^ Porque deveras protestei a vossos pais no dia em que os tirei da terra do Egito, até ao dia de hoje, madrugando, e protestando, e dizendo: Dai ouvidos à minha voz.
+
+[[v24-11-8]]
+
+^<<v24-11-8,8>>^ Mas não ouviram, nem inclinaram os seus ouvidos, antes andaram cada um conforme o propósito do seu coração malvado: pelo que trouxe sobre eles todas as palavras deste concerto que lhes  mandei que cumprissem, mas não cumpriram.
+
+[[v24-11-9]]
+
+^<<v24-11-9,9>>^ Disse-me mais o Senhor: Uma conjuração se achou entre os homens de Judá, entre os habitantes de Jerusalém.
+
+[[v24-11-10]]
+
+^<<v24-11-10,10>>^ Tornaram às maldades de seus primeiros pais que não quiseram ouvir as minhas palavras; e eles andaram após deuses estranhos para os servir: a casa de Israel e a casa de Judá quebrantaram o meu concerto, que tinha feito com seus pais.
+
+[[v24-11-11]]
+
+^<<v24-11-11,11>>^ Portanto assim diz o Senhor: Eis que trarei mal sobre eles, de que não poderão escapar, e clamarão a mim e eu não os ouvirei.
+
+[[v24-11-12]]
+
+^<<v24-11-12,12>>^ Então irão as cidades de Judá e os habitantes de Jerusalém e clamarão aos deuses a que eles queimaram incenso; eles porém de nenhuma sorte os livrarão no tempo do seu mal.
+
+[[v24-11-13]]
+
+^<<v24-11-13,13>>^ Porque, segundo  o número das tuas cidades, foram os teus deuses, ó Judá! e, segundo  o número das ruas de Jerusalém, levantaste altares à impudência, altares para queimares incenso a Baal.
+
+[[v24-11-14]]
+
+^<<v24-11-14,14>>^ Tu, pois, não ores por este povo, nem levantes por eles clamor nem oração; porque não os  ouvirei no tempo em que eles clamarem a mim, por causa do seu mal.
+
+[[v24-11-15]]
+
+^<<v24-11-15,15>>^ Que tem o meu amado que fazer na minha casa, visto como muitos nela cometem grande abominação e as carnes santas se desviaram de ti? quando tu fazes  mal, então andas saltando de prazer.
+
+[[v24-11-16]]
+
+^<<v24-11-16,16>>^ Denominou-te o Senhor oliveira verde, formosa por seus deliciosos frutos; mas agora , à voz dum grande tumulto, acendeu fogo ao redor dela e se quebraram os seus ramos.
+
+[[v24-11-17]]
+
+^<<v24-11-17,17>>^ Porque o Senhor dos Exércitos, que te plantou, pronunciou contra ti o mal, pela maldade da casa de Israel e da casa de Judá, que para si mesmos fizeram, pois me provocaram à ira, queimando incenso a Baal.
+
+[[v24-11-18]]
+
+^<<v24-11-18,18>>^ E o Senhor mo fez saber, e eu o soube: então me fizeste ver as suas ações.
+
+[[v24-11-19]]
+
+^<<v24-11-19,19>>^ E eu era  como um manso cordeiro, que levam à matança; porque não sabia que imaginavam projetos contra mim, dizendo : Destruamos a árvore com o seu fruto, e cortemo-lo da terra dos viventes, e não haja mais memória do seu nome.
+
+[[v24-11-20]]
+
+^<<v24-11-20,20>>^ Mas, ó Senhor dos Exércitos, justo Juiz, que provas os rins e o coração, veja eu a tua vingança sobre eles; pois a ti descobri a minha causa.
+
+[[v24-11-21]]
+
+^<<v24-11-21,21>>^ Portanto assim diz o Senhor acerca dos homens de Anatote, que procuram a tua morte, dizendo: Não profetizes no nome do Senhor, para que não morras às nossas mãos.
+
+[[v24-11-22]]
+
+^<<v24-11-22,22>>^ Sim, assim diz o Senhor dos Exércitos: Eis que eu os punirei: os mancebos morrerão à espada, os seus filhos e as suas filhas morrerão de fome.
+
+[[v24-11-23]]
+
+^<<v24-11-23,23>>^ E não haverá deles um resto, porque farei vir o mal sobre os homens de Anatote, no  ano da sua visitação.
+
+'''
+
+xref:024-jeremias/024-jeremias-010.adoc#v24-10-0[&#60; Capítulo Anterior] | <<v24-11-0,Topo>> | xref:024-jeremias/024-jeremias-012.adoc#v24-12-0[Próximo Capítulo &#62;]

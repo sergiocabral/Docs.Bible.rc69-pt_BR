@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v1-20-0]]
+=== Gênesis, 20
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-20-1]]
+
+^<<v1-20-1,1>>^ E PARTIU Abraão dali para a terra do sul, e habitou entre Cades e Sur; e peregrinou em Gerar.
+
+[[v1-20-2]]
+
+^<<v1-20-2,2>>^ E havendo Abraão dito de Sara sua mulher: É  minha irmã, enviou Abimeleque, rei de Gerar, e tomou a Sara.
+
+[[v1-20-3]]
+
+^<<v1-20-3,3>>^ Deus porém veio a Abimeleque em sonhos de noite, e disse-lhe: Eis que morto és  por causa da mulher que tomaste; porque ela está  casada com marido.
+
+[[v1-20-4]]
+
+^<<v1-20-4,4>>^ Mas Abimeleque ainda  não se tinha chegado a ela; por isso disse: Senhor, matarás também uma nação justa?
+
+[[v1-20-5]]
+
+^<<v1-20-5,5>>^ Não me disse ele mesmo: É minha irmã? e ela também disse: É meu irmão. Em sinceridade do coração e em pureza das minhas mãos tenho feito isto.
+
+[[v1-20-6]]
+
+^<<v1-20-6,6>>^ E disse-lhe Deus em sonhos: Bem sei eu que na sinceridade do teu coração fizeste isto; e também eu te tenho impedido de pecar contra mim; por isso te não permiti tocá-la;
+
+[[v1-20-7]]
+
+^<<v1-20-7,7>>^ Agora pois restitui a mulher ao seu marido, porque profeta é, e rogará por ti, para que vivas; porém se não lha restituíres, sabe que certamente morrerás, tu e tudo o que é teu.
+
+[[v1-20-8]]
+
+^<<v1-20-8,8>>^ E levantou-se Abimeleque pela manhã de madrugada, chamou a todos os seus servos, e falou todas estas palavras em seus ouvidos; e temeram muito aqueles varões.
+
+[[v1-20-9]]
+
+^<<v1-20-9,9>>^ Então chamou Abimeleque a Abraão e disse-lhe: Que nos fizeste? e em que pequei contra ti, para trazeres sobre mim e meu reino tamanho pecado? Tu me fizeste aquilo que não deverias ter feito.
+
+[[v1-20-10]]
+
+^<<v1-20-10,10>>^ Disse mais Abimeleque a Abraão: Que tens visto, para fazeres tal coisa?
+
+[[v1-20-11]]
+
+^<<v1-20-11,11>>^ E disse Abraão: Porque eu dizia comigo: Certamente não há  temor de Deus neste lugar, e eles me matarão por amor da minha mulher.
+
+[[v1-20-12]]
+
+^<<v1-20-12,12>>^ E, na verdade, é ela também minha irmã, filha de meu pai, mas não filha da minha mãe; e veio a ser minha mulher.
+
+[[v1-20-13]]
+
+^<<v1-20-13,13>>^ E aconteceu que fazendo-me Deus sair errante da casa de meu pai, eu lhe disse: Seja  esta a graça que me farás em todo o lugar aonde viermos: dize de mim: É  meu irmão.
+
+[[v1-20-14]]
+
+^<<v1-20-14,14>>^ Então tomou Abimeleque ovelhas e vacas, e servos e servas, e os deu a Abraão; e restituiu-lhe Sara, sua mulher.
+
+[[v1-20-15]]
+
+^<<v1-20-15,15>>^ E disse Abimeleque: Eis que a minha terra está  diante da tua face, habita onde bom for  aos teus olhos.
+
+[[v1-20-16]]
+
+^<<v1-20-16,16>>^ E a Sara disse: Vês que tenho dado ao teu irmão mil moedas  de prata; eis que ele te seja por véu dos olhos para com todos os que contigo estão , e até para com todos os outros ; e estás advertida.
+
+[[v1-20-17]]
+
+^<<v1-20-17,17>>^ E orou Abraão a Deus, e sarou Deus a Abimeleque, e à sua mulher, e às suas servas, de maneira que tiveram filhos;
+
+[[v1-20-18]]
+
+^<<v1-20-18,18>>^ Porque o Senhor havia fechado totalmente todas as madres da casa de Abimeleque, por causa de Sara, mulher de Abraão.
+
+'''
+
+xref:001-genesis/001-genesis-019.adoc#v1-19-0[&#60; Capítulo Anterior] | <<v1-20-0,Topo>> | xref:001-genesis/001-genesis-021.adoc#v1-21-0[Próximo Capítulo &#62;]

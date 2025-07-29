@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v24-30-0]]
+=== Jeremias, 30
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v24-30-1]]
+
+^<<v24-30-1,1>>^ A PALAVRA que do Senhor veio a Jeremias, dizendo:
+
+[[v24-30-2]]
+
+^<<v24-30-2,2>>^ Assim fala o Senhor, Deus de Israel, dizendo: Escreve num livro todas as palavras que te tenho dito:
+
+[[v24-30-3]]
+
+^<<v24-30-3,3>>^ Porque eis que dias vêm, diz o Senhor, em que farei tornar o cativeiro do meu povo Israel e Judá, diz o Senhor; e torná-los-ei a trazer à terra que dei a seus pais, e a possuirão.
+
+[[v24-30-4]]
+
+^<<v24-30-4,4>>^ E estas são  as palavras que disse o Senhor, acerca de Israel e de Judá.
+
+[[v24-30-5]]
+
+^<<v24-30-5,5>>^ Porque assim diz o Senhor: Ouvimos uma voz de tremor, de temor mas não de paz.
+
+[[v24-30-6]]
+
+^<<v24-30-6,6>>^ Perguntai, pois, e vede, se um homem tem dores de parto. Porque pois  vejo a cada homem com  as mãos sobre os lombos como a que está dando à luz? e porque se têm tornado macilentos todos os rostos?
+
+[[v24-30-7]]
+
+^<<v24-30-7,7>>^ Ah! porque aquele dia é  tão grande, que, não houve outro semelhante! e é tempo de angústia para Jacó: ele porém será livrado dela.
+
+[[v24-30-8]]
+
+^<<v24-30-8,8>>^ Porque será naquele dia, diz o Senhor dos Exércitos, que  eu quebrarei o seu jugo de sobre o teu pescoço, e quebrarei as tuas ataduras; e nunca mais se servirão dele os estranhos;
+
+[[v24-30-9]]
+
+^<<v24-30-9,9>>^ Mas servirão ao Senhor, seu Deus, como também a Davi, seu rei, que lhes levantarei.
+
+[[v24-30-10]]
+
+^<<v24-30-10,10>>^ Não temas pois tu, servo meu Jacó, diz o Senhor, nem te espantes, ó Israel; porque eis que te livrarei das terras  de longe, e a tua descendência da terra do seu cativeiro; e Jacó tornará, e descansará, e ficará em sossego, e não haverá quem o  atemorize.
+
+[[v24-30-11]]
+
+^<<v24-30-11,11>>^ Porque eu sou contigo, diz o Senhor, para te salvar; porquanto darei fim a todas as nações entre as quais te espalhei; a ti, porém, não darei fim, mas castigar-te-ei com medida, e de todo não te terei por inocente.
+
+[[v24-30-12]]
+
+^<<v24-30-12,12>>^ Porque assim diz o Senhor: Teu quebrantamento é  mortal; a tua chaga é  dolorosa.
+
+[[v24-30-13]]
+
+^<<v24-30-13,13>>^ Não há  quem defenda a tua causa, para que possas ser ligado; não tens remédios que possam curar.
+
+[[v24-30-14]]
+
+^<<v24-30-14,14>>^ Todos os teus amantes se esqueceram de ti, e  não perguntam por ti; porque te feri com ferida de inimigo, e  com castigo de cruel, pela grandeza de tua maldade e multidão de teus pecados.
+
+[[v24-30-15]]
+
+^<<v24-30-15,15>>^ Por que gritas em razão de teu quebrantamento? tua dor é  mortal. Pela grandeza de tua maldade, e multidão de teus pecados, eu fiz estas cousas.
+
+[[v24-30-16]]
+
+^<<v24-30-16,16>>^ Mas também todos os que te devoram serão devorados; e todos os teus adversários irão, todos eles para o cativeiro; e os que te roubam serão roubados, e a todos os que te despojam entregarei ao saque.
+
+[[v24-30-17]]
+
+^<<v24-30-17,17>>^ Porque te restaurarei a saúde, e te sararei as tuas chagas, diz o Senhor; pois te chamam a enjeitada, dizendo: É Sião, por que ninguém já pergunta.
+
+[[v24-30-18]]
+
+^<<v24-30-18,18>>^ Assim diz o Senhor: Eis que acabarei o cativeiro das tendas de Jacó, e apiedar-me-ei das suas moradas; e a cidade será reedificada sobre o seu montão, e o palácio permanecerá como habitualmente.
+
+[[v24-30-19]]
+
+^<<v24-30-19,19>>^ E sairá deles o louvor e a voz de júbilo: e multiplicá-los-ei, e não serão diminuídos, e glorificá-los-ei, e não serão acanhados.
+
+[[v24-30-20]]
+
+^<<v24-30-20,20>>^ E seus filhos serão como na antiguidade, e a sua congregação será confirmada perante o meu rosto; e punirei todos os seus opressores.
+
+[[v24-30-21]]
+
+^<<v24-30-21,21>>^ E o seu príncipe será deles; e o seu governador sairá do meio deles, e o farei aproximar, e ele se chegará a mim; porque quem é aquele que se tem empenhado em se chegar a mim? diz o Senhor.
+
+[[v24-30-22]]
+
+^<<v24-30-22,22>>^ E ser-me-eis por povo, e eu vos serei por Deus.
+
+[[v24-30-23]]
+
+^<<v24-30-23,23>>^ Eis que a tormenta do Senhor, a sua indignação, saiu, uma tormenta varredora: cairá cruelmente sobre a cabeça dos ímpios.
+
+[[v24-30-24]]
+
+^<<v24-30-24,24>>^ Não voltará atrás o furor da ira do Senhor, até que tenha executado, e até que tenha cumprido os desígnios do seu coração: no fim dos dias entendereis isto.
+
+'''
+
+xref:024-jeremias/024-jeremias-029.adoc#v24-29-0[&#60; Capítulo Anterior] | <<v24-30-0,Topo>> | xref:024-jeremias/024-jeremias-031.adoc#v24-31-0[Próximo Capítulo &#62;]

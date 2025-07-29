@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v23-21-0]]
+=== Isaías, 21
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-21-1]]
+
+^<<v23-21-1,1>>^ PESO do deserto do mar. Como os tufões de vento do sul, que tudo assolam, ele virá do deserto, da terra horrível.
+
+[[v23-21-2]]
+
+^<<v23-21-2,2>>^ Visão dura se me manifesta: o pérfido trata perfidamente, e o destruidor anda destruindo. Sobe, ó Elão, sitia, ó medo, que já  fiz cessar todo o seu gemido.
+
+[[v23-21-3]]
+
+^<<v23-21-3,3>>^ Pelo que os meus lombos estão cheios de grande enfermidade; angústias se apoderaram de mim como as angústias da que dá à luz: estou tão atribulado que não posso ouvir, e tão desfalecido que não posso ver.
+
+[[v23-21-4]]
+
+^<<v23-21-4,4>>^ O meu coração está anelante, o horror apavora-me: o crepúsculo, que desejava, se me tornou em tremores.
+
+[[v23-21-5]]
+
+^<<v23-21-5,5>>^ Eles põem a mesa, estão de atalaia, comem, bebem: levantai-vos, príncipes, e  untai o escudo.
+
+[[v23-21-6]]
+
+^<<v23-21-6,6>>^ Porque assim me disse o Senhor: Vai, põe uma  sentinela, e  ela que diga o que vir.
+
+[[v23-21-7]]
+
+^<<v23-21-7,7>>^ E quando vir um bando com cavaleiros a par, um bando de jumentos, e  um bando de camelos, ela que escute atentamente com grande cuidado.
+
+[[v23-21-8]]
+
+^<<v23-21-8,8>>^ E clamou como um leão: Senhor, sobre a torre de vigia estou em pé continuamente de dia, e de guarda me ponho noites inteiras.
+
+[[v23-21-9]]
+
+^<<v23-21-9,9>>^ E eis agora vem um bando de homens, e  cavaleiros aos pares. Então respondeu e disse: Caída é Babilônia, caída é! e todas as imagens de escultura dos seus deuses se quebraram contra a terra.
+
+[[v23-21-10]]
+
+^<<v23-21-10,10>>^ Ah! malhada minha, e trigo da minha eira! o que ouvi do Senhor dos Exércitos, Deus de Israel, isso vos anunciei.
+
+[[v23-21-11]]
+
+^<<v23-21-11,11>>^ Peso de Duma. Gritam-me de Seir: Guarda, que houve de noite? guarda, que houve de noite?
+
+[[v23-21-12]]
+
+^<<v23-21-12,12>>^ E  disse o guarda: Vem a manhã e também a noite; se quereis perguntar, perguntai; voltai, vinde.
+
+[[v23-21-13]]
+
+^<<v23-21-13,13>>^ Peso contra Arábia. Nos bosques da Arábia passareis a noite, ó viandantes de Dedanim.
+
+[[v23-21-14]]
+
+^<<v23-21-14,14>>^ Saí com água ao encontro dos sedentos: os moradores da terra de Tema encontraram os que fugiam com seu pão.
+
+[[v23-21-15]]
+
+^<<v23-21-15,15>>^ Porque fogem diante das espadas, diante da espada nua, e diante do arco armado, e diante do peso da guerra.
+
+[[v23-21-16]]
+
+^<<v23-21-16,16>>^ Porque assim me disse o Senhor: Dentro dum ano, tal como os anos de jornaleiros, toda a glória de Quedar desaparecerá.
+
+[[v23-21-17]]
+
+^<<v23-21-17,17>>^ E os restantes dos números dos frecheiros, os valentes dos filhos de Quedar, serão diminuídos, porque assim  o disse o Senhor, Deus de Israel.
+
+'''
+
+xref:023-isaias/023-isaias-020.adoc#v23-20-0[&#60; Capítulo Anterior] | <<v23-21-0,Topo>> | xref:023-isaias/023-isaias-022.adoc#v23-22-0[Próximo Capítulo &#62;]

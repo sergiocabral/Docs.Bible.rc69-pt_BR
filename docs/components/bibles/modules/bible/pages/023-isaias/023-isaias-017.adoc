@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v23-17-0]]
+=== Isaías, 17
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-17-1]]
+
+^<<v23-17-1,1>>^ PESO de Damasco. Eis que Damasco será tirada, e já não será cidade, mas um  montão de ruínas.
+
+[[v23-17-2]]
+
+^<<v23-17-2,2>>^ As cidades de Aroer serão  abandonadas; hão de ser para os rebanhos, que se deitarão sem haver quem os espante.
+
+[[v23-17-3]]
+
+^<<v23-17-3,3>>^ E a fortaleza de Efraim cessará, como também o reino de Damasco e o resíduo da Síria; serão como a glória dos filhos de Israel, diz o Senhor dos Exércitos.
+
+[[v23-17-4]]
+
+^<<v23-17-4,4>>^ E será diminuída naquele dia a glória de Jacó, e a gordura da sua carne desaparecerá.
+
+[[v23-17-5]]
+
+^<<v23-17-5,5>>^ Porque será como o segador que colhe o trigo, e com o seu braço sega as espigas: e  será também como o que colhe espigas no vale de Refaim.
+
+[[v23-17-6]]
+
+^<<v23-17-6,6>>^ Mas ainda ficarão nele alguns  rabiscos, como no sacudir da oliveira: duas ou  três azeitonas na mais alta ponta dos ramos, e  quatro ou  cinco nos ramos mais exteriores de uma árvore frutífera, diz o Senhor Deus de Israel.
+
+[[v23-17-7]]
+
+^<<v23-17-7,7>>^ Naquele dia atentará o homem para o seu Criador, e os seus olhos olharão para o Santo de Israel.
+
+[[v23-17-8]]
+
+^<<v23-17-8,8>>^ E não atentará para os altares, obra das suas mãos, nem olhará para o que fizeram seus dedos, nem para os bosques, nem para as imagens do sol.
+
+[[v23-17-9]]
+
+^<<v23-17-9,9>>^ Naquele dia serão as suas cidades fortes como os lugares abandonados no bosque ou sobre o cume das montanhas, os quais foram abandonados ante os filhos de Israel: e haverá assolação.
+
+[[v23-17-10]]
+
+^<<v23-17-10,10>>^ Porquanto te esqueceste do Deus da tua salvação, e não te lembraste da rocha da tua fortaleza: pelo que bem  plantarás plantas formosas, e as cercarás de sarmentos estranhos.
+
+[[v23-17-11]]
+
+^<<v23-17-11,11>>^ No dia em que as plantares as  cercarás, e pela manhã farás que a tua semente brote: mas a colheita voará no dia da tribulação e das dores insofríveis.
+
+[[v23-17-12]]
+
+^<<v23-17-12,12>>^ Ai da multidão dos grandes povos que bramam como bramam os mares, e do rugido das nações que rugem como rugem as impetuosas águas.
+
+[[v23-17-13]]
+
+^<<v23-17-13,13>>^ Bem  rugirão as nações, como rugem as muitas águas, mas ele repreendê-las-á e fugirão para longe; e serão afugentadas como a pragana dos montes diante do vento, e como a bola diante do tufão.
+
+[[v23-17-14]]
+
+^<<v23-17-14,14>>^ Ao anoitecer eis que há  pavor, e antes que amanheça eles não serão. Esta é  a parte daqueles que nos despojam, e a sorte daqueles que nos saqueiam.
+
+'''
+
+xref:023-isaias/023-isaias-016.adoc#v23-16-0[&#60; Capítulo Anterior] | <<v23-17-0,Topo>> | xref:023-isaias/023-isaias-018.adoc#v23-18-0[Próximo Capítulo &#62;]

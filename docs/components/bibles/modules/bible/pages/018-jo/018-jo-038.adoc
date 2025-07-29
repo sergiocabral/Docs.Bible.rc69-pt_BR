@@ -1,0 +1,173 @@
+include::./index.adoc[]
+
+[[v18-38-0]]
+=== Jó, 38
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v18-38-1]]
+
+^<<v18-38-1,1>>^ DEPOIS disto o Senhor respondeu a Jó dum redemoinho, e disse:
+
+[[v18-38-2]]
+
+^<<v18-38-2,2>>^ Quem é  este que escurece o conselho com palavras sem conhecimento?
+
+[[v18-38-3]]
+
+^<<v18-38-3,3>>^ Agora cinge os teus lombos, como homem; e perguntar-te-ei, e tu responde-me.
+
+[[v18-38-4]]
+
+^<<v18-38-4,4>>^ Onde estavas tu , quando eu fundava a terra? Faze- mo  saber, se tens inteligência.
+
+[[v18-38-5]]
+
+^<<v18-38-5,5>>^ Quem lhe pôs as medidas, se tu o sabes? ou quem estendeu sobre ela o cordel?
+
+[[v18-38-6]]
+
+^<<v18-38-6,6>>^ Sobre que estão fundadas as suas bases, ou quem assentou a sua pedra de esquina,
+
+[[v18-38-7]]
+
+^<<v18-38-7,7>>^ Quando as estrelas da alva juntas alegremente cantavam, e todos os filhos de Deus rejubilavam?
+
+[[v18-38-8]]
+
+^<<v18-38-8,8>>^ Ou quem  encerrou o mar com portas, quando trasbordou e  saiu da madre,
+
+[[v18-38-9]]
+
+^<<v18-38-9,9>>^ Quando eu pus as nuvens por sua vestidura, e a escuridão por envolvedouro?
+
+[[v18-38-10]]
+
+^<<v18-38-10,10>>^ Quando passei sobre ele o meu decreto, e lhe  pus portas e ferrolhos,
+
+[[v18-38-11]]
+
+^<<v18-38-11,11>>^ E disse: Até aqui virás, e não mais adiante, e aqui se quebrarão as tuas ondas empoladas?
+
+[[v18-38-12]]
+
+^<<v18-38-12,12>>^ Ou  desde os teus dias deste ordem à madrugada, ou  mostraste à alva o seu lugar;
+
+[[v18-38-13]]
+
+^<<v18-38-13,13>>^ Para que agarrasse nas extremidades da terra, e os ímpios fossem sacudidos dela?
+
+[[v18-38-14]]
+
+^<<v18-38-14,14>>^ Tudo se transforma como o barro, sob o selo, e se põe como vestidos;
+
+[[v18-38-15]]
+
+^<<v18-38-15,15>>^ E dos ímpios se desvia a sua luz, e o braço altivo se quebranta.
+
+[[v18-38-16]]
+
+^<<v18-38-16,16>>^ Ou  entraste tu até às origens do mar, ou passeaste no mais profundo do abismo?
+
+[[v18-38-17]]
+
+^<<v18-38-17,17>>^ Ou  descobriram-se-te as portas da morte, ou viste as portas da sombra da morte?
+
+[[v18-38-18]]
+
+^<<v18-38-18,18>>^ Ou  com o teu entendimento chegaste às larguras da terra? Faze- mo  saber, se sabes tudo isto.
+
+[[v18-38-19]]
+
+^<<v18-38-19,19>>^ Onde está o caminho da morada da luz? E, quanto às trevas, onde está o seu lugar,
+
+[[v18-38-20]]
+
+^<<v18-38-20,20>>^ Para que as tragas aos seus limites, e para que saibas as veredas da sua casa?
+
+[[v18-38-21]]
+
+^<<v18-38-21,21>>^ De certo  tu o sabes, porque já então eras nascido, e porque é grande o número dos teus dias!
+
+[[v18-38-22]]
+
+^<<v18-38-22,22>>^ Ou entraste tu até aos tesouros da neve, e viste os tesouros da saraiva,
+
+[[v18-38-23]]
+
+^<<v18-38-23,23>>^ Que eu retenho até ao tempo da angústia, até ao dia da peleja e da guerra?
+
+[[v18-38-24]]
+
+^<<v18-38-24,24>>^ Onde está o caminho em que  se reparte a luz, e  se espalha o vento oriental sobre a terra?
+
+[[v18-38-25]]
+
+^<<v18-38-25,25>>^ Quem abriu para a inundação um leito, e um caminho para os relâmpagos dos trovões;
+
+[[v18-38-26]]
+
+^<<v18-38-26,26>>^ Para chover sobre a terra, onde  não há ninguém, e no  deserto, em que não há  gente;
+
+[[v18-38-27]]
+
+^<<v18-38-27,27>>^ Para fartar a terra  deserta e assolada, e para fazer crescer os renovos da erva?
+
+[[v18-38-28]]
+
+^<<v18-38-28,28>>^ A chuva porventura  tem pai? Ou quem gera as gotas do orvalho?
+
+[[v18-38-29]]
+
+^<<v18-38-29,29>>^ De que ventre procede o gelo? E quem gera a geada do céu?
+
+[[v18-38-30]]
+
+^<<v18-38-30,30>>^ Como debaixo  de pedra as águas se escondem; e a superfície do abismo se coalha.
+
+[[v18-38-31]]
+
+^<<v18-38-31,31>>^ Ou poderás tu ajuntar as delícias das sete estrelas, ou soltar os atilhos do Órion?
+
+[[v18-38-32]]
+
+^<<v18-38-32,32>>^ Ou produzir as constelações a seu tempo, e guiar a Ursa com seus filhos?
+
+[[v18-38-33]]
+
+^<<v18-38-33,33>>^ Sabes tu as ordenanças dos céus, ou podes dispor do domínio deles sobre a terra?
+
+[[v18-38-34]]
+
+^<<v18-38-34,34>>^ Ou podes levantar a tua voz até às nuvens, para que a abundância das águas te cubra?
+
+[[v18-38-35]]
+
+^<<v18-38-35,35>>^ Ou ordenarás aos raios que saiam, e te digam: Eis-nos aqui?
+
+[[v18-38-36]]
+
+^<<v18-38-36,36>>^ Quem pôs a sabedoria no íntimo, ou quem à mente deu o entendimento?
+
+[[v18-38-37]]
+
+^<<v18-38-37,37>>^ Quem numerará as nuvens pela sabedoria? Ou os odres dos céus, quem os abaixará,
+
+[[v18-38-38]]
+
+^<<v18-38-38,38>>^ Quando se funde o pó numa massa, e se pegam os torrões uns aos outros?
+
+[[v18-38-39]]
+
+^<<v18-38-39,39>>^ Porventura caçarás tu presa para a leoa, ou satisfarás a fome dos filhos dos leões,
+
+[[v18-38-40]]
+
+^<<v18-38-40,40>>^ Quando se agacham nos covis, e  estão à espreita nas covas?
+
+[[v18-38-41]]
+
+^<<v18-38-41,41>>^ Quem prepara para os corvos o seu alimento, quando os seus pintainhos gritam a Deus e  andam vagueando, por não terem que comer?
+
+'''
+
+xref:018-jo/018-jo-037.adoc#v18-37-0[&#60; Capítulo Anterior] | <<v18-38-0,Topo>> | xref:018-jo/018-jo-039.adoc#v18-39-0[Próximo Capítulo &#62;]

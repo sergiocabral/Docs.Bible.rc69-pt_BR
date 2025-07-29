@@ -1,0 +1,129 @@
+include::./index.adoc[]
+
+[[v20-20-0]]
+=== Provérbios, 20
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-20-1]]
+
+^<<v20-20-1,1>>^ O VINHO é  escarnecedor, e a bebida forte alvoroçadora; e todo aquele que neles errar nunca será sábio.
+
+[[v20-20-2]]
+
+^<<v20-20-2,2>>^ Como o bramido do leão é  o terror do rei; o que provoca a sua ira peca contra a sua própria  alma.
+
+[[v20-20-3]]
+
+^<<v20-20-3,3>>^ Honroso é para o homem o desviar-se de questões, mas todo o tolo se entremete nelas.
+
+[[v20-20-4]]
+
+^<<v20-20-4,4>>^ O preguiçoso não lavrará por causa do inverno, pelo que  mendigará na sega, e nada receberá.
+
+[[v20-20-5]]
+
+^<<v20-20-5,5>>^ Como águas profundas é  o conselho no coração do homem: mas o homem de inteligência o tirará para fora.
+
+[[v20-20-6]]
+
+^<<v20-20-6,6>>^ Cada qual entre os homens apregoa a sua bondade: mas o homem fiel, quem o achará?
+
+[[v20-20-7]]
+
+^<<v20-20-7,7>>^ O justo anda na sua sinceridade; bem-aventurados serão  os seus filhos depois dele.
+
+[[v20-20-8]]
+
+^<<v20-20-8,8>>^ Assentando-se o rei no trono do juízo, com os seus olhos dissipa todo o mal.
+
+[[v20-20-9]]
+
+^<<v20-20-9,9>>^ Quem poderá dizer: Purifiquei o meu coração, limpo estou de meu pecado!
+
+[[v20-20-10]]
+
+^<<v20-20-10,10>>^ Duas espécies de peso, e duas espécies de medida, são  abominação para o Senhor, tanto uma cousa  como outra.
+
+[[v20-20-11]]
+
+^<<v20-20-11,11>>^ Até a criança se dará a conhecer pelas suas ações, se a sua obra for pura e reta.
+
+[[v20-20-12]]
+
+^<<v20-20-12,12>>^ O ouvido que ouve, e o olho que vê, o Senhor os fez a ambos.
+
+[[v20-20-13]]
+
+^<<v20-20-13,13>>^ Não ames o sono, para que não empobreças; abre os teus olhos, e  te fartarás de pão.
+
+[[v20-20-14]]
+
+^<<v20-20-14,14>>^ Nada vale , nada vale , dirá o comprador, mas, indo-se, então se gabará.
+
+[[v20-20-15]]
+
+^<<v20-20-15,15>>^ Há ouro e abundância de rubins, mas os lábios do conhecimento são  joia preciosa.
+
+[[v20-20-16]]
+
+^<<v20-20-16,16>>^ Aquele que fica por fiador do estranho, tira a sua roupa, e  penhora-a por um estranho.
+
+[[v20-20-17]]
+
+^<<v20-20-17,17>>^ Suave é  ao homem o pão da mentira, mas depois a sua boca se encherá de pedrinhas de areia.
+
+[[v20-20-18]]
+
+^<<v20-20-18,18>>^ Cada pensamento com conselho se confirma; e com conselhos prudentes faz a guerra.
+
+[[v20-20-19]]
+
+^<<v20-20-19,19>>^ O que anda maldizendo descobre o segredo; pelo que com o que afaga com seus lábios não te entremetas.
+
+[[v20-20-20]]
+
+^<<v20-20-20,20>>^ O que a seu pai ou sua a mãe amaldiçoar, apagar-se-lhe-á a sua lâmpada e ficará  em trevas densas.
+
+[[v20-20-21]]
+
+^<<v20-20-21,21>>^ Entrando-se apressadamente de posse de uma herança no princípio, o seu fim não será bendito.
+
+[[v20-20-22]]
+
+^<<v20-20-22,22>>^ Não digas: Vingar-me-ei do mal: espera pelo Senhor, e ele  te livrará.
+
+[[v20-20-23]]
+
+^<<v20-20-23,23>>^ Duas espécies de peso são  abomináveis ao Senhor, e balanças enganosas não são  boas.
+
+[[v20-20-24]]
+
+^<<v20-20-24,24>>^ Os passos do homem são dirigidos pelo Senhor: o homem, pois, como entenderá o seu caminho?
+
+[[v20-20-25]]
+
+^<<v20-20-25,25>>^ Laço é  para o homem dizer precipitadamente: É  santo; e, feitos os votos, então  inquirir.
+
+[[v20-20-26]]
+
+^<<v20-20-26,26>>^ O rei sábio dissipa os ímpios e faz girar sobre eles a roda.
+
+[[v20-20-27]]
+
+^<<v20-20-27,27>>^ A alma do homem é  a lâmpada do Senhor, que esquadrinha todo o mais íntimo do ventre.
+
+[[v20-20-28]]
+
+^<<v20-20-28,28>>^ Benignidade e verdade guardam o rei, e com benignidade sustém ele  o seu trono.
+
+[[v20-20-29]]
+
+^<<v20-20-29,29>>^ O ornato dos mancebos é  a sua força; e a beleza dos velhos as cãs.
+
+[[v20-20-30]]
+
+^<<v20-20-30,30>>^ Os vergões das feridas são  a purificação dos maus, como também as pancadas que penetram até  o mais íntimo do ventre.
+
+'''
+
+xref:020-proverbios/020-proverbios-019.adoc#v20-19-0[&#60; Capítulo Anterior] | <<v20-20-0,Topo>> | xref:020-proverbios/020-proverbios-021.adoc#v20-21-0[Próximo Capítulo &#62;]

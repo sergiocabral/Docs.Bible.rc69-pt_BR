@@ -1,0 +1,45 @@
+include::./index.adoc[]
+
+[[v14-27-0]]
+=== 2 Crônicas, 27
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v14-27-1]]
+
+^<<v14-27-1,1>>^ TINHA Jotão vinte e cinco anos de idade, quando começou a reinar, e dezesseis anos reinou em Jerusalém; e era  o nome de sua mãe Jerusa, filha de Zadoque.
+
+[[v14-27-2]]
+
+^<<v14-27-2,2>>^ E fez o que era  reto aos olhos do Senhor, conforme a tudo o que fizera Uzias, seu pai, exceto que não entrou no templo do Senhor. E ainda o povo se corrompia.
+
+[[v14-27-3]]
+
+^<<v14-27-3,3>>^ Este edificou a porta alta da casa do Senhor, e também edificou muito sobre o muro de Ofel.
+
+[[v14-27-4]]
+
+^<<v14-27-4,4>>^ Também edificou cidades nas montanhas de Judá, e edificou nos bosques castelos e torres.
+
+[[v14-27-5]]
+
+^<<v14-27-5,5>>^ Ele também guerreou contra o rei dos filhos de Amom, e prevaleceu sobre eles, de modo que os filhos de Amom naquele ano lhe deram cem talentos de prata, e dez mil coros de trigo, e dez mil de cevada: isto lhe trouxeram os filhos de Amom também o segundo e o terceiro ano.
+
+[[v14-27-6]]
+
+^<<v14-27-6,6>>^ Assim se fortificou Jotão, porque dirigiu os seus caminhos na presença do Senhor seu Deus.
+
+[[v14-27-7]]
+
+^<<v14-27-7,7>>^ O resto pois dos sucessos de Jotão, e todas as suas guerras e os seus caminhos, eis que está  escrito no livro dos reis de Israel e de Judá.
+
+[[v14-27-8]]
+
+^<<v14-27-8,8>>^ Tinha vinte e cinco anos de idade, quando começou a reinar, e dezesseis anos reinou em Jerusalém.
+
+[[v14-27-9]]
+
+^<<v14-27-9,9>>^ E dormiu Jotão com seus pais, e o sepultaram na cidade de Davi; e Acaz, seu filho, reinou em seu lugar.
+
+'''
+
+xref:014-2-cronicas/014-2-cronicas-026.adoc#v14-26-0[&#60; Capítulo Anterior] | <<v14-27-0,Topo>> | xref:014-2-cronicas/014-2-cronicas-028.adoc#v14-28-0[Próximo Capítulo &#62;]

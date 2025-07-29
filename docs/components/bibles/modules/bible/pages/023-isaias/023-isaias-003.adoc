@@ -1,0 +1,113 @@
+include::./index.adoc[]
+
+[[v23-3-0]]
+=== Isaías, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-3-1]]
+
+^<<v23-3-1,1>>^ PORQUE eis que o Senhor Deus dos Exércitos tirará de Jerusalém e de Judá o bordão e o cajado, todo o sustento de pão, e toda a sede de água;
+
+[[v23-3-2]]
+
+^<<v23-3-2,2>>^ O valente, e o soldado, o juiz, e o profeta, e o adivinho, e o ancião;
+
+[[v23-3-3]]
+
+^<<v23-3-3,3>>^ O capitão de cinquenta, e o respeitável, e o conselheiro, e o sábio entre os artífices, e o eloquente;
+
+[[v23-3-4]]
+
+^<<v23-3-4,4>>^ E dar-lhes-ei mancebos por príncipes, e crianças governarão sobre eles.
+
+[[v23-3-5]]
+
+^<<v23-3-5,5>>^ E o povo será oprimido; um será contra o outro, e cada um contra o seu próximo: o menino se atreverá contra o ancião, e o vil contra o nobre.
+
+[[v23-3-6]]
+
+^<<v23-3-6,6>>^ Quando algum for ter com seu irmão à casa de seu pai, dizendo : Tu tens roupa, sê nosso príncipe, e toma sob a tua mão esta ruína;
+
+[[v23-3-7]]
+
+^<<v23-3-7,7>>^ Naquele dia levantará este a sua voz  dizendo: Não posso ser médico, nem tão pouco há  em minha casa pão, ou vestido algum: não me ponhais por príncipe do povo.
+
+[[v23-3-8]]
+
+^<<v23-3-8,8>>^ Porque Jerusalém tropeçou, e Judá caiu; porquanto a sua língua e as suas obras são  contra o Senhor, para irritarem os olhos da sua glória.
+
+[[v23-3-9]]
+
+^<<v23-3-9,9>>^ O parecer do seu rosto testifica contra eles: e publicam os seus pecados como Sodoma: não os dissimulam. Ai da sua alma! porque se fazem mal a si mesmos.
+
+[[v23-3-10]]
+
+^<<v23-3-10,10>>^ Dizei aos justos que bem lhes irá : porque comerão do fruto das suas obras.
+
+[[v23-3-11]]
+
+^<<v23-3-11,11>>^ Ai do ímpio! mal lhe irá : porque a recompensa das suas mãos se lhe dará.
+
+[[v23-3-12]]
+
+^<<v23-3-12,12>>^ Os opressores do meu povo são  crianças, e mulheres estão à testa do seu governo ah! povo meu! os que te guiam te enganam, e destroem o caminho das tuas veredas.
+
+[[v23-3-13]]
+
+^<<v23-3-13,13>>^ O Senhor se levanta para pleitear, e sai a julgar os povos.
+
+[[v23-3-14]]
+
+^<<v23-3-14,14>>^ O Senhor vem em juízo contra os anciãos do seu povo, e contra  os seus príncipes: é que fostes vós que consumistes esta  vinha; o espólio do pobre está em vossas casas.
+
+[[v23-3-15]]
+
+^<<v23-3-15,15>>^ Que tendes vós que afligir o meu povo e moer as faces do pobre? diz o Senhor, o Deus dos Exércitos.
+
+[[v23-3-16]]
+
+^<<v23-3-16,16>>^ Diz ainda mais o Senhor: Porquanto as filhas de Sião se exaltam, e andam de pescoço erguido, e têm olhares impudentes, e, quando andam, como que vão dançando, e cascavelando com os pés:
+
+[[v23-3-17]]
+
+^<<v23-3-17,17>>^ Portanto o Senhor fará tinhosa a cabeça das filhas de Sião, e o Senhor porá a descoberto a sua nudez.
+
+[[v23-3-18]]
+
+^<<v23-3-18,18>>^ Naquele dia tirará o Senhor o enfeite das ligas, e as redezinhas, e as luetas:
+
+[[v23-3-19]]
+
+^<<v23-3-19,19>>^ Os pendentes, e as manilhas, e os vestidos resplandecentes;
+
+[[v23-3-20]]
+
+^<<v23-3-20,20>>^ Os diademas, e os enfeites dos braços, e as cadeias, e as caixinhas de perfumes e as arrecadas:
+
+[[v23-3-21]]
+
+^<<v23-3-21,21>>^ Os anéis, e as joias pendentes do nariz:
+
+[[v23-3-22]]
+
+^<<v23-3-22,22>>^ Os vestidos de festa, e os mantos, e as coifas, e os alfinetes;
+
+[[v23-3-23]]
+
+^<<v23-3-23,23>>^ Os espelhos, e as capinhas de linho finíssimas, e as toucas, e os véus.
+
+[[v23-3-24]]
+
+^<<v23-3-24,24>>^ E será que em lugar de cheiro suave haverá fedor, e por cinto uma corda; e em lugar de encrespadura de cabelos, calvície, e em lugar de veste larga, cilício; e queimadura em lugar de formosura.
+
+[[v23-3-25]]
+
+^<<v23-3-25,25>>^ Teus varões cairão à espada, e teus valentes na peleja.
+
+[[v23-3-26]]
+
+^<<v23-3-26,26>>^ E as suas portas gemerão e se carpirão e ela se assentará no chão, desolada.
+
+'''
+
+xref:023-isaias/023-isaias-002.adoc#v23-2-0[&#60; Capítulo Anterior] | <<v23-3-0,Topo>> | xref:023-isaias/023-isaias-004.adoc#v23-4-0[Próximo Capítulo &#62;]

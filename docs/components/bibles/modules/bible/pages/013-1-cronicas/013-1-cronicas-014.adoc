@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v13-14-0]]
+=== 1 Crônicas, 14
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v13-14-1]]
+
+^<<v13-14-1,1>>^ ENTÃO Hirão, rei de Tiro, mandou mensageiros a Davi, e madeira de cedro, e pedreiros, e carpinteiros, para lhe edificar uma casa.
+
+[[v13-14-2]]
+
+^<<v13-14-2,2>>^ E entendeu Davi que o Senhor o tinha confirmado rei sobre Israel; porque o seu reino se tinha muito exaltado por amor do seu povo Israel.
+
+[[v13-14-3]]
+
+^<<v13-14-3,3>>^ E Davi tomou ainda mais mulheres em Jerusalém: e gerou Davi ainda mais filhos e filhas.
+
+[[v13-14-4]]
+
+^<<v13-14-4,4>>^ E estes são  os nomes dos filhos que tinha em Jerusalém: Sâmua, e Sobabe, Natã, e Salomão.
+
+[[v13-14-5]]
+
+^<<v13-14-5,5>>^ E Jibar, e Elisua, e Elpelete,
+
+[[v13-14-6]]
+
+^<<v13-14-6,6>>^ E Nogá, e Nefegue, e Jafia,
+
+[[v13-14-7]]
+
+^<<v13-14-7,7>>^ E Elisama, e Beeliada, e Elifelete.
+
+[[v13-14-8]]
+
+^<<v13-14-8,8>>^ Ouvindo pois os filisteus que Davi havia sido ungido rei sobre todo o Israel, todos os filisteus subiram em busca de Davi: o que ouvindo Davi, logo  saiu contra eles.
+
+[[v13-14-9]]
+
+^<<v13-14-9,9>>^ E vindo os filisteus, se estenderam pelo vale de Rafaim.
+
+[[v13-14-10]]
+
+^<<v13-14-10,10>>^ Então consultou Davi a Deus, dizendo: Subirei contra os filisteus, e nas minhas mãos os entregarás? E o Senhor lhe disse: Sobe, porque os entregarei nas tuas mãos.
+
+[[v13-14-11]]
+
+^<<v13-14-11,11>>^ E, subindo a Baal-Perazim, Davi ali os feriu; e disse Davi: Por minha mão Deus derrotou a meus inimigos, como a rotura das águas. Pelo que chamaram o nome daquele lugar, Baal-Perazim.
+
+[[v13-14-12]]
+
+^<<v13-14-12,12>>^ E deixaram ali seus deuses; e ordenou Davi que se queimassem a fogo.
+
+[[v13-14-13]]
+
+^<<v13-14-13,13>>^ Porém os filisteus tornaram, e se estenderam pelo vale.
+
+[[v13-14-14]]
+
+^<<v13-14-14,14>>^ E tornou Davi a consultar a Deus; e disse-lhe Deus: Não subirás atrás deles; mas anda em roda por detrás deles, e vem a eles por defronte das amoreiras;
+
+[[v13-14-15]]
+
+^<<v13-14-15,15>>^ E há de ser que, ouvindo tu um ruído de andadura pelas copas das amoreiras, então sai à peleja; porque Deus haverá saído diante de ti, a ferir o exército dos filisteus.
+
+[[v13-14-16]]
+
+^<<v13-14-16,16>>^ E fez Davi como Deus lhe ordenara: e feriram o exército dos filisteus desde Gibeom até Gazor.
+
+[[v13-14-17]]
+
+^<<v13-14-17,17>>^ Assim se espalhou o nome de Davi por todas aquelas terras: e o Senhor pôs o seu temor sobre todas aquelas gentes.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-013.adoc#v13-13-0[&#60; Capítulo Anterior] | <<v13-14-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-015.adoc#v13-15-0[Próximo Capítulo &#62;]

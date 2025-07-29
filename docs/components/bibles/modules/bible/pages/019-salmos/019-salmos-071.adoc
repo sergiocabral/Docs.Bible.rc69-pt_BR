@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-71-0]]
+=== Salmos, 71
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-71-1]]
+
+^<<v19-71-1,1>>^ EM ti, Senhor, confio; nunca seja eu confundido.
+
+[[v19-71-2]]
+
+^<<v19-71-2,2>>^ Livra-me na tua justiça, e faze que eu escape: inclina os teus ouvidos para mim, e salva-me.
+
+[[v19-71-3]]
+
+^<<v19-71-3,3>>^ Sê tu a minha habitação forte, à qual possa recorrer continuamente: deste um mandamento que me salva, pois tu és  a minha rocha e a minha fortaleza.
+
+[[v19-71-4]]
+
+^<<v19-71-4,4>>^ Livra-me, meu Deus, das mãos do ímpio, das mãos do homem injusto e cruel.
+
+[[v19-71-5]]
+
+^<<v19-71-5,5>>^ Pois tu és  a minha esperança, Senhor Deus; tu és  a minha confiança desde a minha mocidade.
+
+[[v19-71-6]]
+
+^<<v19-71-6,6>>^ Por ti tenho sido sustentado desde o ventre: tu és  aquele que me tiraste das entranhas de minha mãe: o meu louvor será  para ti constantemente.
+
+[[v19-71-7]]
+
+^<<v19-71-7,7>>^ Sou como um prodígio para muitos, mas tu és  o meu refúgio forte.
+
+[[v19-71-8]]
+
+^<<v19-71-8,8>>^ Encha-se a minha boca do teu louvor e da tua glória todo o dia.
+
+[[v19-71-9]]
+
+^<<v19-71-9,9>>^ Não me rejeites no tempo da velhice; não me desampares, quando se for acabando a minha força.
+
+[[v19-71-10]]
+
+^<<v19-71-10,10>>^ Porque os meus inimigos falam contra mim, e os que espiam a minha alma consultam juntos,
+
+[[v19-71-11]]
+
+^<<v19-71-11,11>>^ Dizendo: Deus o desamparou: persegui- o  prendei-o, pois não há  quem o livre.
+
+[[v19-71-12]]
+
+^<<v19-71-12,12>>^ Ó Deus, não te alongues de mim: meu Deus, apressa-te em ajudar-me.
+
+[[v19-71-13]]
+
+^<<v19-71-13,13>>^ Sejam confundidos e consumidos os que são adversários da minha alma; cubram-se de opróbrio e de confusão aqueles que procuram o meu mal.
+
+[[v19-71-14]]
+
+^<<v19-71-14,14>>^ Mas eu esperarei continuamente, e te louvarei cada vez mais.
+
+[[v19-71-15]]
+
+^<<v19-71-15,15>>^ A minha boca relatará as bênçãos  da tua justiça e da tua salvação todo o dia, posto que não conheça o seu número.
+
+[[v19-71-16]]
+
+^<<v19-71-16,16>>^ Sairei na força do Senhor Deus; farei menção da tua justiça, e só dela.
+
+[[v19-71-17]]
+
+^<<v19-71-17,17>>^ Ensinaste-me, ó Deus, desde a minha mocidade; e até aqui tenho anunciado as tuas maravilhas.
+
+[[v19-71-18]]
+
+^<<v19-71-18,18>>^ Agora também, quando estou velho e de cabelos brancos, não me desampares, ó Deus, até que tenha anunciado a tua força a esta  geração, e o teu poder a todos os vindouros.
+
+[[v19-71-19]]
+
+^<<v19-71-19,19>>^ Também a tua justiça, ó Deus, está  muito alta, pois fizeste grandes cousas: Ó Deus, quem é semelhante a ti?
+
+[[v19-71-20]]
+
+^<<v19-71-20,20>>^ Tu , que me tens feito ver muitos males e angústias, me darás ainda a vida, e me tirarás dos abismos da terra.
+
+[[v19-71-21]]
+
+^<<v19-71-21,21>>^ Aumentarás a minha grandeza, e de novo me consolarás.
+
+[[v19-71-22]]
+
+^<<v19-71-22,22>>^ Também eu te louvarei com o saltério bem como  à tua verdade, ó meu Deus; cantar-te-ei com a harpa, ó Santo de Israel.
+
+[[v19-71-23]]
+
+^<<v19-71-23,23>>^ Os meus lábios exultarão quando eu te cantar, assim como a minha alma que tu remiste.
+
+[[v19-71-24]]
+
+^<<v19-71-24,24>>^ A minha língua falará da tua justiça todo o dia: pois estão confundidos e envergonhados aqueles que procuram o meu mal.
+
+'''
+
+xref:019-salmos/019-salmos-070.adoc#v19-70-0[&#60; Capítulo Anterior] | <<v19-71-0,Topo>> | xref:019-salmos/019-salmos-072.adoc#v19-72-0[Próximo Capítulo &#62;]

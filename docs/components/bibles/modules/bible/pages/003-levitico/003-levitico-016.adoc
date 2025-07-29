@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v3-16-0]]
+=== Levítico, 16
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v3-16-1]]
+
+^<<v3-16-1,1>>^ E FALOU o Senhor a Moisés, depois que morreram os dois filhos de Aarão, quando se chegaram diante do Senhor e morreram.
+
+[[v3-16-2]]
+
+^<<v3-16-2,2>>^ Disse pois o Senhor a Moisés: Dize a Aarão, teu irmão, que não entre no santuário em todo o tempo, para dentro do véu, diante do propiciatório que está  sobre a arca, para que não morra; porque eu apareço na nuvem sobre o propiciatório.
+
+[[v3-16-3]]
+
+^<<v3-16-3,3>>^ Com isto Aarão entrará no santuário: com um novilho para expiação do pecado, e um carneiro para holocausto.
+
+[[v3-16-4]]
+
+^<<v3-16-4,4>>^ Vestirá ele a túnica santa de linho, e terá ceroulas de linho sobre a sua carne, e cingir-se-á com um cinto de linho, e se cobrirá com uma mitra de linho: estes são  vestidos santos: por isso banhará a sua carne na água, e os vestirá.
+
+[[v3-16-5]]
+
+^<<v3-16-5,5>>^ E da congregação dos filhos de Israel tomará dois bodes para expiação do pecado e um carneiro para holocausto.
+
+[[v3-16-6]]
+
+^<<v3-16-6,6>>^ Depois Aarão oferecerá o novilho da expiação, que será  para ele; e fará expiação por si e pela sua casa.
+
+[[v3-16-7]]
+
+^<<v3-16-7,7>>^ Também tomará ambos os bodes, e os porá perante o Senhor, à porta da tenda da congregação.
+
+[[v3-16-8]]
+
+^<<v3-16-8,8>>^ E Aarão lançará sortes sobre os dois bodes: uma sorte pelo Senhor, e a outra sorte pelo bode emissário.
+
+[[v3-16-9]]
+
+^<<v3-16-9,9>>^ Então Aarão fará chegar o bode, sobre o qual cair a sorte pelo Senhor, e o oferecerá para  expiação do pecado.
+
+[[v3-16-10]]
+
+^<<v3-16-10,10>>^ Mas o bode, sobre que cair a sorte para ser bode emissário, apresentar-se-á vivo perante o Senhor, para fazer expiação com ele, para enviá-lo ao deserto como bode emissário.
+
+[[v3-16-11]]
+
+^<<v3-16-11,11>>^ E Aarão fará chegar o novilho da expiação, que será  para ele, e fará expiação por si e pela sua casa; e degolará o novilho da expiação, que é  para ele.
+
+[[v3-16-12]]
+
+^<<v3-16-12,12>>^ Tomará também o incensário cheio de brasas de fogo do altar, de diante do Senhor, e os seus punhos cheios de incenso aromático  moído, e o meterá dentro do véu.
+
+[[v3-16-13]]
+
+^<<v3-16-13,13>>^ E porá o incenso sobre o fogo perante o Senhor, e a nuvem do incenso cobrirá o propiciatório, que está  sobre o testemunho, para que não morra.
+
+[[v3-16-14]]
+
+^<<v3-16-14,14>>^ E tomará do sangue do novilho, e com o seu dedo espargirá sobre a face do propiciatório, para a banda do oriente; e perante o propiciatório espargirá sete vezes do sangue com o seu dedo.
+
+[[v3-16-15]]
+
+^<<v3-16-15,15>>^ Depois degolará o bode da expiação, que será  para o povo, e trará o seu sangue para dentro do véu; e fará com o seu sangue como fez com o sangue do novilho, e o espargirá sobre o propiciatório, e perante a face do propiciatório.
+
+[[v3-16-16]]
+
+^<<v3-16-16,16>>^ Assim fará expiação pelo santuário por causa das imundícias dos filhos de Israel e das suas transgressões, segundo todos os seus pecados: e assim fará para a tenda da congregação que mora com eles no meio das suas imundícias.
+
+[[v3-16-17]]
+
+^<<v3-16-17,17>>^ E nenhum homem estará na tenda da congregação quando ele entrar a fazer propiciação no santuário, até que ele saia: assim fará expiação por si mesmo, e pela sua casa, e por toda a congregação de Israel.
+
+[[v3-16-18]]
+
+^<<v3-16-18,18>>^ Então sairá ao altar, que está perante o Senhor, e fará expiação por ele; e tomará do sangue do novilho, e do sangue do bode, e o porá sobre as pontas do altar ao redor.
+
+[[v3-16-19]]
+
+^<<v3-16-19,19>>^ E daquele sangue espargirá sobre ele com o seu dedo sete vezes, e o purificará das imundícias dos filhos de Israel, e o santificará.
+
+[[v3-16-20]]
+
+^<<v3-16-20,20>>^ Havendo pois acabado de expiar o santuário e a tenda da congregação, e o altar, então fará chegar o bode vivo.
+
+[[v3-16-21]]
+
+^<<v3-16-21,21>>^ E Aarão porá ambas as suas mãos sobre a cabeça do bode vivo, e sobre ele confessará todas as iniquidades dos filhos de Israel, e todas as suas transgressões, segundo todos os seus pecados: e os porá sobre a cabeça do bode, e enviá-lo-á ao deserto, pela mão dum homem designado para isso.
+
+[[v3-16-22]]
+
+^<<v3-16-22,22>>^ Assim aquele bode levará sobre si todas as iniquidades deles à terra solitária; e enviará o bode ao deserto.
+
+[[v3-16-23]]
+
+^<<v3-16-23,23>>^ Depois Aarão virá à tenda da congregação, e despirá os vestidos de linho, que havia vestido quando entrara no santuário, e ali os deixará.
+
+[[v3-16-24]]
+
+^<<v3-16-24,24>>^ E banhará a sua carne em água no lugar santo, e vestirá os seus vestidos: então sairá e preparará o seu holocausto, e o holocausto do povo, e fará expiação por si e pelo povo.
+
+[[v3-16-25]]
+
+^<<v3-16-25,25>>^ Também queimará a gordura da expiação do pecado sobre o altar.
+
+[[v3-16-26]]
+
+^<<v3-16-26,26>>^ E aquele que tiver levado o bode (que era bode emissário), lavará os seus vestidos, e banhará a sua carne em água; e depois entrará no arraial.
+
+[[v3-16-27]]
+
+^<<v3-16-27,27>>^ Mas o novilho da expiação, e o bode da expiação do pecado, cujo sangue foi trazido para fazer expiação no santuário será levado fora do arraial: porém as suas peles, a sua carne, e o seu esterco queimarão com fogo.
+
+[[v3-16-28]]
+
+^<<v3-16-28,28>>^ E aquele que os queimar lavará os seus vestidos, e banhará a sua carne em água; e depois entrará no arraial.
+
+[[v3-16-29]]
+
+^<<v3-16-29,29>>^ E isto  vos será por estatuto perpétuo: no sétimo mês, aos dez do mês, afligireis as vossas almas, e nenhuma obra fareis, nem  o natural nem o estrangeiro que peregrina entre vós.
+
+[[v3-16-30]]
+
+^<<v3-16-30,30>>^ Porque naquele dia se fará expiação por vós, para purificar-vos: e  sereis purificados de todos os vossos pecados perante o Senhor.
+
+[[v3-16-31]]
+
+^<<v3-16-31,31>>^ É um sábado de descanso para vós, e afligireis as vossas almas: isto é  estatuto perpétuo.
+
+[[v3-16-32]]
+
+^<<v3-16-32,32>>^ E o sacerdote, que for ungido, e que for sagrado, para administrar o sacerdócio no lugar de seu pai, fará a expiação, havendo vestido os vestidos de linho, os vestidos santos:
+
+[[v3-16-33]]
+
+^<<v3-16-33,33>>^ Assim expiará o santo santuário; também expiará a tenda da congregação e o altar; semelhantemente fará expiação pelos sacerdotes e por todo o povo da congregação.
+
+[[v3-16-34]]
+
+^<<v3-16-34,34>>^ E isto vos será por estatuto perpétuo, para fazer expiação pelos filhos de Israel de todos os seus pecados, uma vez no ano. E fez Aarão  como o Senhor ordenara a Moisés.
+
+'''
+
+xref:003-levitico/003-levitico-015.adoc#v3-15-0[&#60; Capítulo Anterior] | <<v3-16-0,Topo>> | xref:003-levitico/003-levitico-017.adoc#v3-17-0[Próximo Capítulo &#62;]

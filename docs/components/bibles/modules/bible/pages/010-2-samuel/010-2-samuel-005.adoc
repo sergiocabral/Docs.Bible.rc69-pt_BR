@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v10-5-0]]
+=== 2 Samuel, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v10-5-1]]
+
+^<<v10-5-1,1>>^ ENTÃO todas as tribos de Israel vieram a Davi, a Hebrom, e falaram, dizendo: Eis-nos aqui, teus ossos e tua carne somos.
+
+[[v10-5-2]]
+
+^<<v10-5-2,2>>^ E também dantes, sendo Saul ainda rei sobre nós, eras tu o que saías e entravas com Israel; e também o Senhor te disse: tu apascentarás o meu povo de Israel e tu serás chefe sobre Israel.
+
+[[v10-5-3]]
+
+^<<v10-5-3,3>>^ Assim pois todos os anciãos de Israel vieram ao rei, a Hebrom; e o rei Davi fez com eles aliança em Hebrom, perante o Senhor: e ungiram a Davi rei sobre Israel.
+
+[[v10-5-4]]
+
+^<<v10-5-4,4>>^ Da idade de trinta anos era  Davi quando começou a reinar: quarenta anos reinou.
+
+[[v10-5-5]]
+
+^<<v10-5-5,5>>^ Em Hebrom reinou sobre Judá sete anos e seis meses, e em Jerusalém reinou trinta e três anos sobre todo o Israel e Judá.
+
+[[v10-5-6]]
+
+^<<v10-5-6,6>>^ E partiu o rei com os seus homens a Jerusalém, contra os jebuseus que habitavam naquela terra e que falaram a Davi, dizendo: Não entrarás aqui, a menos que lances fora os cegos e os coxos; querendo dizer: Não entrará Davi aqui.
+
+[[v10-5-7]]
+
+^<<v10-5-7,7>>^ Porém Davi tomou a fortaleza de Sião: esta é a cidade de Davi.
+
+[[v10-5-8]]
+
+^<<v10-5-8,8>>^ Porque Davi disse naquele dia: Qualquer que ferir aos jebuseus, e chegar ao canal, e aos coxos e aos cegos, que a alma de Davi aborrece, será cabeça e capitão.  Por isso se diz: Nem cego nem coxo entrará nesta casa.
+
+[[v10-5-9]]
+
+^<<v10-5-9,9>>^ Assim habitou Davi na fortaleza, e lhe chamou a cidade de Davi: e Davi foi edificando em redor, desde Milo até dentro.
+
+[[v10-5-10]]
+
+^<<v10-5-10,10>>^ E Davi se ia cada vez mais  aumentando e crescendo, porque o Senhor Deus dos exércitos era  com ele.
+
+[[v10-5-11]]
+
+^<<v10-5-11,11>>^ E Hirão, rei de Tiro, enviou mensageiros a Davi, e madeira de cedro, e carpinteiros, e pedreiros, que edificaram a Davi uma casa.
+
+[[v10-5-12]]
+
+^<<v10-5-12,12>>^ E entendeu Davi que o Senhor o confirmava rei sobre Israel, e que exaltara o seu reino por amor do seu povo.
+
+[[v10-5-13]]
+
+^<<v10-5-13,13>>^ E tomou Davi mais concubinas e mulheres de Jerusalém depois que viera de Hebrom: e nasceram a Davi mais filhos e filhas.
+
+[[v10-5-14]]
+
+^<<v10-5-14,14>>^ E estes são  os nomes dos que lhe nasceram em Jerusalém: Sâmua, e Sobabe, e Natã, e Salomão.
+
+[[v10-5-15]]
+
+^<<v10-5-15,15>>^ E Ibar, e Elisua, e Nefegue, e Jafia,
+
+[[v10-5-16]]
+
+^<<v10-5-16,16>>^ E Elisama, e Eliada, e Elifelete.
+
+[[v10-5-17]]
+
+^<<v10-5-17,17>>^ Ouvindo pois os filisteus que haviam ungido a Davi rei sobre Israel, todos os filisteus subiram em busca de Davi: o que ouvindo Davi, desceu à fortaleza.
+
+[[v10-5-18]]
+
+^<<v10-5-18,18>>^ E os filisteus vieram, e se estenderam pelo vale de Refaim.
+
+[[v10-5-19]]
+
+^<<v10-5-19,19>>^ E Davi consultou ao Senhor, dizendo: Subirei contra os filisteus? entregar-mos-ás nas minhas mãos? E disse o Senhor a Davi: Sobe, porque certamente entregarei os filisteus nas tuas mãos.
+
+[[v10-5-20]]
+
+^<<v10-5-20,20>>^ Então veio Davi a Baal-Perazim; e feriu-os ali Davi, e disse: Rompeu o Senhor a meus inimigos diante de mim, como quem rompe águas. Por isso chamou o nome daquele lugar Baal-Perazim.
+
+[[v10-5-21]]
+
+^<<v10-5-21,21>>^ E deixaram ali os seus ídolos; e Davi e os seus homens os tomaram.
+
+[[v10-5-22]]
+
+^<<v10-5-22,22>>^ E os filisteus tornaram a subir, e se estenderam pelo vale de Refaim.
+
+[[v10-5-23]]
+
+^<<v10-5-23,23>>^ E Davi consultou ao Senhor, o qual disse: Não subirás: mas  rodeia por detrás deles, e virás a eles por defronte das amoreiras.
+
+[[v10-5-24]]
+
+^<<v10-5-24,24>>^ E há de ser que, ouvindo tu um estrondo de marcha pelas copas das amoreiras, então te apressarás: porque o Senhor saiu então diante de ti, a ferir o arraial dos filisteus.
+
+[[v10-5-25]]
+
+^<<v10-5-25,25>>^ E fez Davi assim como o Senhor lhe tinha ordenado: e feriu os filisteus desde Gibeá, até chegar a Gezer.
+
+'''
+
+xref:010-2-samuel/010-2-samuel-004.adoc#v10-4-0[&#60; Capítulo Anterior] | <<v10-5-0,Topo>> | xref:010-2-samuel/010-2-samuel-006.adoc#v10-6-0[Próximo Capítulo &#62;]

@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v17-3-0]]
+=== Ester, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v17-3-1]]
+
+^<<v17-3-1,1>>^ DEPOIS destas cousas o rei Assuero engrandeceu a Hamã, filho de Hamedata, agagita, e o exaltou; e pôs o seu lugar acima de todos os príncipes que estavam  com ele.
+
+[[v17-3-2]]
+
+^<<v17-3-2,2>>^ E todos os servos do rei, que estavam  à porta do rei, se inclinavam e se prostravam perante Hamã; porque assim tinha ordenado o rei acerca dele; porém Mardoqueu não se inclinava nem se prostrava.
+
+[[v17-3-3]]
+
+^<<v17-3-3,3>>^ Então os servos do rei, que estavam  à porta do rei, disseram a Mardoqueu: Por que traspassas o mandado do rei?
+
+[[v17-3-4]]
+
+^<<v17-3-4,4>>^ Sucedeu pois que, dizendo-lhe eles isto  de dia em dia, e não lhes dando ele ouvidos, o fizeram saber a Hamã, para verem se as palavras de Mardoqueu se sustentariam, porque ele lhes tinha declarado que era  judeu.
+
+[[v17-3-5]]
+
+^<<v17-3-5,5>>^ Vendo pois Hamã que Mardoqueu se não inclinava nem se prostrava diante dele, Hamã se encheu de furor.
+
+[[v17-3-6]]
+
+^<<v17-3-6,6>>^ Porém em seus olhos teve em pouco o pôr as mãos só em Mardoqueu (porque lhe haviam declarado o povo de Mardoqueu); Hamã pois procurou destruir a todos os judeus que havia  em todo o reino de Assuero, ao povo de Mardoqueu.
+
+[[v17-3-7]]
+
+^<<v17-3-7,7>>^ No primeiro mês (que é o mês de nisã), no ano duodécimo do rei Assuero, se lançou Pur, isto é, a sorte, perante Hamã, de dia em dia, e de mês em mês, até ao duodécimo mês , que é o mês de adar.
+
+[[v17-3-8]]
+
+^<<v17-3-8,8>>^ E Hamã disse ao rei Assuero: Existe espalhado e dividido entre os povos em todas as províncias do teu reino um povo, cujas leis são  diferentes das leis  de todos os povos, e que não cumpre as leis do rei; pelo que não convém ao rei deixá-lo ficar.
+
+[[v17-3-9]]
+
+^<<v17-3-9,9>>^ Se bem parecer ao rei, escreva-se que os matem; e eu porei nas mãos dos que fizerem a obra dez mil talentos de prata, para que entrem nos tesouros do rei.
+
+[[v17-3-10]]
+
+^<<v17-3-10,10>>^ Então tirou o rei o anel da sua mão, e o deu a Hamã, filho de Hamedata, agagita, adversário dos judeus.
+
+[[v17-3-11]]
+
+^<<v17-3-11,11>>^ E disse o rei a Hamã: Essa prata te é dada, como também esse povo, para fazeres dele o que bem parecer  aos teus olhos.
+
+[[v17-3-12]]
+
+^<<v17-3-12,12>>^ Então chamaram os escrivães do rei no primeiro mês, no dia treze do mesmo, e conforme a tudo quanto Hamã mandou se escreveu aos príncipes do rei, e aos governadores que havia  sobre cada província e aos principais de cada povo; a cada província segundo a sua escritura, e a cada povo segundo a sua língua; em nome do rei Assuero se escreveu, e com o anel do rei se selou.
+
+[[v17-3-13]]
+
+^<<v17-3-13,13>>^ E as cartas se enviaram pela mão dos correios a todas as províncias do rei, que destruíssem, matassem, e lançassem a perder a todos os judeus desde o moço até ao velho, crianças e mulheres, em um mesmo  dia, a treze do duodécimo mês (que é mês de adar), e que saqueassem o seu despojo.
+
+[[v17-3-14]]
+
+^<<v17-3-14,14>>^ Uma cópia do escrito para que se proclamasse a lei em cada província, foi enviada a todos os povos, para que estivessem preparados para aquele dia.
+
+[[v17-3-15]]
+
+^<<v17-3-15,15>>^ Os correios, pois, impelidos pela palavra do rei, saíram, e a lei se proclamou na fortaleza de Susã; e o rei e Hamã se assentaram a beber; porém a cidade de Susã estava confusa.
+
+'''
+
+xref:017-ester/017-ester-002.adoc#v17-2-0[&#60; Capítulo Anterior] | <<v17-3-0,Topo>> | xref:017-ester/017-ester-004.adoc#v17-4-0[Próximo Capítulo &#62;]

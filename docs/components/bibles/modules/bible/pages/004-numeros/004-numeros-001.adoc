@@ -1,0 +1,225 @@
+include::./index.adoc[]
+
+[[v4-1-0]]
+=== Números, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-1-1]]
+
+^<<v4-1-1,1>>^ FALOU mais o Senhor a Moisés, no deserto de Sinai, na tenda da congregação, no primeiro dia  do mês segundo, no segundo ano da sua saída da terra do Egito, dizendo:
+
+[[v4-1-2]]
+
+^<<v4-1-2,2>>^ Tomai a soma de toda a congregação dos filhos de Israel, segundo as suas gerações, segundo a casa de seus pais, conforme o número dos nomes de todo o varão, cabeça por cabeça;
+
+[[v4-1-3]]
+
+^<<v4-1-3,3>>^ Da idade de vinte anos e para cima, todos os que saem à guerra em Israel: a estes contareis segundo os seus exércitos, tu e Aarão.
+
+[[v4-1-4]]
+
+^<<v4-1-4,4>>^ Estará convosco de cada tribo um homem que seja cabeça da casa de seus pais.
+
+[[v4-1-5]]
+
+^<<v4-1-5,5>>^ Estes pois são  os nomes dos homens que estarão convosco: De Rúben, Elizur, filho de Sedeur;
+
+[[v4-1-6]]
+
+^<<v4-1-6,6>>^ De Simeão, Selumiel, filho de Surisadai;
+
+[[v4-1-7]]
+
+^<<v4-1-7,7>>^ De Judá, Naassom, filho de Aminadabe;
+
+[[v4-1-8]]
+
+^<<v4-1-8,8>>^ De Issacar, Natanael, filho de Suar;
+
+[[v4-1-9]]
+
+^<<v4-1-9,9>>^ De Zebulom, Eliabe, filho de Helom;
+
+[[v4-1-10]]
+
+^<<v4-1-10,10>>^ Dos filhos de José: De Efraim, Elisama, filho de Amiúde; de Manassés, Gamaliel, filho de Pedazur;
+
+[[v4-1-11]]
+
+^<<v4-1-11,11>>^ De Benjamim, Abidã, filho de Gideôni;
+
+[[v4-1-12]]
+
+^<<v4-1-12,12>>^ De Dã, Aiezer, filho de Amisadai;
+
+[[v4-1-13]]
+
+^<<v4-1-13,13>>^ De Aser, Pagiel, filho de Ocrã;
+
+[[v4-1-14]]
+
+^<<v4-1-14,14>>^ De Gade, Eliasafe, filho de Deuel;
+
+[[v4-1-15]]
+
+^<<v4-1-15,15>>^ De Naftali, Aíra, filho de Enã.
+
+[[v4-1-16]]
+
+^<<v4-1-16,16>>^ Estes foram  os chamados da congregação, os príncipes das tribos de seus pais, os cabeças dos milhares de Israel.
+
+[[v4-1-17]]
+
+^<<v4-1-17,17>>^ Então tomaram Moisés e Aarão a estes homens, que foram declarados pelos seus  nomes,
+
+[[v4-1-18]]
+
+^<<v4-1-18,18>>^ E ajuntaram toda a congregação no primeiro dia do mês segundo, e declararam a sua descendência segundo as suas famílias, segundo a casa de seus pais, pelo número dos nomes dos de vinte anos e para cima, cabeça por cabeça;
+
+[[v4-1-19]]
+
+^<<v4-1-19,19>>^ Como o Senhor ordenara a Moisés, assim os contou no deserto de Sinai.
+
+[[v4-1-20]]
+
+^<<v4-1-20,20>>^ Foram pois os filhos de Rúben, o primogênito de Israel, as suas gerações pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes, cabeça por cabeça, todo o varão de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-21]]
+
+^<<v4-1-21,21>>^ Foram  contados deles, da tribo de Rúben, quarenta e seis mil e quinhentos.
+
+[[v4-1-22]]
+
+^<<v4-1-22,22>>^ Dos filhos de Simeão, as suas gerações pelas suas famílias, segundo a casa dos seus pais; os seus contados, pelo número dos nomes, cabeça por cabeça, todo o varão de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-23]]
+
+^<<v4-1-23,23>>^ Foram  contados deles, da tribo de Simeão, cinquenta e nove mil e trezentos.
+
+[[v4-1-24]]
+
+^<<v4-1-24,24>>^ Dos filhos de Gade, as suas gerações pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-25]]
+
+^<<v4-1-25,25>>^ Foram  contados deles, da tribo de Gade, quarenta e cinco mil e seiscentos e cinquenta.
+
+[[v4-1-26]]
+
+^<<v4-1-26,26>>^ Dos filhos de Judá, as suas gerações pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-27]]
+
+^<<v4-1-27,27>>^ Foram  contados deles, da tribo de Judá, setenta e quatro mil e seiscentos.
+
+[[v4-1-28]]
+
+^<<v4-1-28,28>>^ Dos filhos de Issacar, as suas gerações pelas suas famílias segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-29]]
+
+^<<v4-1-29,29>>^ Foram  contados deles, da tribo de Issacar, cinquenta e quatro mil e quatrocentos.
+
+[[v4-1-30]]
+
+^<<v4-1-30,30>>^ Dos filhos de Zebulom, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-31]]
+
+^<<v4-1-31,31>>^ Foram  contados deles, da tribo de Zebulom, cinquenta e sete mil e quatrocentos.
+
+[[v4-1-32]]
+
+^<<v4-1-32,32>>^ Dos filhos de José, dos filhos de Efraim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-33]]
+
+^<<v4-1-33,33>>^ Foram  contados deles, da tribo de Efraim, quarenta mil e quinhentos.
+
+[[v4-1-34]]
+
+^<<v4-1-34,34>>^ Dos filhos de Manassés, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-35]]
+
+^<<v4-1-35,35>>^ Foram  contados deles, da tribo de Manassés, trinta e dois mil e duzentos.
+
+[[v4-1-36]]
+
+^<<v4-1-36,36>>^ Dos filhos de Benjamim, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-37]]
+
+^<<v4-1-37,37>>^ Foram  contados deles, da tribo de Benjamim, trinta e cinco mil e quatrocentos.
+
+[[v4-1-38]]
+
+^<<v4-1-38,38>>^ Dos filhos de Dã, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-39]]
+
+^<<v4-1-39,39>>^ Foram  contados deles, da tribo de Dã, sessenta e dois mil e setecentos.
+
+[[v4-1-40]]
+
+^<<v4-1-40,40>>^ Dos filhos de Aser, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-41]]
+
+^<<v4-1-41,41>>^ Foram  contados deles, da tribo de Aser, quarenta e um mil e quinhentos.
+
+[[v4-1-42]]
+
+^<<v4-1-42,42>>^ Dos filhos de Naftali, as suas gerações, pelas suas famílias, segundo a casa de seus pais, pelo número dos nomes dos  de vinte anos e para cima, todos os que podiam sair à guerra,
+
+[[v4-1-43]]
+
+^<<v4-1-43,43>>^ Foram  contados deles, da tribo de Naftali, cinquenta e três mil e quatrocentos.
+
+[[v4-1-44]]
+
+^<<v4-1-44,44>>^ Estes foram  os contados, que contou Moisés e Aarão, e os príncipes de Israel, doze homens; cada um era pela casa de seus pais.
+
+[[v4-1-45]]
+
+^<<v4-1-45,45>>^ Assim foram  todos os contados dos filhos de Israel, segundo a casa de seus pais, de vinte anos e para cima, todos os que podiam sair à guerra em Israel;
+
+[[v4-1-46]]
+
+^<<v4-1-46,46>>^ Todos os contados pois foram  seiscentos e três mil e quinhentos e cinquenta.
+
+[[v4-1-47]]
+
+^<<v4-1-47,47>>^ Mas os levitas, segundo a tribo de seus pais, não foram  contados entre eles,
+
+[[v4-1-48]]
+
+^<<v4-1-48,48>>^ Porquanto o Senhor tinha falado a Moisés, dizendo:
+
+[[v4-1-49]]
+
+^<<v4-1-49,49>>^ Somente não contarás a tribo de Levi, nem tomarás a soma deles entre os filhos de Israel:
+
+[[v4-1-50]]
+
+^<<v4-1-50,50>>^ Mas tu põe os levitas sobre o tabernáculo do testemunho, e sobre todos os seus vasos, e sobre tudo o que lhe pertence; eles levarão o tabernáculo e todos os seus vasos; e eles o administrarão, e assentarão o seu arraial ao redor do tabernáculo.
+
+[[v4-1-51]]
+
+^<<v4-1-51,51>>^ E, quando o tabernáculo partir, os levitas o desarmarão; e, quando o tabernáculo assentar no arraial, os levitas o armarão; e o estranho que se chegar morrerá.
+
+[[v4-1-52]]
+
+^<<v4-1-52,52>>^ E os filhos de Israel assentarão as suas tendas, cada um no seu esquadrão, e cada um junto à sua bandeira, segundo os seus exércitos.
+
+[[v4-1-53]]
+
+^<<v4-1-53,53>>^ Mas os levitas assentarão as suas tendas ao redor do tabernáculo do testemunho, para que não haja indignação sobre a congregação dos filhos de Israel; pelo que os levitas terão o cuidado da guarda do tabernáculo do testemunho.
+
+[[v4-1-54]]
+
+^<<v4-1-54,54>>^ Assim fizeram os filhos de Israel: conforme a tudo o que o Senhor ordenara a Moisés, assim o fizeram.
+
+'''
+
+xref:003-levitico/003-levitico-027.adoc#v3-27-0[&#60; Capítulo Anterior] | <<v4-1-0,Topo>> | xref:004-numeros/004-numeros-002.adoc#v4-2-0[Próximo Capítulo &#62;]

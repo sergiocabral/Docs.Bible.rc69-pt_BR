@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v30-7-0]]
+=== Amós, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v30-7-1]]
+
+^<<v30-7-1,1>>^ O SENHOR Jeová  assim me fez ver: e eis que formava gafanhotos no princípio do rebento da erva serôdia, e eis que era a erva serôdia depois da segada do rei.
+
+[[v30-7-2]]
+
+^<<v30-7-2,2>>^ E aconteceu que, como eles tivessem comido completamente a erva da terra, eu disse: Senhor Jeová  perdoa: como se levantará agora Jacó? pois ele é pequeno.
+
+[[v30-7-3]]
+
+^<<v30-7-3,3>>^ Então  o Senhor se arrependeu disso. Não acontecerá, disse o Senhor.
+
+[[v30-7-4]]
+
+^<<v30-7-4,4>>^ Assim me mostrou o Senhor Jeová : e eis que o Senhor Jeová  clamava, que queria contender por meio do fogo; e consumiu o grande abismo, e também queria consumir a terra.
+
+[[v30-7-5]]
+
+^<<v30-7-5,5>>^ Então  eu disse: Senhor Jeová , cessa agora; como se levantará Jacó? pois ele é pequeno.
+
+[[v30-7-6]]
+
+^<<v30-7-6,6>>^ E  o Senhor se arrependeu disso. Nem isto acontecerá, disse o Senhor Jeová .
+
+[[v30-7-7]]
+
+^<<v30-7-7,7>>^ Mostrou-me também  assim: e eis que o Senhor estava sobre um muro levantado a prumo: e tinha  um prumo na sua mão.
+
+[[v30-7-8]]
+
+^<<v30-7-8,8>>^ E o Senhor me disse: Que vês tu, Amós? E eu disse: Um prumo. Então disse o Senhor: Eis que eu porei o prumo no meio do meu povo Israel; nunca mais passarei por ele.
+
+[[v30-7-9]]
+
+^<<v30-7-9,9>>^ Mas os altos de Isaque serão assolados, e destruídos os santuários de Israel; e levantar-me-ei com a espada contra a casa de Jeroboão.
+
+[[v30-7-10]]
+
+^<<v30-7-10,10>>^ Então Amazias, o sacerdote de Betel, mandou dizer a Jeroboão, rei de Israel: Amós tem conspirado contra ti, no meio da casa de Israel; a terra não poderá sofrer todas as suas palavras.
+
+[[v30-7-11]]
+
+^<<v30-7-11,11>>^ Porque assim diz Amós: Jeroboão morrerá à espada, e Israel certamente será levado para fora da sua terra em cativeiro.
+
+[[v30-7-12]]
+
+^<<v30-7-12,12>>^ Depois Amazias disse a Amós: Vai-te, ó vidente, foge para a terra de Judá, e ali come o pão, e ali profetiza;
+
+[[v30-7-13]]
+
+^<<v30-7-13,13>>^ Mas em Betel daqui por diante não profetizarás mais, porque é o santuário do rei e a casa do reino.
+
+[[v30-7-14]]
+
+^<<v30-7-14,14>>^ E respondeu Amós, e disse a Amazias: Eu não era profeta, nem filho de profeta, mas boieiro, e cultivador de sicômoros.
+
+[[v30-7-15]]
+
+^<<v30-7-15,15>>^ Mas o Senhor me tirou de após o gado, e o Senhor me disse: Vai, e profetiza ao meu povo Israel.
+
+[[v30-7-16]]
+
+^<<v30-7-16,16>>^ Ora, pois, ouve a palavra do Senhor: Tu dizes: Não profetizarás contra Israel, nem falarás contra a casa de Isaque.
+
+[[v30-7-17]]
+
+^<<v30-7-17,17>>^ Portanto assim diz o Senhor: Tua mulher se prostituirá na cidade, e teus filhos e tuas filhas cairão à espada, e a tua terra será repartida a cordel, e tu morrerás na terra imunda, e Israel certamente será levado cativo para fora da sua terra.
+
+'''
+
+xref:030-amos/030-amos-006.adoc#v30-6-0[&#60; Capítulo Anterior] | <<v30-7-0,Topo>> | xref:030-amos/030-amos-008.adoc#v30-8-0[Próximo Capítulo &#62;]

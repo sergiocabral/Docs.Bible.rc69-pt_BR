@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v44-6-0]]
+=== Atos, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v44-6-1]]
+
+^<<v44-6-1,1>>^ ORA naqueles dias, crescendo o número dos discípulos, houve uma murmuração dos gregos contra os hebreus, porque as suas viúvas eram desprezadas no ministério quotidiano.
+
+[[v44-6-2]]
+
+^<<v44-6-2,2>>^ E os doze, convocando a multidão dos discípulos, disseram: Não é razoável que nós deixemos a palavra de Deus e sirvamos às mesas.
+
+[[v44-6-3]]
+
+^<<v44-6-3,3>>^ Escolhei pois, irmãos, dentre vós, sete varões de boa reputação, cheios do Espírito Santo e de sabedoria, aos quais constituamos sobre este importante negócio.
+
+[[v44-6-4]]
+
+^<<v44-6-4,4>>^ Mas nós perseveraremos na oração e no ministério da palavra.
+
+[[v44-6-5]]
+
+^<<v44-6-5,5>>^ E este parecer contentou a toda a multidão, e elegeram Estêvão, homem cheio de fé e do Espírito Santo, e Filipe, e Prócoro, e Nicanor, e Timão, e Parmenas e Nicolau, prosélito de Antioquia;
+
+[[v44-6-6]]
+
+^<<v44-6-6,6>>^ E os apresentaram ante os apóstolos, e estes, orando, lhes impuseram as mãos.
+
+[[v44-6-7]]
+
+^<<v44-6-7,7>>^ E crescia a palavra de Deus, e em Jerusalém se multiplicava muito o número dos discípulos, e grande parte dos sacerdotes obedecia à fé.
+
+[[v44-6-8]]
+
+^<<v44-6-8,8>>^ E Estêvão, cheio de fé e de poder, fazia prodígios e grandes sinais entre o povo.
+
+[[v44-6-9]]
+
+^<<v44-6-9,9>>^ E levantaram-se alguns que eram  da sinagoga chamada dos libertinos, e dos cireneus e dos alexandrinos, e dos que eram da Cilícia e da Ásia, e disputavam com Estêvão.
+
+[[v44-6-10]]
+
+^<<v44-6-10,10>>^ E não podiam resistir à sabedoria, e ao espírito com que falava.
+
+[[v44-6-11]]
+
+^<<v44-6-11,11>>^ Então subornaram uns homens, para que dissessem: Ouvimos-lhe proferir palavras blasfemas contra Moisés e contra  Deus.
+
+[[v44-6-12]]
+
+^<<v44-6-12,12>>^ E excitaram o povo, os anciãos e os escribas; e, investindo com ele, o arrebataram e o levaram ao conselho.
+
+[[v44-6-13]]
+
+^<<v44-6-13,13>>^ E apresentaram falsas testemunhas, que diziam: Este homem não cessa de proferir palavras blasfemas contra este santo lugar e a lei;
+
+[[v44-6-14]]
+
+^<<v44-6-14,14>>^ Porque nós lhe ouvimos dizer que esse Jesus Nazareno há de destruir este lugar e mudar os costumes que Moisés nos deu.
+
+[[v44-6-15]]
+
+^<<v44-6-15,15>>^ Então todos os que estavam assentados no conselho, fixando os olhos nele, viram o seu rosto como o rosto de um anjo.
+
+'''
+
+xref:044-atos/044-atos-005.adoc#v44-5-0[&#60; Capítulo Anterior] | <<v44-6-0,Topo>> | xref:044-atos/044-atos-007.adoc#v44-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v20-21-0]]
+=== Provérbios, 21
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-21-1]]
+
+^<<v20-21-1,1>>^ COMO ribeiros de águas, assim  é o coração do rei na mão do Senhor; a tudo quanto quer o inclina.
+
+[[v20-21-2]]
+
+^<<v20-21-2,2>>^ Todo o caminho do homem é  reto aos seus olhos, mas o Senhor sonda os corações.
+
+[[v20-21-3]]
+
+^<<v20-21-3,3>>^ Fazer justiça e julgar com retidão é mais aceitável ao Senhor do que oferecer- lhe sacrifício.
+
+[[v20-21-4]]
+
+^<<v20-21-4,4>>^ Olhar altivo, coração orgulhoso e até a lavoura dos ímpios é  pecado.
+
+[[v20-21-5]]
+
+^<<v20-21-5,5>>^ Os pensamentos do diligente tendem  à abundância, mas os de  todo o apressado tão somente à pobreza.
+
+[[v20-21-6]]
+
+^<<v20-21-6,6>>^ Trabalhar por ajuntar  tesouro com língua falsa é uma  vaidade, e aqueles que a isso são impelidos buscam a morte.
+
+[[v20-21-7]]
+
+^<<v20-21-7,7>>^ As rapinas dos ímpios virão a destruí-los, porquanto eles recusam praticar a justiça.
+
+[[v20-21-8]]
+
+^<<v20-21-8,8>>^ O caminho do homem perverso é inteiramente tortuoso, mas a obra do puro é  reta.
+
+[[v20-21-9]]
+
+^<<v20-21-9,9>>^ Melhor é  morar n um  canto de umas águas-furtadas, do q ue com  a mulher rixosa numa casa ampla.
+
+[[v20-21-10]]
+
+^<<v20-21-10,10>>^ A alma do ímpio deseja o mal: o seu próximo não agrada aos seus olhos.
+
+[[v20-21-11]]
+
+^<<v20-21-11,11>>^ Quando o escarnecedor é castigado, o simples torna-se sábio; e, quando o sábio é instruído, recebe o conhecimento.
+
+[[v20-21-12]]
+
+^<<v20-21-12,12>>^ Prudentemente considera o justo a casa do ímpio, quando  os ímpios são arrastados para o mal.
+
+[[v20-21-13]]
+
+^<<v20-21-13,13>>^ O que tapa o seu ouvido ao clamor do pobre também clamará e não será ouvido.
+
+[[v20-21-14]]
+
+^<<v20-21-14,14>>^ O presente que se dá  em segredo abate a ira, e a dádiva no seio uma forte indignação.
+
+[[v20-21-15]]
+
+^<<v20-21-15,15>>^ Praticar a justiça é  alegria para o justo, mas espanto para os que praticam a iniquidade.
+
+[[v20-21-16]]
+
+^<<v20-21-16,16>>^ O homem, que anda desviado do caminho do entendimento, na congregação dos mortos repousará.
+
+[[v20-21-17]]
+
+^<<v20-21-17,17>>^ Necessidade padecerá  o que ama os prazeres; o que ama o vinho e o azeite nunca enriquecerá.
+
+[[v20-21-18]]
+
+^<<v20-21-18,18>>^ O resgate do justo é o ímpio; o do reto o iníquo.
+
+[[v20-21-19]]
+
+^<<v20-21-19,19>>^ Melhor é  morar n uma terra deserta do que com  a mulher rixosa e iracunda.
+
+[[v20-21-20]]
+
+^<<v20-21-20,20>>^ Tesouro desejável e azeite há  na casa do sábio, mas o homem insensato o devora.
+
+[[v20-21-21]]
+
+^<<v20-21-21,21>>^ O que segue a justiça e a bondade achará a vida, a justiça e a honra.
+
+[[v20-21-22]]
+
+^<<v20-21-22,22>>^ À cidade dos fortes sobe o sábio, e derruba a força em que confiaram.
+
+[[v20-21-23]]
+
+^<<v20-21-23,23>>^ O que guarda a sua boca e a sua língua, guarda das angústias a sua alma.
+
+[[v20-21-24]]
+
+^<<v20-21-24,24>>^ Quanto ao soberbo e  presumido, zombador é  seu nome: trata com indignação e soberba.
+
+[[v20-21-25]]
+
+^<<v20-21-25,25>>^ O desejo do preguiçoso o mata, porque as suas mãos recusam-se a trabalhar.
+
+[[v20-21-26]]
+
+^<<v20-21-26,26>>^ Todo o dia avidamente cobiça, mas o justo dá, e nada retém.
+
+[[v20-21-27]]
+
+^<<v20-21-27,27>>^ O sacrifício dos ímpios é  abominação: quanto mais oferecendo-o com intenção maligna!
+
+[[v20-21-28]]
+
+^<<v20-21-28,28>>^ A testemunha mentirosa perecerá, mas o homem que ouve falará sem imputação.
+
+[[v20-21-29]]
+
+^<<v20-21-29,29>>^ O homem ímpio endurece o seu rosto, mas o reto considera o seu caminho.
+
+[[v20-21-30]]
+
+^<<v20-21-30,30>>^ Não há sabedoria, nem inteligência, nem conselho contra o Senhor.
+
+[[v20-21-31]]
+
+^<<v20-21-31,31>>^ O cavalo prepara-se para o dia da batalha, mas do Senhor vem  a vitória.
+
+'''
+
+xref:020-proverbios/020-proverbios-020.adoc#v20-20-0[&#60; Capítulo Anterior] | <<v20-21-0,Topo>> | xref:020-proverbios/020-proverbios-022.adoc#v20-22-0[Próximo Capítulo &#62;]

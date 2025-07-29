@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v23-51-0]]
+=== Isaías, 51
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-51-1]]
+
+^<<v23-51-1,1>>^ OUVI-ME vós, os que seguis a justiça, os que buscais ao Senhor: olhai para a rocha onde  fostes cortados, e para a caverna do poço donde  fostes cavados.
+
+[[v23-51-2]]
+
+^<<v23-51-2,2>>^ Olhai para Abraão, vosso pai, e para Sara, que  vos deu à luz; porque, sendo ele só, eu o chamei, e o abençoei e o multipliquei.
+
+[[v23-51-3]]
+
+^<<v23-51-3,3>>^ Porque o Senhor consolará a Sião; consolará a todos os seus lugares assolados, e fará o seu deserto como o Éden, e a sua solidão como o jardim do Senhor: gozo e alegria se achará nela, ação de graças, e voz de melodia.
+
+[[v23-51-4]]
+
+^<<v23-51-4,4>>^ Atendei-me, povo meu, e nação  minha, inclinai os ouvidos para mim; porque de mim sairá a lei, e o meu juízo se estabelecerá como luz dos povos.
+
+[[v23-51-5]]
+
+^<<v23-51-5,5>>^ Perto está  a minha justiça, vem saindo a minha salvação, e os meus braços julgarão os povos: as ilhas me aguardarão, e no meu braço esperarão.
+
+[[v23-51-6]]
+
+^<<v23-51-6,6>>^ Levantai os vossos olhos para os céus, e olhai para a terra de baixo, porque os céus desaparecerão como o fumo, e a terra se envelhecerá como um  vestido, e os seus moradores morrerão semelhantemente; mas a minha salvação durará para sempre, e a minha justiça não será quebrantada.
+
+[[v23-51-7]]
+
+^<<v23-51-7,7>>^ Ouvi-me, vós que conheceis a justiça, vós, povo, em cujo coração está  a minha lei: não temais o opróbrio dos homens, nem vos turbeis pelas suas injúrias.
+
+[[v23-51-8]]
+
+^<<v23-51-8,8>>^ Porque a traça os roerá como a um  vestido, e o bicho os comerá como à lã: mas a minha justiça durará para sempre, e a minha salvação de geração em geração.
+
+[[v23-51-9]]
+
+^<<v23-51-9,9>>^ Desperta, desperta, veste-te de força, ó braço do Senhor: desperta como nos dias passados, como  nas gerações antigas; não és tu aquele que cortou em pedaços a Raabe, e feriu o dragão?
+
+[[v23-51-10]]
+
+^<<v23-51-10,10>>^ Não és tu aquele que secou o mar, as águas do grande abismo? o que fez o caminho no fundo do mar, para que passassem os remidos?
+
+[[v23-51-11]]
+
+^<<v23-51-11,11>>^ Assim voltarão os resgatados do Senhor, e virão a Sião com júbilo, e perpétua alegria haverá  sobre as suas cabeças: gozo e alegria alcançarão, a tristeza e o gemido fugirão.
+
+[[v23-51-12]]
+
+^<<v23-51-12,12>>^ Eu, eu sou aquele que vos consola; quem pois és  tu, para que temas o homem, que é mortal, ou o filho do homem que  se tornará em feno?
+
+[[v23-51-13]]
+
+^<<v23-51-13,13>>^ E te esqueces do Senhor que te criou, que estendeu os céus, e fundou a terra, e temes continuamente todo o dia o furor do angustiador, quando se prepara para destruir? onde está  o furor do que te atribulava?
+
+[[v23-51-14]]
+
+^<<v23-51-14,14>>^ O exilado cativo depressa será solto, e não morrerá na caverna, e o seu pão lhe  não faltará.
+
+[[v23-51-15]]
+
+^<<v23-51-15,15>>^ Porque eu sou  o Senhor teu Deus, que fende o mar, e bramem as suas ondas. O Senhor dos Exércitos é  o seu nome.
+
+[[v23-51-16]]
+
+^<<v23-51-16,16>>^ E ponho as minhas palavras na tua boca, e te cubro com a sombra da minha mão; para plantar os céus, e para fundar a terra, e para dizer a Sião: Tu és  o meu povo.
+
+[[v23-51-17]]
+
+^<<v23-51-17,17>>^ Desperta, desperta, levanta-te, ó Jerusalém, que bebeste da mão do Senhor o cálice do seu furor, bebeste e sorveste as fezes do cálice da vacilação.
+
+[[v23-51-18]]
+
+^<<v23-51-18,18>>^ De todos os filhos que  teve nenhum há  que a guie mansamente; e de todos os filhos que  criou nenhum que a tome pela mão.
+
+[[v23-51-19]]
+
+^<<v23-51-19,19>>^ Estas duas cousas te aconteceram; quem terá compaixão de ti? a assolação, e o quebrantamento, e a fome, e a espada! como te consolarei?
+
+[[v23-51-20]]
+
+^<<v23-51-20,20>>^ já  os teus filhos desmaiaram, jazem nas entradas de todos os caminhos, como o antílope na rede; cheios estão do furor do Senhor e  da repreensão do teu Deus.
+
+[[v23-51-21]]
+
+^<<v23-51-21,21>>^ Pelo que agora ouve isto, ó opressa, e embriagada, mas não de vinho.
+
+[[v23-51-22]]
+
+^<<v23-51-22,22>>^ Assim diz o teu Senhor, Jeová , e teu Deus, que  pleiteará a causa do seu povo: Eis que eu tomo da tua mão o cálice da vacilação, as fezes do cálice do meu furor; nunca mais dele beberás.
+
+[[v23-51-23]]
+
+^<<v23-51-23,23>>^ Mas pô-lo-ei nas mãos dos que te entristeceram, que dizem à tua alma: Abaixa-te, para que passemos sobre ti : e tu puseste as tuas costas como chão, e como caminho, aos viandantes.
+
+'''
+
+xref:023-isaias/023-isaias-050.adoc#v23-50-0[&#60; Capítulo Anterior] | <<v23-51-0,Topo>> | xref:023-isaias/023-isaias-052.adoc#v23-52-0[Próximo Capítulo &#62;]

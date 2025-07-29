@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v17-6-0]]
+=== Ester, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v17-6-1]]
+
+^<<v17-6-1,1>>^ NAQUELA mesma noite fugiu o sono do rei; então mandou trazer o livro das memórias das crônicas e se leram diante do rei.
+
+[[v17-6-2]]
+
+^<<v17-6-2,2>>^ E achou-se escrito que Mardoqueu tinha dado notícia de Bigtã e de Teres, dois eunucos do rei, dos da guarda da porta, de que procuraram pôr as mãos no rei Assuero.
+
+[[v17-6-3]]
+
+^<<v17-6-3,3>>^ Então disse o rei: Que honra e galardão se deu por isto a Mardoqueu? E os mancebos do rei, seus servos, disseram: Cousa nenhuma se lhe fez.
+
+[[v17-6-4]]
+
+^<<v17-6-4,4>>^ Então disse o rei: Quem está  no pátio? E Hamã tinha entrado no pátio exterior do rei, para dizer ao rei que enforcassem a Mardoqueu na forca que lhe tinha preparado.
+
+[[v17-6-5]]
+
+^<<v17-6-5,5>>^ E os mancebos do rei lhe disseram: Eis que Hamã está no pátio. E disse o rei que entrasse.
+
+[[v17-6-6]]
+
+^<<v17-6-6,6>>^ E, entrando Hamã, o rei lhe disse: Que se fará ao homem de cuja honra o rei se agrada? Então Hamã disse no seu coração: De quem se agradará o rei para lhe  fazer honra mais do que a mim?
+
+[[v17-6-7]]
+
+^<<v17-6-7,7>>^ Pelo que disse Hamã ao rei: O homem de cuja honra o rei se agrada,
+
+[[v17-6-8]]
+
+^<<v17-6-8,8>>^ Traga o vestido real de que o rei se costuma vestir, monte também o cavalo em que o rei costuma andar montado, e ponha-se-lhe a coroa real na sua cabeça;
+
+[[v17-6-9]]
+
+^<<v17-6-9,9>>^ E entregue-se o vestido e o cavalo, à mão dum dos príncipes do rei, dos maiores senhores, e vistam dele aquele homem de cuja honra se agrada; e levem-no a cavalo pelas ruas da cidade, e apregoe-se diante dele: Assim se fará ao homem de cuja honra o rei se agrada!
+
+[[v17-6-10]]
+
+^<<v17-6-10,10>>^ Então disse o rei a Hamã: Apressa-te, toma o vestido e o cavalo, como disseste, e faze assim para com o judeu Mardoqueu, que está assentado à porta do rei; e cousa nenhuma deixes cair de tudo quanto disseste.
+
+[[v17-6-11]]
+
+^<<v17-6-11,11>>^ E Hamã tomou o vestido e o cavalo, e vestiu a Mardoqueu, e o levou a cavalo pelas ruas da cidade, e apregoou diante dele: Assim se fará ao homem de cuja honra o rei se agrada!
+
+[[v17-6-12]]
+
+^<<v17-6-12,12>>^ Depois disto Mardoqueu voltou para a porta do rei; porém Hamã se retirou correndo a sua casa, anojado, e coberta a cabeça.
+
+[[v17-6-13]]
+
+^<<v17-6-13,13>>^ E contou Hamã a Zeres, sua mulher, e a todos os seus amigos, tudo quanto lhe tinha sucedido. Então os seus sábios, e Zeres, sua mulher lhe disseram: Se Mardoqueu, diante de quem já  começaste a cair, é  da semente dos judeus, não prevalecerás contra ele, antes certamente cairás perante ele.
+
+[[v17-6-14]]
+
+^<<v17-6-14,14>>^ Estando eles ainda falando com ele, chegaram os eunucos do rei, e se apressaram a levar Hamã ao banquete que Ester preparara.
+
+'''
+
+xref:017-ester/017-ester-005.adoc#v17-5-0[&#60; Capítulo Anterior] | <<v17-6-0,Topo>> | xref:017-ester/017-ester-007.adoc#v17-7-0[Próximo Capítulo &#62;]

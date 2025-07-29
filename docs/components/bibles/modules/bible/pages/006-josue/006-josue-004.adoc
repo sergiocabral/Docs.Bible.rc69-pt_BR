@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v6-4-0]]
+=== Josué, 4
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-4-1]]
+
+^<<v6-4-1,1>>^ SUCEDEU pois que , acabando todo o povo de passar o Jordão, falou o Senhor a Josué, dizendo:
+
+[[v6-4-2]]
+
+^<<v6-4-2,2>>^ Tomai do povo doze homens, de cada tribo um homem;
+
+[[v6-4-3]]
+
+^<<v6-4-3,3>>^ E mandai-lhes, dizendo: Tomai daqui, do meio do Jordão, do lugar do assento dos pés dos sacerdotes, doze pedras; e levai-as convosco à outra banda  e depositai-as no alojamento em que haveis de passar esta noite.
+
+[[v6-4-4]]
+
+^<<v6-4-4,4>>^ Chamou pois Josué os doze homens, que escolhera dos filhos de Israel: de cada tribo um homem;
+
+[[v6-4-5]]
+
+^<<v6-4-5,5>>^ E disse-lhes Josué: Passai diante da arca do Senhor vosso Deus, ao meio do Jordão; e levante cada um uma pedra sobre o seu ombro, segundo o número das tribos dos filhos de Israel;
+
+[[v6-4-6]]
+
+^<<v6-4-6,6>>^ Para que isto seja por sinal entre vós; e  quando vossos filhos no futuro perguntarem, dizendo: Que vos significam  estas pedras?
+
+[[v6-4-7]]
+
+^<<v6-4-7,7>>^ Então lhes direis que as águas do Jordão se separaram diante da arca do concerto do Senhor; passando ela pelo Jordão, separaram-se as águas do Jordão: assim que  estas pedras serão para sempre por memorial aos filhos de Israel.
+
+[[v6-4-8]]
+
+^<<v6-4-8,8>>^ Fizeram pois os filhos de Israel assim como Josué tinha ordenado, e levantaram doze pedras do meio do Jordão como o Senhor dissera a Josué, segundo o número das tribos dos filhos de Israel: e levaram-nas consigo ao alojamento, e as depositaram ali.
+
+[[v6-4-9]]
+
+^<<v6-4-9,9>>^ Levantou Josué também doze pedras no meio do Jordão, no lugar do assento dos pés dos sacerdotes, que levavam a arca do concerto: e ali estão até ao dia de  hoje.
+
+[[v6-4-10]]
+
+^<<v6-4-10,10>>^ Pararam pois os sacerdotes, que levavam a arca, no meio do Jordão, em pé, até que se cumpriu quanto o Senhor a Josué mandara dizer ao povo, conforme a tudo quanto Moisés tinha ordenado a Josué; e apressou-se o povo, e passou.
+
+[[v6-4-11]]
+
+^<<v6-4-11,11>>^ E sucedeu que , assim que todo o povo acabou de passar, então passou a arca do Senhor, e os sacerdotes à vista do povo.
+
+[[v6-4-12]]
+
+^<<v6-4-12,12>>^ E passaram os filhos de Rúben, e os filhos de Gade, e a meia tribo de Manassés, armados na frente dos filhos de Israel, como Moisés lhes tinha dito;
+
+[[v6-4-13]]
+
+^<<v6-4-13,13>>^ Uns quarenta mil homens de guerra armados passaram diante do Senhor para batalha, às campinas de Jericó.
+
+[[v6-4-14]]
+
+^<<v6-4-14,14>>^ Naquele dia o Senhor engrandeceu a Josué diante dos olhos de todo o Israel: e temeram-no, como haviam temido a Moisés, todos os dias da sua vida.
+
+[[v6-4-15]]
+
+^<<v6-4-15,15>>^ Falou pois o Senhor a Josué, dizendo:
+
+[[v6-4-16]]
+
+^<<v6-4-16,16>>^ Dá ordem aos sacerdotes, que levam a arca do testemunho, que subam do Jordão.
+
+[[v6-4-17]]
+
+^<<v6-4-17,17>>^ E deu Josué ordem aos sacerdotes, dizendo: Subi do Jordão.
+
+[[v6-4-18]]
+
+^<<v6-4-18,18>>^ E aconteceu que , como os sacerdotes, que levavam a arca do concerto do Senhor, subiram do meio do Jordão, e as plantas dos pés dos sacerdotes se puseram em seco, as águas do Jordão se tornaram ao seu lugar, e corriam, como antes, sobre todas as suas ribanceiras.
+
+[[v6-4-19]]
+
+^<<v6-4-19,19>>^ Subiu pois o povo do Jordão no dia  dez do mês primeiro: e alojaram-se em Gilgal, da banda oriental de Jericó.
+
+[[v6-4-20]]
+
+^<<v6-4-20,20>>^ E as doze pedras, que tinham tomado do Jordão, levantou Josué em Gilgal.
+
+[[v6-4-21]]
+
+^<<v6-4-21,21>>^ E falou aos filhos de Israel, dizendo: Quando no futuro vossos filhos perguntarem a seus pais, dizendo: Que significam  estas pedras?
+
+[[v6-4-22]]
+
+^<<v6-4-22,22>>^ Fareis saber a vossos filhos, dizendo: Israel passou em seco este Jordão.
+
+[[v6-4-23]]
+
+^<<v6-4-23,23>>^ Porque o Senhor vosso Deus fez secar as águas do Jordão diante de vós, até que passásseis: como o Senhor vosso Deus fez ao Mar Vermelho, que fez secar perante nós, até que passamos.
+
+[[v6-4-24]]
+
+^<<v6-4-24,24>>^ Para que todos os povos da terra conheçam a mão do Senhor, que é  forte: para que temais ao Senhor vosso Deus todos os dias.
+
+'''
+
+xref:006-josue/006-josue-003.adoc#v6-3-0[&#60; Capítulo Anterior] | <<v6-4-0,Topo>> | xref:006-josue/006-josue-005.adoc#v6-5-0[Próximo Capítulo &#62;]

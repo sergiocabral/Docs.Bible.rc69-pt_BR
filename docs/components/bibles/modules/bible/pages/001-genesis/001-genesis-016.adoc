@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v1-16-0]]
+=== Gênesis, 16
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-16-1]]
+
+^<<v1-16-1,1>>^ ORA Sarai, mulher de Abrão, não lhe gerava filhos, e ele tinha uma serva egípcia, cujo nome era  Hagar.
+
+[[v1-16-2]]
+
+^<<v1-16-2,2>>^ E disse Sarai a Abrão: Eis que o Senhor  me tem impedido de gerar; entra pois à minha serva; porventura terei filhos dela. E ouviu Abrão a voz de Sarai.
+
+[[v1-16-3]]
+
+^<<v1-16-3,3>>^ Assim tomou Sarai, mulher de Abrão, a Hagar egípcia, sua serva, e deu-a por mulher a Abrão seu marido, ao fim de dez anos que Abrão habitara na terra de Canaã.
+
+[[v1-16-4]]
+
+^<<v1-16-4,4>>^ E ele entrou a Hagar, e ela concebeu; e vendo ela que concebera, foi sua senhora desprezada aos seus olhos.
+
+[[v1-16-5]]
+
+^<<v1-16-5,5>>^ Então disse Sarai a Abrão: Meu agravo seja  sobre ti; minha serva pus eu em teu regaço; vendo ela agora que concebeu, sou menosprezada aos seus olhos; o Senhor  julgue entre mim e ti.
+
+[[v1-16-6]]
+
+^<<v1-16-6,6>>^ E disse Abrão a Sarai: Eis que tua serva está  na tua mão, faze-lhe o que bom é  aos teus olhos. E afligiu-a Sarai, e ela fugiu de sua face.
+
+[[v1-16-7]]
+
+^<<v1-16-7,7>>^ E o anjo do Senhor  a achou junto a uma fonte de água no deserto, junto à fonte no caminho de Sur.
+
+[[v1-16-8]]
+
+^<<v1-16-8,8>>^ E disse: Hagar, serva de Sarai, donde vens, e para onde vais? E ela  disse: Venho fugida da face de Sarai minha senhora.
+
+[[v1-16-9]]
+
+^<<v1-16-9,9>>^ Então lhe disse o anjo do Senhor : Torna-te para tua senhora, e humilha-te debaixo de suas mãos.
+
+[[v1-16-10]]
+
+^<<v1-16-10,10>>^ Disse-lhe mais o anjo do Senhor : Multiplicarei sobremaneira a tua semente, que não será contada, por numerosa que  será.
+
+[[v1-16-11]]
+
+^<<v1-16-11,11>>^ Disse-lhe também o anjo do Senhor : Eis que concebeste, e terás um filho, e chamarás o seu nome Ismael; porquanto o Senhor  ouviu a tua aflição.
+
+[[v1-16-12]]
+
+^<<v1-16-12,12>>^ E ele será homem bravo, e a sua mão será  contra todos, e a mão de todos contra ele; e habitará diante da face de todos os seus irmãos.
+
+[[v1-16-13]]
+
+^<<v1-16-13,13>>^ E ela  chamou o nome do Senhor , que com ela falava: Tu és Deus da vista, porque disse: Não olhei eu também para aquele que me vê?
+
+[[v1-16-14]]
+
+^<<v1-16-14,14>>^ Por isso se chama aquele poço de Laai-Roi; eis que está  entre Cades e Berede.
+
+[[v1-16-15]]
+
+^<<v1-16-15,15>>^ E Hagar deu um filho a Abrão; e Abrão chamou o nome do seu filho, que tivera Hagar, Ismael.
+
+[[v1-16-16]]
+
+^<<v1-16-16,16>>^ E era  Abrão da idade de oitenta e seis anos, quando Hagar deu Ismael a Abrão.
+
+'''
+
+xref:001-genesis/001-genesis-015.adoc#v1-15-0[&#60; Capítulo Anterior] | <<v1-16-0,Topo>> | xref:001-genesis/001-genesis-017.adoc#v1-17-0[Próximo Capítulo &#62;]

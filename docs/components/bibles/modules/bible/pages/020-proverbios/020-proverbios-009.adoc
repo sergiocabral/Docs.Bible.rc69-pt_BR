@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v20-9-0]]
+=== Provérbios, 9
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-9-1]]
+
+^<<v20-9-1,1>>^ A SABEDORIA já edificou a sua casa, já lavrou as suas sete colunas.
+
+[[v20-9-2]]
+
+^<<v20-9-2,2>>^ Já sacrificou as suas vítimas, misturou o seu vinho: e já preparou a sua mesa.
+
+[[v20-9-3]]
+
+^<<v20-9-3,3>>^ Já deu ordens às suas criadas, já anda convidando desde as alturas da cidade, dizendo :
+
+[[v20-9-4]]
+
+^<<v20-9-4,4>>^ Quem é simples, volte-se para aqui. Aos faltos de entendimento diz:
+
+[[v20-9-5]]
+
+^<<v20-9-5,5>>^ Vinde, comei do meu pão, e bebei do vinho que  tenho misturado.
+
+[[v20-9-6]]
+
+^<<v20-9-6,6>>^ Deixai os insensatos, e vivei; e andai pelo caminho do entendimento.
+
+[[v20-9-7]]
+
+^<<v20-9-7,7>>^ O que repreende o escarnecedor, afronta toma para si; e o que censura o ímpio, recebe a sua mancha.
+
+[[v20-9-8]]
+
+^<<v20-9-8,8>>^ Não repreendas o escarnecedor, para que te não aborreça: repreende o sábio, e amar-te-á.
+
+[[v20-9-9]]
+
+^<<v20-9-9,9>>^ Dá instrução  ao sábio e, ele se fará mais sábio: ensina ao justo, e ele crescerá em entendimento.
+
+[[v20-9-10]]
+
+^<<v20-9-10,10>>^ O temor do Senhor é  o princípio da sabedoria, e a ciência do Santo a prudência.
+
+[[v20-9-11]]
+
+^<<v20-9-11,11>>^ Porque por mim se multiplicam os teus dias, e anos de vida se te acrescentarão.
+
+[[v20-9-12]]
+
+^<<v20-9-12,12>>^ Se fores sábio, para ti sábio serás; e, se fores escarnecedor, tu só o  suportarás.
+
+[[v20-9-13]]
+
+^<<v20-9-13,13>>^ A mulher louca é alvoroçadora; é  simples, e não sabe cousa alguma.
+
+[[v20-9-14]]
+
+^<<v20-9-14,14>>^ E assenta-se à porta da sua casa ou numa cadeira, nas alturas da cidade.
+
+[[v20-9-15]]
+
+^<<v20-9-15,15>>^ Para chamar os que passam e seguem direitos o seu caminho;
+
+[[v20-9-16]]
+
+^<<v20-9-16,16>>^ Quem é  simples, volte-se para aqui. E aos faltos de entendimento diz:
+
+[[v20-9-17]]
+
+^<<v20-9-17,17>>^ As águas roubadas são doces, e o pão comido a ocultas é suave.
+
+[[v20-9-18]]
+
+^<<v20-9-18,18>>^ Mas não sabe que ali estão  os mortos; que os seus convidados estão  nas profundezas do inferno.
+
+'''
+
+xref:020-proverbios/020-proverbios-008.adoc#v20-8-0[&#60; Capítulo Anterior] | <<v20-9-0,Topo>> | xref:020-proverbios/020-proverbios-010.adoc#v20-10-0[Próximo Capítulo &#62;]

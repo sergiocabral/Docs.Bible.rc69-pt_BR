@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v9-27-0]]
+=== 1 Samuel, 27
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-27-1]]
+
+^<<v9-27-1,1>>^ DISSE porém Davi no seu coração: Ora ainda  algum dia perecerei pela mão de Saul; não há cousa melhor para mim do que escapar apressadamente para a terra dos filisteus, para que Saul perca a esperança de mim, e cesse de me buscar por todos os termos de Israel; e assim  escaparei da sua mão.
+
+[[v9-27-2]]
+
+^<<v9-27-2,2>>^ Então Davi se levantou, e passou com os seiscentos homens que com ele estavam  a Áquis, filho de Maoque, rei de Gate.
+
+[[v9-27-3]]
+
+^<<v9-27-3,3>>^ E Davi ficou com Áquis em Gate, ele e os seus homens, cada um com a sua casa: Davi com ambas as suas mulheres, Aquinoã, a jezreelita, e Abigail, a mulher de Nabal, o carmelita.
+
+[[v9-27-4]]
+
+^<<v9-27-4,4>>^ E, sendo Saul avisado que Davi tinha fugido para Gate, não cuidou mais em o buscar.
+
+[[v9-27-5]]
+
+^<<v9-27-5,5>>^ E disse Davi a Áquis: Se eu tenho achado graça em teus olhos, dá-me lugar numa das cidades da terra, para que ali habite: pois por que razão habitaria o teu servo contigo na cidade real?
+
+[[v9-27-6]]
+
+^<<v9-27-6,6>>^ Então lhe deu Áquis naquele dia a cidade de  Siclague (pelo que Siclague pertence aos reis de Judá, até ao dia de hoje).
+
+[[v9-27-7]]
+
+^<<v9-27-7,7>>^ E foi o número dos dias, que Davi habitou na terra dos filisteus, um ano e quatro meses.
+
+[[v9-27-8]]
+
+^<<v9-27-8,8>>^ E subia Davi com os seus homens, e deram sobre os gesuritas e os gersitas, e os amalequitas: porque antigamente eram estes os moradores da terra desde como quem vai para Sur até à terra do Egito.
+
+[[v9-27-9]]
+
+^<<v9-27-9,9>>^ E Davi feria aquela terra, e não dava vida nem a homem nem a mulher, e tomava ovelhas, e vacas, e jumentos, e camelos, e vestidos; e voltava, e vinha a Áquis.
+
+[[v9-27-10]]
+
+^<<v9-27-10,10>>^ E dizendo Áquis: Sobre onde destes hoje? Davi dizia: Sobre o sul de Judá, e sobre o sul dos jerameleus, e sobre o sul dos queneus.
+
+[[v9-27-11]]
+
+^<<v9-27-11,11>>^ E Davi não dava vida nem a homem nem a mulher, para trazê-los a Gate, dizendo: Para que porventura  não nos denunciem, dizendo: Assim Davi o fazia. E este era  o seu costume por todos os dias que habitou na terra dos filisteus.
+
+[[v9-27-12]]
+
+^<<v9-27-12,12>>^ E Áquis confiava em Davi, dizendo: Fez-se ele por certo aborrecível para com o seu povo em Israel; pelo que me será por servo para sempre.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-026.adoc#v9-26-0[&#60; Capítulo Anterior] | <<v9-27-0,Topo>> | xref:009-1-samuel/009-1-samuel-028.adoc#v9-28-0[Próximo Capítulo &#62;]

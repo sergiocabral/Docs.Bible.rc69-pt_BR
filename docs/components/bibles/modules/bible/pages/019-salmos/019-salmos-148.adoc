@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v19-148-0]]
+=== Salmos, 148
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-148-1]]
+
+^<<v19-148-1,1>>^ LOUVAI ao Senhor. Louvai ao Senhor desde os céus, louvai-o nas alturas.
+
+[[v19-148-2]]
+
+^<<v19-148-2,2>>^ Louvai-o, todos os seus anjos; louvai-o, todos os seus exércitos.
+
+[[v19-148-3]]
+
+^<<v19-148-3,3>>^ Louvai-o, sol e lua; louvai-o, todas as estrelas luzentes.
+
+[[v19-148-4]]
+
+^<<v19-148-4,4>>^ Louvai-o, céus dos céus, e as águas que estão sobre os céus:
+
+[[v19-148-5]]
+
+^<<v19-148-5,5>>^ Louvem o nome do Senhor, pois mandou, e logo  foram criados.
+
+[[v19-148-6]]
+
+^<<v19-148-6,6>>^ E os confirmou para sempre, e lhes deu uma lei que não ultrapassarão.
+
+[[v19-148-7]]
+
+^<<v19-148-7,7>>^ Louvai ao Senhor desde a terra: vós, baleias, e todos os abismos,
+
+[[v19-148-8]]
+
+^<<v19-148-8,8>>^ Fogo e saraiva, neve e vapores, e vento tempestuoso que executa a sua palavra:
+
+[[v19-148-9]]
+
+^<<v19-148-9,9>>^ Montes e todos os outeiros, árvores frutíferas e todos os cedros:
+
+[[v19-148-10]]
+
+^<<v19-148-10,10>>^ As feras e todos os gados, répteis e aves voadoras:
+
+[[v19-148-11]]
+
+^<<v19-148-11,11>>^ Reis da terra e todos os povos, príncipes e todos os juízes da terra:
+
+[[v19-148-12]]
+
+^<<v19-148-12,12>>^ Mancebos e donzelas, velhos e crianças,
+
+[[v19-148-13]]
+
+^<<v19-148-13,13>>^ Louvem o nome do Senhor, pois só o seu nome é exaltado: a sua glória está sobre a terra e o céu.
+
+[[v19-148-14]]
+
+^<<v19-148-14,14>>^ Ele também exalta o poder do seu povo, o louvor de todos os seus santos, dos filhos de Israel, um povo que lhe é chegado. Louvai ao Senhor .
+
+'''
+
+xref:019-salmos/019-salmos-147.adoc#v19-147-0[&#60; Capítulo Anterior] | <<v19-148-0,Topo>> | xref:019-salmos/019-salmos-149.adoc#v19-149-0[Próximo Capítulo &#62;]

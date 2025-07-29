@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v19-107-0]]
+=== Salmos, 107
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-107-1]]
+
+^<<v19-107-1,1>>^ LOUVAI ao Senhor, porque ele é  bom, porque a sua benignidade é  para sempre.
+
+[[v19-107-2]]
+
+^<<v19-107-2,2>>^ Digam-n o  os remidos do Senhor, os que remiu da mão do inimigo,
+
+[[v19-107-3]]
+
+^<<v19-107-3,3>>^ E os que  congregou das terras do oriente e do ocidente, do norte e do sul.
+
+[[v19-107-4]]
+
+^<<v19-107-4,4>>^ Andaram desgarrados pelo deserto, por caminhos solitários; não acharam cidade que habitassem.
+
+[[v19-107-5]]
+
+^<<v19-107-5,5>>^ Famintos e sedentos, a sua alma neles desfalecia.
+
+[[v19-107-6]]
+
+^<<v19-107-6,6>>^ E clamaram ao Senhor na sua angústia, e  ele os livrou das suas necessidades.
+
+[[v19-107-7]]
+
+^<<v19-107-7,7>>^ E os levou por caminho direito, para irem à cidade que deviam habitar.
+
+[[v19-107-8]]
+
+^<<v19-107-8,8>>^ Louvem ao Senhor pela  sua bondade, e pelas  suas maravilhas para com os filhos dos homens.
+
+[[v19-107-9]]
+
+^<<v19-107-9,9>>^ Pois fartou a alma sedenta, e encheu de bens a alma faminta;
+
+[[v19-107-10]]
+
+^<<v19-107-10,10>>^ Tal como a que se assenta nas trevas e sombra da morte, presa em aflição e em ferro.
+
+[[v19-107-11]]
+
+^<<v19-107-11,11>>^ Por isso que se rebelaram contra as palavras de Deus, e desprezaram o conselho do Altíssimo,
+
+[[v19-107-12]]
+
+^<<v19-107-12,12>>^ Eis que lhes abateu o coração com trabalho; tropeçaram, e não houve  quem os  ajudasse.
+
+[[v19-107-13]]
+
+^<<v19-107-13,13>>^ Então clamaram ao Senhor na sua angústia, e  ele os livrou das suas necessidades.
+
+[[v19-107-14]]
+
+^<<v19-107-14,14>>^ Tirou-os das trevas e sombra da morte; e quebrou as suas prisões.
+
+[[v19-107-15]]
+
+^<<v19-107-15,15>>^ Louvem ao Senhor pela sua bondade, e pelas  suas maravilhas para com os filhos dos homens.
+
+[[v19-107-16]]
+
+^<<v19-107-16,16>>^ Pois quebrou as portas de bronze e despedaçou os ferrolhos de ferro.
+
+[[v19-107-17]]
+
+^<<v19-107-17,17>>^ Os loucos, por causa do seu caminho de transgressão, e por causa das suas iniquidades, são afligidos.
+
+[[v19-107-18]]
+
+^<<v19-107-18,18>>^ A sua alma aborreceu toda a comida, e chegaram até às portas da morte.
+
+[[v19-107-19]]
+
+^<<v19-107-19,19>>^ Então clamaram ao Senhor na sua angústia; e  ele os livrou das suas necessidades.
+
+[[v19-107-20]]
+
+^<<v19-107-20,20>>^ Enviou a sua palavra, e os sarou; e os livrou da sua destruição.
+
+[[v19-107-21]]
+
+^<<v19-107-21,21>>^ Louvem ao Senhor pela  sua bondade, e pelas  suas maravilhas para com os filhos dos homens.
+
+[[v19-107-22]]
+
+^<<v19-107-22,22>>^ E ofereçam sacrifícios de louvor, e relatem as suas obras com regozijo.
+
+[[v19-107-23]]
+
+^<<v19-107-23,23>>^ Os que descem ao mar em navios, mercando nas grandes águas,
+
+[[v19-107-24]]
+
+^<<v19-107-24,24>>^ Esses veem as obras do Senhor, e as suas maravilhas no profundo.
+
+[[v19-107-25]]
+
+^<<v19-107-25,25>>^ Pois ele manda, e se levanta o vento tempestuoso, que eleva as suas ondas.
+
+[[v19-107-26]]
+
+^<<v19-107-26,26>>^ Sobem aos céus, descem aos abismos, e  a sua alma se derrete em angústias.
+
+[[v19-107-27]]
+
+^<<v19-107-27,27>>^ Andam e cambaleiam como ébrios, e esvai-se-lhes toda a sua sabedoria.
+
+[[v19-107-28]]
+
+^<<v19-107-28,28>>^ Então clamam ao Senhor na sua tribulação; e ele os livra das suas angústias.
+
+[[v19-107-29]]
+
+^<<v19-107-29,29>>^ Faz cessar a tormenta, e acalmam-se as ondas.
+
+[[v19-107-30]]
+
+^<<v19-107-30,30>>^ Então se alegram, com a bonança; e ele assim os leva ao porto desejado.
+
+[[v19-107-31]]
+
+^<<v19-107-31,31>>^ Louvem ao Senhor pela  sua bondade, e pelas  suas maravilhas para com os filhos dos homens.
+
+[[v19-107-32]]
+
+^<<v19-107-32,32>>^ Exaltem-no na congregação do povo, e glorifiquem-no na assembleia dos anciãos.
+
+[[v19-107-33]]
+
+^<<v19-107-33,33>>^ Ele converte rios em desertos, nascentes em terra  sedenta:
+
+[[v19-107-34]]
+
+^<<v19-107-34,34>>^ A terra frutífera em terreno salgado, pela maldade dos que nela habitam.
+
+[[v19-107-35]]
+
+^<<v19-107-35,35>>^ Converte o deserto em lagos, e a terra seca em nascentes.
+
+[[v19-107-36]]
+
+^<<v19-107-36,36>>^ E faz habitar ali os famintos, que edificam cidade para sua residência;
+
+[[v19-107-37]]
+
+^<<v19-107-37,37>>^ E semeiam campos e plantam vinhas, que produzem fruto abundante.
+
+[[v19-107-38]]
+
+^<<v19-107-38,38>>^ E ele abençoa-os, de modo que se multiplicam muito; e o seu gado não diminui.
+
+[[v19-107-39]]
+
+^<<v19-107-39,39>>^ Mas outra vez decrescem e são abatidos, pela opressão, aflição e tristeza.
+
+[[v19-107-40]]
+
+^<<v19-107-40,40>>^ Derrama o desprezo sobre os príncipes, e os faz andar desgarrados pelo deserto, onde  não há caminho.
+
+[[v19-107-41]]
+
+^<<v19-107-41,41>>^ Mas ele levanta da opressão o necessitado, para um alto retiro, e multiplica as famílias como rebanhos.
+
+[[v19-107-42]]
+
+^<<v19-107-42,42>>^ Os retos veem isto e alegram-se, mas todos os iníquos fecham a boca.
+
+[[v19-107-43]]
+
+^<<v19-107-43,43>>^ Quem é sábio observe estas cousas , e considere atentamente as benignidades do Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-106.adoc#v19-106-0[&#60; Capítulo Anterior] | <<v19-107-0,Topo>> | xref:019-salmos/019-salmos-108.adoc#v19-108-0[Próximo Capítulo &#62;]

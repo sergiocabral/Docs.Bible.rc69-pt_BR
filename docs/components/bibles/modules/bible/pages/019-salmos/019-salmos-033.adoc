@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v19-33-0]]
+=== Salmos, 33
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-33-1]]
+
+^<<v19-33-1,1>>^ REGOZIJAI-VOS no Senhor, vós, justos, pois  aos retos convém o louvor.
+
+[[v19-33-2]]
+
+^<<v19-33-2,2>>^ Louvai ao Senhor com harpa, cantai a ele com saltério de dez cordas.
+
+[[v19-33-3]]
+
+^<<v19-33-3,3>>^ Cantai-lhe um cântico novo: tocai bem e com júbilo.
+
+[[v19-33-4]]
+
+^<<v19-33-4,4>>^ Porque a palavra do Senhor é  reta, e todas as suas obras são  fiéis.
+
+[[v19-33-5]]
+
+^<<v19-33-5,5>>^ Ele ama a justiça e o juízo; a terra está cheia da bondade do Senhor.
+
+[[v19-33-6]]
+
+^<<v19-33-6,6>>^ Pela palavra do Senhor foram feitos os céus, e todo o exército deles pelo espírito da sua boca.
+
+[[v19-33-7]]
+
+^<<v19-33-7,7>>^ Ele ajunta as águas do mar como num montão; põe os abismos em tesouros.
+
+[[v19-33-8]]
+
+^<<v19-33-8,8>>^ Tema toda a terra ao Senhor; temam-no todos os moradores do mundo.
+
+[[v19-33-9]]
+
+^<<v19-33-9,9>>^ Porque falou, e tudo se fez; mandou, e logo tudo apareceu.
+
+[[v19-33-10]]
+
+^<<v19-33-10,10>>^ O Senhor desfaz o conselho das nações, quebranta os intentos dos povos.
+
+[[v19-33-11]]
+
+^<<v19-33-11,11>>^ O conselho do Senhor permanece para sempre: os intentos de seu coração de geração em geração.
+
+[[v19-33-12]]
+
+^<<v19-33-12,12>>^ Bem-aventurada é  a nação cujo Deus é  o Senhor, e  o povo que ele escolheu para a sua herança.
+
+[[v19-33-13]]
+
+^<<v19-33-13,13>>^ O Senhor olha desde os céus e está vendo a todos os filhos dos homens;
+
+[[v19-33-14]]
+
+^<<v19-33-14,14>>^ Da sua morada contempla todos os moradores da terra.
+
+[[v19-33-15]]
+
+^<<v19-33-15,15>>^ Ele é que forma o coração de todos eles, que contempla todas as suas obras.
+
+[[v19-33-16]]
+
+^<<v19-33-16,16>>^ Não há rei que se salve com a grandeza dum exército, nem o homem valente que se livra pela muita força.
+
+[[v19-33-17]]
+
+^<<v19-33-17,17>>^ O cavalo é vão para a segurança : não livra ninguém  com a sua grande força.
+
+[[v19-33-18]]
+
+^<<v19-33-18,18>>^ Eis que os olhos do Senhor estão  sobre os que o temem, sobre os que esperam na sua misericórdia.
+
+[[v19-33-19]]
+
+^<<v19-33-19,19>>^ Para livrar as suas almas da morte, e para os conservar vivos na fome.
+
+[[v19-33-20]]
+
+^<<v19-33-20,20>>^ A nossa alma espera no Senhor: ele é  o nosso auxílio e o nosso escudo.
+
+[[v19-33-21]]
+
+^<<v19-33-21,21>>^ Pois nele se alegra o nosso coração, porquanto temos confiado no seu santo nome.
+
+[[v19-33-22]]
+
+^<<v19-33-22,22>>^ Seja a tua misericórdia, Senhor, sobre nós, como em ti esperamos.
+
+'''
+
+xref:019-salmos/019-salmos-032.adoc#v19-32-0[&#60; Capítulo Anterior] | <<v19-33-0,Topo>> | xref:019-salmos/019-salmos-034.adoc#v19-34-0[Próximo Capítulo &#62;]

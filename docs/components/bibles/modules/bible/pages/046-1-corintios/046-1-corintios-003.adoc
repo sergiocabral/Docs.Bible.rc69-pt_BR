@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v46-3-0]]
+=== 1 Coríntios, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v46-3-1]]
+
+^<<v46-3-1,1>>^ E EU, irmãos, não vos pude falar como a espirituais, mas como a carnais, como a meninos em Cristo.
+
+[[v46-3-2]]
+
+^<<v46-3-2,2>>^ Com leite vos criei, e não com manjar, porque ainda  não podíeis, nem tão pouco ainda agora podeis;
+
+[[v46-3-3]]
+
+^<<v46-3-3,3>>^ Porque ainda sois carnais: pois, havendo  entre vós inveja, contendas e dissensões, não sois porventura carnais, e não andais segundo os homens?
+
+[[v46-3-4]]
+
+^<<v46-3-4,4>>^ Porque, dizendo um: Eu sou de Paulo; e outro: Eu de Apolos: porventura não sois carnais?
+
+[[v46-3-5]]
+
+^<<v46-3-5,5>>^ Pois quem é Paulo, e quem é Apolos, senão ministros pelos quais crestes, e conforme o que o Senhor deu a cada um?
+
+[[v46-3-6]]
+
+^<<v46-3-6,6>>^ Eu plantei; Apolos regou; mas Deus deu o crescimento.
+
+[[v46-3-7]]
+
+^<<v46-3-7,7>>^ Pelo que, nem o que planta é alguma coisa, nem o que rega, mas Deus, que dá o crescimento.
+
+[[v46-3-8]]
+
+^<<v46-3-8,8>>^ Ora o que planta e o que rega são um; mas cada um receberá o seu galardão segundo o seu trabalho.
+
+[[v46-3-9]]
+
+^<<v46-3-9,9>>^ Porque nós somos cooperadores de Deus: vós sois lavoura de Deus e  edifício de Deus.
+
+[[v46-3-10]]
+
+^<<v46-3-10,10>>^ Segundo a graça de Deus que me foi dada, pus eu, como sábio arquiteto, o fundamento, e outro edifica sobre ele; mas veja cada um como edifica sobre ele.
+
+[[v46-3-11]]
+
+^<<v46-3-11,11>>^ Porque ninguém pode pôr outro fundamento, além do que já  está posto, o qual é Jesus Cristo.
+
+[[v46-3-12]]
+
+^<<v46-3-12,12>>^ E, se alguém sobre este fundamento formar um edifício de ouro, prata, pedras preciosas, madeira, feno, palha,
+
+[[v46-3-13]]
+
+^<<v46-3-13,13>>^ A obra de cada um se manifestará: na verdade o dia a declarará, porque pelo fogo será descoberta; e o fogo provará qual seja a obra de cada um.
+
+[[v46-3-14]]
+
+^<<v46-3-14,14>>^ Se a obra que alguém edificou nessa parte permanecer, esse receberá galardão.
+
+[[v46-3-15]]
+
+^<<v46-3-15,15>>^ Se a obra de alguém se queimar, sofrerá detrimento; mas o tal será salvo, todavia como pelo fogo.
+
+[[v46-3-16]]
+
+^<<v46-3-16,16>>^ Não sabeis vós que sois o templo de Deus, e que  o Espírito de Deus habita em vós?
+
+[[v46-3-17]]
+
+^<<v46-3-17,17>>^ Se alguém destruir o templo de Deus, Deus o destruirá; porque o templo de Deus, que sois vós, é santo.
+
+[[v46-3-18]]
+
+^<<v46-3-18,18>>^ Ninguém se engane a si mesmo: se alguém dentre vós se tem por sábio neste mundo, faça-se louco para ser sábio.
+
+[[v46-3-19]]
+
+^<<v46-3-19,19>>^ Porque a sabedoria deste mundo é loucura diante de Deus; pois está escrito: Ele apanha os sábios na sua própria astúcia.
+
+[[v46-3-20]]
+
+^<<v46-3-20,20>>^ E outra vez: O Senhor conhece os pensamentos dos sábios, que são vãos.
+
+[[v46-3-21]]
+
+^<<v46-3-21,21>>^ Portanto ninguém se glorie nos homens; porque tudo é vosso;
+
+[[v46-3-22]]
+
+^<<v46-3-22,22>>^ Seja Paulo, seja Apolos, seja Cefas, seja o mundo, seja a vida, seja a morte, seja o presente, seja o futuro, tudo é vosso,
+
+[[v46-3-23]]
+
+^<<v46-3-23,23>>^ E vós de Cristo, e Cristo de Deus.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-002.adoc#v46-2-0[&#60; Capítulo Anterior] | <<v46-3-0,Topo>> | xref:046-1-corintios/046-1-corintios-004.adoc#v46-4-0[Próximo Capítulo &#62;]

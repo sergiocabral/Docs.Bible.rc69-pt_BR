@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v18-12-0]]
+=== Jó, 12
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v18-12-1]]
+
+^<<v18-12-1,1>>^ ENTÃO Jó respondeu, e disse:
+
+[[v18-12-2]]
+
+^<<v18-12-2,2>>^ Na verdade, que só vós sois o  povo, e convosco morrerá a sabedoria.
+
+[[v18-12-3]]
+
+^<<v18-12-3,3>>^ Também eu tenho um coração como vós, e  não vos sou inferior; e quem não sabe tais cousas como estas?
+
+[[v18-12-4]]
+
+^<<v18-12-4,4>>^ Eu sou irrisão para os meus amigos; eu, que invoco a Deus, e ele me responde; o justo e o reto servem de irrisão.
+
+[[v18-12-5]]
+
+^<<v18-12-5,5>>^ Tocha desprezível é , na opinião do que está  descansado, aquele que está  pronto a tropeçar com os pés.
+
+[[v18-12-6]]
+
+^<<v18-12-6,6>>^ As tendas dos assoladores têm descanso, e os que provocam a Deus estão seguros; nas suas mãos Deus lhes põe tudo.
+
+[[v18-12-7]]
+
+^<<v18-12-7,7>>^ Mas, pergunta agora às alimárias, e cada uma delas to ensinará; e às aves dos céus, e elas to farão saber;
+
+[[v18-12-8]]
+
+^<<v18-12-8,8>>^ Ou fala com a terra, e ela to ensinará até os peixes do mar to contarão.
+
+[[v18-12-9]]
+
+^<<v18-12-9,9>>^ Quem não entende por todas estas cousas que a mão do Senhor fez isto,
+
+[[v18-12-10]]
+
+^<<v18-12-10,10>>^ Que está  na sua mão a alma de tudo quanto vive, e o espírito de toda carne humana?
+
+[[v18-12-11]]
+
+^<<v18-12-11,11>>^ Porventura  o ouvido não provará as palavras, como o paladar prova as comidas?
+
+[[v18-12-12]]
+
+^<<v18-12-12,12>>^ Com os idosos está  a sabedoria, e na abundância de dias o entendimento.
+
+[[v18-12-13]]
+
+^<<v18-12-13,13>>^ Com ele está  a sabedoria e a força; conselho e entendimento tem.
+
+[[v18-12-14]]
+
+^<<v18-12-14,14>>^ Eis que ele derriba, e não se reedificará; e a quem ele encerra não se abrirá.
+
+[[v18-12-15]]
+
+^<<v18-12-15,15>>^ Eis que ele retém as águas, e se secam; e as larga, e transtornam a terra.
+
+[[v18-12-16]]
+
+^<<v18-12-16,16>>^ Com ele está  a força e a sabedoria; seu é  o que erra e o que faz errar.
+
+[[v18-12-17]]
+
+^<<v18-12-17,17>>^ Aos conselheiros leva despojados, e aos juízes faz desvairar.
+
+[[v18-12-18]]
+
+^<<v18-12-18,18>>^ Solta a atadura dos reis, e ata o cinto aos seus lombos.
+
+[[v18-12-19]]
+
+^<<v18-12-19,19>>^ Aos príncipes leva despojados, aos poderosos transtorna.
+
+[[v18-12-20]]
+
+^<<v18-12-20,20>>^ Aos confiados tira a fala, e toma o entendimento aos velhos.
+
+[[v18-12-21]]
+
+^<<v18-12-21,21>>^ Derrama desprezo sobre os príncipes, e afrouxa o cinto dos fortes.
+
+[[v18-12-22]]
+
+^<<v18-12-22,22>>^ As profundezas das trevas manifesta, e a sombra da morte traz à luz.
+
+[[v18-12-23]]
+
+^<<v18-12-23,23>>^ Multiplica as gentes e as faz perecer; dispersa as gentes, e de novo as reconduz.
+
+[[v18-12-24]]
+
+^<<v18-12-24,24>>^ Tira o coração aos chefes das gentes da terra, e os faz vaguear pelos desertos, sem caminho.
+
+[[v18-12-25]]
+
+^<<v18-12-25,25>>^ Nas trevas andam às apalpadelas, sem terem luz, e os faz desatinar como ébrios.
+
+'''
+
+xref:018-jo/018-jo-011.adoc#v18-11-0[&#60; Capítulo Anterior] | <<v18-12-0,Topo>> | xref:018-jo/018-jo-013.adoc#v18-13-0[Próximo Capítulo &#62;]

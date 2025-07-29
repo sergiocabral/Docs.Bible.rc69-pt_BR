@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-79-0]]
+=== Salmos, 79
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-79-1]]
+
+^<<v19-79-1,1>>^ Ó DEUS, as nações entraram na tua herança; contaminaram a teu santo templo; reduziram Jerusalém a montões de pedras.
+
+[[v19-79-2]]
+
+^<<v19-79-2,2>>^ Deram os cadáveres dos teus servos por comida às aves dos céus, e a carne dos teus santos às alimárias da terra.
+
+[[v19-79-3]]
+
+^<<v19-79-3,3>>^ Derramaram o sangue deles como água ao redor de Jerusalém, e não houve quem  os sepultasse.
+
+[[v19-79-4]]
+
+^<<v19-79-4,4>>^ Estamos feitos o opróbrio dos nossos vizinhos, o escárnio e a zombaria dos que estão  à roda de nós.
+
+[[v19-79-5]]
+
+^<<v19-79-5,5>>^ Até quando, Senhor? indignar-te-ás para sempre? Arderá o teu zelo como fogo?
+
+[[v19-79-6]]
+
+^<<v19-79-6,6>>^ Derrama o teu furor sobre nações que te não conhecem, e sobre os reinos que não invocam o teu nome.
+
+[[v19-79-7]]
+
+^<<v19-79-7,7>>^ Porque devoraram a Jacó, e assolaram as suas moradas.
+
+[[v19-79-8]]
+
+^<<v19-79-8,8>>^ Não te lembres das nossas iniquidades passadas: apressa-te e antecipem-se-nos as tuas misericórdias, pois estamos muito abatidos.
+
+[[v19-79-9]]
+
+^<<v19-79-9,9>>^ Ajuda-nos, ó Deus da nossa salvação, pela glória do teu nome: e livra-nos, e perdoa os nossos pecados por amor do teu nome.
+
+[[v19-79-10]]
+
+^<<v19-79-10,10>>^ Porque diriam os gentios: Onde está o seu Deus? Torne-se manifesta entre as nações, à nossa vista, a vingança do sangue derramado dos teus servos.
+
+[[v19-79-11]]
+
+^<<v19-79-11,11>>^ Chegue à tua presença o gemido dos presos; segundo a grandeza do teu braço, preserva aqueles que estão sentenciados à morte.
+
+[[v19-79-12]]
+
+^<<v19-79-12,12>>^ E aos nossos vizinhos, deita-lhes no regaço, setuplicadamente, a sua injúria com que te injuriaram, Senhor.
+
+[[v19-79-13]]
+
+^<<v19-79-13,13>>^ Assim nós, teu povo e ovelhas de teu pasto, te louvaremos eternamente: de geração em geração cantaremos os teus louvores.
+
+'''
+
+xref:019-salmos/019-salmos-078.adoc#v19-78-0[&#60; Capítulo Anterior] | <<v19-79-0,Topo>> | xref:019-salmos/019-salmos-080.adoc#v19-80-0[Próximo Capítulo &#62;]

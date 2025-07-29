@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v9-24-0]]
+=== 1 Samuel, 24
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-24-1]]
+
+^<<v9-24-1,1>>^ E SUCEDEU que, voltando Saul de perseguir os filisteus, lhe anunciaram, dizendo: Eis que Davi está  no deserto de Engedi.
+
+[[v9-24-2]]
+
+^<<v9-24-2,2>>^ Então tomou Saul três mil homens, escolhidos dentre todo o Israel, e foi à busca de Davi e dos seus homens, até aos cumes das penhas das cabras monteses.
+
+[[v9-24-3]]
+
+^<<v9-24-3,3>>^ E chegou a uns currais de ovelhas no caminho, onde estava uma caverna; e entrou nela Saul, a cobrir seus pés: e Davi e os seus homens estavam aos lados da caverna.
+
+[[v9-24-4]]
+
+^<<v9-24-4,4>>^ Então os homens de Davi lhe disseram: Eis aqui o dia, do qual o Senhor te diz: Eis que te dou o teu inimigo nas tuas mãos, e far-lhe-ás como te parecer  bem aos teus olhos. E levantou-se Davi, e mansamente cortou a orla do manto de Saul.
+
+[[v9-24-5]]
+
+^<<v9-24-5,5>>^ Sucedeu, porém, que depois o coração doeu a Davi, por ter cortado a orla do manto  de Saul.
+
+[[v9-24-6]]
+
+^<<v9-24-6,6>>^ E disse aos seus homens: O Senhor me guarde de que eu faça tal cousa ao meu senhor, ao ungido do Senhor, estendendo eu a minha mão contra ele: pois é o ungido do Senhor.
+
+[[v9-24-7]]
+
+^<<v9-24-7,7>>^ E com estas palavras Davi conteve os seus homens, e não lhes permitiu que se levantassem contra Saul; e Saul se levantou da caverna, e prosseguiu o seu caminho.
+
+[[v9-24-8]]
+
+^<<v9-24-8,8>>^ Depois também Davi se levantou, e saiu da caverna, e gritou por detrás de Saul, dizendo: Rei, meu senhor! E, olhando Saul para trás, Davi se inclinou com o rosto em terra, e se prostrou.
+
+[[v9-24-9]]
+
+^<<v9-24-9,9>>^ E disse Davi a Saul: Por que dás tu ouvidos às palavras dos homens que dizem: Eis que Davi procura o teu mal?
+
+[[v9-24-10]]
+
+^<<v9-24-10,10>>^ Eis que este dia os teus olhos viram, que o Senhor hoje te pôs em minhas mãos nesta  caverna, e alguns disseram que te matasse: porém a minha mão  te poupou: porque disse: Não estenderei a minha mão contra o meu senhor, pois é o ungido do Senhor.
+
+[[v9-24-11]]
+
+^<<v9-24-11,11>>^ Olha pois, meu pai, vê aqui a orla do teu manto na minha mão; porque, cortando-te eu a orla do manto, te não matei. Adverte, pois e vê que não há na minha mão nem mal nem prevaricação nenhuma, e não pequei contra ti; porém tu andas à caça da minha vida, para ma tirares.
+
+[[v9-24-12]]
+
+^<<v9-24-12,12>>^ Julgue o Senhor entre mim e ti, e vingue-me o Senhor de ti: porém a minha mão não será contra ti.
+
+[[v9-24-13]]
+
+^<<v9-24-13,13>>^ Como diz o provérbio dos antigos: Dos ímpios procede a impiedade; porém a minha mão não será contra ti.
+
+[[v9-24-14]]
+
+^<<v9-24-14,14>>^ Após quem saiu o rei de Israel? a quem persegues? a um cão morto? a uma pulga?
+
+[[v9-24-15]]
+
+^<<v9-24-15,15>>^ O Senhor porém será o juiz, e julgará entre mim e ti, e verá, e advogará a minha causa, e me defenderá da tua mão.
+
+[[v9-24-16]]
+
+^<<v9-24-16,16>>^ E sucedeu que, acabando Davi de falar a Saul todas estas palavras, disse Saul: É  esta a tua voz, meu filho Davi? Então Saul alçou a sua voz e chorou.
+
+[[v9-24-17]]
+
+^<<v9-24-17,17>>^ E disse a Davi: Mais justo és do que eu; pois tu me recompensaste com bem, e eu te recompensei com mal.
+
+[[v9-24-18]]
+
+^<<v9-24-18,18>>^ E tu mostraste hoje que usaste comigo bem; pois o Senhor me tinha posto em tuas mãos, e tu me não mataste.
+
+[[v9-24-19]]
+
+^<<v9-24-19,19>>^ Porque, quem há que, encontrando o seu inimigo, o deixaria ir por bom caminho? o Senhor pois te pague com bem, pelo que hoje me fizeste.
+
+[[v9-24-20]]
+
+^<<v9-24-20,20>>^ Agora pois eis que bem  sei que certamente hás de reinar, e que o reino de Israel há de ser firme na tua mão.
+
+[[v9-24-21]]
+
+^<<v9-24-21,21>>^ Portanto agora jura-me pelo Senhor que não desarraigarás a minha semente depois de mim, nem desfarás o meu nome da casa de meu pai.
+
+[[v9-24-22]]
+
+^<<v9-24-22,22>>^ Então jurou Davi a Saul. E foi Saul para a sua casa, porém Davi e os seus homens subiram ao lugar forte.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-023.adoc#v9-23-0[&#60; Capítulo Anterior] | <<v9-24-0,Topo>> | xref:009-1-samuel/009-1-samuel-025.adoc#v9-25-0[Próximo Capítulo &#62;]

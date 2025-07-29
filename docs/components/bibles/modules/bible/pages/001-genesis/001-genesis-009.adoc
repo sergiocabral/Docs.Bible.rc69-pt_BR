@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v1-9-0]]
+=== Gênesis, 9
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-9-1]]
+
+^<<v1-9-1,1>>^ E ABENÇOOU Deus a Noé e a seus filhos, e disse-lhes: Frutificai e multiplicai-vos, e enchei a terra.
+
+[[v1-9-2]]
+
+^<<v1-9-2,2>>^ E será o vosso temor e o vosso pavor sobre todo o animal da terra, e sobre toda a ave dos céus; tudo o que se move sobre a terra, e todos os peixes do mar, na vossa mão são entregues.
+
+[[v1-9-3]]
+
+^<<v1-9-3,3>>^ Tudo quanto se move, que é vivente, será para vosso mantimento; tudo vos tenho dado como a erva verde.
+
+[[v1-9-4]]
+
+^<<v1-9-4,4>>^ A carne, porém, com sua vida, isto é, com seu sangue, não comereis.
+
+[[v1-9-5]]
+
+^<<v1-9-5,5>>^ E certamente requererei o vosso sangue, o sangue  das vossas vidas; da mão de todo o animal o requererei; como também da mão do homem, e da mão do irmão de cada um requererei a vida do homem.
+
+[[v1-9-6]]
+
+^<<v1-9-6,6>>^ Quem derramar o sangue do homem, pelo homem o seu sangue será derramado; porque Deus fez o homem conforme a sua  imagem.
+
+[[v1-9-7]]
+
+^<<v1-9-7,7>>^ Mas vós frutificai e multiplicai-vos; povoai abundantemente a terra, e multiplicai-vos nela.
+
+[[v1-9-8]]
+
+^<<v1-9-8,8>>^ E falou Deus a Noé, e a seus filhos com ele, dizendo:
+
+[[v1-9-9]]
+
+^<<v1-9-9,9>>^ E eu, eis que estabeleço o meu concerto convosco e com a vossa semente depois de vós.
+
+[[v1-9-10]]
+
+^<<v1-9-10,10>>^ E com toda a alma vivente, que convosco está, de aves, de reses, e de todo o animal da terra convosco; desde todos que saíram da arca, até todo o animal da terra.
+
+[[v1-9-11]]
+
+^<<v1-9-11,11>>^ E eu convosco estabeleço o meu concerto, que não será mais destruída toda a carne pelas águas do dilúvio; e que não haverá mais dilúvio para destruir a terra.
+
+[[v1-9-12]]
+
+^<<v1-9-12,12>>^ E disse Deus: Este é  o sinal do concerto que ponho entre mim e vós, e entre toda a alma vivente, que está convosco, por gerações eternas.
+
+[[v1-9-13]]
+
+^<<v1-9-13,13>>^ O meu arco tenho posto na nuvem, este será por sinal do concerto entre mim e a terra.
+
+[[v1-9-14]]
+
+^<<v1-9-14,14>>^ E acontecerá que, quando eu trouxer nuvens sobre a terra, aparecerá o arco nas nuvens.
+
+[[v1-9-15]]
+
+^<<v1-9-15,15>>^ Então me lembrarei do meu concerto, que está entre mim e vós, e ainda toda a alma vivente de toda a carne; e as águas não se tornarão mais em dilúvio, para destruir toda a carne.
+
+[[v1-9-16]]
+
+^<<v1-9-16,16>>^ E estará o arco nas nuvens, e eu o verei, para me lembrar do concerto eterno entre Deus e toda a alma vivente de toda a carne, que está  sobre a terra.
+
+[[v1-9-17]]
+
+^<<v1-9-17,17>>^ E disse Deus a Noé: Este é o sinal do concerto que tenho estabelecido entre mim e toda a carne, que está  sobre a terra.
+
+[[v1-9-18]]
+
+^<<v1-9-18,18>>^ E os filhos de Noé, que da arca saíram, foram Sem, e Cão, e Jafé; e Cão é  o pai de Canaã.
+
+[[v1-9-19]]
+
+^<<v1-9-19,19>>^ Estes três foram  os filhos de Noé; e destes se povoou toda a terra.
+
+[[v1-9-20]]
+
+^<<v1-9-20,20>>^ E começou Noé a ser lavrador da terra, e plantou uma vinha.
+
+[[v1-9-21]]
+
+^<<v1-9-21,21>>^ E bebeu do vinho, e embebedou-se; e descobriu-se no meio de sua tenda.
+
+[[v1-9-22]]
+
+^<<v1-9-22,22>>^ E viu Cão, o pai de Canaã, a nudez de seu pai, e fê-lo saber a ambos seus irmãos fora.
+
+[[v1-9-23]]
+
+^<<v1-9-23,23>>^ Então tomaram Sem e Jafé uma capa, e puseram-na sobre ambos os seus ombros, e indo virados para trás, cobriram a nudez do seu pai, e os seus rostos eram virados, de maneira que não viram a nudez do seu pai.
+
+[[v1-9-24]]
+
+^<<v1-9-24,24>>^ E despertou Noé do seu vinho, e soube o que seu filho menor lhe fizera.
+
+[[v1-9-25]]
+
+^<<v1-9-25,25>>^ E disse: Maldito seja Canaã; servo dos servos seja aos seus irmãos.
+
+[[v1-9-26]]
+
+^<<v1-9-26,26>>^ E disse: Bendito seja o Senhor Deus de Sem; e seja-lhe Canaã por servo.
+
+[[v1-9-27]]
+
+^<<v1-9-27,27>>^ Alargue Deus a Jafé, e habite nas tendas de Sem; e seja-lhe Canaã por servo.
+
+[[v1-9-28]]
+
+^<<v1-9-28,28>>^ E viveu Noé, depois do dilúvio, trezentos e cinquenta anos.
+
+[[v1-9-29]]
+
+^<<v1-9-29,29>>^ E foram todos os dias de Noé novecentos e cinquenta anos, e morreu.
+
+'''
+
+xref:001-genesis/001-genesis-008.adoc#v1-8-0[&#60; Capítulo Anterior] | <<v1-9-0,Topo>> | xref:001-genesis/001-genesis-010.adoc#v1-10-0[Próximo Capítulo &#62;]

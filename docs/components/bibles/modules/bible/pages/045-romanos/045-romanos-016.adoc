@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v45-16-0]]
+=== Romanos, 16
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v45-16-1]]
+
+^<<v45-16-1,1>>^ RECOMENDO-VOS pois Febe, nossa irmã, a qual serve na igreja que está em Cencreia.
+
+[[v45-16-2]]
+
+^<<v45-16-2,2>>^ Para que a recebais no Senhor, como convém aos santos, e a ajudeis em qualquer coisa que de vós necessitar; porque tem hospedado a muitos, como também a mim mesmo.
+
+[[v45-16-3]]
+
+^<<v45-16-3,3>>^ Saudai a Priscila e a Áquila, meus cooperadores em Cristo Jesus,
+
+[[v45-16-4]]
+
+^<<v45-16-4,4>>^ Os quais pela minha vida expuseram as suas cabeças; o que não só eu lhes agradeço, mas também todas as igrejas dos gentios.
+
+[[v45-16-5]]
+
+^<<v45-16-5,5>>^ Saudai  também a igreja que está  em sua casa. Saudai a Epêneto, meu amado, que é as primícias da Ásia em Cristo.
+
+[[v45-16-6]]
+
+^<<v45-16-6,6>>^ Saudai a Maria, que trabalhou muito por nós.
+
+[[v45-16-7]]
+
+^<<v45-16-7,7>>^ Saudai a Andrônico e a Júnia, meus parentes e meus companheiros na prisão, os quais se distinguiram entre os apóstolos e que foram antes de mim em Cristo.
+
+[[v45-16-8]]
+
+^<<v45-16-8,8>>^ Saudai a Amplias, meu amado no Senhor.
+
+[[v45-16-9]]
+
+^<<v45-16-9,9>>^ Saudai a Urbano, nosso cooperador em Cristo, e a Estaquis, meu amado.
+
+[[v45-16-10]]
+
+^<<v45-16-10,10>>^ Saudai a Apeles, aprovado em Cristo. Saudai aos da família  d’Aristóbulo.
+
+[[v45-16-11]]
+
+^<<v45-16-11,11>>^ Saudai a Herodião, meu parente. Saudai aos da família  de Narciso, os que estão no Senhor.
+
+[[v45-16-12]]
+
+^<<v45-16-12,12>>^ Saudai a Trifena e a Trifosa, as quais trabalham no Senhor. Saudai à amada Pérsida, a qual muito trabalhou no Senhor.
+
+[[v45-16-13]]
+
+^<<v45-16-13,13>>^ Saudai a Rufo, eleito no Senhor, e a sua mãe e minha.
+
+[[v45-16-14]]
+
+^<<v45-16-14,14>>^ Saudai a Asíncrito, a Flegonte, a Hermas, a Pátrobas, a Hermes, e aos irmãos que estão com eles.
+
+[[v45-16-15]]
+
+^<<v45-16-15,15>>^ Saudai a Filólogo e a Júlia, a Nereu e a sua irmã, e a Olímpia, e a todos os santos que com eles estão.
+
+[[v45-16-16]]
+
+^<<v45-16-16,16>>^ Saudai-vos uns aos outros com santo ósculo. As igrejas de Cristo vos saúdam.
+
+[[v45-16-17]]
+
+^<<v45-16-17,17>>^ E rogo-vos, irmãos, que noteis os que promovem dissensões e escândalos contra a doutrina que aprendestes; desviai-vos deles.
+
+[[v45-16-18]]
+
+^<<v45-16-18,18>>^ Porque os tais não servem a nosso Senhor Jesus Cristo, mas ao seu ventre: e com suaves palavras e lisonjas enganam os corações dos símplices.
+
+[[v45-16-19]]
+
+^<<v45-16-19,19>>^ Quanto à vossa obediência é ela conhecida de todos. Comprazo-me pois em vós; e quero que sejais sábios no bem, mas símplices no mal.
+
+[[v45-16-20]]
+
+^<<v45-16-20,20>>^ E o Deus de paz esmagará em breve Satanás debaixo dos vossos pés. A graça de Nosso Senhor Jesus Cristo seja  convosco. Amém.
+
+[[v45-16-21]]
+
+^<<v45-16-21,21>>^ Saúdam-vos Timóteo, meu cooperador, e Lúcio, e Jasom, e Sosípatro, meus parentes.
+
+[[v45-16-22]]
+
+^<<v45-16-22,22>>^ Eu, Tércio, que esta  carta escrevi, vos saúdo no Senhor.
+
+[[v45-16-23]]
+
+^<<v45-16-23,23>>^ Saúda-vos Gaio, meu hospedeiro, e de toda a igreja. Saúda-vos Erasto, procurador da cidade, e também o irmão Quarto.
+
+[[v45-16-24]]
+
+^<<v45-16-24,24>>^ A graça de nosso Senhor Jesus Cristo seja  com todos vós. Amém.
+
+[[v45-16-25]]
+
+^<<v45-16-25,25>>^ Ora, àquele que é poderoso para vos confirmar segundo o meu evangelho e a pregação de Jesus Cristo, conforme a revelação do mistério que desde tempos eternos esteve oculto.
+
+[[v45-16-26]]
+
+^<<v45-16-26,26>>^ Mas que se manifestou agora, e se notificou pelas Escrituras dos profetas, segundo o mandamento do Deus eterno, a todas as nações para obediência da fé;
+
+[[v45-16-27]]
+
+^<<v45-16-27,27>>^ Ao único Deus, sábio, seja  dada glória por Jesus Cristo para todo o sempre. Amém.
+
+'''
+
+xref:045-romanos/045-romanos-015.adoc#v45-15-0[&#60; Capítulo Anterior] | <<v45-16-0,Topo>> | xref:046-1-corintios/046-1-corintios-001.adoc#v46-1-0[Próximo Capítulo &#62;]

@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-10-0]]
+=== Gênesis, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-10-1]]
+
+^<<v1-10-1,1>>^ ESTAS pois são as gerações dos filhos de Noé: Sem, Cão, e Jafé; e nasceram-lhes filhos depois do dilúvio.
+
+[[v1-10-2]]
+
+^<<v1-10-2,2>>^ Os filhos de Jafé, são : Gomer e Magogue, e Madai, e Javã, e Tubal, e Meseque, e Tiras.
+
+[[v1-10-3]]
+
+^<<v1-10-3,3>>^ E os filhos de Gomer, são : Asquenaz, e Rifate, e Togarma.
+
+[[v1-10-4]]
+
+^<<v1-10-4,4>>^ E os filhos de Javã, são : Elisá e Tarsis, Quitim, e Dodanim.
+
+[[v1-10-5]]
+
+^<<v1-10-5,5>>^ Por estes foram repartidas as ilhas das nações nas suas terras, cada qual segundo a sua língua, segundo as suas famílias, entre as suas nações.
+
+[[v1-10-6]]
+
+^<<v1-10-6,6>>^ E os filhos de Cão, são : Cuse, e Mizraim, e Pute, e Canaã.
+
+[[v1-10-7]]
+
+^<<v1-10-7,7>>^ E os filhos de Cuse, são : Sebá, e Havilá, e Sabtá, e Raamá, Sabtecá: e os filhos de Raamá são: Seba e Dedã.
+
+[[v1-10-8]]
+
+^<<v1-10-8,8>>^ E Cuse gerou a Ninrode; este começou a ser poderoso na terra.
+
+[[v1-10-9]]
+
+^<<v1-10-9,9>>^ E este foi poderoso caçador diante da face do Senhor; pelo que se diz: Como Ninrode, poderoso caçador diante do Senhor.
+
+[[v1-10-10]]
+
+^<<v1-10-10,10>>^ E o princípio do seu reino foi Babel, e Ereque, e Acade, e Calne, na terra de Sinear.
+
+[[v1-10-11]]
+
+^<<v1-10-11,11>>^ Desta mesma terra saiu à Assíria e edificou a Nínive, e Reobote-Ir e Calá,
+
+[[v1-10-12]]
+
+^<<v1-10-12,12>>^ E Résen, entre Nínive e Calá (esta é a grande cidade).
+
+[[v1-10-13]]
+
+^<<v1-10-13,13>>^ E Mizraim gerou a Ludim, e a Anamim, e a Leabim, e a Naftuim,
+
+[[v1-10-14]]
+
+^<<v1-10-14,14>>^ E a Patrusim e a Caslusim, (donde saíram os Filisteus) e a Caftorim.
+
+[[v1-10-15]]
+
+^<<v1-10-15,15>>^ E Canaã gerou a Sidom, seu primogênito, e a Hete,
+
+[[v1-10-16]]
+
+^<<v1-10-16,16>>^ E ao jebuseu, e amorreu, e girgaseu,
+
+[[v1-10-17]]
+
+^<<v1-10-17,17>>^ E ao heveu, e ao arqueu, e ao sineu,
+
+[[v1-10-18]]
+
+^<<v1-10-18,18>>^ E ao arvadeu, e ao zemareu, e ao hamateu, e depois se espalharam as famílias dos cananeus.
+
+[[v1-10-19]]
+
+^<<v1-10-19,19>>^ E foi o termo dos cananeus desde Sidom, indo para Gerar, até Gaza; indo para Sodoma, e Gomorra, e Adama, e Zeboim, até Lasa.
+
+[[v1-10-20]]
+
+^<<v1-10-20,20>>^ Estes são os filhos de Cão segundo as suas famílias, segundo as suas línguas, em suas terras, em suas nações.
+
+[[v1-10-21]]
+
+^<<v1-10-21,21>>^ E a Sem nasceram filhos , e ele é  o pai de todos os filhos de Éber, o irmão mais velho de Jafé.
+
+[[v1-10-22]]
+
+^<<v1-10-22,22>>^ os filhos de Sem são : Elão e Assur, e Arpachade, e Lude, e Arã.
+
+[[v1-10-23]]
+
+^<<v1-10-23,23>>^ E os filhos de Arã são : Uz, e Hul, e Géter, e Mas.
+
+[[v1-10-24]]
+
+^<<v1-10-24,24>>^ E Arpachade gerou a Selá; e Selá gerou a Éber.
+
+[[v1-10-25]]
+
+^<<v1-10-25,25>>^ E a Éber nasceram dois filhos: o nome dum foi  Pelegue, porquanto em seus dias se repartiu a terra, e o nome do seu irmão foi Joctã.
+
+[[v1-10-26]]
+
+^<<v1-10-26,26>>^ E Joctã gerou a Almodade, e a Selefe, e a Hazarmavete, e a Jerá;
+
+[[v1-10-27]]
+
+^<<v1-10-27,27>>^ E a Hadorão, e a Uzal, e a Diclá;
+
+[[v1-10-28]]
+
+^<<v1-10-28,28>>^ E a Obal, e Abimael, e a Seba;
+
+[[v1-10-29]]
+
+^<<v1-10-29,29>>^ E a Ofir, e a Havilá e a Jobabe; todos estes foram filhos de Joctã.
+
+[[v1-10-30]]
+
+^<<v1-10-30,30>>^ E foi a sua habitação desde Messa, indo para Sefar, montanha do Oriente.
+
+[[v1-10-31]]
+
+^<<v1-10-31,31>>^ Estes são  os filhos de Sem segundo as suas famílias, segundo as suas línguas, nas suas terras, segundo as suas nações.
+
+[[v1-10-32]]
+
+^<<v1-10-32,32>>^ Estas são as famílias dos filhos de Noé segundo as suas gerações, nas suas nações; e destes foram divididas as nações na terra depois do dilúvio.
+
+'''
+
+xref:001-genesis/001-genesis-009.adoc#v1-9-0[&#60; Capítulo Anterior] | <<v1-10-0,Topo>> | xref:001-genesis/001-genesis-011.adoc#v1-11-0[Próximo Capítulo &#62;]

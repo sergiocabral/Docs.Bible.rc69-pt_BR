@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v19-35-0]]
+=== Salmos, 35
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-35-1]]
+
+^<<v19-35-1,1>>^ PLEITEIA, Senhor, com aqueles que pleiteiam comigo; peleja contra os que pelejam contra mim.
+
+[[v19-35-2]]
+
+^<<v19-35-2,2>>^ Pega do escudo e da rodela, e levanta-te em minha ajuda.
+
+[[v19-35-3]]
+
+^<<v19-35-3,3>>^ Tira da lança e obstrui o caminho  aos que me perseguem; dize à minha alma: Eu sou  a tua salvação.
+
+[[v19-35-4]]
+
+^<<v19-35-4,4>>^ Sejam confundidos e envergonhados os que buscam a minha vida: voltem atrás e envergonhem-se os que contra mim intentam o mal.
+
+[[v19-35-5]]
+
+^<<v19-35-5,5>>^ Sejam como pragana perante o vento, o anjo do Senhor os faça fugir.
+
+[[v19-35-6]]
+
+^<<v19-35-6,6>>^ Seja o seu caminho tenebroso e escorregadio, e o anjo do Senhor os persiga.
+
+[[v19-35-7]]
+
+^<<v19-35-7,7>>^ Porque sem causa encobriram de mim a rede na cova, que sem razão cavaram para a minha alma.
+
+[[v19-35-8]]
+
+^<<v19-35-8,8>>^ Sobrevenha-lhe destruição sem o saber, e prenda-o a rede que ocultou; caia ele nessa mesma destruição.
+
+[[v19-35-9]]
+
+^<<v19-35-9,9>>^ E a minha alma se alegrará no Senhor; alegrar-se-á na sua salvação.
+
+[[v19-35-10]]
+
+^<<v19-35-10,10>>^ Todos os meus ossos dirão: Senhor, quem é  como tu, que livras o pobre daquele que é  mais forte do que ele? sim, o pobre e o necessitado daquele que o rouba.
+
+[[v19-35-11]]
+
+^<<v19-35-11,11>>^ Falsas testemunhas se levantaram: depuseram contra mim cousas  que eu não sabia.
+
+[[v19-35-12]]
+
+^<<v19-35-12,12>>^ Tornaram-me o mal pelo bem, roubando a minha alma.
+
+[[v19-35-13]]
+
+^<<v19-35-13,13>>^ Mas, quanto a mim, quando estavam enfermos, o meu vestido era  o saco; humilhava a minha alma com o jejum, e a minha oração voltava para o meu seio.
+
+[[v19-35-14]]
+
+^<<v19-35-14,14>>^ Portava-me com ele como se  fora meu irmão ou amigo; andava lamentando e muito encurvado, como quem chora por sua  mãe.
+
+[[v19-35-15]]
+
+^<<v19-35-15,15>>^ Mas eles com a minha adversidade se alegravam e se congregavam: os abjetos se congregavam contra mim, e eu não o sabia; rasgavam-me, e não cessavam.
+
+[[v19-35-16]]
+
+^<<v19-35-16,16>>^ Como hipócritas zombadores nas festas, rangiam os dentes contra mim.
+
+[[v19-35-17]]
+
+^<<v19-35-17,17>>^ Senhor, até quando verás isto? resgata a minha alma das suas assolações, e a minha predileta dos leões.
+
+[[v19-35-18]]
+
+^<<v19-35-18,18>>^ Louvar-te-ei na grande congregação: entre muitíssimo povo te celebrarei.
+
+[[v19-35-19]]
+
+^<<v19-35-19,19>>^ Não se alegrem de mim os meus inimigos sem razão, nem  pisquem os olhos aqueles que me aborrecem sem causa.
+
+[[v19-35-20]]
+
+^<<v19-35-20,20>>^ Pois não falam de paz; antes projetam enganar os quietos da terra.
+
+[[v19-35-21]]
+
+^<<v19-35-21,21>>^ Abrem a boca de par em par contra mim, e  dizem: Ah! Ah! os nossos olhos o  viram.
+
+[[v19-35-22]]
+
+^<<v19-35-22,22>>^ Tu, Senhor, o  viste, não te cales; Senhor, não te alongues de mim;
+
+[[v19-35-23]]
+
+^<<v19-35-23,23>>^ Desperta e acorda para o meu julgamento, para a minha causa, Deus meu, e Senhor meu.
+
+[[v19-35-24]]
+
+^<<v19-35-24,24>>^ Julga-me segundo a tua justiça, Senhor Deus meu, e não deixes que se alegrem de mim.
+
+[[v19-35-25]]
+
+^<<v19-35-25,25>>^ Não digam em seus corações: Eia sus, alma nossa! não digam: Nós o havemos devorado.
+
+[[v19-35-26]]
+
+^<<v19-35-26,26>>^ Envergonhem-se e confundam-se à uma os que se alegram com o meu mal; vistam-se de vergonha e de confusão os que se  engrandecem contra mim.
+
+[[v19-35-27]]
+
+^<<v19-35-27,27>>^ Cantem e alegrem-se os que amam a minha justiça, e digam continuamente: O Senhor, que ama a prosperidade do seu servo, seja engrandecido.
+
+[[v19-35-28]]
+
+^<<v19-35-28,28>>^ E assim a minha língua falará a tua justiça e  do teu louvor todo o dia.
+
+'''
+
+xref:019-salmos/019-salmos-034.adoc#v19-34-0[&#60; Capítulo Anterior] | <<v19-35-0,Topo>> | xref:019-salmos/019-salmos-036.adoc#v19-36-0[Próximo Capítulo &#62;]

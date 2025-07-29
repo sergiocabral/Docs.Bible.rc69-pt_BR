@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-46-0]]
+=== Isaías, 46
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-46-1]]
+
+^<<v23-46-1,1>>^ JÁ Bel abatido está, já  Nebo se encurvou, os seus ídolos são  postos sobre os animais, sobre as bestas: as cargas dos vossos fardos são canseira para as bestas já  cansadas.
+
+[[v23-46-2]]
+
+^<<v23-46-2,2>>^ Juntamente se encurvaram e  se abateram; não puderam livrar-se da carga, mas a sua alma entrou em cativeiro.
+
+[[v23-46-3]]
+
+^<<v23-46-3,3>>^ Ouvi-me, ó casa de Jacó, e todo o resíduo da casa de Israel; vós a quem trouxe nos braços  desde o ventre, e  levei desde a madre.
+
+[[v23-46-4]]
+
+^<<v23-46-4,4>>^ E até à velhice eu serei  o mesmo, e ainda até às cãs eu vos  trarei: eu o fiz, e eu vos  levarei, e eu vos  trarei, e vos guardarei.
+
+[[v23-46-5]]
+
+^<<v23-46-5,5>>^ A quem me fareis semelhante, e com quem me  igualareis, e me comparareis, para que sejamos semelhantes?
+
+[[v23-46-6]]
+
+^<<v23-46-6,6>>^ Gastam o ouro da bolsa, e pesam a prata nas balanças: assalariam o ourives, e ele faz um deus, e diante dele  se prostram e se inclinam.
+
+[[v23-46-7]]
+
+^<<v23-46-7,7>>^ Sobre os ombros o tomam, o levam, e o põem no seu lugar; ali está, do seu lugar não se move; e, se recorrem a ele, resposta nenhuma dá, nem livra alguém da sua tribulação.
+
+[[v23-46-8]]
+
+^<<v23-46-8,8>>^ Lembrai-vos disto, e tende ânimo; reconduzi-o ao coração, ó prevaricadores.
+
+[[v23-46-9]]
+
+^<<v23-46-9,9>>^ Lembrai-vos das cousas passadas desde a antiguidade: que eu sou  Deus, e não há  outro Deus, não há  outro semelhante a mim.
+
+[[v23-46-10]]
+
+^<<v23-46-10,10>>^ Que anuncio o fim desde o princípio e desde a antiguidade as cousas que ainda não sucederam; que digo: O meu conselho será firme, e farei toda a minha vontade;
+
+[[v23-46-11]]
+
+^<<v23-46-11,11>>^ Que chamo a ave de rapina desde o oriente, e  o homem do meu conselho desde terras remotas; porque assim o  disse, e assim acontecerá; eu o determinei, e também o farei.
+
+[[v23-46-12]]
+
+^<<v23-46-12,12>>^ Ouvi-me, ó duros de coração, os que estais  longe da justiça.
+
+[[v23-46-13]]
+
+^<<v23-46-13,13>>^ Faço chegar a minha justiça, e não estará ao longe, e a minha salvação não tardará: mas estabelecerei em Sião a salvação, e  em Israel a minha glória.
+
+'''
+
+xref:023-isaias/023-isaias-045.adoc#v23-45-0[&#60; Capítulo Anterior] | <<v23-46-0,Topo>> | xref:023-isaias/023-isaias-047.adoc#v23-47-0[Próximo Capítulo &#62;]

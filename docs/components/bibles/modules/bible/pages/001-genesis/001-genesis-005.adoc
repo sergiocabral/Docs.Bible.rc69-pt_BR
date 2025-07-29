@@ -1,0 +1,137 @@
+include::./index.adoc[]
+
+[[v1-5-0]]
+=== Gênesis, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-5-1]]
+
+^<<v1-5-1,1>>^ ESTE é o livro das gerações de Adão. No dia em que Deus criou o homem, à semelhança de Deus o fez.
+
+[[v1-5-2]]
+
+^<<v1-5-2,2>>^ Macho e fêmea os criou; e os abençoou, e chamou o seu nome Adão, no dia em que foram criados.
+
+[[v1-5-3]]
+
+^<<v1-5-3,3>>^ E Adão viveu cento e trinta anos, e gerou um filho  à sua semelhança, conforme à sua imagem, e chamou o seu nome Sete.
+
+[[v1-5-4]]
+
+^<<v1-5-4,4>>^ E foram os dias de Adão, depois que gerou a Sete, oitocentos anos: e gerou filhos e filhas.
+
+[[v1-5-5]]
+
+^<<v1-5-5,5>>^ E foram todos os dias que Adão viveu, novecentos e trinta anos; e morreu.
+
+[[v1-5-6]]
+
+^<<v1-5-6,6>>^ E viveu Sete cento e cinco anos, e gerou a Enos.
+
+[[v1-5-7]]
+
+^<<v1-5-7,7>>^ E viveu Sete, depois que gerou a Enos, oitocentos e sete anos, e gerou filhos e filhas.
+
+[[v1-5-8]]
+
+^<<v1-5-8,8>>^ E foram todos os dias de Sete novecentos e doze anos; e morreu.
+
+[[v1-5-9]]
+
+^<<v1-5-9,9>>^ E viveu Enos noventa anos; e gerou a Cainã.
+
+[[v1-5-10]]
+
+^<<v1-5-10,10>>^ E viveu Enos, depois que gerou a Cainã, oitocentos e quinze anos; e gerou filhos e filhas.
+
+[[v1-5-11]]
+
+^<<v1-5-11,11>>^ E foram todos os dias de Enos novecentos e cinco anos; e morreu.
+
+[[v1-5-12]]
+
+^<<v1-5-12,12>>^ E viveu Cainã setenta anos; e gerou a Maalalel.
+
+[[v1-5-13]]
+
+^<<v1-5-13,13>>^ E viveu Cainã, depois que gerou a Maalalel, oitocentos e quarenta anos; e gerou filhos e filhas.
+
+[[v1-5-14]]
+
+^<<v1-5-14,14>>^ E foram todos os dias de Cainã novecentos e dez anos; e morreu.
+
+[[v1-5-15]]
+
+^<<v1-5-15,15>>^ E viveu Maalalel sessenta e cinco anos; e gerou a Járede.
+
+[[v1-5-16]]
+
+^<<v1-5-16,16>>^ E viveu Maalalel, depois que gerou a Járede, oitocentos e trinta anos; e gerou filhos e filhas.
+
+[[v1-5-17]]
+
+^<<v1-5-17,17>>^ E foram todos os dias de Maalalel oitocentos e noventa e cinco anos; e morreu.
+
+[[v1-5-18]]
+
+^<<v1-5-18,18>>^ E viveu Járede cento e sessenta e dois anos; e gerou a Enoque.
+
+[[v1-5-19]]
+
+^<<v1-5-19,19>>^ E viveu Járede, depois que gerou a Enoque, oitocentos anos; e gerou filhos e filhas.
+
+[[v1-5-20]]
+
+^<<v1-5-20,20>>^ E foram todos os dias de Járede novecentos e sessenta e dois anos; e morreu.
+
+[[v1-5-21]]
+
+^<<v1-5-21,21>>^ E viveu Enoque sessenta e cinco anos; e gerou a Metusala.
+
+[[v1-5-22]]
+
+^<<v1-5-22,22>>^ E andou Enoque com Deus, depois que gerou a Metusala, trezentos anos; e gerou filhos e filhas.
+
+[[v1-5-23]]
+
+^<<v1-5-23,23>>^ E foram todos os dias de Enoque trezentos e sessenta e cinco anos.
+
+[[v1-5-24]]
+
+^<<v1-5-24,24>>^ E andou Enoque com Deus; e não se viu mais ; porquanto Deus para si  o tomou.
+
+[[v1-5-25]]
+
+^<<v1-5-25,25>>^ E viveu Metusala cento e oitenta e sete anos; e gerou a Lameque.
+
+[[v1-5-26]]
+
+^<<v1-5-26,26>>^ E viveu Metusala, depois que gerou a Lameque, setecentos e oitenta e dois anos; e gerou filhos e filhas.
+
+[[v1-5-27]]
+
+^<<v1-5-27,27>>^ E foram todos os dias de Metusala novecentos e sessenta e nove anos; e morreu.
+
+[[v1-5-28]]
+
+^<<v1-5-28,28>>^ E viveu Lameque cento e oitenta e dois anos; e gerou um filho.
+
+[[v1-5-29]]
+
+^<<v1-5-29,29>>^ E chamou o seu nome Noé, dizendo: Este nos consolará acerca de nossas obras, e do trabalho de nossas mãos, por causa da terra que o Senhor amaldiçoou.
+
+[[v1-5-30]]
+
+^<<v1-5-30,30>>^ E viveu Lameque, depois que gerou a Noé, quinhentos e noventa e cinco anos; e gerou filhos e filhas.
+
+[[v1-5-31]]
+
+^<<v1-5-31,31>>^ E foram todos os dias de Lameque setecentos e setenta e sete anos; e morreu.
+
+[[v1-5-32]]
+
+^<<v1-5-32,32>>^ E era Noé da idade de quinhentos anos, e gerou Noé a Sem, Cão, e Jafé.
+
+'''
+
+xref:001-genesis/001-genesis-004.adoc#v1-4-0[&#60; Capítulo Anterior] | <<v1-5-0,Topo>> | xref:001-genesis/001-genesis-006.adoc#v1-6-0[Próximo Capítulo &#62;]

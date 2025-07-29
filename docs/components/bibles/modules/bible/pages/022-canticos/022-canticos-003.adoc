@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v22-3-0]]
+=== Cânticos, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v22-3-1]]
+
+^<<v22-3-1,1>>^ DE noite busquei em minha cama aquele a quem ama a minha alma: busquei-o, e não o achei.
+
+[[v22-3-2]]
+
+^<<v22-3-2,2>>^ Levantar-me-ei, pois, e rodearei a cidade; pelas ruas e pelas praças buscarei aquele a quem ama a minha alma; busquei-o, e não o achei.
+
+[[v22-3-3]]
+
+^<<v22-3-3,3>>^ Acharam-me os guardas, que rondavam pela cidade: eu perguntei- lhes: Vistes aquele a quem ama a minha alma?
+
+[[v22-3-4]]
+
+^<<v22-3-4,4>>^ Apartando-me eu um pouco deles, logo achei aquele a quem ama a minha alma: detive-o, até que o introduzi em casa de minha mãe, na câmara daquela que me gerou.
+
+[[v22-3-5]]
+
+^<<v22-3-5,5>>^ Conjuro-vos, ó filhas de Jerusalém, pelas gazelas e cervas do campo, que não acordeis, nem desperteis o meu  amor, até que queira.
+
+[[v22-3-6]]
+
+^<<v22-3-6,6>>^ Quem é esta que sobe do deserto, como colunas de fumo, perfumada de mirra, de incenso, e de toda a sorte  de pós aromáticos?
+
+[[v22-3-7]]
+
+^<<v22-3-7,7>>^ Eis que é a liteira de Salomão; sessenta valentes estão  ao redor dela, dos valentes de Israel:
+
+[[v22-3-8]]
+
+^<<v22-3-8,8>>^ Todos armados de espadas, destros na guerra: cada um com a sua espada à cinta, por causa dos temores noturnos.
+
+[[v22-3-9]]
+
+^<<v22-3-9,9>>^ O rei Salomão fez para si um palanquim de madeira do Líbano.
+
+[[v22-3-10]]
+
+^<<v22-3-10,10>>^ Fez-lhe as colunas de  prata, o estrado de ouro, o assento de  púrpura, o interior revestido com amor, pelas filhas de Jerusalém.
+
+[[v22-3-11]]
+
+^<<v22-3-11,11>>^ Saí, ó filhas de Sião, e contemplai ao rei Salomão com a coroa com que o coroou sua mãe no dia do seu desposório e no dia do júbilo do seu coração.
+
+'''
+
+xref:022-canticos/022-canticos-002.adoc#v22-2-0[&#60; Capítulo Anterior] | <<v22-3-0,Topo>> | xref:022-canticos/022-canticos-004.adoc#v22-4-0[Próximo Capítulo &#62;]

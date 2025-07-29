@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v2-4-0]]
+=== Êxodo, 4
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v2-4-1]]
+
+^<<v2-4-1,1>>^ ENTÃO respondeu Moisés, e disse: Mas eis que me não crerão, nem ouvirão a minha voz, porque dirão: O Senhor não te apareceu.
+
+[[v2-4-2]]
+
+^<<v2-4-2,2>>^ E o Senhor disse-lhe: Que é isso  na tua mão? E ele disse: Uma vara.
+
+[[v2-4-3]]
+
+^<<v2-4-3,3>>^ E ele disse: Lança-a na terra. Ele a lançou na terra, e tornou-se em cobra; e Moisés fugia dela.
+
+[[v2-4-4]]
+
+^<<v2-4-4,4>>^ Então disse o Senhor a Moisés: Estende a tua mão, e pega-lhe pela cauda. E estendeu sua mão, e pegou-lhe pela cauda, e tornou-se em vara na sua mão.
+
+[[v2-4-5]]
+
+^<<v2-4-5,5>>^ Para que creiam que te apareceu o Senhor, Deus de seus pais, o Deus de Abraão, o Deus de Isaque e o Deus de Jacó.
+
+[[v2-4-6]]
+
+^<<v2-4-6,6>>^ E disse-lhe mais o Senhor: Mete agora a tua mão no teu seio. E, tirando-a, eis que sua mão estava  leprosa, branca  como a neve.
+
+[[v2-4-7]]
+
+^<<v2-4-7,7>>^ E disse: Torna a meter a tua mão no teu seio. E tornou a meter sua mão no seu seio; depois tirou-a do seu seio, e eis que se tornara como a sua outra  carne.
+
+[[v2-4-8]]
+
+^<<v2-4-8,8>>^ E acontecerá que, se eles te não crerem, nem ouvirem a voz do primeiro sinal, crerão a voz do derradeiro sinal;
+
+[[v2-4-9]]
+
+^<<v2-4-9,9>>^ E se acontecer que ainda não creiam a estes dois sinais, nem ouçam a tua voz, tomarás das águas do rio, e as derramarás na terra seca; e as águas, que tomarás do rio, tornar-se-ão em sangue sobre a terra seca.
+
+[[v2-4-10]]
+
+^<<v2-4-10,10>>^ Então disse Moisés ao Senhor; Ah! Senhor! eu não sou homem eloquente nem de ontem, nem de anteontem, nem ainda desde que tens falado ao teu servo; porque sou pesado de boca, e pesado de língua.
+
+[[v2-4-11]]
+
+^<<v2-4-11,11>>^ E disse-lhe o Senhor: Quem fez a boca do homem? ou quem fez o mudo, ou o surdo, ou o que vê, ou o cego? Não sou eu, o Senhor?
+
+[[v2-4-12]]
+
+^<<v2-4-12,12>>^ Vai pois agora, e eu serei com a tua boca, e te ensinarei o que hás de falar.
+
+[[v2-4-13]]
+
+^<<v2-4-13,13>>^ Ele porém disse: Ah! Senhor! envia por mão daquele a quem  tu hás de enviar.
+
+[[v2-4-14]]
+
+^<<v2-4-14,14>>^ Então se acendeu a ira do Senhor contra Moisés, e disse: Não é Aarão, o levita, teu irmão? eu sei que ele falará muito bem; e eis que ele também sai ao teu encontro; e, vendo-te, se alegrará em seu coração.
+
+[[v2-4-15]]
+
+^<<v2-4-15,15>>^ E tu lhe falarás, e porás as palavras na sua boca; e eu serei com a tua boca, e com a sua boca, ensinando-vos o que haveis de fazer.
+
+[[v2-4-16]]
+
+^<<v2-4-16,16>>^ E ele falará por ti ao povo; e acontecerá que ele te será por boca, e tu lhe serás por Deus.
+
+[[v2-4-17]]
+
+^<<v2-4-17,17>>^ Toma pois esta vara na tua mão, com que farás os sinais.
+
+[[v2-4-18]]
+
+^<<v2-4-18,18>>^ Então foi-se Moisés, e voltou para Jetro seu sogro, e disse-lhe: Eu irei agora, e tornarei a meus irmãos, que estão  no Egito, para ver se ainda vivem. Disse pois Jetro a Moisés: Vai em paz.
+
+[[v2-4-19]]
+
+^<<v2-4-19,19>>^ Disse também o Senhor a Moisés em Midiã: Vai, volta para o Egito; porque todos os que buscavam a tua alma morreram.
+
+[[v2-4-20]]
+
+^<<v2-4-20,20>>^ Tomou pois Moisés sua mulher e seus filhos, e os levou sobre um jumento, e tornou à terra do Egito; e Moisés tomou a vara de Deus na sua mão.
+
+[[v2-4-21]]
+
+^<<v2-4-21,21>>^ E disse o Senhor a Moisés: Quando voltares ao Egito, atenta que faças diante de Faraó todas as maravilhas que tenho posto na tua mão; mas eu endurecerei o seu coração, para que não deixe ir o povo.
+
+[[v2-4-22]]
+
+^<<v2-4-22,22>>^ Então dirás a Faraó: Assim diz o Senhor: Israel é  meu filho, meu primogênito.
+
+[[v2-4-23]]
+
+^<<v2-4-23,23>>^ E eu te tenho dito: Deixa ir o meu filho, para que me sirva; mas tu recusaste deixá-lo ir; eis que eu matarei a teu filho, o teu primogênito.
+
+[[v2-4-24]]
+
+^<<v2-4-24,24>>^ E aconteceu no caminho, numa estalagem, que o Senhor o encontrou, e o quis matar.
+
+[[v2-4-25]]
+
+^<<v2-4-25,25>>^ Então Zípora tomou uma pedra aguda , e circuncidou o prepúcio de seu filho, e o lançou a seus pés, e disse: Certamente me és um esposo sanguinário.
+
+[[v2-4-26]]
+
+^<<v2-4-26,26>>^ E desviou-se dele. Então ela disse: Esposo sanguinário, por causa da circuncisão.
+
+[[v2-4-27]]
+
+^<<v2-4-27,27>>^ Disse também o Senhor a Aarão: Vai ao encontro de Moisés ao deserto. E ele foi, encontrou-o no monte de Deus e beijou-o.
+
+[[v2-4-28]]
+
+^<<v2-4-28,28>>^ E denunciou Moisés a Aarão todas as palavras do Senhor, que o enviara, e todos os sinais que lhe mandara.
+
+[[v2-4-29]]
+
+^<<v2-4-29,29>>^ Então foram Moisés e Aarão, e ajuntaram todos os anciãos dos filhos de Israel.
+
+[[v2-4-30]]
+
+^<<v2-4-30,30>>^ E Aarão falou todas as palavras que o Senhor falara a Moisés, e fez os sinais perante os olhos do povo.
+
+[[v2-4-31]]
+
+^<<v2-4-31,31>>^ E o povo creu; e ouviram que o Senhor visitava aos filhos de Israel, e que via a sua aflição; e inclinaram-se, e adoraram.
+
+'''
+
+xref:002-exodo/002-exodo-003.adoc#v2-3-0[&#60; Capítulo Anterior] | <<v2-4-0,Topo>> | xref:002-exodo/002-exodo-005.adoc#v2-5-0[Próximo Capítulo &#62;]

@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v13-13-0]]
+=== 1 Crônicas, 13
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v13-13-1]]
+
+^<<v13-13-1,1>>^ E TEVE Davi conselho com os capitães dos milhares, e dos centos, e  com todos os príncipes.
+
+[[v13-13-2]]
+
+^<<v13-13-2,2>>^ E disse Davi a toda a congregação de Israel: Se bem vos parece ; e que vem  do Senhor nosso Deus, enviemos depressa mensageiros  a todos os nossos outros irmãos em todas as terras de Israel, e aos sacerdotes e aos levitas com eles nas cidades e nos seus arrabaldes, para que se ajuntem conosco.
+
+[[v13-13-3]]
+
+^<<v13-13-3,3>>^ E tornemos a trazer para nós a arca do nosso Deus; porque não a buscamos nos dias de Saul.
+
+[[v13-13-4]]
+
+^<<v13-13-4,4>>^ Então disse toda a congregação que assim se fizesse; porque este negócio pareceu reto aos olhos de todo o povo.
+
+[[v13-13-5]]
+
+^<<v13-13-5,5>>^ Ajuntou pois Davi a todo o Israel desde Sior do Egito até chegar a Hamate, para trazer a arca de Deus de Quiriate-Jearim.
+
+[[v13-13-6]]
+
+^<<v13-13-6,6>>^ E então Davi com todo o Israel subiu a Baala e dali  a Quiriate-Jearim que está  em Judá, para fazer subir dali a arca de Deus, o Senhor que habita entre  os querubins, sobre  a qual é invocado o seu nome.
+
+[[v13-13-7]]
+
+^<<v13-13-7,7>>^ E levaram a arca de Deus sobre um carro novo, da casa de Abinadabe: e Uzá e Aío guiavam o carro.
+
+[[v13-13-8]]
+
+^<<v13-13-8,8>>^ E Davi, e todo o Israel, alegravam-se perante Deus com toda a sua força; em cânticos, com harpas e com alaúdes, e com tamboris, e com címbalos e com trombetas.
+
+[[v13-13-9]]
+
+^<<v13-13-9,9>>^ E, chegando à eira de Quidom, estendeu Uzá a sua mão, para ter mão na arca; porque os bois tropeçavam.
+
+[[v13-13-10]]
+
+^<<v13-13-10,10>>^ Então se acendeu a ira do Senhor contra Uzá, e o feriu, por ter estendido a sua mão à arca: e morreu ali perante Deus.
+
+[[v13-13-11]]
+
+^<<v13-13-11,11>>^ E Davi se encheu de tristeza de que o Senhor houvesse aberto brecha em Uzá; pelo que chamou àquele lugar Perez-Uzá, até ao dia de hoje.
+
+[[v13-13-12]]
+
+^<<v13-13-12,12>>^ E aquele dia temeu Davi ao Senhor, dizendo: Como trarei a mim a arca de Deus?
+
+[[v13-13-13]]
+
+^<<v13-13-13,13>>^ Pelo que Davi não trouxe a arca a si, à cidade de Davi; porém a fez retirar à casa de Obede-Edom, o geteu.
+
+[[v13-13-14]]
+
+^<<v13-13-14,14>>^ Assim ficou a arca de Deus com a família de Obede-Edom, três meses em sua casa: e o Senhor abençoou a casa de Obede-Edom, e tudo quanto tinha.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-012.adoc#v13-12-0[&#60; Capítulo Anterior] | <<v13-13-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-014.adoc#v13-14-0[Próximo Capítulo &#62;]

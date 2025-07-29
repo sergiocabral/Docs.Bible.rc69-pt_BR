@@ -1,0 +1,33 @@
+include::./index.adoc[]
+
+[[v23-12-0]]
+=== Isaías, 12
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-12-1]]
+
+^<<v23-12-1,1>>^ E DIRÁS naquele dia: Graças te dou, ó Senhor, porque, ainda que  te iraste contra mim, a tua ira se retirou, e tu me consolaste.
+
+[[v23-12-2]]
+
+^<<v23-12-2,2>>^ Eis que Deus é  a minha salvação: eu confiarei e não temerei porque o Senhor Jeová é a minha força e o meu cântico, e se tornou a minha salvação.
+
+[[v23-12-3]]
+
+^<<v23-12-3,3>>^ E vós com alegria tirareis águas das fontes da salvação.
+
+[[v23-12-4]]
+
+^<<v23-12-4,4>>^ E direis naquele dia: Dai graças ao Senhor, invocai o seu nome, tornai manifestos os seus feitos entre os povos, contai quão excelso é o seu nome.
+
+[[v23-12-5]]
+
+^<<v23-12-5,5>>^ Cantai ao Senhor, porque fez cousas grandiosas: saiba-se isto em toda a terra.
+
+[[v23-12-6]]
+
+^<<v23-12-6,6>>^ Exulta e canta de gozo, ó habitante de Sião, porque grande é o Santo de Israel no meio de ti.
+
+'''
+
+xref:023-isaias/023-isaias-011.adoc#v23-11-0[&#60; Capítulo Anterior] | <<v23-12-0,Topo>> | xref:023-isaias/023-isaias-013.adoc#v23-13-0[Próximo Capítulo &#62;]

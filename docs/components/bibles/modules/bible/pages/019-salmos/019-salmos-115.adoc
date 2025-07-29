@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-115-0]]
+=== Salmos, 115
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-115-1]]
+
+^<<v19-115-1,1>>^ NÃO a nós, Senhor, não a nós, mas ao teu nome dá glória, por amor da tua benignidade e da tua verdade.
+
+[[v19-115-2]]
+
+^<<v19-115-2,2>>^ Porque dirão as nações: Onde está  o seu Deus?
+
+[[v19-115-3]]
+
+^<<v19-115-3,3>>^ Mas o nosso Deus está  nos céus: faz tudo o que lhe apraz.
+
+[[v19-115-4]]
+
+^<<v19-115-4,4>>^ Os ídolos deles são  prata e ouro, obra das mãos dos homens.
+
+[[v19-115-5]]
+
+^<<v19-115-5,5>>^ Têm boca, mas não falam; têm olhos, mas não veem;
+
+[[v19-115-6]]
+
+^<<v19-115-6,6>>^ Têm ouvidos, mas não ouvem; nariz têm, mas não cheiram.
+
+[[v19-115-7]]
+
+^<<v19-115-7,7>>^ Têm mãos, mas não apalpam, têm pés, mas não andam; nem som algum sai da sua garganta.
+
+[[v19-115-8]]
+
+^<<v19-115-8,8>>^ Tornem-se semelhantes a eles os que os fazem, e todos os que neles confiam.
+
+[[v19-115-9]]
+
+^<<v19-115-9,9>>^ Confia, ó Israel, no Senhor: ele é seu auxílio e seu escudo.
+
+[[v19-115-10]]
+
+^<<v19-115-10,10>>^ Casa de Aarão, confia no Senhor: ele é seu auxílio e seu escudo.
+
+[[v19-115-11]]
+
+^<<v19-115-11,11>>^ Vós, os que temeis ao Senhor, confiai no Senhor: ele é  seu auxílio e seu escudo.
+
+[[v19-115-12]]
+
+^<<v19-115-12,12>>^ O Senhor, que se lembrou de nós, abençoará; abençoará a casa de Israel; abençoará a casa de Aarão.
+
+[[v19-115-13]]
+
+^<<v19-115-13,13>>^ Abençoará os que temem ao Senhor, tanto pequenos como grandes.
+
+[[v19-115-14]]
+
+^<<v19-115-14,14>>^ O Senhor vos aumentará cada vez mais, a voz  e a  vossos filhos.
+
+[[v19-115-15]]
+
+^<<v19-115-15,15>>^ Sede benditos do Senhor que fez os céus e a terra.
+
+[[v19-115-16]]
+
+^<<v19-115-16,16>>^ Os céus são os céus do Senhor; mas a terra deu-a ele aos filhos dos homens.
+
+[[v19-115-17]]
+
+^<<v19-115-17,17>>^ Os mortos não louvam ao Senhor, nem os que descem ao silêncio.
+
+[[v19-115-18]]
+
+^<<v19-115-18,18>>^ Mas nós bendiremos ao Senhor, desde agora e para sempre. Louvai ao Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-114.adoc#v19-114-0[&#60; Capítulo Anterior] | <<v19-115-0,Topo>> | xref:019-salmos/019-salmos-116.adoc#v19-116-0[Próximo Capítulo &#62;]

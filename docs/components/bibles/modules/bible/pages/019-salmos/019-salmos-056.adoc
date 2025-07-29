@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v19-56-0]]
+=== Salmos, 56
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-56-1]]
+
+^<<v19-56-1,1>>^ TEM misericórdia de mim, ó Deus, porque o homem procura devorar-me; oprime-me, pelejando todo o dia.
+
+[[v19-56-2]]
+
+^<<v19-56-2,2>>^ Os que me andam espiando procuram devorar-me todo o dia; pois são muitos os que pelejam contra mim, ó Altíssimo.
+
+[[v19-56-3]]
+
+^<<v19-56-3,3>>^ No dia em que eu temer, hei de confiar em ti.
+
+[[v19-56-4]]
+
+^<<v19-56-4,4>>^ Em Deus louvarei a sua palavra; em Deus pus a minha confiança e não temerei; que me pode fazer a carne?
+
+[[v19-56-5]]
+
+^<<v19-56-5,5>>^ Todos os dias torcem as minhas palavras; todos os seus pensamentos são  contra mim para o mal.
+
+[[v19-56-6]]
+
+^<<v19-56-6,6>>^ Ajuntam-se, escondem-se, espiam os meus passos, como aguardando a minha morte.
+
+[[v19-56-7]]
+
+^<<v19-56-7,7>>^ Porventura  escaparão eles por meio da sua iniquidade? Ó Deus, derriba os povos na tua  ira!
+
+[[v19-56-8]]
+
+^<<v19-56-8,8>>^ Tu contaste as minhas vagueações: põe as minhas lágrimas no teu odre: não estão elas  no teu livro?
+
+[[v19-56-9]]
+
+^<<v19-56-9,9>>^ Quando eu a ti  clamar, então retrocederão os meus inimigos: isto sei eu, porque Deus está comigo.
+
+[[v19-56-10]]
+
+^<<v19-56-10,10>>^ Em Deus louvarei a sua  palavra: no Senhor louvarei a sua  palavra.
+
+[[v19-56-11]]
+
+^<<v19-56-11,11>>^ Em Deus tenho posto a minha confiança; não temerei o que me possa fazer o homem.
+
+[[v19-56-12]]
+
+^<<v19-56-12,12>>^ Os teus votos estão  sobre mim, ó Deus: eu te renderei ações de graças;
+
+[[v19-56-13]]
+
+^<<v19-56-13,13>>^ Pois tu livraste a minha alma da morte, como também os meus pés de tropeçarem, para andar diante de Deus na luz dos viventes.
+
+'''
+
+xref:019-salmos/019-salmos-055.adoc#v19-55-0[&#60; Capítulo Anterior] | <<v19-56-0,Topo>> | xref:019-salmos/019-salmos-057.adoc#v19-57-0[Próximo Capítulo &#62;]

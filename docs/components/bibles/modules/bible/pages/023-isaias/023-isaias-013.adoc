@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-13-0]]
+=== Isaías, 13
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-13-1]]
+
+^<<v23-13-1,1>>^ PESO de Babilônia, que viu Isaías, filho de Amós.
+
+[[v23-13-2]]
+
+^<<v23-13-2,2>>^ Alçai uma bandeira sobre o monte escalvado; levantai a voz para eles: acenai-lhes com a mão, para que entrem pelas portas dos príncipes.
+
+[[v23-13-3]]
+
+^<<v23-13-3,3>>^ Eu dei ordens aos meus santificados: sim, já chamei os meus valentes para a minha ira, os que exultam com a minha majestade.
+
+[[v23-13-4]]
+
+^<<v23-13-4,4>>^ Já se ouve  a gritaria da multidão sobre os montes, semelhante à de um grande povo: a voz do reboliço de reinos e de nações já  congregadas. O Senhor dos Exércitos passa em revista o exército de guerra.
+
+[[v23-13-5]]
+
+^<<v23-13-5,5>>^ Já  vem duma terra de longe, desde a extremidade do céu, o Senhor, e os instrumentos da sua indignação, para destruir toda aquela terra.
+
+[[v23-13-6]]
+
+^<<v23-13-6,6>>^ Uivai, porque o dia do Senhor está perto: vem do Todo-poderoso como assolação.
+
+[[v23-13-7]]
+
+^<<v23-13-7,7>>^ Pelo que todas as mãos se debilitarão, e o coração de todos os homens se desanimará.
+
+[[v23-13-8]]
+
+^<<v23-13-8,8>>^ E assombrar-se-ão, e apoderar-se-ão deles dores e ais, e  se angustiarão, como a mulher parturiente; cada um se espantará do seu próximo; os seus rostos serão  rostos flamejantes.
+
+[[v23-13-9]]
+
+^<<v23-13-9,9>>^ Eis que o dia do Senhor vem, horrendo, com furor e ira ardente, para pôr a terra em assolação, e destruir os pecadores dela.
+
+[[v23-13-10]]
+
+^<<v23-13-10,10>>^ Porque as estrelas dos céus e os astros não deixarão brilhar a sua luz; o sol se escurecerá ao nascer, e a lua não fará resplandecer a sua luz.
+
+[[v23-13-11]]
+
+^<<v23-13-11,11>>^ E visitarei sobre o mundo a maldade, e sobre os ímpios a sua iniquidade: e farei cessar a arrogância dos atrevidos, e abaterei a soberba dos tiranos.
+
+[[v23-13-12]]
+
+^<<v23-13-12,12>>^ Farei que um homem seja mais precioso do que o ouro puro, e mais raro do que o ouro fino de Ofir.
+
+[[v23-13-13]]
+
+^<<v23-13-13,13>>^ Pelo que farei estremecer os céus; e a terra se moverá do seu lugar, por causa do furor do Senhor dos Exércitos, e por causa do dia da sua ardente ira.
+
+[[v23-13-14]]
+
+^<<v23-13-14,14>>^ E cada um  será como a corça que foge, e como a ovelha que ninguém recolhe: cada um voltará para o seu povo, e cada um fugirá para a sua terra.
+
+[[v23-13-15]]
+
+^<<v23-13-15,15>>^ Todo o que for achado será traspassado: e todo o que for apanhado, cairá à espada.
+
+[[v23-13-16]]
+
+^<<v23-13-16,16>>^ E suas crianças serão despedaçadas perante os seus olhos: as suas casas serão saqueadas, e as suas mulheres violadas.
+
+[[v23-13-17]]
+
+^<<v23-13-17,17>>^ Eis que eu despertarei contra eles os medos, que não farão caso da prata, nem tão pouco desejarão ouro.
+
+[[v23-13-18]]
+
+^<<v23-13-18,18>>^ E os seus  arcos despedaçarão os mancebos, e não se compadecerão do fruto do ventre; o seu olho não poupará os filhos.
+
+[[v23-13-19]]
+
+^<<v23-13-19,19>>^ E Babilônia, o ornamento dos reinos, a glória e  a soberba dos caldeus será como Sodoma e Gomorra, quando Deus as  transtornou.
+
+[[v23-13-20]]
+
+^<<v23-13-20,20>>^ Nunca mais será habitada, nem reedificada de geração em geração: nem o árabe armará ali a sua tenda, nem tão pouco os pastores ali farão deitar os seus rebanhos.
+
+[[v23-13-21]]
+
+^<<v23-13-21,21>>^ Mas as feras do deserto repousarão ali, e as suas casas se encherão de horríveis animais; e ali habitarão as avestruzes, e os sátiros pularão ali.
+
+[[v23-13-22]]
+
+^<<v23-13-22,22>>^ E as feras que uivam gritarão umas às outras nos seus palácios vazios, como também os chacais nos seus  palácios de prazer; pois bem perto já  vem chegando o seu tempo, e os seus dias não se prolongarão.
+
+'''
+
+xref:023-isaias/023-isaias-012.adoc#v23-12-0[&#60; Capítulo Anterior] | <<v23-13-0,Topo>> | xref:023-isaias/023-isaias-014.adoc#v23-14-0[Próximo Capítulo &#62;]

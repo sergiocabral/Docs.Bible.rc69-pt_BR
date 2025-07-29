@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v5-9-0]]
+=== Deuteronômio, 9
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v5-9-1]]
+
+^<<v5-9-1,1>>^ OUVE, ó Israel, hoje passarás o Jordão, para entrar a possuir nações maiores e mais fortes do que tu; cidades grandes, e muradas até aos céus;
+
+[[v5-9-2]]
+
+^<<v5-9-2,2>>^ Um povo grande e alto, filhos de gigantes, que tu conheces, e de que  já ouvistes: Quem pararia diante dos filhos dos gigantes?
+
+[[v5-9-3]]
+
+^<<v5-9-3,3>>^ Sabe pois hoje que o Senhor teu Deus, que passa diante de ti, é um fogo que consome, e os destruirá, e os derrubará de diante de ti: e tu os lançarás fora, e cedo os desfarás, como o Senhor te tem dito.
+
+[[v5-9-4]]
+
+^<<v5-9-4,4>>^ Quando pois o Senhor teu Deus os lançar fora de diante de ti, não fales no teu coração, dizendo: Por causa da  minha justiça é que  o Senhor me trouxe a esta terra para a possuir: porque pela impiedade destas nações é que  o Senhor as lança fora, diante de ti.
+
+[[v5-9-5]]
+
+^<<v5-9-5,5>>^ Não é  por causa da  tua justiça, nem pela retidão do teu coração que entras a possuir a sua terra, mas pela impiedade destas nações o Senhor teu Deus as lança fora, de diante de ti; e para confirmar a palavra que o Senhor teu Deus jurou a teus pais, Abraão, Isaque e Jacó.
+
+[[v5-9-6]]
+
+^<<v5-9-6,6>>^ Sabe pois que não é por causa da  tua justiça que o Senhor teu Deus te dá esta boa terra para possuí-la, pois tu és  povo obstinado.
+
+[[v5-9-7]]
+
+^<<v5-9-7,7>>^ Lembra-te, e não te esqueças, de que muito provocaste a ira ao Senhor teu Deus no deserto; desde o dia em que saístes do Egito, até que chegastes a esse lugar, rebeldes fostes contra o Senhor;
+
+[[v5-9-8]]
+
+^<<v5-9-8,8>>^ Pois em Horebe tanto provocastes à ira o Senhor, que se acendeu contra vós para vos destruir.
+
+[[v5-9-9]]
+
+^<<v5-9-9,9>>^ Subindo eu ao monte a receber as tábuas de pedra, as tábuas do concerto que o Senhor fizera convosco, então fiquei no monte quarenta dias e quarenta noites; pão não comi, e água não bebi;
+
+[[v5-9-10]]
+
+^<<v5-9-10,10>>^ E o Senhor me deu as duas tábuas de pedra, escritas com o dedo de Deus; e nelas tinha escrito  conforme a todas aquelas palavras que o Senhor tinha falado convosco no monte do meio do fogo, no dia da congregação.
+
+[[v5-9-11]]
+
+^<<v5-9-11,11>>^ Sucedeu pois que ao fim dos quarenta dias e quarenta noites, o Senhor me deu as duas tábuas de pedra, as tábuas do concerto.
+
+[[v5-9-12]]
+
+^<<v5-9-12,12>>^ E o Senhor me disse: Levanta-te, desce depressa, daqui, porque o teu povo, que tiraste do Egito, já se  tem corrompido: cedo se desviaram do caminho que eu  lhes tinha ordenado: imagem de fundição para si fizeram.
+
+[[v5-9-13]]
+
+^<<v5-9-13,13>>^ Falou-me mais o Senhor, dizendo: Atentei para este povo, e eis que ele é  povo obstinado:
+
+[[v5-9-14]]
+
+^<<v5-9-14,14>>^ Deixa-me que os destrua, e apague o seu nome de debaixo dos céus: e te faça a ti nação mais poderosa e mais numerosa do que esta.
+
+[[v5-9-15]]
+
+^<<v5-9-15,15>>^ Então virei-me, e desci do monte; e o monte ardia em fogo e as duas tábuas do concerto estavam  em ambas as minhas mãos.
+
+[[v5-9-16]]
+
+^<<v5-9-16,16>>^ E olhei, e eis que havíeis pecado contra o Senhor vosso Deus; vós tínheis feito um bezerro de fundição: cedo vos desviastes do caminho que o Senhor vos ordenara.
+
+[[v5-9-17]]
+
+^<<v5-9-17,17>>^ Então peguei das duas tábuas, e as arrojei de ambas as minhas mãos, e as quebrei aos vossos olhos.
+
+[[v5-9-18]]
+
+^<<v5-9-18,18>>^ E me lancei perante o Senhor, como dantes; quarenta dias e quarenta noites, não comi pão e não bebi água, por causa de todo o vosso pecado que havíeis pecado, fazendo mal aos olhos do Senhor, para o provocar à ira.
+
+[[v5-9-19]]
+
+^<<v5-9-19,19>>^ Porque temi por causa da ira e do furor, com que o Senhor tanto estava irado contra vós, para vos destruir: porém ainda por  esta vez o Senhor me ouviu.
+
+[[v5-9-20]]
+
+^<<v5-9-20,20>>^ Também o Senhor se irou muito contra Aarão para o destruir; mas também orei por Aarão ao mesmo tempo.
+
+[[v5-9-21]]
+
+^<<v5-9-21,21>>^ Porém eu tomei o vosso pecado, o bezerro que tínheis feito, e o queimei a fogo, e o pisei, moendo-o bem, até que se desfez em pó: e o seu pó lancei no ribeiro que descia do monte.
+
+[[v5-9-22]]
+
+^<<v5-9-22,22>>^ Também em Tabera, e em Massá, e em Quibrote-Hataavá provocastes muito a ira do Senhor.
+
+[[v5-9-23]]
+
+^<<v5-9-23,23>>^ Quando também o Senhor vos enviou desde Cades-Barneia, dizendo: Subi, e possuí a terra, que vos tenho dado: rebeldes fostes ao mandado do Senhor vosso Deus, e não o crestes, e não obedecestes à sua voz.
+
+[[v5-9-24]]
+
+^<<v5-9-24,24>>^ Rebeldes fostes contra o Senhor desde o dia em que vos conheci.
+
+[[v5-9-25]]
+
+^<<v5-9-25,25>>^ E prostrei-me perante o Senhor aqueles quarenta dias e quarenta noites em que estava prostrado; porquanto o Senhor dissera que vos queria destruir.
+
+[[v5-9-26]]
+
+^<<v5-9-26,26>>^ E eu orei ao Senhor, dizendo: Senhor Deus, não destruas o teu povo e a tua herança, que resgataste com a tua grandeza, que tiraste do Egito com mão forte.
+
+[[v5-9-27]]
+
+^<<v5-9-27,27>>^ Lembra-te dos teus servos, Abraão, Isaque, e Jacó; não atentes para a dureza deste povo, nem para a sua impiedade, nem para o seu pecado:
+
+[[v5-9-28]]
+
+^<<v5-9-28,28>>^ Para que o povo da  terra donde nos tiraste não diga: Porquanto o Senhor os não pôde introduzir na terra de que lhes tinha falado, e porque os aborrecia, os tirou para os matar no deserto:
+
+[[v5-9-29]]
+
+^<<v5-9-29,29>>^ Todavia são  eles o teu povo e a tua herança que tu tiraste com a tua grande força e com o teu braço estendido.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-008.adoc#v5-8-0[&#60; Capítulo Anterior] | <<v5-9-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-010.adoc#v5-10-0[Próximo Capítulo &#62;]

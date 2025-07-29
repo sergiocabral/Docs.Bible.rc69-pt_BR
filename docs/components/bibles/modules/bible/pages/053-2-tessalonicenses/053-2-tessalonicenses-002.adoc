@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v53-2-0]]
+=== 2 Tessalonicenses, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v53-2-1]]
+
+^<<v53-2-1,1>>^ ORA, irmãos, rogamo-vos, pela vinda de nosso Senhor Jesus Cristo, e pela  nossa reunião com ele,
+
+[[v53-2-2]]
+
+^<<v53-2-2,2>>^ Que não vos movais facilmente do vosso entendimento, nem vos perturbeis, quer por espírito, quer por palavra, quer por epístola, como de nós, como se o dia de Cristo estivesse já perto.
+
+[[v53-2-3]]
+
+^<<v53-2-3,3>>^ Ninguém de maneira alguma vos engane; porque não será assim  sem que antes venha a apostasia, e se manifeste o homem do pecado, o filho da perdição;
+
+[[v53-2-4]]
+
+^<<v53-2-4,4>>^ O qual se opõe, e se levanta contra tudo o que se chama Deus, ou se adora; de sorte que se assentará, como Deus, no templo de Deus, querendo parecer Deus,
+
+[[v53-2-5]]
+
+^<<v53-2-5,5>>^ Não vos lembrais de que estas coisas vos dizia quando ainda estava convosco?
+
+[[v53-2-6]]
+
+^<<v53-2-6,6>>^ E agora vós sabeis o que o detém, para que a seu próprio tempo seja manifestado.
+
+[[v53-2-7]]
+
+^<<v53-2-7,7>>^ Porque já o mistério da injustiça opera: somente há um que agora resiste até que do meio seja tirado;
+
+[[v53-2-8]]
+
+^<<v53-2-8,8>>^ E então será revelado o iníquo, a quem o Senhor desfará pelo assopro da sua boca, e aniquilará pelo esplendor da sua vinda;
+
+[[v53-2-9]]
+
+^<<v53-2-9,9>>^ A esse  cuja vinda é segundo a eficácia de Satanás, com todo o poder, e sinais e prodígios de mentira,
+
+[[v53-2-10]]
+
+^<<v53-2-10,10>>^ E com todo o engano da injustiça para os que perecem, porque não receberam o amor da verdade para se salvarem.
+
+[[v53-2-11]]
+
+^<<v53-2-11,11>>^ E por isso Deus lhes enviará a operação do erro, para que creiam a mentira;
+
+[[v53-2-12]]
+
+^<<v53-2-12,12>>^ Para que sejam julgados todos os que não creram a verdade, antes tiveram prazer na iniquidade.
+
+[[v53-2-13]]
+
+^<<v53-2-13,13>>^ Mas devemos sempre dar graças a Deus por vós, irmãos amados do Senhor, por vos ter Deus elegido desde o princípio para a salvação, em santificação do Espírito, e fé da verdade;
+
+[[v53-2-14]]
+
+^<<v53-2-14,14>>^ Para o que pelo nosso evangelho vos chamou, para alcançardes a glória de nosso Senhor Jesus Cristo.
+
+[[v53-2-15]]
+
+^<<v53-2-15,15>>^ Então, irmãos, estai firmes  e retende as tradições que vos foram ensinadas, seja por palavra, seja por epístola nossa.
+
+[[v53-2-16]]
+
+^<<v53-2-16,16>>^ E o próprio nosso Senhor Jesus Cristo nosso Deus e Pai, que nos amou, e em graça nos  deu uma eterna consolação e boa esperança,
+
+[[v53-2-17]]
+
+^<<v53-2-17,17>>^ Console os vossos corações, e vos conforte em toda a boa palavra e obra.
+
+'''
+
+xref:053-2-tessalonicenses/053-2-tessalonicenses-001.adoc#v53-1-0[&#60; Capítulo Anterior] | <<v53-2-0,Topo>> | xref:053-2-tessalonicenses/053-2-tessalonicenses-003.adoc#v53-3-0[Próximo Capítulo &#62;]

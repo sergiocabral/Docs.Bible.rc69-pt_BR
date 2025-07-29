@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v2-33-0]]
+=== Êxodo, 33
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v2-33-1]]
+
+^<<v2-33-1,1>>^ DISSE mais o Senhor a Moisés: Vai, sobe daqui, tu e o povo que fizeste subir da terra do Egito, à terra que jurei a Abraão, a Isaque, e a Jacó, dizendo: À tua semente a darei.
+
+[[v2-33-2]]
+
+^<<v2-33-2,2>>^ E enviarei um anjo diante de ti, (e lançarei fora os cananeus, e os amorreus, e os heteus, e os ferezeus, e os heveus, e os jebuseus),
+
+[[v2-33-3]]
+
+^<<v2-33-3,3>>^ A uma terra que mana leite e mel: porque eu não subirei no meio de ti, porquanto és  povo obstinado, para que te não consuma eu no caminho.
+
+[[v2-33-4]]
+
+^<<v2-33-4,4>>^ E ouvindo o povo esta má notícia, entristeceram-se, e nenhum deles pôs sobre si os seus atavios.
+
+[[v2-33-5]]
+
+^<<v2-33-5,5>>^ Porquanto o Senhor tinha dito a Moisés: Dize aos filhos de Israel: Povo obstinado és ; se um momento subir no meio de ti, te consumirei: porém agora tira de ti os teus atavios, para que eu saiba o que te hei de fazer.
+
+[[v2-33-6]]
+
+^<<v2-33-6,6>>^ Então os filhos de Israel se despojaram dos seus atavios, ao pé do monte de Horebe.
+
+[[v2-33-7]]
+
+^<<v2-33-7,7>>^ E tomou Moisés a tenda, e a  estendeu para si fora do arraial, desviada longe do arraial, e chamou-lhe a tenda da congregação: e aconteceu que todo aquele que buscava o Senhor saiu à tenda da congregação, que estava fora do arraial.
+
+[[v2-33-8]]
+
+^<<v2-33-8,8>>^ E aconteceu que, saindo Moisés à tenda, todo o povo se levantava, e cada um ficou em pé à porta da sua tenda: e olhavam para Moisés pelas costas, até ele entrar na tenda.
+
+[[v2-33-9]]
+
+^<<v2-33-9,9>>^ E aconteceu que, entrando Moisés na tenda, descia a coluna de nuvem, e punha-se à porta da tenda: e o Senhor falava com Moisés.
+
+[[v2-33-10]]
+
+^<<v2-33-10,10>>^ E, vendo todo o povo a coluna de nuvem que estava à porta da tenda, todo o povo se levantou, e inclinaram-se cada um à porta da sua tenda.
+
+[[v2-33-11]]
+
+^<<v2-33-11,11>>^ E falava o Senhor a Moisés cara a cara, como qualquer fala com o seu amigo: depois tornou ao arraial: mas o seu servidor Josué, filho de Num, mancebo, nunca se apartava do meio da tenda.
+
+[[v2-33-12]]
+
+^<<v2-33-12,12>>^ E Moisés disse ao Senhor: Eis que tu me dizes: Faze subir a este povo, porém não me fazes saber a quem hás de enviar comigo: e tu disseste: Conheço-te por teu  nome, também achaste graça aos meus olhos.
+
+[[v2-33-13]]
+
+^<<v2-33-13,13>>^ Agora pois, se tenho achado graça aos teus olhos, rogo-te que agora me faças saber o teu caminho, e conhecer-te-ei, para que ache graça aos teus olhos: e atenta que esta nação é  o teu povo.
+
+[[v2-33-14]]
+
+^<<v2-33-14,14>>^ Disse pois: Irá a minha presença contigo  para te fazer descansar.
+
+[[v2-33-15]]
+
+^<<v2-33-15,15>>^ Então disse-lhe: Se a tua presença não for conosco , não nos faças subir daqui.
+
+[[v2-33-16]]
+
+^<<v2-33-16,16>>^ Como pois se saberá agora que tenho achado graça aos teus olhos, eu e o teu povo? acaso  não é  por andares tu conosco e separados seremos, eu e o teu povo, de todo o povo que há  sobre a face da terra?
+
+[[v2-33-17]]
+
+^<<v2-33-17,17>>^ Então disse o Senhor a Moisés: Farei também isto, que tens dito; porquanto achaste graça aos meus olhos; e te conheço por nome.
+
+[[v2-33-18]]
+
+^<<v2-33-18,18>>^ Então ele disse: Rogo-te que me mostres a tua glória.
+
+[[v2-33-19]]
+
+^<<v2-33-19,19>>^ Porém ele disse: Eu farei passar toda a minha bondade por diante de ti, e apregoarei o nome do Senhor diante de ti: e terei misericórdia de quem eu tiver misericórdia, e me compadecerei de quem me compadecer.
+
+[[v2-33-20]]
+
+^<<v2-33-20,20>>^ E disse mais: Não poderás ver a minha face, porquanto homem nenhum verá a minha face, e viverá.
+
+[[v2-33-21]]
+
+^<<v2-33-21,21>>^ Disse mais o Senhor: Eis aqui um lugar junto a mim; ali te porás sobre a penha.
+
+[[v2-33-22]]
+
+^<<v2-33-22,22>>^ E acontecerá que, quando a minha glória passar, te porei numa fenda da penha, e te cobrirei com a minha mão, até que eu haja passado.
+
+[[v2-33-23]]
+
+^<<v2-33-23,23>>^ E, havendo eu tirado a minha mão, me verás pelas costas: mas a minha face não se verá.
+
+'''
+
+xref:002-exodo/002-exodo-032.adoc#v2-32-0[&#60; Capítulo Anterior] | <<v2-33-0,Topo>> | xref:002-exodo/002-exodo-034.adoc#v2-34-0[Próximo Capítulo &#62;]

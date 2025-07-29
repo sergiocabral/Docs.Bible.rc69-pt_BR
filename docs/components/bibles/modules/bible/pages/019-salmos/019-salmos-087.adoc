@@ -1,0 +1,37 @@
+include::./index.adoc[]
+
+[[v19-87-0]]
+=== Salmos, 87
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-87-1]]
+
+^<<v19-87-1,1>>^ O SEU fundamento está  nos montes santos.
+
+[[v19-87-2]]
+
+^<<v19-87-2,2>>^ O Senhor ama as portas de Sião, mais do que todas as habitações de Jacó.
+
+[[v19-87-3]]
+
+^<<v19-87-3,3>>^ Cousas gloriosas se dizem de ti, ó cidade de Deus. (Selá.)
+
+[[v19-87-4]]
+
+^<<v19-87-4,4>>^ Dentre os que me conhecem, farei menção de Raabe e de Babilônia: eis que da Filístia, e de Tiro, e da Etiópia, se dirá: Este é nascido ali.
+
+[[v19-87-5]]
+
+^<<v19-87-5,5>>^ E de Sião se dirá: Este e aquele nasceram ali: e o mesmo Altíssimo a estabelecerá.
+
+[[v19-87-6]]
+
+^<<v19-87-6,6>>^ O Senhor, ao fazer descrição dos povos, dirá: este é nascido ali. (Selá.)
+
+[[v19-87-7]]
+
+^<<v19-87-7,7>>^ E os cantores e tocadores de instrumentos entoarão: todas as minhas fontes estão  em ti.
+
+'''
+
+xref:019-salmos/019-salmos-086.adoc#v19-86-0[&#60; Capítulo Anterior] | <<v19-87-0,Topo>> | xref:019-salmos/019-salmos-088.adoc#v19-88-0[Próximo Capítulo &#62;]

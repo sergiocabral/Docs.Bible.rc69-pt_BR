@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v40-7-0]]
+=== Mateus, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v40-7-1]]
+
+^<<v40-7-1,1>>^ NÃO julgueis, para que não sejais julgados.
+
+[[v40-7-2]]
+
+^<<v40-7-2,2>>^ Porque com o juízo com que julgardes sereis julgados, e com a medida com que tiverdes medido vos hão de medir a vós.
+
+[[v40-7-3]]
+
+^<<v40-7-3,3>>^ E por que reparas tu no argueiro que está  no olho do teu irmão, e não vês a trave que está  no teu olho?
+
+[[v40-7-4]]
+
+^<<v40-7-4,4>>^ Ou como dirás a teu irmão: Deixa-me tirar o argueiro do teu olho; estando uma trave no teu?
+
+[[v40-7-5]]
+
+^<<v40-7-5,5>>^ Hipócrita, tira primeiro a trave do teu olho, e então cuidarás em tirar o argueiro do olho do teu irmão.
+
+[[v40-7-6]]
+
+^<<v40-7-6,6>>^ Não deis aos cães as coisas santas, nem deiteis aos porcos as vossas pérolas; para que não as pisem, com os pés, e, voltando-se, vos despedacem.
+
+[[v40-7-7]]
+
+^<<v40-7-7,7>>^ Pedi, e dar-se-vos-á; buscai, e encontrareis; batei, e abrir-se-vos-á.
+
+[[v40-7-8]]
+
+^<<v40-7-8,8>>^ Porque, aquele que pede, recebe; e, o que busca, encontra: e, ao que bate, se abre.
+
+[[v40-7-9]]
+
+^<<v40-7-9,9>>^ E qual dentre vós é o homem que, pedindo-lhe pão o seu filho, lhe dará uma pedra?
+
+[[v40-7-10]]
+
+^<<v40-7-10,10>>^ E, pedindo-lhe peixe, lhe dará uma serpente?
+
+[[v40-7-11]]
+
+^<<v40-7-11,11>>^ Se, vós pois, sendo maus, sabeis dar boas coisas aos vossos filhos, quanto mais vosso Pai, que está  nos céus, dará bens aos que lhos  pedirem?
+
+[[v40-7-12]]
+
+^<<v40-7-12,12>>^ Portanto, tudo o que vós quereis que os homens vos façam, fazei-lho também vós, porque esta é a lei e os profetas.
+
+[[v40-7-13]]
+
+^<<v40-7-13,13>>^ Entrai pela porta estreita; porque larga é  a porta, e espaçoso o caminho que conduz à perdição, e muitos são os que entram por ela;
+
+[[v40-7-14]]
+
+^<<v40-7-14,14>>^ E porque estreita é  a porta, e apertado o caminho que leva à vida, e poucos há que a encontrem.
+
+[[v40-7-15]]
+
+^<<v40-7-15,15>>^ Acautelai-vos, porém, dos falsos profetas, que vêm até vós vestidos como ovelhas, mas interiormente são lobos devoradores.
+
+[[v40-7-16]]
+
+^<<v40-7-16,16>>^ Por seus frutos os conhecereis. Porventura  colhem-se uvas dos espinheiros ou figos dos abrolhos?
+
+[[v40-7-17]]
+
+^<<v40-7-17,17>>^ Assim, toda a árvore boa produz bons frutos, e toda a árvore má produz frutos maus.
+
+[[v40-7-18]]
+
+^<<v40-7-18,18>>^ Não pode a árvore boa dar maus frutos; nem a árvore má dar frutos bons.
+
+[[v40-7-19]]
+
+^<<v40-7-19,19>>^ Toda a árvore que não dá bom fruto corta-se e lança-se no fogo.
+
+[[v40-7-20]]
+
+^<<v40-7-20,20>>^ Portanto, pelos seus frutos os conhecereis.
+
+[[v40-7-21]]
+
+^<<v40-7-21,21>>^ Nem todo o que me diz: Senhor, Senhor! entrará no reino dos céus, mas aquele que faz a vontade de meu Pai, que está  nos céus.
+
+[[v40-7-22]]
+
+^<<v40-7-22,22>>^ Muitos me dirão naquele dia: Senhor, Senhor, não profetizamos nós em teu nome? e em teu nome não expulsamos demônios? e em teu nome não fizemos muitas maravilhas?
+
+[[v40-7-23]]
+
+^<<v40-7-23,23>>^ E então lhes direi abertamente: Nunca vos conheci: apartai-vos de mim, vós que praticais a iniquidade.
+
+[[v40-7-24]]
+
+^<<v40-7-24,24>>^ Todo aquele, pois, que escuta estas minhas palavras e as pratica, assemelhá-lo-ei ao homem prudente, que edificou a sua casa sobre a rocha:
+
+[[v40-7-25]]
+
+^<<v40-7-25,25>>^ E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e não caiu, porque estava edificada sobre a rocha.
+
+[[v40-7-26]]
+
+^<<v40-7-26,26>>^ E aquele que ouve estas minhas palavras, e as não cumpre, compará-lo-ei ao homem insensato, que edificou a sua casa sobre a areia.
+
+[[v40-7-27]]
+
+^<<v40-7-27,27>>^ E desceu a chuva, e correram rios, e assopraram ventos, e combateram aquela casa, e caiu, e foi grande a sua queda.
+
+[[v40-7-28]]
+
+^<<v40-7-28,28>>^ E aconteceu que, concluindo Jesus este discurso, a multidão se admirou da sua doutrina;
+
+[[v40-7-29]]
+
+^<<v40-7-29,29>>^ Porquanto os ensinava como tendo autoridade; e não como os escribas.
+
+'''
+
+xref:040-mateus/040-mateus-006.adoc#v40-6-0[&#60; Capítulo Anterior] | <<v40-7-0,Topo>> | xref:040-mateus/040-mateus-008.adoc#v40-8-0[Próximo Capítulo &#62;]

@@ -1,0 +1,161 @@
+include::./index.adoc[]
+
+[[v44-20-0]]
+=== Atos, 20
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v44-20-1]]
+
+^<<v44-20-1,1>>^ E, DEPOIS que cessou o alvoroço, Paulo chamou a si os discípulos, e, abraçando-os, saiu para a Macedônia.
+
+[[v44-20-2]]
+
+^<<v44-20-2,2>>^ E, havendo andado por aquelas terras, e exortando-os com muitas palavras, veio à Grécia.
+
+[[v44-20-3]]
+
+^<<v44-20-3,3>>^ E, passando ali  três meses e sendo-lhe pelos judeus postas ciladas, como tivesse de navegar para a Síria, determinou voltar pela Macedônia.
+
+[[v44-20-4]]
+
+^<<v44-20-4,4>>^ E acompanhou-o, até à Ásia, Sopater, de Bereia, e, dos de Tessalônica, Aristarco, e Segundo, e Gaio de Derbe, e Timóteo, e, dos da Ásia, Tíquico e Trófimo.
+
+[[v44-20-5]]
+
+^<<v44-20-5,5>>^ Estes, indo adiante, nos esperaram em Troas.
+
+[[v44-20-6]]
+
+^<<v44-20-6,6>>^ E, depois dos dias dos pães  asmos, navegamos de Filipos, e em cinco dias fomos ter com eles a Troas, onde estivemos sete dias.
+
+[[v44-20-7]]
+
+^<<v44-20-7,7>>^ E no primeiro dia  da semana, ajuntando-se os discípulos para partir o pão, Paulo, que havia de partir no dia seguinte, falava com eles; e alargou a prática até à meia noite.
+
+[[v44-20-8]]
+
+^<<v44-20-8,8>>^ E havia muitas luzes no cenáculo onde estavam juntos.
+
+[[v44-20-9]]
+
+^<<v44-20-9,9>>^ E, estando um  certo mancebo, por nome Eutico, assentado numa janela, caiu do terceiro andar, tomado de um sono profundo que lhe sobreveio durante o extenso discurso de Paulo: e foi levantado morto.
+
+[[v44-20-10]]
+
+^<<v44-20-10,10>>^ Paulo, porém, descendo, inclinou-se sobre ele e, abraçando-o, disse: Não vos perturbeis, que a sua alma nele está.
+
+[[v44-20-11]]
+
+^<<v44-20-11,11>>^ E subindo, e partindo o pão, e comendo, ainda lhes falou largamente até à alvorada; e assim partiu.
+
+[[v44-20-12]]
+
+^<<v44-20-12,12>>^ E levaram vivo o mancebo, e ficaram não pouco consolados.
+
+[[v44-20-13]]
+
+^<<v44-20-13,13>>^ Nós, porém, subindo ao navio, navegamos até Assom, onde devíamos receber a Paulo, porque assim o ordenara, indo ele por terra.
+
+[[v44-20-14]]
+
+^<<v44-20-14,14>>^ E, logo que se ajuntou conosco em Assom, o recebemos, e fomos a Mitilene.
+
+[[v44-20-15]]
+
+^<<v44-20-15,15>>^ E, navegando dali, chegamos no dia  seguinte defronte de Quio e, no outro aportamos a Samos, e, ficando em Trogílio, chegamos no dia  seguinte a Mileto.
+
+[[v44-20-16]]
+
+^<<v44-20-16,16>>^ Porque já  Paulo tinha determinado passar adiante de Éfeso, para não gastar tempo na Ásia. Apressava-se pois para estar, se lhe fosse possível, em Jerusalém no dia de pentecostes.
+
+[[v44-20-17]]
+
+^<<v44-20-17,17>>^ E de Mileto mandou a Éfeso, a chamar os anciãos da igreja.
+
+[[v44-20-18]]
+
+^<<v44-20-18,18>>^ E, logo que chegaram junto dele, disse-lhes: Vós bem sabeis, desde o primeiro dia em que entrei na Ásia, como em todo esse tempo me portei no meio de vós.
+
+[[v44-20-19]]
+
+^<<v44-20-19,19>>^ Servindo ao Senhor com toda a humildade, e com muitas lágrimas e tentações que pelas ciladas dos judeus me sobrevieram;
+
+[[v44-20-20]]
+
+^<<v44-20-20,20>>^ Como nada, que útil seja, deixei de vos anunciar, e ensinar publicamente e pelas casas,
+
+[[v44-20-21]]
+
+^<<v44-20-21,21>>^ Testificando, tanto aos judeus como aos gregos, a conversão a Deus, e a fé em nosso Senhor Jesus Cristo.
+
+[[v44-20-22]]
+
+^<<v44-20-22,22>>^ E agora, eis que, ligado eu pelo espírito, vou para Jerusalém, não sabendo o que lá me há de acontecer;
+
+[[v44-20-23]]
+
+^<<v44-20-23,23>>^ Senão o que o Espírito Santo de cidade em cidade me revela, dizendo que me esperam prisões e tribulações.
+
+[[v44-20-24]]
+
+^<<v44-20-24,24>>^ Mas em nada tenho a minha vida por preciosa, contanto que cumpra com alegria a minha carreira e o ministério que recebi do Senhor Jesus, para dar testemunho do evangelho da graça de Deus.
+
+[[v44-20-25]]
+
+^<<v44-20-25,25>>^ E agora, na verdade, sei que todos vós, por quem passei pregando o reino de Deus, não vereis mais o meu rosto.
+
+[[v44-20-26]]
+
+^<<v44-20-26,26>>^ Portanto, no dia de hoje, vos protesto que estou  limpo do sangue de todos.
+
+[[v44-20-27]]
+
+^<<v44-20-27,27>>^ Porque nunca deixei de vos anunciar todo o conselho de Deus.
+
+[[v44-20-28]]
+
+^<<v44-20-28,28>>^ Olhai pois por vós, e por todo o rebanho sobre que o Espírito Santo vos constituiu bispos, para apascentardes a igreja de Deus, que ele resgatou com seu próprio sangue.
+
+[[v44-20-29]]
+
+^<<v44-20-29,29>>^ Porque eu sei isto: que, depois da  minha partida, entrarão no meio de vós lobos cruéis, que não perdoarão ao rebanho;
+
+[[v44-20-30]]
+
+^<<v44-20-30,30>>^ E que dentre vós mesmos se levantarão homens que falarão coisas  perversas, para atraírem os discípulos após si.
+
+[[v44-20-31]]
+
+^<<v44-20-31,31>>^ Portanto, vigiai, lembrando-vos de que durante três anos, não cessei, noite e dia, de admoestar com lágrimas a cada um de vós.
+
+[[v44-20-32]]
+
+^<<v44-20-32,32>>^ Agora pois, irmãos, encomendo-vos a Deus e à palavra da sua graça; a Ele que é poderoso para vos edificar e dar herança entre todos os santificados.
+
+[[v44-20-33]]
+
+^<<v44-20-33,33>>^ De ninguém cobicei a prata, nem o ouro, nem o vestido.
+
+[[v44-20-34]]
+
+^<<v44-20-34,34>>^ Vós mesmos sabeis que para o que me era necessário a mim, e aos que estão comigo, estas mãos me serviram.
+
+[[v44-20-35]]
+
+^<<v44-20-35,35>>^ Tenho-vos mostrado em tudo que, trabalhando assim, é necessário auxiliar os enfermos, e recordar as palavras do Senhor Jesus, que disse: Mais bem-aventurada coisa é dar do que receber.
+
+[[v44-20-36]]
+
+^<<v44-20-36,36>>^ E, havendo dito isto, pôs-se de joelhos, e orou com todos eles.
+
+[[v44-20-37]]
+
+^<<v44-20-37,37>>^ E levantou-se um grande pranto entre todos, e, lançando-se ao pescoço de Paulo, o beijavam,
+
+[[v44-20-38]]
+
+^<<v44-20-38,38>>^ Entristecendo-se muito, principalmente pela palavra que dissera, que não veriam mais o seu rosto. E acompanharam-no até ao navio.
+
+'''
+
+xref:044-atos/044-atos-019.adoc#v44-19-0[&#60; Capítulo Anterior] | <<v44-20-0,Topo>> | xref:044-atos/044-atos-021.adoc#v44-21-0[Próximo Capítulo &#62;]

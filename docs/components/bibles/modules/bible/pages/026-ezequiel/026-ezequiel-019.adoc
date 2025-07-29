@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v26-19-0]]
+=== Ezequiel, 19
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v26-19-1]]
+
+^<<v26-19-1,1>>^ E TU levanta uma  lamentação sobre os príncipes de Israel,
+
+[[v26-19-2]]
+
+^<<v26-19-2,2>>^ E dize: Quem foi  tua mãe? uma  leoa entre leões deitada criou os seus cachorros no meio dos leõezinhos.
+
+[[v26-19-3]]
+
+^<<v26-19-3,3>>^ E fez crescer um dos seus cachorrinhos, o qual veio a ser leãozinho e aprendeu a apanhar a presa; e devorou os homens.
+
+[[v26-19-4]]
+
+^<<v26-19-4,4>>^ E, ouvindo falar dele as nações, foi apanhado na sua cova, e o trouxeram com ganchos à terra do Egito.
+
+[[v26-19-5]]
+
+^<<v26-19-5,5>>^ Vendo pois ela que havia esperado e que a sua esperança era perdida, tomou outro dos seus cachorros, e  fez dele um  leãozinho.
+
+[[v26-19-6]]
+
+^<<v26-19-6,6>>^ E este, andando continuamente no meio dos leões, veio a ser um leãozinho, e aprendeu a apanhar a presa, e devorou homens.
+
+[[v26-19-7]]
+
+^<<v26-19-7,7>>^ E conheceu os seus palácios, e destruiu as suas cidades; e assolou-se a terra, e a sua plenitude, ao ouvir o seu rugido.
+
+[[v26-19-8]]
+
+^<<v26-19-8,8>>^ Então se ajuntaram contra ele as gentes das províncias em roda, estenderam sobre ele a rede, e  foi apanhado na sua cova.
+
+[[v26-19-9]]
+
+^<<v26-19-9,9>>^ E meteram-no em cárcere com ganchos, e o levaram ao rei de Babilônia: fizeram-no entrar nos lugares fortes, para que se não ouvisse mais a sua voz nos montes de Israel.
+
+[[v26-19-10]]
+
+^<<v26-19-10,10>>^ Tua mãe era  como uma videira na tua quietação, plantada à borda das águas: ela frutificou, e encheu-se de ramos, por causa das muitas águas.
+
+[[v26-19-11]]
+
+^<<v26-19-11,11>>^ E tinha varas fortes para cetros de dominadores, e elevou-se a sua estatura entre os espessos ramos; e foi vista na sua altura com a multidão dos seus ramos.
+
+[[v26-19-12]]
+
+^<<v26-19-12,12>>^ Mas foi arrancada com furor, foi abatida até à terra, e o vento oriental secou o seu fruto: quebraram-se e secaram-se as suas fortes varas, o fogo as consumiu.
+
+[[v26-19-13]]
+
+^<<v26-19-13,13>>^ E agora está  plantada no deserto, numa terra seca e sedenta.
+
+[[v26-19-14]]
+
+^<<v26-19-14,14>>^ E duma vara dos seus ramos saiu fogo que  consumiu o seu fruto, de maneira que não há nela nenhuma vara forte, cetro para dominar. Esta é a lamentação, e servirá de lamentação.
+
+'''
+
+xref:026-ezequiel/026-ezequiel-018.adoc#v26-18-0[&#60; Capítulo Anterior] | <<v26-19-0,Topo>> | xref:026-ezequiel/026-ezequiel-020.adoc#v26-20-0[Próximo Capítulo &#62;]

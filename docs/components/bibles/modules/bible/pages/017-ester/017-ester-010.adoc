@@ -1,0 +1,21 @@
+include::./index.adoc[]
+
+[[v17-10-0]]
+=== Ester, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v17-10-1]]
+
+^<<v17-10-1,1>>^ DEPOIS disto pôs o rei Assuero tributo sobre a terra, e sobre  as ilhas do mar.
+
+[[v17-10-2]]
+
+^<<v17-10-2,2>>^ E todas as obras do seu poder e do seu valor, e a declaração da grandeza de Mardoqueu, a quem o rei engrandeceu, porventura  não estão  escritas no livro das crônicas dos reis da Média e da Pérsia?
+
+[[v17-10-3]]
+
+^<<v17-10-3,3>>^ Porque o judeu Mardoqueu foi  o segundo depois do rei Assuero, e grande para com os judeus, e agradável para com a multidão de seus irmãos, procurando o bem do seu povo, e trabalhando pela prosperidade de toda a sua nação.
+
+'''
+
+xref:017-ester/017-ester-009.adoc#v17-9-0[&#60; Capítulo Anterior] | <<v17-10-0,Topo>> | xref:018-jo/018-jo-001.adoc#v18-1-0[Próximo Capítulo &#62;]

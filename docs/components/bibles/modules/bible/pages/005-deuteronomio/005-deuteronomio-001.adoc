@@ -1,0 +1,193 @@
+include::./index.adoc[]
+
+[[v5-1-0]]
+=== Deuteronômio, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v5-1-1]]
+
+^<<v5-1-1,1>>^ ESTAS são  as palavras que Moisés falou a todo o Israel dalém do Jordão, no deserto, na planície defronte do Mar  de Sufe, entre Parã e Tofel, e Labã, e Hazerote, e Dizaabe.
+
+[[v5-1-2]]
+
+^<<v5-1-2,2>>^ Onze jornadas há  desde Horebe, caminho da montanha de Seir, até Cades-Barneia.
+
+[[v5-1-3]]
+
+^<<v5-1-3,3>>^ E sucedeu que , no ano quadragésimo, no mês undécimo, no primeiro dia  do mês, Moisés falou aos filhos de Israel, conforme a tudo o que o Senhor lhe mandara acerca deles.
+
+[[v5-1-4]]
+
+^<<v5-1-4,4>>^ Depois que feriu a Seom, rei dos amorreus, que habitava em Hesbom, e a Ogue, rei de Basã, que habitava em Astarote, em Edrei.
+
+[[v5-1-5]]
+
+^<<v5-1-5,5>>^ Dalém do Jordão, na terra de Moabe, começou Moisés a declarar esta lei, dizendo:
+
+[[v5-1-6]]
+
+^<<v5-1-6,6>>^ O Senhor nosso Deus nos falou em Horebe, dizendo: Assaz haveis estado neste monte.
+
+[[v5-1-7]]
+
+^<<v5-1-7,7>>^ Voltai-vos, e parti, e ide à montanha dos amorreus, e a todos os seus vizinhos, à planície, e à montanha, e ao vale, e ao sul, e à ribeira do mar; à terra dos cananeus e ao Líbano, até ao grande rio, o rio Eufrates.
+
+[[v5-1-8]]
+
+^<<v5-1-8,8>>^ Eis aqui esta terra, eu a dei diante de vós: entrai e possuí a terra que o Senhor jurou a vossos pais, Abraão, Isaque, e Jacó, que a  daria a eles e à sua semente depois deles.
+
+[[v5-1-9]]
+
+^<<v5-1-9,9>>^ E no mesmo tempo eu vos falei, dizendo: Eu  só não poderei levar-vos.
+
+[[v5-1-10]]
+
+^<<v5-1-10,10>>^ O Senhor vosso Deus já vos tem multiplicado: e eis que já hoje em multidão sois  como as estrelas dos céus.
+
+[[v5-1-11]]
+
+^<<v5-1-11,11>>^ O Senhor Deus de vossos pais vos aumente, como sois, ainda  mil vezes mais: e vos abençoe, como vos tem falado.
+
+[[v5-1-12]]
+
+^<<v5-1-12,12>>^ Como suportaria eu só as vossas moléstias, e as vossas cargas, e as vossas diferenças?
+
+[[v5-1-13]]
+
+^<<v5-1-13,13>>^ Tomai-vos homens sábios e entendidos, experimentados entre as vossas tribos, para que os ponha por vossas cabeças.
+
+[[v5-1-14]]
+
+^<<v5-1-14,14>>^ Então vós me respondestes, e dissestes: Bom é  de fazer a palavra que tens falado.
+
+[[v5-1-15]]
+
+^<<v5-1-15,15>>^ Tomei pois os cabeças de vossas tribos, homens sábios e experimentados, e os tenho posto por cabeças sobre vós, por capitães de milhares, e por capitães de cem, e por capitães de cinquenta, e por capitães de dez, e por governadores das vossas tribos.
+
+[[v5-1-16]]
+
+^<<v5-1-16,16>>^ E no mesmo tempo mandei a vossos juízes, dizendo: Ouvi a causa  entre vossos irmãos, e julgai justamente entre o homem e seu irmão, e entre o estrangeiro que está  com ele.
+
+[[v5-1-17]]
+
+^<<v5-1-17,17>>^ Não atentareis para pessoa alguma  em juízo, ouvireis assim o pequeno como o grande: não temereis a face de ninguém, porque o juízo é de Deus; porém a causa que vos for difícil fareis vir a mim, e eu a ouvirei.
+
+[[v5-1-18]]
+
+^<<v5-1-18,18>>^ Assim naquele tempo vos ordenei todas as cousas que havíeis de fazer.
+
+[[v5-1-19]]
+
+^<<v5-1-19,19>>^ Então partimos de Horebe, e caminhamos por todo aquele grande e tremendo deserto que vistes, pelo caminho das montanhas dos amorreus, como o Senhor nosso Deus nos ordenara: e chegamos a Cades-Barneia.
+
+[[v5-1-20]]
+
+^<<v5-1-20,20>>^ Então eu vos disse: Chegados sois às montanhas dos amorreus, que o Senhor nosso Deus nos dará.
+
+[[v5-1-21]]
+
+^<<v5-1-21,21>>^ Eis aqui o Senhor teu Deus te  deu esta terra diante de ti: sobe, possui-a como te falou o Senhor Deus de teus pais: não temas, e não te assustes.
+
+[[v5-1-22]]
+
+^<<v5-1-22,22>>^ Então todos vós vos chegastes a mim e dissestes: Mandemos homens adiante de nós, para que nos espiem a terra, e nos deem resposta, por que caminho devemos subir a ela, e a que cidades devemos ir.
+
+[[v5-1-23]]
+
+^<<v5-1-23,23>>^ Pareceu-me pois bem este negócio: de sorte que de vós tomei doze homens, de cada tribo um homem.
+
+[[v5-1-24]]
+
+^<<v5-1-24,24>>^ E foram-se, e subiram à montanha, e vieram até ao vale de Escol, e o espiaram.
+
+[[v5-1-25]]
+
+^<<v5-1-25,25>>^ E tomaram do fruto da terra nas suas mãos, e no-lo trouxeram, e nos tornaram a dar  resposta, e disseram: Boa é  a terra que nos dá o Senhor nosso Deus.
+
+[[v5-1-26]]
+
+^<<v5-1-26,26>>^ Porém vós não quisestes subir; mas fostes rebeldes ao mandado do Senhor nosso Deus.
+
+[[v5-1-27]]
+
+^<<v5-1-27,27>>^ E murmurastes nas vossas tendas, e dissestes: Porquanto o Senhor nos aborrece, nos tirou da terra do Egito para nos entregar nas mãos dos amorreus para destruir-nos.
+
+[[v5-1-28]]
+
+^<<v5-1-28,28>>^ Para onde subiremos? nossos irmãos fizeram com que se derretesse o nosso coração, dizendo: Maior e mais alto é  este povo do que nós; as cidades são  grandes e fortificadas até aos céus: e também vimos ali filhos dos gigantes.
+
+[[v5-1-29]]
+
+^<<v5-1-29,29>>^ Então eu vos disse: Não vos espanteis, nem os temais.
+
+[[v5-1-30]]
+
+^<<v5-1-30,30>>^ O Senhor vosso Deus que vai adiante de vós, ele por vós pelejará, conforme a tudo o que fez convosco, diante de vossos olhos, no Egito;
+
+[[v5-1-31]]
+
+^<<v5-1-31,31>>^ Como também no deserto, onde viste que o Senhor teu Deus nele te levou, como um homem leva seu filho, por todo o caminho que andastes, até chegardes a este lugar.
+
+[[v5-1-32]]
+
+^<<v5-1-32,32>>^ Mas nem por isso crestes ao Senhor vosso Deus.
+
+[[v5-1-33]]
+
+^<<v5-1-33,33>>^ Que foi adiante de vós por todo o caminho, para vos achar o lugar onde vos deveríeis acampar: de noite no fogo, para vos mostrar o caminho por onde havíeis de andar, e de dia na nuvem.
+
+[[v5-1-34]]
+
+^<<v5-1-34,34>>^ Ouvindo pois o Senhor a voz das vossas palavras, indignou-se, e jurou, dizendo:
+
+[[v5-1-35]]
+
+^<<v5-1-35,35>>^ Nenhum dos homens desta maligna geração verá esta boa terra que jurei de dar a vossos pais.
+
+[[v5-1-36]]
+
+^<<v5-1-36,36>>^ Salvo Calebe, filho de Jefoné; ele a verá e a terra que pisou darei a ele e a seus filhos: porquanto perseverou em seguir ao Senhor.
+
+[[v5-1-37]]
+
+^<<v5-1-37,37>>^ Também o Senhor se indignou contra mim por causa de vós, dizendo: Também tu lá não entrarás.
+
+[[v5-1-38]]
+
+^<<v5-1-38,38>>^ Josué, filho de Num, que está em pé  diante de ti, ele ali entrará: esforça-o, porque ele a fará herdar a Israel.
+
+[[v5-1-39]]
+
+^<<v5-1-39,39>>^ E vossos meninos, de que dissestes: Por presa serão: e vossos filhos, que hoje nem bem nem mal sabem, eles ali entrarão, e a eles a darei, e eles a possuirão.
+
+[[v5-1-40]]
+
+^<<v5-1-40,40>>^ Porém vós virai-vos, e parti para o deserto, pelo caminho do Mar Vermelho.
+
+[[v5-1-41]]
+
+^<<v5-1-41,41>>^ Então respondestes, e me dissestes: Pecamos contra o Senhor: nós subiremos e pelejaremos, conforme a tudo o que nos ordenou o Senhor nosso Deus: e armastes-vos pois vós, cada um dos seus instrumentos de guerra, e estivestes prestes para subir à montanha.
+
+[[v5-1-42]]
+
+^<<v5-1-42,42>>^ E disse-me o Senhor: Dize-lhes: Não subais nem pelejeis, pois não estou  no meio de vós; para que não sejais feridos diante de vossos inimigos.
+
+[[v5-1-43]]
+
+^<<v5-1-43,43>>^ Porém, falando-vos eu, não ouvistes: antes fostes rebeldes ao mandado do Senhor, e vos ensoberbecestes, e subistes à montanha.
+
+[[v5-1-44]]
+
+^<<v5-1-44,44>>^ E os amorreus, que habitavam naquela montanha, vos saíram ao encontro; e perseguiram-vos como fazem as abelhas, e vos derrotaram desde Seir até Hormá.
+
+[[v5-1-45]]
+
+^<<v5-1-45,45>>^ Tornando pois vós, e chorando perante o Senhor, o Senhor não ouviu a vossa voz, nem vos escutou.
+
+[[v5-1-46]]
+
+^<<v5-1-46,46>>^ Assim em Cades estivestes muitos dias, segundo os dias que ali  estivestes.
+
+'''
+
+xref:004-numeros/004-numeros-036.adoc#v4-36-0[&#60; Capítulo Anterior] | <<v5-1-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-002.adoc#v5-2-0[Próximo Capítulo &#62;]

@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-63-0]]
+=== Salmos, 63
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-63-1]]
+
+^<<v19-63-1,1>>^ Ó DEUS, tu és  o meu Deus; de madrugada te buscarei: a minha alma tem sede de ti; a minha carne te deseja muito em uma terra seca e cansada, onde não há água;
+
+[[v19-63-2]]
+
+^<<v19-63-2,2>>^ Para ver a tua fortaleza e a tua glória, como te vi no santuário.
+
+[[v19-63-3]]
+
+^<<v19-63-3,3>>^ Porque a tua benignidade é  melhor do que a vida; os meus lábios te louvarão.
+
+[[v19-63-4]]
+
+^<<v19-63-4,4>>^ Assim eu te bendirei enquanto viver: em teu nome levantarei as minhas mãos.
+
+[[v19-63-5]]
+
+^<<v19-63-5,5>>^ A minha alma se fartará, como de tutano e de gordura; e a minha boca te  louvará com alegres lábios.
+
+[[v19-63-6]]
+
+^<<v19-63-6,6>>^ Quando me lembrar de ti na minha cama, e  meditar em ti nas vigílias da noite.
+
+[[v19-63-7]]
+
+^<<v19-63-7,7>>^ Porque tu tens sido o meu auxílio; jubiloso cantarei refugiado à sombra das tuas asas.
+
+[[v19-63-8]]
+
+^<<v19-63-8,8>>^ A minha alma te segue de perto: a tua destra me sustenta.
+
+[[v19-63-9]]
+
+^<<v19-63-9,9>>^ Mas aqueles que  procuram a minha vida para a  destruírem, irão para as profundezas da terra.
+
+[[v19-63-10]]
+
+^<<v19-63-10,10>>^ Cairão à espada, serão uma  ração para as raposas.
+
+[[v19-63-11]]
+
+^<<v19-63-11,11>>^ Mas o rei se regozijará em Deus; qualquer que por ele jurar se gloriará; porque se taparão as bocas dos que falam a mentira.
+
+'''
+
+xref:019-salmos/019-salmos-062.adoc#v19-62-0[&#60; Capítulo Anterior] | <<v19-63-0,Topo>> | xref:019-salmos/019-salmos-064.adoc#v19-64-0[Próximo Capítulo &#62;]

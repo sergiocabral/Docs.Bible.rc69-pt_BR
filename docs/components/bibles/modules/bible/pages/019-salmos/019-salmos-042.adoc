@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-42-0]]
+=== Salmos, 42
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-42-1]]
+
+^<<v19-42-1,1>>^ COMO o cervo brama pelas correntes das águas, assim suspira a minha alma por ti, ó Deus!
+
+[[v19-42-2]]
+
+^<<v19-42-2,2>>^ A minha alma tem sede de Deus, do Deus vivo: quando entrarei e me apresentarei ante a face de Deus?
+
+[[v19-42-3]]
+
+^<<v19-42-3,3>>^ As minhas lágrimas servem-me de mantimento de dia e de noite, porquanto me dizem constantemente: Onde está  o teu Deus?
+
+[[v19-42-4]]
+
+^<<v19-42-4,4>>^ Quando me lembro disto, dentro de mim derramo a minha alma: pois eu havia ido com a multidão; fui com eles à casa de Deus, com voz de alegria e louvor, com a multidão que festejava.
+
+[[v19-42-5]]
+
+^<<v19-42-5,5>>^ Por que estás abatida, ó minha alma, e por que  te perturbas em mim? Espera em Deus, pois ainda o louvarei na salvação da sua presença.
+
+[[v19-42-6]]
+
+^<<v19-42-6,6>>^ Ó meu Deus, dentro de mim a minha alma está abatida; portanto lembro-me de ti desde a terra do Jordão, e desde os hermonitas, desde o pequeno monte.
+
+[[v19-42-7]]
+
+^<<v19-42-7,7>>^ Um  abismo chama outro  abismo, ao ruído das tuas catadupas: todas as tuas ondas e vagas têm passado sobre mim.
+
+[[v19-42-8]]
+
+^<<v19-42-8,8>>^ Contudo o Senhor mandará de dia a sua misericórdia, e de noite a sua canção estará comigo: a oração ao Deus da minha vida.
+
+[[v19-42-9]]
+
+^<<v19-42-9,9>>^ Direi a Deus, a minha Rocha: Por que te esqueceste de mim? por que ando de nojo por causa da opressão do inimigo?
+
+[[v19-42-10]]
+
+^<<v19-42-10,10>>^ Como com ferida mortal em meus ossos me afrontam os meus adversários, quando todo o dia me dizem: Onde está  o teu Deus?
+
+[[v19-42-11]]
+
+^<<v19-42-11,11>>^ Por que estás  abatida, ó minha alma, e por que te perturbas dentro de mim? espera em Deus, pois ainda o louvarei. Ele é  a salvação da minha face, e o meu Deus.
+
+'''
+
+xref:019-salmos/019-salmos-041.adoc#v19-41-0[&#60; Capítulo Anterior] | <<v19-42-0,Topo>> | xref:019-salmos/019-salmos-043.adoc#v19-43-0[Próximo Capítulo &#62;]

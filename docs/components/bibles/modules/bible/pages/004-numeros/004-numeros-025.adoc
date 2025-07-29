@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v4-25-0]]
+=== Números, 25
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-25-1]]
+
+^<<v4-25-1,1>>^ E ISRAEL deteve-se em Sitim, e o povo começou a prostituir-se com as filhas dos moabitas.
+
+[[v4-25-2]]
+
+^<<v4-25-2,2>>^ E convidaram o povo aos sacrifícios dos seus deuses; e o povo comeu, e inclinou-se aos seus deuses.
+
+[[v4-25-3]]
+
+^<<v4-25-3,3>>^ Juntando-se pois Israel a Baal-Peor, a ira do Senhor se acendeu contra Israel.
+
+[[v4-25-4]]
+
+^<<v4-25-4,4>>^ Disse o Senhor a Moisés: Toma todos os cabeças do povo, e enforca-os ao Senhor diante do sol, e o ardor da ira do Senhor se retirará de Israel.
+
+[[v4-25-5]]
+
+^<<v4-25-5,5>>^ Então Moisés disse aos juízes de Israel: Cada um mate os seus homens que se juntaram a Baal-Peor.
+
+[[v4-25-6]]
+
+^<<v4-25-6,6>>^ E eis que veio um homem dos filhos de Israel, e trouxe a seus irmãos uma midianita perante os olhos de Moisés e de toda a congregação dos filhos de Israel, chorando eles diante  da tenda da congregação.
+
+[[v4-25-7]]
+
+^<<v4-25-7,7>>^ Vendo isso  Fineias, filho de Eleazar, o filho de Aarão sacerdote, se levantou do meio da congregação, e tomou uma lança na sua mão;
+
+[[v4-25-8]]
+
+^<<v4-25-8,8>>^ E foi após do varão israelita até à tenda, e os atravessou a ambos, ao varão israelita e à mulher, pela sua barriga: então a praga cessou de sobre os filhos de Israel.
+
+[[v4-25-9]]
+
+^<<v4-25-9,9>>^ E os que morreram daquela praga foram vinte e quatro mil.
+
+[[v4-25-10]]
+
+^<<v4-25-10,10>>^ Então o Senhor falou a Moisés, dizendo:
+
+[[v4-25-11]]
+
+^<<v4-25-11,11>>^ Fineias, filho de Eleazar, o filho de Aarão sacerdote, desviou a minha ira de sobre os filhos de Israel, pois zelou o meu zelo no meio deles; de modo que no meu zelo não consumi os filhos de Israel.
+
+[[v4-25-12]]
+
+^<<v4-25-12,12>>^ Portanto dize: Eis que lhe dou o meu concerto de paz,
+
+[[v4-25-13]]
+
+^<<v4-25-13,13>>^ E ele, e a sua semente depois dele, terá o concerto do sacerdócio perpétuo; porquanto teve zelo pelo seu Deus, e fez propiciação pelos filhos de Israel.
+
+[[v4-25-14]]
+
+^<<v4-25-14,14>>^ E o nome do israelita morto, que foi morto com a midianita, era  Zinri, filho de Salu, maioral da casa paterna dos simeonitas.
+
+[[v4-25-15]]
+
+^<<v4-25-15,15>>^ E o nome da mulher midianita, morta era  Cosbi, filha de Zur, cabeça do povo da casa paterna entre os midianitas.
+
+[[v4-25-16]]
+
+^<<v4-25-16,16>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v4-25-17]]
+
+^<<v4-25-17,17>>^ Afligireis os midianitas e os ferireis,
+
+[[v4-25-18]]
+
+^<<v4-25-18,18>>^ Porque eles vos afligiram a vós outros com os seus enganos com que vos enganaram no negócio de Peor, e no negócio de Cosbi, filha do maioral dos midianitas, a irmã deles, que foi morta no dia da praga no negócio de Peor.
+
+'''
+
+xref:004-numeros/004-numeros-024.adoc#v4-24-0[&#60; Capítulo Anterior] | <<v4-25-0,Topo>> | xref:004-numeros/004-numeros-026.adoc#v4-26-0[Próximo Capítulo &#62;]

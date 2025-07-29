@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v61-1-0]]
+=== 2 Pedro, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v61-1-1]]
+
+^<<v61-1-1,1>>^ SIMÃO Pedro, servo e apóstolo de Jesus Cristo, aos que conosco alcançaram fé igualmente preciosa pela justiça do nosso Deus e Salvador Jesus Cristo:
+
+[[v61-1-2]]
+
+^<<v61-1-2,2>>^ Graça e paz vos sejam multiplicadas, pelo conhecimento de Deus, e de Jesus nosso Senhor;
+
+[[v61-1-3]]
+
+^<<v61-1-3,3>>^ Visto como o seu divino poder nos deu tudo o que diz respeito  à vida e piedade, pelo conhecimento daquele que nos chamou por sua glória e virtude;
+
+[[v61-1-4]]
+
+^<<v61-1-4,4>>^ Pelas quais ele nos tem dado grandíssimas e preciosas promessas, para que por elas fiqueis participantes da natureza divina, havendo escapado da corrupção, que pela concupiscência há no mundo.
+
+[[v61-1-5]]
+
+^<<v61-1-5,5>>^ E vós também, pondo nisto mesmo toda a diligência, acrescentai à vossa fé a virtude, e à virtude a ciência,
+
+[[v61-1-6]]
+
+^<<v61-1-6,6>>^ E à ciência temperança, e à temperança paciência, e à paciência piedade,
+
+[[v61-1-7]]
+
+^<<v61-1-7,7>>^ E à piedade amor fraternal; e ao amor fraternal caridade.
+
+[[v61-1-8]]
+
+^<<v61-1-8,8>>^ Porque, se em vós houver e abundarem estas coisas , não vos deixarão ociosos nem estéreis no conhecimento de nosso Senhor Jesus Cristo.
+
+[[v61-1-9]]
+
+^<<v61-1-9,9>>^ Pois aquele em quem não há estas coisas  é cego, nada vendo ao longe, havendo-se esquecido da purificação dos seus antigos pecados.
+
+[[v61-1-10]]
+
+^<<v61-1-10,10>>^ Portanto, irmãos, procurai fazer cada vez mais firme a vossa vocação e eleição; porque, fazendo isto, nunca jamais tropeçareis.
+
+[[v61-1-11]]
+
+^<<v61-1-11,11>>^ Porque assim vos será amplamente concedida a entrada no reino eterno de nosso Senhor e Salvador Jesus Cristo.
+
+[[v61-1-12]]
+
+^<<v61-1-12,12>>^ Pelo que não deixarei de exortar-vos sempre acerca destas coisas , ainda que bem as saibais, e estejais confirmados na presente verdade.
+
+[[v61-1-13]]
+
+^<<v61-1-13,13>>^ E tenho por justo, enquanto estiver neste tabernáculo, despertar-vos com admoestações.
+
+[[v61-1-14]]
+
+^<<v61-1-14,14>>^ Sabendo que brevemente hei de deixar este  meu tabernáculo, como também nosso Senhor Jesus Cristo já  mo tem revelado.
+
+[[v61-1-15]]
+
+^<<v61-1-15,15>>^ Mas também eu procurarei em toda a ocasião que depois da minha morte tenhais lembrança destas coisas.
+
+[[v61-1-16]]
+
+^<<v61-1-16,16>>^ Porque não vos fizemos saber a virtude e a vinda de nosso Senhor Jesus Cristo, seguindo fábulas artificialmente compostas: mas nós mesmos  vimos a sua majestade.
+
+[[v61-1-17]]
+
+^<<v61-1-17,17>>^ Porquanto ele recebeu de Deus Pai honra e glória, quando da magnífica glória lhe foi dirigida a seguinte voz: Este é o meu Filho amado, em quem me tenho comprazido.
+
+[[v61-1-18]]
+
+^<<v61-1-18,18>>^ E ouvimos esta voz dirigida do céu, estando nós com ele no monte santo;
+
+[[v61-1-19]]
+
+^<<v61-1-19,19>>^ E temos, mui firme, a palavra dos profetas, à qual bem fazeis, em estar atentos, como a uma luz que alumia em lugar escuro, até que o dia esclareça, e a estrela da alva apareça em vossos corações.
+
+[[v61-1-20]]
+
+^<<v61-1-20,20>>^ Sabendo primeiramente isto: que nenhuma profecia da Escritura é de particular interpretação.
+
+[[v61-1-21]]
+
+^<<v61-1-21,21>>^ Porque a profecia nunca foi produzida por vontade de homem algum, mas os homens santos de Deus falaram inspirados pelo Espírito Santo.
+
+'''
+
+xref:060-1-pedro/060-1-pedro-005.adoc#v60-5-0[&#60; Capítulo Anterior] | <<v61-1-0,Topo>> | xref:061-2-pedro/061-2-pedro-002.adoc#v61-2-0[Próximo Capítulo &#62;]

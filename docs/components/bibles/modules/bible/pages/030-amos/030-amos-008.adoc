@@ -1,0 +1,65 @@
+include::./index.adoc[]
+
+[[v30-8-0]]
+=== Amós, 8
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v30-8-1]]
+
+^<<v30-8-1,1>>^ O SENHOR Jeová  assim me fez ver: e eis aqui um cesto de frutos do verão.
+
+[[v30-8-2]]
+
+^<<v30-8-2,2>>^ E disse: Que vês, Amós? E eu disse: Um cesto de frutos do verão. Então o Senhor me disse: Chegou o fim sobre o meu povo Israel; daqui por diante nunca mais passarei por ele.
+
+[[v30-8-3]]
+
+^<<v30-8-3,3>>^ Mas os cânticos do templo serão ouvidos naquele dia, diz o Senhor Jeová : multiplicar-se-ão os cadáveres; em todos os lugares serão  lançados fora em silêncio.
+
+[[v30-8-4]]
+
+^<<v30-8-4,4>>^ Ouvi isto, vós que anelais o abatimento do necessitado, e destruís os miseráveis da terra,
+
+[[v30-8-5]]
+
+^<<v30-8-5,5>>^ Dizendo: Quando passará a lua nova, para vendermos o grão? e o sábado, para abrirmos os celeiros de trigo, diminuindo o efa, e aumentando o siclo, e procedendo dolosamente com balanças enganadoras.
+
+[[v30-8-6]]
+
+^<<v30-8-6,6>>^ Para comprarmos os pobres por dinheiro, e os necessitados por um par de sapatos? E depois venderemos as cascas do trigo.
+
+[[v30-8-7]]
+
+^<<v30-8-7,7>>^ Jurou o Senhor pela glória de Jacó: Eu não me esquecerei de todas as suas obras para sempre!
+
+[[v30-8-8]]
+
+^<<v30-8-8,8>>^ Por causa disto não se comoverá a terra? e não  chorará todo aquele que habita nela? certamente levantar-se-á toda como o grande rio, e será arrojada, e se submergirá como o rio do Egito.
+
+[[v30-8-9]]
+
+^<<v30-8-9,9>>^ E sucederá que, naquele dia, diz o Senhor, farei que o sol se ponha ao meio-dia, e a terra se entenebreça em dia de luz.
+
+[[v30-8-10]]
+
+^<<v30-8-10,10>>^ E tornarei as vossas festas em luto, e todos os vossos cânticos em lamentações, e aparecerá saco sobre todos os lombos, e calva sobre toda a cabeça; e farei que isso seja como luto de filho único, e o seu fim como dia de amarguras.
+
+[[v30-8-11]]
+
+^<<v30-8-11,11>>^ Eis que vêm dias, diz o Senhor Jeová , em que enviarei fome sobre a terra, não fome de pão, nem sede de água, mas de ouvir as palavras do Senhor.
+
+[[v30-8-12]]
+
+^<<v30-8-12,12>>^ E irão vagabundos de um mar até outro mar, e do norte até ao oriente: correrão por toda a parte, buscando a palavra do Senhor, e não a acharão.
+
+[[v30-8-13]]
+
+^<<v30-8-13,13>>^ Naquele dia as virgens formosas e os mancebos desmaiarão de sede.
+
+[[v30-8-14]]
+
+^<<v30-8-14,14>>^ Os que juram pelo delito de Samaria, dizendo: Como é certo viver o teu deus, ó Dã, e: Como é certo viver o caminho de Berseba; esses mesmos cairão, e não se levantarão mais.
+
+'''
+
+xref:030-amos/030-amos-007.adoc#v30-7-0[&#60; Capítulo Anterior] | <<v30-8-0,Topo>> | xref:030-amos/030-amos-009.adoc#v30-9-0[Próximo Capítulo &#62;]

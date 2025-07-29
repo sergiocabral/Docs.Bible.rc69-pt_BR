@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v23-27-0]]
+=== Isaías, 27
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-27-1]]
+
+^<<v23-27-1,1>>^ NAQUELE dia o Senhor castigará com a sua dura espada, grande e forte, o Leviatã, a serpente veloz, e o Leviatã, a serpente tortuosa, e matará o dragão, que está  no mar.
+
+[[v23-27-2]]
+
+^<<v23-27-2,2>>^ Naquele dia haverá uma  vinha de vinho tinto; cantai-lhe.
+
+[[v23-27-3]]
+
+^<<v23-27-3,3>>^ Eu, o Senhor, a guardo, e  a cada momento a regarei; para que ninguém lhe faça dano, de noite e de dia a guardarei.
+
+[[v23-27-4]]
+
+^<<v23-27-4,4>>^ Não há indignação em mim: quem me poria sarças e  espinheiros diante de mim na guerra? eu iria contra eles e  juntamente os queimaria.
+
+[[v23-27-5]]
+
+^<<v23-27-5,5>>^ Ou que se apodere da minha força, e  faça paz comigo: sim, que faça paz comigo.
+
+[[v23-27-6]]
+
+^<<v23-27-6,6>>^ Dias  virão em que Jacó lançará raízes, e  florescerá e brotará Israel, e encherão de fruto a face do mundo.
+
+[[v23-27-7]]
+
+^<<v23-27-7,7>>^ Porventura  feriu-o ele como feriu aos que o feriram? ou matou-o ele assim como matou aos que por ele foram mortos?
+
+[[v23-27-8]]
+
+^<<v23-27-8,8>>^ Com medida contendeste com ela quando a rejeitaste; ele a tirou com o seu vento forte, no tempo do vento leste.
+
+[[v23-27-9]]
+
+^<<v23-27-9,9>>^ Por isso se expiará a iniquidade de Jacó, e este será  todo o fruto de se haver tirado o seu pecado: quando ele fizer a todas as pedras do altar como pedras de cal feitas em pedaços, os bosques e as imagens do sol não poderão ficar em pé.
+
+[[v23-27-10]]
+
+^<<v23-27-10,10>>^ Porque a cidade forte está solitária, uma habitação rejeitada e abandonada como um  deserto; ali pastarão os bezerros, e ali se deitarão, e devorarão os seus ramos.
+
+[[v23-27-11]]
+
+^<<v23-27-11,11>>^ Quando os seus ramos se secarem, serão quebrados; vindo as mulheres, os acenderão porque este povo  não é povo de entendimento; por isso aquele que o fez não se compadecerá dele, e aquele que o formou não lhe mostrará nenhum favor.
+
+[[v23-27-12]]
+
+^<<v23-27-12,12>>^ E será naquele dia que o Senhor padejará o seu fruto  desde as correntes do rio, até ao rio do Egito; e vós, ó filhos de Israel, sereis colhidos um a um.
+
+[[v23-27-13]]
+
+^<<v23-27-13,13>>^ E será naquele dia que se tocará uma grande trombeta, e os que andavam perdidos pela terra da Assíria, e os que foram desterrados para a terra do Egito tornarão  a vir, e adorarão ao Senhor no monte santo em Jerusalém.
+
+'''
+
+xref:023-isaias/023-isaias-026.adoc#v23-26-0[&#60; Capítulo Anterior] | <<v23-27-0,Topo>> | xref:023-isaias/023-isaias-028.adoc#v23-28-0[Próximo Capítulo &#62;]

@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v19-59-0]]
+=== Salmos, 59
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-59-1]]
+
+^<<v19-59-1,1>>^ LIVRA-ME, meu Deus, dos meus inimigos, defende-me daqueles que se levantam contra mim.
+
+[[v19-59-2]]
+
+^<<v19-59-2,2>>^ Livra-me dos que praticam a iniquidade, e salva-me dos homens sanguinários.
+
+[[v19-59-3]]
+
+^<<v19-59-3,3>>^ Pois eis que armam ciladas à minha alma; os fortes se ajuntam contra mim, sem transgressão minha ou pecado meu, ó Senhor.
+
+[[v19-59-4]]
+
+^<<v19-59-4,4>>^ Eles correm, e se preparam, sem culpa minha ; desperta para me ajudares, e olha.
+
+[[v19-59-5]]
+
+^<<v19-59-5,5>>^ Tu, pois, ó Senhor, Deus dos Exércitos, Deus de Israel, desperta para visitares todas as nações: não tenhas misericórdia de nenhum dos pérfidos que praticam a iniquidade. (Selá.)
+
+[[v19-59-6]]
+
+^<<v19-59-6,6>>^ Voltam à tarde; dão ganidos como cães, rodeando a cidade.
+
+[[v19-59-7]]
+
+^<<v19-59-7,7>>^ Eis que eles dão gritos com as suas bocas; espadas estão  nos seus lábios; porque (dizem eles) , quem ouve?
+
+[[v19-59-8]]
+
+^<<v19-59-8,8>>^ Mas tu, Senhor, te rirás deles: zombarás de todos os gentios.
+
+[[v19-59-9]]
+
+^<<v19-59-9,9>>^ Por causa  da sua força eu te aguardarei; pois Deus é a minha alta defesa.
+
+[[v19-59-10]]
+
+^<<v19-59-10,10>>^ O Deus da minha misericórdia me prevenirá; Deus me fará ver o meu desejo  sobre os meus inimigos.
+
+[[v19-59-11]]
+
+^<<v19-59-11,11>>^ Não os mates, para que o meu povo se não esqueça: espalha-os pelo teu poder e abate-os, ó Senhor, nosso escudo.
+
+[[v19-59-12]]
+
+^<<v19-59-12,12>>^ Pelo  pecado da sua boca e pelas  palavras dos seus lábios fiquem presos na sua soberba; e pelas maldições e pelas mentiras que proferem.
+
+[[v19-59-13]]
+
+^<<v19-59-13,13>>^ Consome- os  na tua  indignação, consome- os , de modo que não existam mais; para que saibam que Deus reina em Jacó até aos fins da terra. (Selá.)
+
+[[v19-59-14]]
+
+^<<v19-59-14,14>>^ E tornem a vir à tarde, e deem ganidos como cães, rodeando a cidade.
+
+[[v19-59-15]]
+
+^<<v19-59-15,15>>^ Vagueiem buscando o que comer, passem a noite sem se fartarem.
+
+[[v19-59-16]]
+
+^<<v19-59-16,16>>^ Eu porém cantarei a tua força; pela manhã louvarei com alegria a tua misericórdia: porquanto tu foste o meu alto refúgio, e proteção no dia da minha angústia.
+
+[[v19-59-17]]
+
+^<<v19-59-17,17>>^ A ti, ó fortaleza minha, cantarei louvores; porque Deus é  a minha defesa, é o Deus da minha misericórdia.
+
+'''
+
+xref:019-salmos/019-salmos-058.adoc#v19-58-0[&#60; Capítulo Anterior] | <<v19-59-0,Topo>> | xref:019-salmos/019-salmos-060.adoc#v19-60-0[Próximo Capítulo &#62;]

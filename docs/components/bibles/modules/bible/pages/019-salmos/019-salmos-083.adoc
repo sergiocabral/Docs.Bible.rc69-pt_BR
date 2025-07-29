@@ -1,0 +1,81 @@
+include::./index.adoc[]
+
+[[v19-83-0]]
+=== Salmos, 83
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-83-1]]
+
+^<<v19-83-1,1>>^ Ó DEUS, não estejas em silêncio; não cerres os ouvidos nem fiques impassível, ó Deus.
+
+[[v19-83-2]]
+
+^<<v19-83-2,2>>^ Porque eis que teus inimigos se alvoroçam, e os que te aborrecem levantaram a cabeça.
+
+[[v19-83-3]]
+
+^<<v19-83-3,3>>^ Astutamente formam conselho contra o teu povo, e conspiram contra os teus protegidos.
+
+[[v19-83-4]]
+
+^<<v19-83-4,4>>^ Disseram: Vinde, e desarraiguemo-los para que não sejam  nação, nem haja mais memória do nome de Israel.
+
+[[v19-83-5]]
+
+^<<v19-83-5,5>>^ Porque à uma se conluiaram; aliaram-se contra ti:
+
+[[v19-83-6]]
+
+^<<v19-83-6,6>>^ As tendas de Edom, e dos ismaelitas, de Moabe, e dos agarenos,
+
+[[v19-83-7]]
+
+^<<v19-83-7,7>>^ De Gebal, e de Amom, e de Amaleque e a Filístia com os moradores de Tiro.
+
+[[v19-83-8]]
+
+^<<v19-83-8,8>>^ Também a Assíria se ligou a eles: foram eles o braço dos filhos de Ló. (Selá.)
+
+[[v19-83-9]]
+
+^<<v19-83-9,9>>^ Faze-lhes como fizeste a Midiã, como a  Sísera, como a  Jabim na ribeira de Quisom;
+
+[[v19-83-10]]
+
+^<<v19-83-10,10>>^ Os quais  foram destruídos em Endor; vieram a servir de estrume para a terra.
+
+[[v19-83-11]]
+
+^<<v19-83-11,11>>^ Faze aos seus nobres como a  Orebe, e como a  Zeebe; e a todos os seus príncipes como a  Zebá e como a  Zalmuna;
+
+[[v19-83-12]]
+
+^<<v19-83-12,12>>^ Que disseram: Tomemos para nós em possessão hereditária, as famosas habitações de Deus.
+
+[[v19-83-13]]
+
+^<<v19-83-13,13>>^ Deus meu, faze-os como que impelidos por um tufão, como a palha diante do vento.
+
+[[v19-83-14]]
+
+^<<v19-83-14,14>>^ Como o fogo que queima um bosque, e como a chama que incendeia as brenhas;
+
+[[v19-83-15]]
+
+^<<v19-83-15,15>>^ Assim persegue-os com a tua tempestade, e assombra-os com o teu torvelinho.
+
+[[v19-83-16]]
+
+^<<v19-83-16,16>>^ Encham-se de vergonha as suas faces, para que busquem o teu nome, Senhor.
+
+[[v19-83-17]]
+
+^<<v19-83-17,17>>^ Confundam-se e assombrem-se perpetuamente; envergonhem-se, e pereçam.
+
+[[v19-83-18]]
+
+^<<v19-83-18,18>>^ Para que saibam que tu, a quem só pertence o nome de Jeová , és  o Altíssimo sobre toda a terra.
+
+'''
+
+xref:019-salmos/019-salmos-082.adoc#v19-82-0[&#60; Capítulo Anterior] | <<v19-83-0,Topo>> | xref:019-salmos/019-salmos-084.adoc#v19-84-0[Próximo Capítulo &#62;]

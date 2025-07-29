@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-16-0]]
+=== Salmos, 16
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-16-1]]
+
+^<<v19-16-1,1>>^ GUARDA-ME, ó Deus, porque em ti confio.
+
+[[v19-16-2]]
+
+^<<v19-16-2,2>>^ A minha alma  disse ao Senhor: Tu és  o meu Senhor; não tenho outro bem além de ti.
+
+[[v19-16-3]]
+
+^<<v19-16-3,3>>^ Digo  aos santos que estão  na terra, e aos ilustres em quem está  todo o meu prazer:
+
+[[v19-16-4]]
+
+^<<v19-16-4,4>>^ As dores se multiplicarão àqueles que fazem oferendas a outro deus ; eu não oferecerei as suas libações de sangue, nem tomarei os seus nomes nos meus lábios.
+
+[[v19-16-5]]
+
+^<<v19-16-5,5>>^ O Senhor é  a porção da minha herança e do meu cálice: tu sustentas a minha sorte.
+
+[[v19-16-6]]
+
+^<<v19-16-6,6>>^ As linhas caem-me em lugares  deliciosos: sim, coube-me uma  formosa herança.
+
+[[v19-16-7]]
+
+^<<v19-16-7,7>>^ Louvarei ao Senhor que me aconselhou; até os meus rins me ensinam de noite.
+
+[[v19-16-8]]
+
+^<<v19-16-8,8>>^ Tenho posto o Senhor continuamente diante de mim: por isso que ele está  à minha mão direita, nunca vacilarei.
+
+[[v19-16-9]]
+
+^<<v19-16-9,9>>^ Portanto está alegre o meu coração e se regozija a minha glória: também a minha carne repousará segura.
+
+[[v19-16-10]]
+
+^<<v19-16-10,10>>^ Pois não deixarás a minha alma no inferno, nem permitirás que o teu Santo veja corrupção.
+
+[[v19-16-11]]
+
+^<<v19-16-11,11>>^ Far-me-ás ver a vereda da vida; na tua presença há  abundância de alegrias; à tua mão direita há  delícias perpetuamente.
+
+'''
+
+xref:019-salmos/019-salmos-015.adoc#v19-15-0[&#60; Capítulo Anterior] | <<v19-16-0,Topo>> | xref:019-salmos/019-salmos-017.adoc#v19-17-0[Próximo Capítulo &#62;]

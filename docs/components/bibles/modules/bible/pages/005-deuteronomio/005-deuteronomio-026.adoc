@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v5-26-0]]
+=== Deuteronômio, 26
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v5-26-1]]
+
+^<<v5-26-1,1>>^ E SERÁ que , quando entrares na terra que o Senhor teu Deus te der por herança, e a possuíres, e nela habitares.
+
+[[v5-26-2]]
+
+^<<v5-26-2,2>>^ Então tomarás das primícias de todos os frutos da terra, que trouxeres da tua terra, que te dá o Senhor teu Deus, e as  porás num cesto, e irás ao lugar que escolher o Senhor teu Deus, para ali fazer habitar o seu nome.
+
+[[v5-26-3]]
+
+^<<v5-26-3,3>>^ E virás ao sacerdote, que naqueles dias for, e dir-lhe-ás: Hoje declaro perante o Senhor teu Deus que entrei na terra que o Senhor jurou a nossos pais dar-nos.
+
+[[v5-26-4]]
+
+^<<v5-26-4,4>>^ E o sacerdote tomará o cesto da tua mão, e o porá diante do altar do Senhor teu Deus.
+
+[[v5-26-5]]
+
+^<<v5-26-5,5>>^ Então protestarás perante o Senhor teu Deus, e dirás: Siro miserável foi  meu pai, e desceu ao Egito, e ali peregrinou com pouca gente: porém ali cresceu até vir a ser  nação grande, poderosa e numerosa.
+
+[[v5-26-6]]
+
+^<<v5-26-6,6>>^ Mas os egípcios nos maltrataram e nos afligiram, e sobre nós puseram uma dura servidão.
+
+[[v5-26-7]]
+
+^<<v5-26-7,7>>^ Então clamamos ao Senhor Deus de nossos pais; e o Senhor ouviu a nossa voz, e atentou para a nossa miséria, e para o nosso trabalho, e para a nossa opressão.
+
+[[v5-26-8]]
+
+^<<v5-26-8,8>>^ E o Senhor nos tirou do Egito com mão forte, e com braço estendido, e com grande espanto, e com sinais, e com milagres;
+
+[[v5-26-9]]
+
+^<<v5-26-9,9>>^ E nos trouxe a este lugar, e nos deu esta terra, terra que mana leite e mel.
+
+[[v5-26-10]]
+
+^<<v5-26-10,10>>^ E eis que agora eu trouxe as primícias dos frutos da terra que tu, ó Senhor, me deste. Então as porás perante o Senhor teu Deus, e te inclinarás perante o Senhor teu Deus.
+
+[[v5-26-11]]
+
+^<<v5-26-11,11>>^ E te alegrarás por todo o bem que o Senhor teu Deus te tem dado a ti e a tua casa, tu e o levita, e o estrangeiro que está no meio de ti.
+
+[[v5-26-12]]
+
+^<<v5-26-12,12>>^ Quando acabares de dizimar todos os dízimos da tua novidade no ano terceiro, que é o ano dos dízimos, então a darás ao levita, ao estrangeiro, ao órfão e à viúva, para que comam dentro das tuas portas, e se fartem:
+
+[[v5-26-13]]
+
+^<<v5-26-13,13>>^ E dirás perante o Senhor teu Deus: Tirei o que é consagrado de minha  casa, e dei também ao levita, e ao estrangeiro, e ao órfão e à viúva, conforme a todos os teus mandamentos que me tens ordenado: nada transpassei dos teus mandamentos, nem deles  me esqueci.
+
+[[v5-26-14]]
+
+^<<v5-26-14,14>>^ Disso não comi na minha tristeza, nem disso nada tirei para imundícia, nem disso dei para algum  morto; obedeci à voz do Senhor meu Deus; conforme a tudo o que me ordenaste, tenho feito.
+
+[[v5-26-15]]
+
+^<<v5-26-15,15>>^ Olha desde a tua santa habitação, desde o céu, e abençoa o teu povo, a Israel, e a terra que nos deste, como juraste a nossos pais, terra que mana leite e mel.
+
+[[v5-26-16]]
+
+^<<v5-26-16,16>>^ Neste dia o Senhor teu Deus te manda fazer estes estatutos e juízos: guarda-os pois, e faze-os com todo o teu coração e com toda a tua alma.
+
+[[v5-26-17]]
+
+^<<v5-26-17,17>>^ Hoje declaraste ao Senhor que te será por Deus, e que andarás nos seus caminhos, e guardarás os seus estatutos, e os seus mandamentos, e os seus juízos, e darás ouvidos à sua voz.
+
+[[v5-26-18]]
+
+^<<v5-26-18,18>>^ E o Senhor hoje te fez dizer que lhe serás por povo seu próprio, como te tem dito, e que guardarás todos os seus mandamentos.
+
+[[v5-26-19]]
+
+^<<v5-26-19,19>>^ Para assim te exaltar sobre todas as nações que fez, para louvor, e para fama, e para glória, e para que sejas um povo santo ao Senhor teu Deus, como tem dito.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-025.adoc#v5-25-0[&#60; Capítulo Anterior] | <<v5-26-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-027.adoc#v5-27-0[Próximo Capítulo &#62;]

@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v15-7-0]]
+=== Esdras, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v15-7-1]]
+
+^<<v15-7-1,1>>^ E PASSADAS estas cousas, no reinado de Artaxerxes, rei da Pérsia, Esdras, filho de Seraías, filho de Azarias, filho de Hilquias,
+
+[[v15-7-2]]
+
+^<<v15-7-2,2>>^ Filho de Salum, filho de Zadoque, filho de Aitube,
+
+[[v15-7-3]]
+
+^<<v15-7-3,3>>^ Filho de Amarias, filho de Azarias, filho de Meraiote,
+
+[[v15-7-4]]
+
+^<<v15-7-4,4>>^ Filho de Zeraquias, filho de Uzi, filho de Buqui,
+
+[[v15-7-5]]
+
+^<<v15-7-5,5>>^ Filho de Abisua, filho de Fineias, filho de Eleazar, filho de Aarão, o sumo sacerdote,
+
+[[v15-7-6]]
+
+^<<v15-7-6,6>>^ Este Esdras subiu de Babilônia: e era  escriba hábil na lei de Moisés, dada pelo Senhor Deus de Israel; e, segundo a mão do Senhor seu Deus, que estava  sobre ele, o rei lhe deu tudo quanto lhe pedira.
+
+[[v15-7-7]]
+
+^<<v15-7-7,7>>^ Também subiram a Jerusalém alguns  dos filhos de Israel, e dos sacerdotes, e dos levitas, e dos cantores, e dos porteiros, e dos netineus, no ano sétimo do rei Artaxerxes.
+
+[[v15-7-8]]
+
+^<<v15-7-8,8>>^ E no mês quinto veio ele a Jerusalém; e era  o sétimo ano deste rei.
+
+[[v15-7-9]]
+
+^<<v15-7-9,9>>^ Porque no primeiro dia  do primeiro mês foi o princípio da sua  subida de Babilônia; e no primeiro dia do quinto mês chegou a Jerusalém, segundo a boa mão do seu Deus sobre ele.
+
+[[v15-7-10]]
+
+^<<v15-7-10,10>>^ Porque Esdras tinha preparado o seu coração para buscar a lei do Senhor e para a cumprir e para ensinar em Israel os seus  estatutos e os seus  direitos.
+
+[[v15-7-11]]
+
+^<<v15-7-11,11>>^ Esta é , pois, a cópia da carta que o rei Artaxerxes deu ao sacerdote Esdras, o escriba das palavras dos mandamentos do Senhor, e dos seus estatutos sobre Israel.
+
+[[v15-7-12]]
+
+^<<v15-7-12,12>>^ Artaxerxes, rei dos reis, ao sacerdote Esdras, escriba da lei do Deus do céu, paz  perfeita, etc.
+
+[[v15-7-13]]
+
+^<<v15-7-13,13>>^ Por mim se decreta que no meu reino todo aquele do povo de Israel, e dos seus sacerdotes e levitas, que quiser ir contigo a Jerusalém, vá.
+
+[[v15-7-14]]
+
+^<<v15-7-14,14>>^ Porquanto da parte do rei e dos seus sete conselheiros és  mandado, para fazeres inquirição em Judá e em Jerusalém, conforme à lei do teu Deus, que está  na tua mão;
+
+[[v15-7-15]]
+
+^<<v15-7-15,15>>^ E para levares a prata e o ouro que o rei e os seus conselheiros voluntariamente deram ao Deus de Israel, cuja habitação está  em Jerusalém;
+
+[[v15-7-16]]
+
+^<<v15-7-16,16>>^ E toda a prata e o ouro que achares em toda a província de Babilônia, com as ofertas voluntárias do povo e dos sacerdotes, que voluntariamente oferecerem, para a casa de seu Deus, que está  em Jerusalém.
+
+[[v15-7-17]]
+
+^<<v15-7-17,17>>^ Portanto, comprarás com este dinheiro novilhos, carneiros, cordeiros, com as suas ofertas de manjares, e as suas libações, e oferece-as sobre o altar da casa do vosso Deus, que está  em Jerusalém.
+
+[[v15-7-18]]
+
+^<<v15-7-18,18>>^ Também o que a ti e a teus irmãos bem parecer fazerdes do resto da prata e do ouro, o  fareis conforme à vontade do vosso Deus.
+
+[[v15-7-19]]
+
+^<<v15-7-19,19>>^ E os vasos que te foram dados para o serviço da casa de teu Deus, restitui-os perante o Deus de Jerusalém.
+
+[[v15-7-20]]
+
+^<<v15-7-20,20>>^ E o resto do que for necessário para a casa de teu Deus, que te convenha dar, o  darás da casa dos tesouros do rei.
+
+[[v15-7-21]]
+
+^<<v15-7-21,21>>^ E por mim mesmo , o rei Artaxerxes, se decreta a todos os tesoureiros que estão  dalém do rio que tudo quanto vos pedir o sacerdote Esdras, escriba da lei do Deus dos céus, apressuradamente se faça.
+
+[[v15-7-22]]
+
+^<<v15-7-22,22>>^ Até cem talentos de prata, e até cem coros de trigo, e até cem batos de vinho, e até cem batos de azeite; e sal sem conta.
+
+[[v15-7-23]]
+
+^<<v15-7-23,23>>^ Tudo quanto se ordenar , segundo o mandado do Deus do céu, prontamente se faça para a casa do Deus do céu, porque para que haveria grande ira sobre o reino do rei e de seus filhos?
+
+[[v15-7-24]]
+
+^<<v15-7-24,24>>^ Também vos fazemos saber acerca de todos os sacerdotes e levitas, cantores, porteiros, netineus, e ministros desta casa de Deus, que se lhes não possa impor, nem direito, nem antigo tributo, nem renda.
+
+[[v15-7-25]]
+
+^<<v15-7-25,25>>^ E tu, Esdras, conforme à sabedoria do teu Deus, que está  na tua mão, põe regedores e juízes, que julguem a todo o povo que está  dalém do rio, a todos os que sabem as leis de teu Deus, e ao que as  não sabe as fareis saber.
+
+[[v15-7-26]]
+
+^<<v15-7-26,26>>^ E todo aquele que não observar a lei do teu Deus e a lei do rei, logo se faça justiça dele: quer seja  morte, quer degredo, quer multa sobre os seus  bens, quer prisão.
+
+[[v15-7-27]]
+
+^<<v15-7-27,27>>^ Bendito seja  o Senhor Deus de nossos pais, que tal inspirou ao coração do rei, para ornarmos a casa do Senhor, que está  em Jerusalém:
+
+[[v15-7-28]]
+
+^<<v15-7-28,28>>^ E que estendeu  para mim a sua  beneficência perante o rei e os seus conselheiros e todos os príncipes poderosos do rei. Assim me esforcei, segundo a mão do Senhor sobre mim, e ajuntei dentre Israel alguns chefes para subirem comigo.
+
+'''
+
+xref:015-esdras/015-esdras-006.adoc#v15-6-0[&#60; Capítulo Anterior] | <<v15-7-0,Topo>> | xref:015-esdras/015-esdras-008.adoc#v15-8-0[Próximo Capítulo &#62;]

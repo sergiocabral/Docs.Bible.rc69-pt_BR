@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v11-19-0]]
+=== 1 Reis, 19
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v11-19-1]]
+
+^<<v11-19-1,1>>^ E ACABE fez saber a Jezabel tudo quanto Elias havia feito, e como totalmente matara todos os profetas à espada.
+
+[[v11-19-2]]
+
+^<<v11-19-2,2>>^ Então Jezabel mandou um mensageiro a Elias, a dizer-lhe: Assim me façam os deuses, e outro tanto, se de certo amanhã a estas horas não puser a tua vida como a dum deles.
+
+[[v11-19-3]]
+
+^<<v11-19-3,3>>^ O que vendo ele, se levantou, e, para escapar com vida, se foi, e veio a Berseba, que é  de Judá, e deixou ali o seu moço.
+
+[[v11-19-4]]
+
+^<<v11-19-4,4>>^ E ele se foi ao deserto, caminho de um dia, e veio, e se assentou debaixo de um zimbro: e pediu em seu ânimo a morte, e disse: Já basta, ó Senhor: toma agora a minha vida, pois não sou melhor do que meus pais.
+
+[[v11-19-5]]
+
+^<<v11-19-5,5>>^ E deitou-se, e dormiu debaixo dum zimbro: e eis que então um anjo o tocou, e lhe disse: Levanta-te, come.
+
+[[v11-19-6]]
+
+^<<v11-19-6,6>>^ E olhou, e eis que à sua cabeceira estava um pão cozido  sobre as brasas, e uma botija de água: e comeu, e bebeu, e tornou a deitar-se.
+
+[[v11-19-7]]
+
+^<<v11-19-7,7>>^ E o anjo do Senhor tornou segunda vez e o tocou, e disse: Levanta-te e come, porque mui comprido te será  o caminho.
+
+[[v11-19-8]]
+
+^<<v11-19-8,8>>^ Levantou-se pois, e comeu e bebeu: e com a força daquela comida caminhou quarenta dias e quarenta noites até Horebe, o monte de Deus.
+
+[[v11-19-9]]
+
+^<<v11-19-9,9>>^ E ali entrou numa caverna e passou ali a noite: e eis que a palavra do Senhor veio  a ele, e lhe disse: Que fazes aqui Elias?
+
+[[v11-19-10]]
+
+^<<v11-19-10,10>>^ E ele disse: Tenho sido muito zeloso pelo Senhor Deus dos Exércitos, porque os filhos de Israel deixaram o teu concerto, derribaram os teus altares, e mataram os teus profetas à espada, e eu fiquei só, e buscam a minha vida para ma tirarem.
+
+[[v11-19-11]]
+
+^<<v11-19-11,11>>^ E ele lhe disse: Sai para fora, e põe-te neste monte perante a face do Senhor. E eis que passava o Senhor, como também um grande e forte vento que fendia os montes e quebrava as penhas diante da face do Senhor; porém  o Senhor não estava  no vento: e depois do vento um terremoto: também  o Senhor não estava  no terremoto:
+
+[[v11-19-12]]
+
+^<<v11-19-12,12>>^ E depois do terremoto um fogo; porém também  o Senhor não estava  no fogo: e depois do fogo uma voz mansa e delicada.
+
+[[v11-19-13]]
+
+^<<v11-19-13,13>>^ E sucedeu que, ouvindo-a Elias, envolveu o seu rosto na sua capa, e saiu para fora, e pôs-se à entrada da caverna: e eis que veio  a ele uma voz, que dizia: Que fazes aqui, Elias?
+
+[[v11-19-14]]
+
+^<<v11-19-14,14>>^ E ele disse: Eu tenho sido em extremo zeloso pelo Senhor Deus dos exércitos, porque os filhos de Israel deixaram o teu concerto, derribaram os teus altares, e mataram os teus profetas à espada, e só eu fiquei; e buscam a minha vida para ma tirarem.
+
+[[v11-19-15]]
+
+^<<v11-19-15,15>>^ E o Senhor lhe disse: Vai, volta pelo teu caminho para o deserto de Damasco; e vem e unge a Hazael rei sobre a Síria.
+
+[[v11-19-16]]
+
+^<<v11-19-16,16>>^ Também a Jeú filho de Ninsi, ungirás rei de Israel: e também  a Eliseu, filho de Safate de Abel-Meola, ungirás profeta em teu lugar.
+
+[[v11-19-17]]
+
+^<<v11-19-17,17>>^ E há de ser que  o que escapar da espada de Hazael matá-lo-á Jeú: e o que escapar da espada de Jeú matá-lo-á Eliseu.
+
+[[v11-19-18]]
+
+^<<v11-19-18,18>>^ Também eu fiz ficar em Israel sete mil; todos os joelhos que se não dobraram a Baal, e toda a boca que o não beijou.
+
+[[v11-19-19]]
+
+^<<v11-19-19,19>>^ Partiu pois Elias dali, e achou a Eliseu, filho de Safate, que andava lavrando com  doze juntas de bois  adiante dele, e ele estava  com a duodécima: e Elias passou por ele, e lançou a sua capa sobre ele.
+
+[[v11-19-20]]
+
+^<<v11-19-20,20>>^ Então deixou ele os bois, e correu após Elias: e disse: Deixa-me beijar a meu pai e a minha mãe, e então  te seguirei. E ele lhe disse: Vai, e  volta; porque que te tenho eu feito?
+
+[[v11-19-21]]
+
+^<<v11-19-21,21>>^ Voltou pois de atrás dele, e tomou uma junta de bois, e os matou, e com os aparelhos dos bois cozeu as carnes, e as  deu ao povo, e comeram: então se levantou e seguiu a Elias, e o servia.
+
+'''
+
+xref:011-1-reis/011-1-reis-018.adoc#v11-18-0[&#60; Capítulo Anterior] | <<v11-19-0,Topo>> | xref:011-1-reis/011-1-reis-020.adoc#v11-20-0[Próximo Capítulo &#62;]

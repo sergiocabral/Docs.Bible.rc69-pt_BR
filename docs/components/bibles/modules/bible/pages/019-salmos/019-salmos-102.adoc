@@ -1,0 +1,121 @@
+include::./index.adoc[]
+
+[[v19-102-0]]
+=== Salmos, 102
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-102-1]]
+
+^<<v19-102-1,1>>^ SENHOR, ouve a minha oração, e chegue a ti o meu clamor.
+
+[[v19-102-2]]
+
+^<<v19-102-2,2>>^ Não escondas de mim o teu rosto no dia da minha angústia, inclina para mim os teus ouvidos; no dia em  que eu clamar, ouve-me depressa.
+
+[[v19-102-3]]
+
+^<<v19-102-3,3>>^ Porque os meus dias se consomem como fumo, e os meus ossos ardem como lenha.
+
+[[v19-102-4]]
+
+^<<v19-102-4,4>>^ O meu coração está ferido e seco como a erva, pelo que até me esqueço de comer o meu pão.
+
+[[v19-102-5]]
+
+^<<v19-102-5,5>>^ Já os meus ossos se pegam à minha pele, em virtude do meu gemer doloroso.
+
+[[v19-102-6]]
+
+^<<v19-102-6,6>>^ Sou semelhante ao pelicano no deserto; sou como um mocho nas solidões.
+
+[[v19-102-7]]
+
+^<<v19-102-7,7>>^ Velo, e sou como o pardal solitário no telhado.
+
+[[v19-102-8]]
+
+^<<v19-102-8,8>>^ Os meus inimigos me afrontam todo o dia: os que contra mim se enfurecem, me amaldiçoam.
+
+[[v19-102-9]]
+
+^<<v19-102-9,9>>^ Pois tenho comido cinza como pão, e misturado com lágrimas a minha bebida.
+
+[[v19-102-10]]
+
+^<<v19-102-10,10>>^ Por causa da tua ira e da tua indignação, pois tu me levantaste e me arremessaste.
+
+[[v19-102-11]]
+
+^<<v19-102-11,11>>^ Os meus dias são  como a sombra que declina, e como a erva me vou secando.
+
+[[v19-102-12]]
+
+^<<v19-102-12,12>>^ Mas tu, Senhor, permanecerás para sempre, e a tua memória de geração em geração.
+
+[[v19-102-13]]
+
+^<<v19-102-13,13>>^ Tu te levantarás e  terás piedade de Sião; pois o tempo de te compadeceres dela, o tempo determinado, já chegou.
+
+[[v19-102-14]]
+
+^<<v19-102-14,14>>^ Porque os teus servos têm prazer nas suas pedras, e se compadecem do seu pó.
+
+[[v19-102-15]]
+
+^<<v19-102-15,15>>^ Então as nações temerão o nome do Senhor, e todos os reis da terra a tua glória,
+
+[[v19-102-16]]
+
+^<<v19-102-16,16>>^ Quando o Senhor edificar a Sião, e na sua glória se manifestar,
+
+[[v19-102-17]]
+
+^<<v19-102-17,17>>^ E atender à oração do desamparado, e não desprezar a sua oração.
+
+[[v19-102-18]]
+
+^<<v19-102-18,18>>^ Isto se escreverá para a geração futura; e o povo que se criar louvará ao Senhor.
+
+[[v19-102-19]]
+
+^<<v19-102-19,19>>^ Porquanto olhara desde o alto do seu santuário: desde os céus o Senhor observou a terra;
+
+[[v19-102-20]]
+
+^<<v19-102-20,20>>^ Para ouvir o gemido dos presos, para soltar os sentenciados à morte;
+
+[[v19-102-21]]
+
+^<<v19-102-21,21>>^ A fim de que seja anunciado o nome do Senhor em Sião, e o seu louvor em Jerusalém,
+
+[[v19-102-22]]
+
+^<<v19-102-22,22>>^ Quando os povos todos se congregarem, e os reinos, para servirem ao Senhor.
+
+[[v19-102-23]]
+
+^<<v19-102-23,23>>^ Abateu a minha força no caminho; abreviou os meus dias.
+
+[[v19-102-24]]
+
+^<<v19-102-24,24>>^ Dizia eu: Deus meu, não me leves no meio dos meus dias, tu, cujos anos alcançam todas as gerações.
+
+[[v19-102-25]]
+
+^<<v19-102-25,25>>^ Desde a antiguidade fundaste a terra: e os céus são  obra das tuas mãos.
+
+[[v19-102-26]]
+
+^<<v19-102-26,26>>^ Eles perecerão, mas tu permanecerás: todos eles, como um  vestido, envelhecerão; como roupa os mudarás, e ficarão mudados.
+
+[[v19-102-27]]
+
+^<<v19-102-27,27>>^ Mas tu és  o mesmo, e os teus anos nunca terão fim.
+
+[[v19-102-28]]
+
+^<<v19-102-28,28>>^ Os filhos dos teus servos continuarão, e a sua descendência ficará firmada perante ti.
+
+'''
+
+xref:019-salmos/019-salmos-101.adoc#v19-101-0[&#60; Capítulo Anterior] | <<v19-102-0,Topo>> | xref:019-salmos/019-salmos-103.adoc#v19-103-0[Próximo Capítulo &#62;]

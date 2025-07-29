@@ -1,0 +1,53 @@
+include::./index.adoc[]
+
+[[v19-58-0]]
+=== Salmos, 58
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-58-1]]
+
+^<<v19-58-1,1>>^ ACASO falais vós deveras, ó congregação, a justiça? Julgais retamente, ó filhos dos homens?
+
+[[v19-58-2]]
+
+^<<v19-58-2,2>>^ Antes no coração forjais iniquidades; sobre a terra fazeis pesar a violência das vossas mãos.
+
+[[v19-58-3]]
+
+^<<v19-58-3,3>>^ Alienam-se os ímpios desde a madre; andam errados desde que nasceram, proferindo mentiras.
+
+[[v19-58-4]]
+
+^<<v19-58-4,4>>^ Têm veneno semelhante ao veneno da serpente; são  como a víbora surda, que  tem tapados os seus ouvidos,
+
+[[v19-58-5]]
+
+^<<v19-58-5,5>>^ Para não ouvir a voz dos encantadores, do encantador perito em encantamentos.
+
+[[v19-58-6]]
+
+^<<v19-58-6,6>>^ Ó Deus, quebra-lhes os dentes nas suas bocas; arranca, Senhor, os queixais aos filhos dos leões.
+
+[[v19-58-7]]
+
+^<<v19-58-7,7>>^ Sumam-se como águas que  se escoam; se armarem as suas frechas, fiquem estas feitas em pedaços.
+
+[[v19-58-8]]
+
+^<<v19-58-8,8>>^ Como a lesma que se derrete, assim  se vão; como  o aborto duma mulher, nunca vejam o sol.
+
+[[v19-58-9]]
+
+^<<v19-58-9,9>>^ Antes que os espinhos cheguem a aquecer as vossas panelas, serão arrebatados, assim os verdes, como os que estão ardendo, como por um redemoinho.
+
+[[v19-58-10]]
+
+^<<v19-58-10,10>>^ O justo se alegrará quando vir a vingança; lavará os seus pés no sangue do ímpio.
+
+[[v19-58-11]]
+
+^<<v19-58-11,11>>^ Então dirá o homem: Deveras há  uma recompensa para o justo; deveras há um Deus que julga na terra.
+
+'''
+
+xref:019-salmos/019-salmos-057.adoc#v19-57-0[&#60; Capítulo Anterior] | <<v19-58-0,Topo>> | xref:019-salmos/019-salmos-059.adoc#v19-59-0[Próximo Capítulo &#62;]

@@ -1,0 +1,16 @@
+include::../index.adoc[]
+
+[[v22-0-0]]
+== Cânticos
+
+[cols="8*^"]
+|===
+| xref:022-canticos/022-canticos-001.adoc#v22-1-0[1]
+| xref:022-canticos/022-canticos-002.adoc#v22-2-0[2]
+| xref:022-canticos/022-canticos-003.adoc#v22-3-0[3]
+| xref:022-canticos/022-canticos-004.adoc#v22-4-0[4]
+| xref:022-canticos/022-canticos-005.adoc#v22-5-0[5]
+| xref:022-canticos/022-canticos-006.adoc#v22-6-0[6]
+| xref:022-canticos/022-canticos-007.adoc#v22-7-0[7]
+| xref:022-canticos/022-canticos-008.adoc#v22-8-0[8]
+|===

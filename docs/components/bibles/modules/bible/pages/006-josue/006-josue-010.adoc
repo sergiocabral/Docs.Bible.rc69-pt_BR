@@ -1,0 +1,181 @@
+include::./index.adoc[]
+
+[[v6-10-0]]
+=== Josué, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v6-10-1]]
+
+^<<v6-10-1,1>>^ E SUCEDEU que , ouvindo Adonizedeque, rei de Jerusalém, que Josué tomara a Ai, e a tinha destruído totalmente e  fizera a Ai e ao seu rei como tinha feito a Jericó e ao seu rei, e que os moradores de Gibeom fizeram paz com os israelitas, e estavam no meio deles,
+
+[[v6-10-2]]
+
+^<<v6-10-2,2>>^ Temeram muito; porque Gibeom era  uma cidade grande como uma das cidades reais, e ainda maior do que Ai, e todos os seus homens valentes.
+
+[[v6-10-3]]
+
+^<<v6-10-3,3>>^ Pelo que Adonizedeque, rei de Jerusalém, enviou a Hoão, rei de Hebrom, e a Pirã, rei de Jarmute, e a Jafia, rei de Laquis, e a Debir, rei de Eglom, dizendo:
+
+[[v6-10-4]]
+
+^<<v6-10-4,4>>^ Subi a mim, e ajudai-me e firamos a Gibeom: porquanto fez paz com Josué e com os filhos de Israel.
+
+[[v6-10-5]]
+
+^<<v6-10-5,5>>^ Então se ajuntaram, e subiram cinco reis dos amorreus, o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis, o rei de Eglom, eles e todos os seus exércitos: e sitiaram a Gibeom e pelejaram contra ela.
+
+[[v6-10-6]]
+
+^<<v6-10-6,6>>^ Enviaram pois os homens de Gibeom a Josué ao arraial de Gilgal, dizendo: Não retires as tuas mãos de teus servos; sobe apressadamente a nós, e livra-nos, e ajuda-nos, porquanto todos os reis dos amorreus, que habitam na montanha, se ajuntaram contra nós.
+
+[[v6-10-7]]
+
+^<<v6-10-7,7>>^ Então subiu Josué de Gilgal, ele e toda a gente de guerra com ele, e todos os valentes e valorosos.
+
+[[v6-10-8]]
+
+^<<v6-10-8,8>>^ E o Senhor disse a Josué: Não os temas, porque os tenho dado na tua mão: nenhum deles parará diante de ti.
+
+[[v6-10-9]]
+
+^<<v6-10-9,9>>^ E Josué lhes sobreveio de repente, porque toda a noite veio subindo desde Gilgal.
+
+[[v6-10-10]]
+
+^<<v6-10-10,10>>^ E o Senhor os conturbou diante de Israel, e os feriu de grande ferida em Gibeom: e seguiu-os pelo caminho que sobe a Betorom, e os feriu até Azeca e a Maquedá.
+
+[[v6-10-11]]
+
+^<<v6-10-11,11>>^ E sucedeu que , fugindo eles diante de Israel à descida de Betorom, o Senhor lançou sobre eles, do céu, grandes pedras até Azeca, e morreram: e foram  muitos mais os que  morreram das pedras da saraiva do que os que os filhos de Israel mataram à espada.
+
+[[v6-10-12]]
+
+^<<v6-10-12,12>>^ Então Josué falou ao Senhor, no dia em que o Senhor deu os amorreus na mão dos filhos de Israel, e disse aos olhos dos israelitas: Sol, detém-te em Gibeom, e tu  lua, no vale de Ajalom.
+
+[[v6-10-13]]
+
+^<<v6-10-13,13>>^ E o sol se deteve, e a lua parou, até que o povo se vingou de seus inimigos. Isto não está  escrito no livro do Reto? O sol pois se deteve no meio do céu, e não se apressou a pôr-se, quase um dia inteiro:
+
+[[v6-10-14]]
+
+^<<v6-10-14,14>>^ E não houve dia semelhante a este, nem  antes nem depois dele, ouvindo o Senhor assim a voz dum homem: porque o Senhor pelejava por Israel.
+
+[[v6-10-15]]
+
+^<<v6-10-15,15>>^ E tornou-se Josué, e todo o Israel com ele, ao arraial, a Gilgal.
+
+[[v6-10-16]]
+
+^<<v6-10-16,16>>^ Aqueles cinco reis, porém, fugiram, e se esconderam numa cova em Maquedá.
+
+[[v6-10-17]]
+
+^<<v6-10-17,17>>^ E foi anunciado a Josué, dizendo: Acharam-se os cinco reis escondidos numa cova em Maquedá.
+
+[[v6-10-18]]
+
+^<<v6-10-18,18>>^ Disse pois Josué: Arrojai grandes pedras à boca da cova, e ponde sobre ela homens que os guardem:
+
+[[v6-10-19]]
+
+^<<v6-10-19,19>>^ Porém vós não vos detenhais; segui os vossos inimigos, e feri os que ficaram atrás: não os deixeis entrar nas suas cidades, porque o Senhor vosso Deus já vo-los deu na vossa mão.
+
+[[v6-10-20]]
+
+^<<v6-10-20,20>>^ E sucedeu que, acabando Josué e os filhos de Israel, de os ferir a grande ferida, até consumi-los, e que  os que ficaram deles se retiraram às cidades fortes,
+
+[[v6-10-21]]
+
+^<<v6-10-21,21>>^ Todo o povo se tornou em paz a Josué, ao arraial em Maquedá: não havendo ninguém que movesse a sua língua contra os filhos de Israel.
+
+[[v6-10-22]]
+
+^<<v6-10-22,22>>^ Depois disse Josué: Abri a boca da cova, e trazei-me aqueles cinco reis para fora da cova.
+
+[[v6-10-23]]
+
+^<<v6-10-23,23>>^ Fizeram pois assim, e trouxeram-lhe aqueles cinco reis para fora da cova: o rei de Jerusalém, o rei de Hebrom, o rei de Jarmute, o rei de Laquis, e  o rei de Eglom.
+
+[[v6-10-24]]
+
+^<<v6-10-24,24>>^ E sucedeu que , trazendo aqueles reis a Josué, Josué chamou todos os homens de Israel, e disse aos capitães da gente de guerra, que com eles foram: Chegai, ponde os vossos pés sobre os pescoços destes reis. E chegaram, e puseram os seus pés sobre os seus pescoços.
+
+[[v6-10-25]]
+
+^<<v6-10-25,25>>^ Então Josué lhes disse: Não temais, nem vos espanteis: esforçai-vos e animai-vos; porque assim fará o Senhor a todos os vossos inimigos, contra os quais pelejardes.
+
+[[v6-10-26]]
+
+^<<v6-10-26,26>>^ E, depois disto, Josué os feriu, e os matou, e os pendurou em cinco madeiros: e ficaram enforcados nos madeiros até à tarde.
+
+[[v6-10-27]]
+
+^<<v6-10-27,27>>^ E sucedeu que , ao tempo do pôr do sol, deu Josué ordem que os tirassem dos madeiros: e lançaram-nos na cova onde se esconderam: e puseram grandes pedras à boca da cova, que ainda ali estão  até ao  mesmo dia de  hoje.
+
+[[v6-10-28]]
+
+^<<v6-10-28,28>>^ E naquele mesmo dia tomou Josué a Maquedá, feriu-a a fio de espada, e destruiu o seu rei, a eles, e a toda a alma que nela havia ; nada deixou de resto: e fez ao rei de Maquedá como fizera ao rei de Jericó.
+
+[[v6-10-29]]
+
+^<<v6-10-29,29>>^ Então Josué e todo o Israel com ele passou de Maquedá a Libna, e pelejou contra Libna;
+
+[[v6-10-30]]
+
+^<<v6-10-30,30>>^ E também o Senhor a deu na mão de Israel, a ela e a seu rei, e a feriu a fio de espada, a ela e a toda a alma que nela havia ; nada deixou de resto: e fez ao seu rei como fizera ao rei de Jericó.
+
+[[v6-10-31]]
+
+^<<v6-10-31,31>>^ Então Josué, e todo o Israel com ele, passou de Libna a Laquis: e a sitiou, e pelejou contra ela;
+
+[[v6-10-32]]
+
+^<<v6-10-32,32>>^ E o Senhor deu a Laquis na mão de Israel, e tomou-a no dia seguinte, e a feriu a fio de espada, a ela, e a toda a alma que nela havia , conforme a tudo o que fizera a Libna.
+
+[[v6-10-33]]
+
+^<<v6-10-33,33>>^ Então Horão, rei de Gezer, subiu a ajudar a Laquis: porém Josué o feriu, a ele e ao seu povo, até que nenhum lhe deixou de resto.
+
+[[v6-10-34]]
+
+^<<v6-10-34,34>>^ E Josué, e todo o Israel com ele, passou de Laquis a Eglom: e a sitiaram, e pelejaram contra ela;
+
+[[v6-10-35]]
+
+^<<v6-10-35,35>>^ E no mesmo dia a tomaram, e a feriram, a fio de espada; e a toda a alma, que nela havia , destruiu totalmente no mesmo dia: conforme a tudo o que fizera a Laquis.
+
+[[v6-10-36]]
+
+^<<v6-10-36,36>>^ Depois Josué, e todo o Israel com ele, subiu de Eglom a Hebrom, e pelejaram contra ela;
+
+[[v6-10-37]]
+
+^<<v6-10-37,37>>^ E a tomaram, e a feriram ao fio de espada, assim ao seu rei como a todas as suas cidades, e a toda a alma, que nelas havia ; a ninguém deixou com vida, conforme a tudo o que fizera a Eglom: e a destruiu totalmente, a ela e a toda a alma que nela havia.
+
+[[v6-10-38]]
+
+^<<v6-10-38,38>>^ Então Josué e todo o Israel com ele, tornou a Debir, e pelejou contra ela;
+
+[[v6-10-39]]
+
+^<<v6-10-39,39>>^ E tomou-a com o seu rei, e a todas as suas cidades, e as feriram a fio de espada, e a toda a alma que nelas havia  destruíram totalmente; nada deixou de resto: como fizera a Hebrom, assim fez a Debir e ao seu rei, e como fizera a Libna e ao seu rei.
+
+[[v6-10-40]]
+
+^<<v6-10-40,40>>^ Assim feriu Josué toda aquela terra, as montanhas, o sul, e as campinas, e as descidas das águas, e a todos os seus reis; nada deixou de resto: mas tudo o que tinha fôlego destruiu, como ordenara o Senhor Deus de Israel.
+
+[[v6-10-41]]
+
+^<<v6-10-41,41>>^ E Josué os feriu desde Cades-Barneia, e até Gaza: como também toda a terra de Gósen, e até Gibeom.
+
+[[v6-10-42]]
+
+^<<v6-10-42,42>>^ E duma vez tomou Josué todos estes reis, e as suas terras: porquanto o Senhor Deus de Israel pelejava por Israel.
+
+[[v6-10-43]]
+
+^<<v6-10-43,43>>^ Então Josué, e todo o Israel com ele, se tornou ao arraial em Gilgal.
+
+'''
+
+xref:006-josue/006-josue-009.adoc#v6-9-0[&#60; Capítulo Anterior] | <<v6-10-0,Topo>> | xref:006-josue/006-josue-011.adoc#v6-11-0[Próximo Capítulo &#62;]

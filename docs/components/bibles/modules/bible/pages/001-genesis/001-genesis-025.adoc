@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v1-25-0]]
+=== Gênesis, 25
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-25-1]]
+
+^<<v1-25-1,1>>^ E ABRAÃO tomou outra  mulher: e o seu nome era  Quetura;
+
+[[v1-25-2]]
+
+^<<v1-25-2,2>>^ E gerou-lhe Zinrã, e Jocsã, e Medã, e Midiã, e Jisbaque, e Suá.
+
+[[v1-25-3]]
+
+^<<v1-25-3,3>>^ E Jocsã gerou Seba e Dedã: e os filhos de Dedã foram Assurim, e Letusim e Leumim.
+
+[[v1-25-4]]
+
+^<<v1-25-4,4>>^ E os filhos de Midiã foram Efá, e Efer, e Enoque, e Abida, e Elda: estes todos foram  filhos de Quetura.
+
+[[v1-25-5]]
+
+^<<v1-25-5,5>>^ Porém Abraão deu tudo o que tinha a Isaque;
+
+[[v1-25-6]]
+
+^<<v1-25-6,6>>^ Mas aos filhos das concubinas que Abraão tinha, deu Abraão presentes, e, vivendo ele ainda, despediu-os do seu filho Isaque, ao oriente para a terra oriental.
+
+[[v1-25-7]]
+
+^<<v1-25-7,7>>^ Estes pois são  os dias dos anos da vida de Abraão, que viveu cento e setenta e cinco anos.
+
+[[v1-25-8]]
+
+^<<v1-25-8,8>>^ E Abraão expirou e morreu em boa velhice, velho e farto de dias : e foi congregado ao seu povo;
+
+[[v1-25-9]]
+
+^<<v1-25-9,9>>^ E sepultaram-no Isaque e Ismael, seus filhos, na cova de Macpela, no campo de Efrom, filho de Zoar heteu, que estava  em frente de Manre,
+
+[[v1-25-10]]
+
+^<<v1-25-10,10>>^ O campo que Abraão comprara aos filhos de Hete. Ali está sepultado Abraão, e Sara sua mulher.
+
+[[v1-25-11]]
+
+^<<v1-25-11,11>>^ E aconteceu depois da morte de Abraão, que Deus abençoou a Isaque seu filho; e habitava Isaque junto ao poço Laai-Roi.
+
+[[v1-25-12]]
+
+^<<v1-25-12,12>>^ Estas porém são as gerações de Ismael, filho de Abraão, que a serva de Sara, Hagar egípcia, deu a Abraão.
+
+[[v1-25-13]]
+
+^<<v1-25-13,13>>^ E estes são os nomes dos filhos de Ismael pelos seus nomes, segundo as suas gerações: o primogênito de Ismael era  Nebaiote, depois Quedar, e Abdeel, e Mibsão,
+
+[[v1-25-14]]
+
+^<<v1-25-14,14>>^ E Misma, e Dumá, e Massá,
+
+[[v1-25-15]]
+
+^<<v1-25-15,15>>^ Hadar, e Tema, Jetur, Nafis, e Quedemá.
+
+[[v1-25-16]]
+
+^<<v1-25-16,16>>^ Estes são  os filhos de Ismael, e estes são  os seus nomes pelas suas vilas e pelos seus castelos: doze príncipes segundo as suas famílias.
+
+[[v1-25-17]]
+
+^<<v1-25-17,17>>^ E estes são  os anos da vida de Ismael, cento e trinta e sete anos; e ele expirou, e morreu, e foi congregado ao seu povo.
+
+[[v1-25-18]]
+
+^<<v1-25-18,18>>^ E habitaram desde Havilá até Sur, que está  em frente do Egito, indo para Assur; e fez o seu assento diante da face de todos os seus irmãos.
+
+[[v1-25-19]]
+
+^<<v1-25-19,19>>^ E estas são  as gerações de Isaque, filho de Abraão: Abraão gerou a Isaque;
+
+[[v1-25-20]]
+
+^<<v1-25-20,20>>^ E era Isaque da idade de quarenta anos, quando tomou a Rebeca, filha de Betuel arameu de Padã-Arã, irmã de Labão arameu, por sua mulher.
+
+[[v1-25-21]]
+
+^<<v1-25-21,21>>^ E Isaque orou instantemente ao Senhor por sua mulher, porquanto era  estéril; e o Senhor ouviu as suas orações, e Rebeca sua mulher concebeu.
+
+[[v1-25-22]]
+
+^<<v1-25-22,22>>^ E os filhos lutavam dentro dela; então disse: Se assim é , porque sou  eu assim ? E foi-se a perguntar ao Senhor.
+
+[[v1-25-23]]
+
+^<<v1-25-23,23>>^ E o Senhor lhe disse: Duas nações há  no teu ventre, e dois povos se dividirão das tuas entranhas, e um  povo será mais forte do que o outro  povo, e o maior servirá ao menor.
+
+[[v1-25-24]]
+
+^<<v1-25-24,24>>^ E cumprindo-se os seus dias para dar à luz, eis gêmeos no seu ventre.
+
+[[v1-25-25]]
+
+^<<v1-25-25,25>>^ E saiu o primeiro ruivo e todo como um vestido cabeludo; por isso chamaram o seu nome Esaú.
+
+[[v1-25-26]]
+
+^<<v1-25-26,26>>^ E depois saiu o seu irmão, agarrada sua mão ao calcanhar de Esaú; por isso se chamou o seu nome Jacó. E era  Isaque da idade de sessenta anos quando os gerou.
+
+[[v1-25-27]]
+
+^<<v1-25-27,27>>^ E cresceram os meninos, e Esaú foi varão perito na caça, varão do campo; mas Jacó era  varão simples, habitando em tendas.
+
+[[v1-25-28]]
+
+^<<v1-25-28,28>>^ E amava Isaque a Esaú, porque a caça era de seu gosto, mas Rebeca amava a Jacó.
+
+[[v1-25-29]]
+
+^<<v1-25-29,29>>^ E Jacó cozera um guisado; e veio Esaú do campo, e estava  ele cansado:
+
+[[v1-25-30]]
+
+^<<v1-25-30,30>>^ E disse Esaú a Jacó: Deixa-me, peço-te, comer desse guisado  vermelho, porque estou cansado. Por isso se chamou o seu nome Edom.
+
+[[v1-25-31]]
+
+^<<v1-25-31,31>>^ Então disse Jacó: Vende-me hoje a tua primogenitura.
+
+[[v1-25-32]]
+
+^<<v1-25-32,32>>^ E disse Esaú: Eis que estou a ponto de morrer, e para que me servirá  logo a primogenitura?
+
+[[v1-25-33]]
+
+^<<v1-25-33,33>>^ Então disse Jacó: jura-me hoje. E jurou-lhe e vendeu a sua primogenitura a Jacó.
+
+[[v1-25-34]]
+
+^<<v1-25-34,34>>^ E Jacó deu pão a Esaú e o guisado das lentilhas; e este comeu, e bebeu, e levantou-se, e foi-se. Assim desprezou Esaú a sua  primogenitura.
+
+'''
+
+xref:001-genesis/001-genesis-024.adoc#v1-24-0[&#60; Capítulo Anterior] | <<v1-25-0,Topo>> | xref:001-genesis/001-genesis-026.adoc#v1-26-0[Próximo Capítulo &#62;]

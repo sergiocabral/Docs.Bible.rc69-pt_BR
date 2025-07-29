@@ -1,0 +1,61 @@
+include::./index.adoc[]
+
+[[v46-13-0]]
+=== 1 Coríntios, 13
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v46-13-1]]
+
+^<<v46-13-1,1>>^ AINDA que eu falasse as línguas dos homens e dos anjos, e não tivesse caridade, seria como o metal que soa ou como o sino que tine.
+
+[[v46-13-2]]
+
+^<<v46-13-2,2>>^ E ainda que tivesse o  dom de profecia, e conhecesse todos os mistérios e toda a ciência, e ainda que tivesse toda a fé, de maneira tal que transportasse os montes, e não tivesse caridade, nada seria.
+
+[[v46-13-3]]
+
+^<<v46-13-3,3>>^ E ainda que distribuísse toda a minha fortuna para sustento dos pobres , e ainda que entregasse o meu corpo para ser queimado, e não tivesse caridade, nada disso me aproveitaria.
+
+[[v46-13-4]]
+
+^<<v46-13-4,4>>^ A caridade é sofredora, é benigna: a caridade não é invejosa: a caridade não trata com leviandade, não se ensoberbece,
+
+[[v46-13-5]]
+
+^<<v46-13-5,5>>^ Não se porta com indecência, não busca os seus interesses, não se irrita, não suspeita mal;
+
+[[v46-13-6]]
+
+^<<v46-13-6,6>>^ Não folga com a injustiça, mas folga com a verdade;
+
+[[v46-13-7]]
+
+^<<v46-13-7,7>>^ Tudo sofre, tudo crê, tudo espera, tudo suporta.
+
+[[v46-13-8]]
+
+^<<v46-13-8,8>>^ A caridade nunca falha: mas havendo profecias, serão aniquiladas; havendo línguas, cessarão; havendo ciência, desaparecerá;
+
+[[v46-13-9]]
+
+^<<v46-13-9,9>>^ Porque, em parte, conhecemos, e em parte profetizamos;
+
+[[v46-13-10]]
+
+^<<v46-13-10,10>>^ Mas, quando vier o que é  perfeito, então o que o é em parte será aniquilado.
+
+[[v46-13-11]]
+
+^<<v46-13-11,11>>^ Quando eu era menino, falava como menino, sentia como menino, discorria como menino, mas, logo que cheguei a ser homem, acabei com as coisas de menino.
+
+[[v46-13-12]]
+
+^<<v46-13-12,12>>^ Porque agora vemos por espelho em enigma, mas então veremos face a face: agora conheço em parte, mas então conhecerei como também sou conhecido.
+
+[[v46-13-13]]
+
+^<<v46-13-13,13>>^ Agora, pois, permanecem a fé, a esperança e a caridade, estas três, mas a maior destas é  a caridade.
+
+'''
+
+xref:046-1-corintios/046-1-corintios-012.adoc#v46-12-0[&#60; Capítulo Anterior] | <<v46-13-0,Topo>> | xref:046-1-corintios/046-1-corintios-014.adoc#v46-14-0[Próximo Capítulo &#62;]

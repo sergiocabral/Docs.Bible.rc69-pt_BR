@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v8-1-0]]
+=== Rute, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v8-1-1]]
+
+^<<v8-1-1,1>>^ E SUCEDEU que, nos dias em que os juízes julgavam, houve uma fome na terra: pelo que um homem de Belém de Judá saiu a peregrinar nos campos de Moabe, ele e sua mulher, e seus dois filhos:
+
+[[v8-1-2]]
+
+^<<v8-1-2,2>>^ E era  o nome deste homem Elimeleque, e o nome de sua mulher Noemi, e os nomes de seus dois filhos Malom e Quiliom, efrateus, de Belém de Judá: e vieram aos campos de Moabe, e ficaram ali.
+
+[[v8-1-3]]
+
+^<<v8-1-3,3>>^ E morreu Elimeleque, marido de Noemi; e ficou ela com os seus dois filhos.
+
+[[v8-1-4]]
+
+^<<v8-1-4,4>>^ Os quais tomaram para si mulheres moabitas; e era  o nome duma Orfa, e o nome da outra Rute; e ficaram ali quase dez anos.
+
+[[v8-1-5]]
+
+^<<v8-1-5,5>>^ E morreram também ambos, Malom e Quiliom, ficando assim esta mulher desamparada  dos seus dois filhos e de seu marido.
+
+[[v8-1-6]]
+
+^<<v8-1-6,6>>^ Então se levantou ela com as suas noras, e voltou dos campos de Moabe: porquanto na terra de Moabe ouviu que o Senhor tinha visitado o seu povo, dando-lhe pão.
+
+[[v8-1-7]]
+
+^<<v8-1-7,7>>^ Pelo que saiu do lugar onde estivera, e as suas duas noras com ela. E, indo elas caminhando, para voltarem para a terra de Judá,
+
+[[v8-1-8]]
+
+^<<v8-1-8,8>>^ Disse Noemi às suas duas noras: Ide, voltai cada uma à casa de sua mãe; e o Senhor use convosco de benevolência, como vós usastes com os defuntos e comigo.
+
+[[v8-1-9]]
+
+^<<v8-1-9,9>>^ O Senhor vos dê que acheis descanso cada uma em casa de seu marido. E, beijando-as ela, levantaram a sua voz e choraram.
+
+[[v8-1-10]]
+
+^<<v8-1-10,10>>^ E disseram-lhe: Certamente voltaremos contigo ao teu povo.
+
+[[v8-1-11]]
+
+^<<v8-1-11,11>>^ Porém Noemi disse: Tornai, minhas filhas, por que iríeis comigo? Tenho eu ainda no meu ventre mais  filhos, para que vos fossem por maridos?
+
+[[v8-1-12]]
+
+^<<v8-1-12,12>>^ Tornai, filhas minhas, ide-vos embora , que já mui velha sou para ter marido: ainda  quando eu dissesse: Tenho esperança, ou  ainda que esta noite tivesse marido e ainda tivesse filhos,
+
+[[v8-1-13]]
+
+^<<v8-1-13,13>>^ Esperá-los-íeis até que viessem a ser grandes? deter-vos-íeis por eles, sem tomardes marido? Não, filhas minhas, que mais amargo me é a mim do que a vós mesmas ; porquanto a mão do Senhor se descarregou contra mim.
+
+[[v8-1-14]]
+
+^<<v8-1-14,14>>^ Então levantaram a sua voz, e tornaram a chorar: e Orfa beijou a sua sogra, porém Rute se apegou a ela.
+
+[[v8-1-15]]
+
+^<<v8-1-15,15>>^ Pelo que disse: Eis que voltou tua cunhada ao seu povo e aos seus deuses: volta tu também após a tua cunhada.
+
+[[v8-1-16]]
+
+^<<v8-1-16,16>>^ Disse porém Rute: Não me instes para que te deixe, e me afaste de ao pé de ti: porque aonde quer que tu fores irei eu, e onde quer que pousares à noite ali pousarei eu; o teu povo é  o meu povo, o teu Deus é  o meu Deus;
+
+[[v8-1-17]]
+
+^<<v8-1-17,17>>^ Onde quer que morreres morrerei eu, e ali serei sepultada: me faça assim o Senhor, e outro tanto, se outra cousa  que não seja a morte me separar de ti.
+
+[[v8-1-18]]
+
+^<<v8-1-18,18>>^ Vendo ela, pois, que de todo estava resolvida para ir com ela, deixou de lhe falar nisso.
+
+[[v8-1-19]]
+
+^<<v8-1-19,19>>^ Assim pois  foram-se ambas, até que chegaram a Belém: e sucedeu que, entrando elas em Belém, toda a cidade se comoveu por causa delas, e diziam: Não é  esta Noemi?
+
+[[v8-1-20]]
+
+^<<v8-1-20,20>>^ Porém ela lhes dizia: Não me chameis Noemi; chamai-me Mara; porque grande amargura me tem dado o Todo-poderoso.
+
+[[v8-1-21]]
+
+^<<v8-1-21,21>>^ Cheia parti, porém vazia o Senhor me fez tornar: por que pois  me chamareis Noemi? pois o Senhor testifica contra mim, e o Todo-poderoso me tem afligido tanto.
+
+[[v8-1-22]]
+
+^<<v8-1-22,22>>^ Assim Noemi voltou, e com ela Rute a moabita, sua nora, que voltava dos campos de Moabe: e chegaram a Belém no princípio da sega das cevadas.
+
+'''
+
+xref:007-juizes/007-juizes-021.adoc#v7-21-0[&#60; Capítulo Anterior] | <<v8-1-0,Topo>> | xref:008-rute/008-rute-002.adoc#v8-2-0[Próximo Capítulo &#62;]

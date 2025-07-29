@@ -1,0 +1,141 @@
+include::./index.adoc[]
+
+[[v20-15-0]]
+=== Provérbios, 15
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-15-1]]
+
+^<<v20-15-1,1>>^ A RESPOSTA branda desvia o furor, mas a palavra dura suscita a ira.
+
+[[v20-15-2]]
+
+^<<v20-15-2,2>>^ A língua dos sábios adorna a sabedoria, mas a boca dos tolos derrama a estultícia.
+
+[[v20-15-3]]
+
+^<<v20-15-3,3>>^ Os olhos do Senhor estão  em todo o lugar, contemplando os maus e os bons.
+
+[[v20-15-4]]
+
+^<<v20-15-4,4>>^ Uma língua saudável é  árvore de vida, mas a perversidade nela quebranta o espírito.
+
+[[v20-15-5]]
+
+^<<v20-15-5,5>>^ O tolo despreza a correção de seu pai, mas o que observa a repreensão prudentemente se haverá.
+
+[[v20-15-6]]
+
+^<<v20-15-6,6>>^ Na casa do justo há um  grande tesouro, mas nos frutos do ímpio há  perturbação.
+
+[[v20-15-7]]
+
+^<<v20-15-7,7>>^ Os lábios dos sábios derramarão o conhecimento, mas o coração dos tolos não fará  assim.
+
+[[v20-15-8]]
+
+^<<v20-15-8,8>>^ O sacrifício dos ímpios é abominável ao Senhor, mas a oração dos retos é  o seu contentamento.
+
+[[v20-15-9]]
+
+^<<v20-15-9,9>>^ O caminho do ímpio é  abominável ao Senhor, mas ele ama o que segue a justiça.
+
+[[v20-15-10]]
+
+^<<v20-15-10,10>>^ Correção molesta há para o que deixa a vereda, e  o que aborrece a repreensão morrerá.
+
+[[v20-15-11]]
+
+^<<v20-15-11,11>>^ O inferno e a perdição estão  perante o Senhor: quanto mais os corações dos filhos dos homens?
+
+[[v20-15-12]]
+
+^<<v20-15-12,12>>^ Não ama o escarnecedor aquele que o repreende, nem se chegará para os sábios.
+
+[[v20-15-13]]
+
+^<<v20-15-13,13>>^ O coração alegre aformoseia o rosto, mas pela dor do coração o espírito se abate.
+
+[[v20-15-14]]
+
+^<<v20-15-14,14>>^ O coração entendido buscará o conhecimento, mas a boca dos tolos se apascentará de estultícia.
+
+[[v20-15-15]]
+
+^<<v20-15-15,15>>^ Todos os dias do aflito são  maus, mas o de coração alegre tem um  banquete contínuo.
+
+[[v20-15-16]]
+
+^<<v20-15-16,16>>^ Melhor é  o pouco com o temor do Senhor, do que um  grande tesouro, onde há inquietação.
+
+[[v20-15-17]]
+
+^<<v20-15-17,17>>^ Melhor é  a comida de hortaliça, onde há amor, do que o boi gordo, e com ele o ódio.
+
+[[v20-15-18]]
+
+^<<v20-15-18,18>>^ O homem iracundo suscita contendas, mas o longânimo apaziguará a luta.
+
+[[v20-15-19]]
+
+^<<v20-15-19,19>>^ O caminho do preguiçoso é  como a sebe de espinhos, mas a vereda dos retos está  bem-igualada.
+
+[[v20-15-20]]
+
+^<<v20-15-20,20>>^ O filho sábio alegrará a seu pai, mas o homem insensato despreza a sua mãe.
+
+[[v20-15-21]]
+
+^<<v20-15-21,21>>^ A estultícia é  alegria para o que carece de entendimento, mas o homem entendido anda retamente.
+
+[[v20-15-22]]
+
+^<<v20-15-22,22>>^ Onde não há conselho os projetos saem vãos, mas com a multidão de conselheiros se confirmarão.
+
+[[v20-15-23]]
+
+^<<v20-15-23,23>>^ O homem se alegra na resposta da sua boca, e a palavra a seu tempo quão boa é !
+
+[[v20-15-24]]
+
+^<<v20-15-24,24>>^ Para o entendido, o caminho da vida é  para cima, para que ele se desvie do inferno que está em baixo.
+
+[[v20-15-25]]
+
+^<<v20-15-25,25>>^ O Senhor arrancará a casa dos soberbos, mas firmará a herança da viúva.
+
+[[v20-15-26]]
+
+^<<v20-15-26,26>>^ Abomináveis são  para o Senhor os pensamentos do mau, mas as palavras dos limpos são aprazíveis.
+
+[[v20-15-27]]
+
+^<<v20-15-27,27>>^ O que se dá à cobiça perturba a sua casa, mas o que aborrece as dádivas viverá.
+
+[[v20-15-28]]
+
+^<<v20-15-28,28>>^ O coração do justo medita o que  há de responder, mas a boca dos ímpios derrama em abundância cousas más.
+
+[[v20-15-29]]
+
+^<<v20-15-29,29>>^ Longe está  o Senhor dos ímpios, mas escutará a oração dos justos.
+
+[[v20-15-30]]
+
+^<<v20-15-30,30>>^ A luz dos olhos alegra o coração; a boa fama engorda os ossos.
+
+[[v20-15-31]]
+
+^<<v20-15-31,31>>^ Os ouvidos que escutam a repreensão da vida, no meio dos sábios farão a sua morada.
+
+[[v20-15-32]]
+
+^<<v20-15-32,32>>^ O que rejeita a correção menospreza a sua alma, mas o que escuta a repreensão adquire entendimento.
+
+[[v20-15-33]]
+
+^<<v20-15-33,33>>^ O temor do Senhor é  a instrução da sabedoria, e diante da honra vai  a humildade.
+
+'''
+
+xref:020-proverbios/020-proverbios-014.adoc#v20-14-0[&#60; Capítulo Anterior] | <<v20-15-0,Topo>> | xref:020-proverbios/020-proverbios-016.adoc#v20-16-0[Próximo Capítulo &#62;]

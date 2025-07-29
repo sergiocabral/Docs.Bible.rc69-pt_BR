@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v11-10-0]]
+=== 1 Reis, 10
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v11-10-1]]
+
+^<<v11-10-1,1>>^ E OUVINDO a rainha de Sabá a fama de Salomão, acerca do nome do Senhor, veio prová-lo por enigmas.
+
+[[v11-10-2]]
+
+^<<v11-10-2,2>>^ E veio a Jerusalém com um mui grande exército; com camelos carregados de especiarias, e muitíssimo ouro e pedras preciosas: e veio a Salomão, e disse-lhe tudo quanto tinha no seu coração.
+
+[[v11-10-3]]
+
+^<<v11-10-3,3>>^ E Salomão lhe declarou todas as suas palavras: nenhuma cousa se escondeu ao rei, que não lhe declarasse.
+
+[[v11-10-4]]
+
+^<<v11-10-4,4>>^ Vendo pois a rainha de Sabá toda a sabedoria de Salomão, e a casa que edificara,
+
+[[v11-10-5]]
+
+^<<v11-10-5,5>>^ E a comida da sua mesa, e o assentar de seus servos, e o estar de seus criados, e os vestidos deles, e os seus copeiros, e a sua subida, pela qual subia à casa do Senhor, não houve mais espírito nela.
+
+[[v11-10-6]]
+
+^<<v11-10-6,6>>^ E disse ao rei: Foi verdade a palavra que ouvi na minha terra, das tuas cousas e da tua sabedoria.
+
+[[v11-10-7]]
+
+^<<v11-10-7,7>>^ E eu não cria naquelas palavras, até que vim, e os meus olhos o viram; eis que me não disseram metade; sobrepujaste em sabedoria e bens a fama que ouvi.
+
+[[v11-10-8]]
+
+^<<v11-10-8,8>>^ Bem-aventurados os teus homens, bem-aventurados estes teus servos que estão sempre diante de ti, que ouvem a tua sabedoria!
+
+[[v11-10-9]]
+
+^<<v11-10-9,9>>^ Bendito seja o Senhor teu Deus, que teve agrado em ti, para te pôr no trono de Israel: porque o Senhor ama a Israel para sempre, por isso te estabeleceu rei, para fazeres juízo e justiça.
+
+[[v11-10-10]]
+
+^<<v11-10-10,10>>^ E deu ao rei cento e vinte talentos de ouro, e muitíssimas especiarias e pedras preciosas: nunca veio especiaria em tanta abundância, como a que a rainha de Sabá deu ao rei Salomão.
+
+[[v11-10-11]]
+
+^<<v11-10-11,11>>^ Também as naus de Hirão, que de Ofir levavam ouro, traziam de Ofir muitíssima madeira de almugue, e pedras preciosas.
+
+[[v11-10-12]]
+
+^<<v11-10-12,12>>^ E desta madeira de almugue fez o rei balaústres para a casa do Senhor, e para a casa do rei, como também harpas e alaúdes para os cantores: nunca veio tal madeira de almugue, nem se viu até o dia de hoje.
+
+[[v11-10-13]]
+
+^<<v11-10-13,13>>^ E o rei Salomão deu à rainha de Sabá tudo quanto lhe pediu o seu desejo, além do que lhe deu, segundo a largueza do rei Salomão: então voltou e partiu para a sua terra, ela e os seus servos.
+
+[[v11-10-14]]
+
+^<<v11-10-14,14>>^ E era o peso do ouro que se trazia a Salomão cada ano seiscentos e sessenta e seis talentos de ouro;
+
+[[v11-10-15]]
+
+^<<v11-10-15,15>>^ Além do  dos negociantes, e do contrato dos especieiros, e de todos os reis da Arábia, e dos governadores da mesma terra.
+
+[[v11-10-16]]
+
+^<<v11-10-16,16>>^ Também o rei Salomão fez duzentos paveses de ouro batido; seiscentos siclos  de ouro mandou pesar para cada pavês;
+
+[[v11-10-17]]
+
+^<<v11-10-17,17>>^ Assim mesmo trezentos escudos de ouro batido; três arráteis de ouro mandou pesar para cada escudo: e o rei os pôs na casa do bosque do Líbano.
+
+[[v11-10-18]]
+
+^<<v11-10-18,18>>^ Fez mais o rei um grande trono de marfim, e o cobriu de ouro puríssimo.
+
+[[v11-10-19]]
+
+^<<v11-10-19,19>>^ Tinha este trono seis degraus, e era  a cabeça do trono por detrás redonda, e de ambas as bandas tinha  encostos até ao assento: e dois leões estavam junto aos encostos.
+
+[[v11-10-20]]
+
+^<<v11-10-20,20>>^ Também doze leões estavam ali sobre os seis degraus de ambas as bandas: nunca se tinha feito obra semelhante em nenhum dos reinos.
+
+[[v11-10-21]]
+
+^<<v11-10-21,21>>^ Também todos os vasos de beber do rei Salomão eram  de ouro, e todos os vasos da casa do bosque do Líbano eram  de ouro puro: não havia neles  prata, porque  nos dias de Salomão não tinha estimação alguma.
+
+[[v11-10-22]]
+
+^<<v11-10-22,22>>^ Porque o rei tinha no mar as naus de Tarsis, com as naus de Hirão: uma vez em três anos tornavam as naus de Tarsis, e traziam ouro e prata, marfim, e bugios, e pavões.
+
+[[v11-10-23]]
+
+^<<v11-10-23,23>>^ Assim o rei Salomão excedeu a todos os reis da terra, tanto em riquezas como em sabedoria.
+
+[[v11-10-24]]
+
+^<<v11-10-24,24>>^ E toda a terra buscava a face de Salomão, para ouvir a sua sabedoria, que Deus tinha posto no seu coração.
+
+[[v11-10-25]]
+
+^<<v11-10-25,25>>^ E traziam cada um por  seu presente vasos de prata e vasos de ouro, e vestidos, e armaduras, e especiarias, cavalos e mulas: cada cousa de ano em ano.
+
+[[v11-10-26]]
+
+^<<v11-10-26,26>>^ Também ajuntou Salomão carros e cavaleiros, de sorte que tinha mil e quatrocentos carros e doze mil cavaleiros: e os levou às cidades dos carros, e outros ficaram  junto ao rei em Jerusalém.
+
+[[v11-10-27]]
+
+^<<v11-10-27,27>>^ E fez o rei que  em Jerusalém houvesse  prata como pedras: e cedros em abundância como figueiras bravas que estão  nas planícies.
+
+[[v11-10-28]]
+
+^<<v11-10-28,28>>^ E tiravam cavalos do Egito para Salomão: e às manadas os recebiam os mercadores do rei, cada manada por um certo preço.
+
+[[v11-10-29]]
+
+^<<v11-10-29,29>>^ E subia e saía o carro do Egito por seiscentos siclos  de prata, e o cavalo por cento e cinquenta: e assim, por meio deles, os tiravam para todos os reis dos heteus e para os reis da Síria.
+
+'''
+
+xref:011-1-reis/011-1-reis-009.adoc#v11-9-0[&#60; Capítulo Anterior] | <<v11-10-0,Topo>> | xref:011-1-reis/011-1-reis-011.adoc#v11-11-0[Próximo Capítulo &#62;]

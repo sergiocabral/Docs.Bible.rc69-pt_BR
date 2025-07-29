@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v4-28-0]]
+=== Números, 28
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-28-1]]
+
+^<<v4-28-1,1>>^ FALOU mais o Senhor a Moisés, dizendo:
+
+[[v4-28-2]]
+
+^<<v4-28-2,2>>^ Dá ordem aos filhos de Israel, e dize-lhes: Da minha oferta, do meu manjar para as minhas ofertas queimadas, do meu cheiro suave, tereis cuidado, para mas oferecer a seu tempo determinado.
+
+[[v4-28-3]]
+
+^<<v4-28-3,3>>^ E dir-lhes-ás: Esta é  a oferta queimada que oferecereis ao Senhor: dois cordeiros dum ano, sem mancha, cada dia, em  contínuo holocausto.
+
+[[v4-28-4]]
+
+^<<v4-28-4,4>>^ Um cordeiro sacrificarás pela manhã, e o outro cordeiro sacrificarás de tarde:
+
+[[v4-28-5]]
+
+^<<v4-28-5,5>>^ E a décima parte  dum efa de  flor de farinha em oferta de manjares, misturada com a quarta parte  dum him de azeite moído.
+
+[[v4-28-6]]
+
+^<<v4-28-6,6>>^ Este é  o holocausto contínuo, instituído no monte Sinai, em cheiro suave, oferta queimada ao Senhor.
+
+[[v4-28-7]]
+
+^<<v4-28-7,7>>^ E a sua libação será  a quarta parte  dum him para um cordeiro: no santuário oferecerás a libação de bebida forte ao Senhor.
+
+[[v4-28-8]]
+
+^<<v4-28-8,8>>^ E o outro cordeiro sacrificarás de tarde: como a oferta de manjares da manhã, e como a sua libação, o aparelharás em oferta queimada de cheiro suave ao Senhor.
+
+[[v4-28-9]]
+
+^<<v4-28-9,9>>^ Porém no dia de sábado dois cordeiros dum ano, sem mancha, e duas décimas de  flor de farinha misturada com azeite, em  oferta de manjares, com a sua libação,
+
+[[v4-28-10]]
+
+^<<v4-28-10,10>>^ Holocausto é  do sábado em cada sábado, além do holocausto contínuo, e a sua libação.
+
+[[v4-28-11]]
+
+^<<v4-28-11,11>>^ E nos princípios dos vossos meses oferecereis, em holocausto ao Senhor, dois bezerros e um carneiro, sete cordeiros dum ano, sem mancha;
+
+[[v4-28-12]]
+
+^<<v4-28-12,12>>^ E três décimas de  flor de farinha misturada com azeite, em  oferta de manjares, para um bezerro; e duas décimas de  flor de farinha misturada com azeite, em  oferta de manjares, para um carneiro.
+
+[[v4-28-13]]
+
+^<<v4-28-13,13>>^ E uma décima de  flor de farinha misturada com azeite, em  oferta de manjares, para um cordeiro: holocausto é  de cheiro suave, oferta queimada ao Senhor.
+
+[[v4-28-14]]
+
+^<<v4-28-14,14>>^ E as suas libações serão a metade dum him de vinho para um bezerro, e a terça parte  dum him para um carneiro, e a quarta parte  dum him para um cordeiro: este é  o holocausto da lua nova de cada mês, segundo os meses do ano.
+
+[[v4-28-15]]
+
+^<<v4-28-15,15>>^ Também um bode para expiação do pecado ao Senhor, além do holocausto contínuo, com a sua libação se oferecerá.
+
+[[v4-28-16]]
+
+^<<v4-28-16,16>>^ Porém no mês primeiro, aos catorze dias do mês é  a páscoa do Senhor.
+
+[[v4-28-17]]
+
+^<<v4-28-17,17>>^ E aos quinze dias do mesmo mês haverá  festa: sete dias se comerão pães  asmos.
+
+[[v4-28-18]]
+
+^<<v4-28-18,18>>^ No primeiro dia haverá  santa convocação: nenhuma obra servil fareis:
+
+[[v4-28-19]]
+
+^<<v4-28-19,19>>^ Mas oferecereis oferta queimada em holocausto ao Senhor, dois bezerros e um carneiro, e sete cordeiros dum ano; ser-vos-ão eles sem mancha.
+
+[[v4-28-20]]
+
+^<<v4-28-20,20>>^ E a sua oferta de manjares será de  flor de farinha misturada com azeite: oferecereis três décimas para um bezerro, e duas décimas para um carneiro.
+
+[[v4-28-21]]
+
+^<<v4-28-21,21>>^ Para cada cordeiro oferecereis uma décima, para cada um dos sete cordeiros;
+
+[[v4-28-22]]
+
+^<<v4-28-22,22>>^ E um bode para  expiação do pecado, para fazer expiação por vós.
+
+[[v4-28-23]]
+
+^<<v4-28-23,23>>^ Estas cousas oferecereis, além do holocausto da manhã que é  o holocausto contínuo.
+
+[[v4-28-24]]
+
+^<<v4-28-24,24>>^ Segundo este modo, cada dia oferecereis, por sete dias, o manjar da oferta queimada em cheiro suave ao Senhor: além do holocausto contínuo se oferecerá isto com a sua libação.
+
+[[v4-28-25]]
+
+^<<v4-28-25,25>>^ E no sétimo dia tereis santa convocação: nenhuma obra servil fareis.
+
+[[v4-28-26]]
+
+^<<v4-28-26,26>>^ Semelhantemente, tereis santa convocação no dia das primícias, quando oferecerdes oferta nova de manjares ao Senhor, segundo as vossas semanas; nenhuma obra servil fareis.
+
+[[v4-28-27]]
+
+^<<v4-28-27,27>>^ Então oferecereis ao Senhor por holocausto, em cheiro suave, dois bezerros, um carneiro e sete cordeiros dum ano;
+
+[[v4-28-28]]
+
+^<<v4-28-28,28>>^ E a sua oferta de manjares de  flor de farinha misturada com azeite; três décimas para um bezerro, duas décimas para um carneiro;
+
+[[v4-28-29]]
+
+^<<v4-28-29,29>>^ Para cada cordeiro uma décima, para cada um dos sete cordeiros;
+
+[[v4-28-30]]
+
+^<<v4-28-30,30>>^ Um bode para fazer expiação por vós.
+
+[[v4-28-31]]
+
+^<<v4-28-31,31>>^ Além do holocausto contínuo, e a sua oferta de manjares, os  oferecereis (ser-vos-ão eles sem mancha) com as suas libações.
+
+'''
+
+xref:004-numeros/004-numeros-027.adoc#v4-27-0[&#60; Capítulo Anterior] | <<v4-28-0,Topo>> | xref:004-numeros/004-numeros-029.adoc#v4-29-0[Próximo Capítulo &#62;]

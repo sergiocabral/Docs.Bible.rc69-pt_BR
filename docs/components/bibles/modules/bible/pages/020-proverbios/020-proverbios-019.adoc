@@ -1,0 +1,125 @@
+include::./index.adoc[]
+
+[[v20-19-0]]
+=== Provérbios, 19
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-19-1]]
+
+^<<v20-19-1,1>>^ MELHOR é  o pobre que anda na sua sinceridade, do que o perverso de lábios e tolo.
+
+[[v20-19-2]]
+
+^<<v20-19-2,2>>^ Assim também ficar  a alma sem conhecimento não é  bom, e o que se apressa com seus pés peca.
+
+[[v20-19-3]]
+
+^<<v20-19-3,3>>^ A estultícia do homem perverterá o seu caminho, e o seu coração se irará contra o Senhor.
+
+[[v20-19-4]]
+
+^<<v20-19-4,4>>^ As riquezas granjeiam muitos amigos, mas ao pobre o seu próprio  amigo o deixa.
+
+[[v20-19-5]]
+
+^<<v20-19-5,5>>^ A falsa testemunha não ficará inocente, e o que profere mentiras não escapará.
+
+[[v20-19-6]]
+
+^<<v20-19-6,6>>^ Muitos suplicam a face do príncipe, e cada um é  amigo daquele que dá presentes.
+
+[[v20-19-7]]
+
+^<<v20-19-7,7>>^ Todos os irmãos do pobre o aborrecem; quanto mais se afastarão dele os seus amigos! corre após eles com palavras, que não servem  de nada.
+
+[[v20-19-8]]
+
+^<<v20-19-8,8>>^ O que adquire entendimento ama a sua alma: o que conserva a inteligência achará o bem.
+
+[[v20-19-9]]
+
+^<<v20-19-9,9>>^ A falsa testemunha não ficará impune; e o que profere mentiras perecerá.
+
+[[v20-19-10]]
+
+^<<v20-19-10,10>>^ Ao tolo não está bem o deleite; quanto menos ao servo dominar os príncipes!
+
+[[v20-19-11]]
+
+^<<v20-19-11,11>>^ O entendimento do homem retém a sua ira, e sua glória é passar sobre a transgressão.
+
+[[v20-19-12]]
+
+^<<v20-19-12,12>>^ Como o bramido do filho do leão é  a indignação do rei; mas como o orvalho sobre a erva é  a sua benevolência.
+
+[[v20-19-13]]
+
+^<<v20-19-13,13>>^ Grande miséria é  para o pai o filho insensato, e um  gotejar contínuo as contenções da mulher.
+
+[[v20-19-14]]
+
+^<<v20-19-14,14>>^ A casa e a fazenda são  a herança dos pais; mas do Senhor vem  a mulher prudente.
+
+[[v20-19-15]]
+
+^<<v20-19-15,15>>^ A preguiça faz cair em profundo sono, e a alma enganadora padecerá fome.
+
+[[v20-19-16]]
+
+^<<v20-19-16,16>>^ O que guardar o mandamento guardará a sua alma; mas o que desprezar os seus caminhos morrerá.
+
+[[v20-19-17]]
+
+^<<v20-19-17,17>>^ Ao Senhor empresta o que se compadece do pobre, e ele  lhe pagará o seu benefício.
+
+[[v20-19-18]]
+
+^<<v20-19-18,18>>^ Castiga a teu filho enquanto há esperança, mas para o matar não alçarás a tua alma.
+
+[[v20-19-19]]
+
+^<<v20-19-19,19>>^ Homem de grande ira tem de sofrer o dano; porque se tu o livrares, virás ainda a fazê-lo novamente.
+
+[[v20-19-20]]
+
+^<<v20-19-20,20>>^ Ouve o conselho, e recebe a correção, para que sejas sábio nos teus últimos dias.
+
+[[v20-19-21]]
+
+^<<v20-19-21,21>>^ Muitos propósitos há  no coração do homem, mas o conselho do Senhor permanecerá.
+
+[[v20-19-22]]
+
+^<<v20-19-22,22>>^ O desejo do homem é  a sua beneficência; mas o pobre é  melhor do que o mentiroso.
+
+[[v20-19-23]]
+
+^<<v20-19-23,23>>^ O temor do Senhor encaminha  para a vida; aquele que o tem ficará satisfeito, e não o visitará mal nenhum.
+
+[[v20-19-24]]
+
+^<<v20-19-24,24>>^ O preguiçoso esconde a sua mão no seio; enfada-se de a levar à sua boca.
+
+[[v20-19-25]]
+
+^<<v20-19-25,25>>^ Fere o escarnecedor, e o simples tomará aviso; repreende ao entendido, e  aprenderá conhecimento.
+
+[[v20-19-26]]
+
+^<<v20-19-26,26>>^ O que aflige a seu  pai, ou  afugenta a sua mãe, filho é  que envergonha e desonra.
+
+[[v20-19-27]]
+
+^<<v20-19-27,27>>^ Cessa, filho meu, ouvindo a instrução, de te desviares das palavras do conhecimento.
+
+[[v20-19-28]]
+
+^<<v20-19-28,28>>^ A testemunha de Belial escarnece do juízo, e a boca dos ímpios engole a iniquidade.
+
+[[v20-19-29]]
+
+^<<v20-19-29,29>>^ Preparados estão os juízos para os escarnecedores e os açoites para as costas dos tolos.
+
+'''
+
+xref:020-proverbios/020-proverbios-018.adoc#v20-18-0[&#60; Capítulo Anterior] | <<v20-19-0,Topo>> | xref:020-proverbios/020-proverbios-020.adoc#v20-20-0[Próximo Capítulo &#62;]

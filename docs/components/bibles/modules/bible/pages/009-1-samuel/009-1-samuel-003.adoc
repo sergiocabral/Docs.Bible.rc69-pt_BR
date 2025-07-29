@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v9-3-0]]
+=== 1 Samuel, 3
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-3-1]]
+
+^<<v9-3-1,1>>^ E O mancebo Samuel servia ao Senhor perante Eli: e a palavra do Senhor era de muita valia naqueles dias; não havia  visão manifesta.
+
+[[v9-3-2]]
+
+^<<v9-3-2,2>>^ E sucedeu naquele dia que, estando  Eli deitado no seu lugar (e os seus olhos se começavam já  escurecer, que  não podia ver),
+
+[[v9-3-3]]
+
+^<<v9-3-3,3>>^ E estando também  Samuel já  deitado, antes que a lâmpada de Deus se apagasse no templo do Senhor, em que estava  a arca de Deus,
+
+[[v9-3-4]]
+
+^<<v9-3-4,4>>^ O Senhor chamou a Samuel, e disse ele: Eis-me aqui.
+
+[[v9-3-5]]
+
+^<<v9-3-5,5>>^ E correu a Eli, e disse: Eis-me aqui , porque tu me chamaste. Mas ele disse: Não te  chamei eu, torna a deitar-te. E foi e se deitou.
+
+[[v9-3-6]]
+
+^<<v9-3-6,6>>^ E o Senhor tornou a chamar outra vez a Samuel. Samuel se levantou, e foi a Eli, e disse: Eis-me aqui , porque tu me chamaste. Mas ele disse: Não te  chamei eu, filho meu, torna a deitar-te.
+
+[[v9-3-7]]
+
+^<<v9-3-7,7>>^ Porém Samuel ainda não conhecia ao Senhor, e ainda não lhe tinha sido manifestada a palavra do Senhor.
+
+[[v9-3-8]]
+
+^<<v9-3-8,8>>^ O Senhor pois tornou a chamar a Samuel terceira vez, e ele se levantou e foi a Eli, e disse: Eis-me aqui , porque tu me chamaste. Então entendeu Eli que o Senhor chamava o mancebo.
+
+[[v9-3-9]]
+
+^<<v9-3-9,9>>^ Pelo que Eli disse a Samuel: Vai-te deitar, e há de ser que, se te chamar, dirás: Fala, Senhor, porque o teu servo ouve. Então Samuel foi e se deitou no seu lugar.
+
+[[v9-3-10]]
+
+^<<v9-3-10,10>>^ Então veio o Senhor, e ali esteve, e chamou como das outras vezes: Samuel, Samuel. E disse Samuel: Fala, porque o teu servo ouve.
+
+[[v9-3-11]]
+
+^<<v9-3-11,11>>^ E disse o Senhor a Samuel: Eis aqui vou eu a fazer uma  cousa em Israel, a qual todo o que ouvir lhe tinirão ambas as orelhas.
+
+[[v9-3-12]]
+
+^<<v9-3-12,12>>^ Naquele mesmo dia suscitarei contra Eli tudo quanto tenho falado contra a sua casa: começá-lo-ei e acabá-lo-ei.
+
+[[v9-3-13]]
+
+^<<v9-3-13,13>>^ Porque já  eu lhe fiz saber que julgarei a sua casa para sempre, pela iniquidade que ele bem conhecia, porque, fazendo-se os seus filhos execráveis, não os repreendeu.
+
+[[v9-3-14]]
+
+^<<v9-3-14,14>>^ Portanto jurei à casa de Eli que nunca jamais será expiada a iniquidade da casa de Eli com sacrifício nem com oferta de manjares.
+
+[[v9-3-15]]
+
+^<<v9-3-15,15>>^ E Samuel ficou deitado até pela manhã, e então  abriu as portas da casa do Senhor: porém temia Samuel de relatar esta visão a Eli.
+
+[[v9-3-16]]
+
+^<<v9-3-16,16>>^ Então chamou Eli a Samuel, e disse: Samuel, meu filho. E disse ele: Eis-me aqui.
+
+[[v9-3-17]]
+
+^<<v9-3-17,17>>^ E ele disse: que palavra é  a que te falou? peço-te que m a não encubras: assim Deus te faça, e outro tanto se me encobrires alguma  palavra de todas as palavras que te falou.
+
+[[v9-3-18]]
+
+^<<v9-3-18,18>>^ Então Samuel lhe contou todas aquelas palavras, e nada lhe encobriu. E disse ele: O Senhor é , faça o que bem parecer  aos seus olhos.
+
+[[v9-3-19]]
+
+^<<v9-3-19,19>>^ E crescia Samuel, e o Senhor era com ele, e nenhuma de todas as suas palavras deixou cair em terra.
+
+[[v9-3-20]]
+
+^<<v9-3-20,20>>^ E todo o Israel, desde Dã até Berseba, conheceu que Samuel estava  confirmado por profeta do Senhor.
+
+[[v9-3-21]]
+
+^<<v9-3-21,21>>^ E continuou o Senhor a aparecer em Silo: porquanto o Senhor se manifestava a Samuel em Silo pela palavra do Senhor.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-002.adoc#v9-2-0[&#60; Capítulo Anterior] | <<v9-3-0,Topo>> | xref:009-1-samuel/009-1-samuel-004.adoc#v9-4-0[Próximo Capítulo &#62;]

@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v20-2-0]]
+=== Provérbios, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-2-1]]
+
+^<<v20-2-1,1>>^ FILHO meu, se aceitares as minhas palavras, e esconderes contigo os meus mandamentos,
+
+[[v20-2-2]]
+
+^<<v20-2-2,2>>^ Para fazeres atento à sabedoria o teu ouvido, e  para inclinares o teu coração ao entendimento,
+
+[[v20-2-3]]
+
+^<<v20-2-3,3>>^ E se clamares por entendimento, e por inteligência alçares a tua voz,
+
+[[v20-2-4]]
+
+^<<v20-2-4,4>>^ Se como a prata a buscares e como a tesouros escondidos a procurares,
+
+[[v20-2-5]]
+
+^<<v20-2-5,5>>^ Então entenderás o temor do Senhor, e acharás o conhecimento de Deus.
+
+[[v20-2-6]]
+
+^<<v20-2-6,6>>^ Porque o Senhor dá a sabedoria: da sua boca vem o conhecimento e o entendimento.
+
+[[v20-2-7]]
+
+^<<v20-2-7,7>>^ Ele reserva a verdadeira sabedoria para os retos: escudo é  para os que caminham na sinceridade.
+
+[[v20-2-8]]
+
+^<<v20-2-8,8>>^ Para que guarde as veredas do juízo: e conserve o caminho dos seus santos.
+
+[[v20-2-9]]
+
+^<<v20-2-9,9>>^ Então entenderás justiça, e juízo, e equidades, e todas as boas veredas.
+
+[[v20-2-10]]
+
+^<<v20-2-10,10>>^ Porquanto a sabedoria entrará no teu coração, e o conhecimento será suave à tua alma.
+
+[[v20-2-11]]
+
+^<<v20-2-11,11>>^ O bom siso te guardará e a inteligência te conservará;
+
+[[v20-2-12]]
+
+^<<v20-2-12,12>>^ Para te livrar do mau caminho, e do homem que diz cousas perversas;
+
+[[v20-2-13]]
+
+^<<v20-2-13,13>>^ Dos  que deixam as veredas da retidão, para andarem pelos caminhos das trevas;
+
+[[v20-2-14]]
+
+^<<v20-2-14,14>>^ Que  se alegram de mal fazer, e folgam com as perversidades dos maus,
+
+[[v20-2-15]]
+
+^<<v20-2-15,15>>^ Cujas veredas são  tortuosas e desviadas nas suas carreiras;
+
+[[v20-2-16]]
+
+^<<v20-2-16,16>>^ Para te livrar da mulher estranha e da estrangeira, que  lisonjeia com suas palavras;
+
+[[v20-2-17]]
+
+^<<v20-2-17,17>>^ Que deixa o guia da sua mocidade e se esquece do concerto do seu Deus.
+
+[[v20-2-18]]
+
+^<<v20-2-18,18>>^ Porque a sua casa se inclina para a morte, e as suas veredas para os mortos:
+
+[[v20-2-19]]
+
+^<<v20-2-19,19>>^ Todos os que se dirigem a elas não voltarão, e não atinarão com as veredas da vida.
+
+[[v20-2-20]]
+
+^<<v20-2-20,20>>^ Para que andes pelo caminho dos bons, e guardes as veredas dos justos.
+
+[[v20-2-21]]
+
+^<<v20-2-21,21>>^ Porque os retos habitarão a terra, e os sinceros permanecerão nela.
+
+[[v20-2-22]]
+
+^<<v20-2-22,22>>^ Mas os ímpios serão arrancados da terra e os aleivosos serão dela exterminados.
+
+'''
+
+xref:020-proverbios/020-proverbios-001.adoc#v20-1-0[&#60; Capítulo Anterior] | <<v20-2-0,Topo>> | xref:020-proverbios/020-proverbios-003.adoc#v20-3-0[Próximo Capítulo &#62;]

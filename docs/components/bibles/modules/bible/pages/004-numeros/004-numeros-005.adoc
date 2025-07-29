@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v4-5-0]]
+=== Números, 5
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-5-1]]
+
+^<<v4-5-1,1>>^ E FALOU o Senhor a Moisés, dizendo:
+
+[[v4-5-2]]
+
+^<<v4-5-2,2>>^ Ordena aos filhos de Israel que lancem fora do arraial a todo o leproso, e a todo o que padece fluxo, e a todos os imundos por causa de contato com algum  morto.
+
+[[v4-5-3]]
+
+^<<v4-5-3,3>>^ Desde o homem até à mulher os lançareis: fora do arraial os lançareis, para que não contaminem os seus arraiais, no meio dos quais eu habito.
+
+[[v4-5-4]]
+
+^<<v4-5-4,4>>^ E os filhos de Israel fizeram assim, e os lançaram fora do arraial: como o Senhor falara a Moisés, assim fizeram os filhos de Israel.
+
+[[v4-5-5]]
+
+^<<v4-5-5,5>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v4-5-6]]
+
+^<<v4-5-6,6>>^ Dize aos filhos de Israel: Quando homem ou mulher fizer algum de todos os pecados humanos, transgredindo contra o Senhor, tal alma culpada é.
+
+[[v4-5-7]]
+
+^<<v4-5-7,7>>^ E confessarão o pecado que fizeram; então restituirá pela sua culpa, segundo a soma total, e lhe acrescentará o seu quinto, e o dará àquele contra quem se fez culpado.
+
+[[v4-5-8]]
+
+^<<v4-5-8,8>>^ Mas, se aquele homem não tiver resgatador, a quem se restitua pela culpa, então a culpa que se restituir ao Senhor será  do sacerdote, além do carneiro da expiação com que por ele fizer expiação.
+
+[[v4-5-9]]
+
+^<<v4-5-9,9>>^ Semelhantemente toda a oferta de todas as cousas santificadas dos filhos de Israel, que trouxerem ao sacerdote, será sua.
+
+[[v4-5-10]]
+
+^<<v4-5-10,10>>^ E as cousas santificadas de cada um serão suas: o que alguém der ao sacerdote será seu.
+
+[[v4-5-11]]
+
+^<<v4-5-11,11>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v4-5-12]]
+
+^<<v4-5-12,12>>^ Fala aos filhos de Israel, e dize-lhes: Quando a mulher de algum se desviar, e prevaricar contra ele,
+
+[[v4-5-13]]
+
+^<<v4-5-13,13>>^ De maneira que algum homem se houver deitado com ela, e for oculto aos olhos de seu marido, e ela o tiver ocultado, havendo-se ela contaminado, e contra ela não houver testemunha, e no feito  não for apanhada,
+
+[[v4-5-14]]
+
+^<<v4-5-14,14>>^ E o espírito de ciúmes vier sobre ele, e de sua mulher tiver ciúmes, por ela se haver contaminado, ou sobre ele vier o espírito de ciúmes, e de sua mulher tiver ciúmes, não se havendo ela contaminado,
+
+[[v4-5-15]]
+
+^<<v4-5-15,15>>^ Então aquele varão trará a sua mulher perante o sacerdote, e juntamente trará a sua oferta por ela: uma décima de efa de farinha de cevada, sobre a qual não deitará azeite, nem sobre ela porá incenso, porquanto é oferta de manjares de ciúmes, oferta memorativa, que traz a iniquidade em memória.
+
+[[v4-5-16]]
+
+^<<v4-5-16,16>>^ E o sacerdote a fará chegar, e a porá perante a face do Senhor.
+
+[[v4-5-17]]
+
+^<<v4-5-17,17>>^ E o sacerdote tomará água santa num vaso de barro; também tomará o sacerdote do pó que houver no chão do tabernáculo, e o deitará na água.
+
+[[v4-5-18]]
+
+^<<v4-5-18,18>>^ Então o sacerdote apresentará a mulher perante o Senhor, e descobrirá a cabeça da mulher; e a oferta memorativa de manjares, que é a oferta de manjares dos ciúmes, porá sobre as suas mãos, e a água amarga, que traz consigo a maldição, estará na mão do sacerdote.
+
+[[v4-5-19]]
+
+^<<v4-5-19,19>>^ E o sacerdote a conjurará, e dirá àquela mulher: Se ninguém contigo se deitou, e se não te apartaste de teu marido pela imundícia, destas águas amargas, amaldiçoantes, serás livre.
+
+[[v4-5-20]]
+
+^<<v4-5-20,20>>^ Mas, se te apartaste de teu marido, e te contaminaste, e algum homem, fora de teu marido, se deitou contigo;
+
+[[v4-5-21]]
+
+^<<v4-5-21,21>>^ Então o sacerdote conjurará à mulher com a conjuração da maldição; e o sacerdote dirá à mulher: O Senhor te ponha por maldição e por conjuração no meio do teu povo, fazendo-te o Senhor descair a coxa e inchar o ventre.
+
+[[v4-5-22]]
+
+^<<v4-5-22,22>>^ E esta água amaldiçoante entre nas tuas entranhas, para te fazer inchar o ventre, e te fazer descair a coxa. Então a mulher dirá: Amém, Amém.
+
+[[v4-5-23]]
+
+^<<v4-5-23,23>>^ Depois o sacerdote escreverá estas mesmas maldições num livro, e com a água amarga as apagará.
+
+[[v4-5-24]]
+
+^<<v4-5-24,24>>^ E a água amarga, amaldiçoante, dará a beber à mulher, e a água amaldiçoante entrará nela para amargurar.
+
+[[v4-5-25]]
+
+^<<v4-5-25,25>>^ E o sacerdote tomará a oferta de manjares dos ciúmes da mão da mulher, e moverá a oferta de manjares perante o Senhor; e a oferecerá sobre o altar.
+
+[[v4-5-26]]
+
+^<<v4-5-26,26>>^ Também o sacerdote tomará um punhado da oferta de manjares, da oferta memorativa, e sobre o altar o queimará: e depois dará a beber a água à mulher.
+
+[[v4-5-27]]
+
+^<<v4-5-27,27>>^ E, havendo-lhe dado a beber aquela água, será que, se ela se tiver contaminado, e contra seu marido tiver prevaricado, a água amaldiçoante entrará nela para amargura, e o seu ventre se inchará, e a sua coxa descairá; e aquela mulher será por maldição no meio do seu povo.
+
+[[v4-5-28]]
+
+^<<v4-5-28,28>>^ E, se a mulher se não tiver contaminado, mas estiver limpa, então será livre, e conceberá semente.
+
+[[v4-5-29]]
+
+^<<v4-5-29,29>>^ Esta é  a lei dos ciúmes, quando a mulher, em poder de seu marido, se desviar e for contaminada;
+
+[[v4-5-30]]
+
+^<<v4-5-30,30>>^ Ou quando sobre o homem vier o espírito de ciúmes, e tiver ciúmes de sua mulher, apresente a mulher perante o Senhor, e o sacerdote nela execute toda esta lei.
+
+[[v4-5-31]]
+
+^<<v4-5-31,31>>^ E o homem será livre da iniquidade, porém a mulher levará a sua iniquidade.
+
+'''
+
+xref:004-numeros/004-numeros-004.adoc#v4-4-0[&#60; Capítulo Anterior] | <<v4-5-0,Topo>> | xref:004-numeros/004-numeros-006.adoc#v4-6-0[Próximo Capítulo &#62;]

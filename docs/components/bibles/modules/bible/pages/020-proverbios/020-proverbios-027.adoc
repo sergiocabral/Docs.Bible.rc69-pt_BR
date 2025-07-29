@@ -1,0 +1,117 @@
+include::./index.adoc[]
+
+[[v20-27-0]]
+=== Provérbios, 27
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v20-27-1]]
+
+^<<v20-27-1,1>>^ NÃO presumas do dia de amanhã, porque não sabes o que produzirá o dia.
+
+[[v20-27-2]]
+
+^<<v20-27-2,2>>^ Louve-te o estranho, e não a tua boca, o estrangeiro e não os teus lábios.
+
+[[v20-27-3]]
+
+^<<v20-27-3,3>>^ Pesada é  a pedra, e a areia também; mas a ira do insensato é  mais pesada do que elas ambas.
+
+[[v20-27-4]]
+
+^<<v20-27-4,4>>^ Cruel é  o furor e a impetuosa irar, mas quem parará perante a inveja?
+
+[[v20-27-5]]
+
+^<<v20-27-5,5>>^ Melhor é  a repreensão aberta do que o amor encoberto.
+
+[[v20-27-6]]
+
+^<<v20-27-6,6>>^ Fiéis são  as feridas feitas  pelo que ama, mas os beijos do que aborrece são enganosos.
+
+[[v20-27-7]]
+
+^<<v20-27-7,7>>^ A alma farta pisa o favo de mel, mas à alma faminta todo o amargo é  doce.
+
+[[v20-27-8]]
+
+^<<v20-27-8,8>>^ Qual a ave que vagueia longe do seu ninho, tal é o homem que anda vagueando longe do seu lugar.
+
+[[v20-27-9]]
+
+^<<v20-27-9,9>>^ O óleo e o perfume alegram o coração: assim a doença do amigo com o conselho cordial.
+
+[[v20-27-10]]
+
+^<<v20-27-10,10>>^ Não abandones a teu amigo, nem ao amigo de teu pai, nem entres na casa de teu irmão no dia da tua adversidade: melhor é  o vizinho perto do que o irmão longe.
+
+[[v20-27-11]]
+
+^<<v20-27-11,11>>^ Sê sábio, filho meu, e alegra o meu coração; para que tenha alguma cousa que responder àquele que me desprezar.
+
+[[v20-27-12]]
+
+^<<v20-27-12,12>>^ O avisado vê o mal, e  esconde-se; mas  os simples passam e  sofrem a pena.
+
+[[v20-27-13]]
+
+^<<v20-27-13,13>>^ Quando alguém fica por fiador do estranho, toma-lhe tu a sua roupa, e penhora-o pela estranha.
+
+[[v20-27-14]]
+
+^<<v20-27-14,14>>^ O que bendiz ao seu amigo em alta voz, madrugando pela manhã, por maldição se lhe contará.
+
+[[v20-27-15]]
+
+^<<v20-27-15,15>>^ O gotejar contínuo no dia de grande chuva, e a mulher rixosa, uma e outra são semelhantes.
+
+[[v20-27-16]]
+
+^<<v20-27-16,16>>^ Aquele que a contivesse, conteria o vento; e a sua destra acomete o óleo.
+
+[[v20-27-17]]
+
+^<<v20-27-17,17>>^ Como  o ferro com o ferro se aguça, assim o homem afia o rosto do seu amigo.
+
+[[v20-27-18]]
+
+^<<v20-27-18,18>>^ O que guarda a figueira comerá do seu fruto; e o que vela pelo seu senhor, será honrado.
+
+[[v20-27-19]]
+
+^<<v20-27-19,19>>^ Como na  água o rosto corresponde  ao rosto, assim o coração do homem ao homem.
+
+[[v20-27-20]]
+
+^<<v20-27-20,20>>^ O inferno e a perdição nunca se fartam, e os olhos do homem nunca se satisfazem.
+
+[[v20-27-21]]
+
+^<<v20-27-21,21>>^ O crisol é para a prata, e o forno para o ouro, e o homem é provado  pelos louvores.
+
+[[v20-27-22]]
+
+^<<v20-27-22,22>>^ Ainda que pisasses o tolo com uma  mão de gral entre grãos de cevada pilada, não se iria dele a sua estultícia.
+
+[[v20-27-23]]
+
+^<<v20-27-23,23>>^ Procura conhecer o estado das tuas ovelhas: põe o teu coração sobre o gado.
+
+[[v20-27-24]]
+
+^<<v20-27-24,24>>^ Porque as riquezas não duram  para sempre: e duraria a coroa de geração em geração?
+
+[[v20-27-25]]
+
+^<<v20-27-25,25>>^ Quando  se mostrar a erva, e aparecerem os renovos, então ajunta as ervas dos montes.
+
+[[v20-27-26]]
+
+^<<v20-27-26,26>>^ Os cordeiros serão  para te vestires, e os bodes para  o preço do campo.
+
+[[v20-27-27]]
+
+^<<v20-27-27,27>>^ E haverá bastante leite de cabras para o teu sustento, para sustento da tua casa e para sustento das tuas criadas.
+
+'''
+
+xref:020-proverbios/020-proverbios-026.adoc#v20-26-0[&#60; Capítulo Anterior] | <<v20-27-0,Topo>> | xref:020-proverbios/020-proverbios-028.adoc#v20-28-0[Próximo Capítulo &#62;]

@@ -1,0 +1,89 @@
+include::./index.adoc[]
+
+[[v23-32-0]]
+=== Isaías, 32
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-32-1]]
+
+^<<v23-32-1,1>>^ EIS aí está que reinará um Rei com justiça, e dominarão os príncipes segundo o juízo.
+
+[[v23-32-2]]
+
+^<<v23-32-2,2>>^ E será aquele  Varão como um esconderijo contra o vento, e um  refúgio contra a tempestade, como ribeiros de águas em lugares secos, e  como a sombra duma grande rocha em terra sedenta.
+
+[[v23-32-3]]
+
+^<<v23-32-3,3>>^ E os olhos dos que veem não olharão para trás: e os ouvidos dos que ouvem estarão atentos.
+
+[[v23-32-4]]
+
+^<<v23-32-4,4>>^ E o coração dos imprudentes entenderá a sabedoria; e a língua dos gagos estará pronta para falar distintamente.
+
+[[v23-32-5]]
+
+^<<v23-32-5,5>>^ Ao louco nunca mais se chamará liberal; e do avarento nunca mais  se dirá que é generoso.
+
+[[v23-32-6]]
+
+^<<v23-32-6,6>>^ Porque o louco fala loucamente, e o seu coração pratica a iniquidade, para usar de hipocrisia, e para proferir erros contra o Senhor, para deixar vazia a alma do faminto, e fazer com que o sedento venha a ter falta de bebida.
+
+[[v23-32-7]]
+
+^<<v23-32-7,7>>^ Também todos os instrumentos do avarento são  maus: ele maquina invenções malignas, para destruir os mansos com palavras falsas, mesmo quando o pobre chega a falar retamente.
+
+[[v23-32-8]]
+
+^<<v23-32-8,8>>^ Mas o liberal projeta cousas liberais, e pela liberalidade está em pé.
+
+[[v23-32-9]]
+
+^<<v23-32-9,9>>^ Levantai-vos, mulheres que estais em repouso, e  ouvi a minha voz: e  vós, filhas que estais tão seguras, inclinai os ouvidos às minhas palavras.
+
+[[v23-32-10]]
+
+^<<v23-32-10,10>>^ Porque um ano e dias vireis a ser turbadas, ó mulheres que estais tão seguras; porque a vindima se acabará e a colheita não virá.
+
+[[v23-32-11]]
+
+^<<v23-32-11,11>>^ Tremei, mulheres que estais em repouso, e  turbai-vos vós  que estais tão seguras: despi-vos e ponde-vos nuas, e cingi com sacos  os vossos lombos.
+
+[[v23-32-12]]
+
+^<<v23-32-12,12>>^ Ferirão os peitos sobre os campos desejáveis, e  sobre as vides frutuosas.
+
+[[v23-32-13]]
+
+^<<v23-32-13,13>>^ Sobre a terra do meu povo virão espinheiros e sarças; como também sobre todas as casas de alegria, na  cidade que anda pulando de prazer.
+
+[[v23-32-14]]
+
+^<<v23-32-14,14>>^ Porque o palácio será abandonado, o ruído da cidade cessará: Ofel e as torres da guarda servirão de cavernas eternamente, para alegria dos jumentos monteses, e  para pasto dos gados;
+
+[[v23-32-15]]
+
+^<<v23-32-15,15>>^ Até que se derrame sobre nós o espírito lá do alto: então o deserto se tornará em campo fértil, e o campo fértil será reputado por um  bosque.
+
+[[v23-32-16]]
+
+^<<v23-32-16,16>>^ E o juízo habitará no deserto, e a justiça morará no campo fértil.
+
+[[v23-32-17]]
+
+^<<v23-32-17,17>>^ E o efeito da justiça será paz, e a operação da justiça repouso e segurança, para sempre.
+
+[[v23-32-18]]
+
+^<<v23-32-18,18>>^ E o meu povo habitará em morada de paz, e em moradas bem seguras, e em lugares quietos de descanso.
+
+[[v23-32-19]]
+
+^<<v23-32-19,19>>^ Mas, descendo ao bosque, cairá saraiva, e a cidade será inteiramente abatida.
+
+[[v23-32-20]]
+
+^<<v23-32-20,20>>^ Bem-aventurados vós os que semeais sobre todas as águas, e que enviais o pé do boi e do jumento.
+
+'''
+
+xref:023-isaias/023-isaias-031.adoc#v23-31-0[&#60; Capítulo Anterior] | <<v23-32-0,Topo>> | xref:023-isaias/023-isaias-033.adoc#v23-33-0[Próximo Capítulo &#62;]

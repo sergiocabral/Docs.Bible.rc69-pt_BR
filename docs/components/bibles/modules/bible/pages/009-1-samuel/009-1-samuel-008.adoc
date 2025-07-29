@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v9-8-0]]
+=== 1 Samuel, 8
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-8-1]]
+
+^<<v9-8-1,1>>^ E SUCEDEU que, tendo Samuel envelhecido, constituiu a seus filhos por juízes sobre Israel.
+
+[[v9-8-2]]
+
+^<<v9-8-2,2>>^ E era o nome do seu filho primogênito Joel, e o nome do seu segundo Abia: e foram  juízes em Berseba.
+
+[[v9-8-3]]
+
+^<<v9-8-3,3>>^ Porém seus filhos não andaram pelos caminhos dele, antes se inclinaram à avareza, e tomaram presentes, e perverteram o juízo.
+
+[[v9-8-4]]
+
+^<<v9-8-4,4>>^ Então todos os anciãos de Israel se congregaram, e vieram a Samuel, a Ramá,
+
+[[v9-8-5]]
+
+^<<v9-8-5,5>>^ E disseram-lhe: Eis que já  estás velho, e teus filhos não andam pelos teus caminhos: constitui-nos pois agora um rei sobre nós, para que ele nos julgue, como o têm  todas as nações.
+
+[[v9-8-6]]
+
+^<<v9-8-6,6>>^ Porém esta palavra pareceu mal aos olhos de Samuel, quando disseram: Dá-nos um rei, para que nos julgue. E Samuel orou ao Senhor.
+
+[[v9-8-7]]
+
+^<<v9-8-7,7>>^ E disse o Senhor a Samuel: Ouve a voz do povo em tudo quanto te disserem, pois não te tem rejeitado a ti, antes a mim me tem rejeitado para eu não reinar sobre eles.
+
+[[v9-8-8]]
+
+^<<v9-8-8,8>>^ Conforme a todas as obras que fizeram desde o dia em que os tirei do Egito até ao dia de  hoje, pois a mim me deixaram, e a outros deuses serviram, assim também te fizeram a ti.
+
+[[v9-8-9]]
+
+^<<v9-8-9,9>>^ Agora, pois, ouve a sua voz, porém protesta-lhes solenemente, e declara-lhes qual será  o costume do rei que houver de reinar sobre eles.
+
+[[v9-8-10]]
+
+^<<v9-8-10,10>>^ E falou Samuel todas as palavras do Senhor ao povo, que lhe pedia um rei.
+
+[[v9-8-11]]
+
+^<<v9-8-11,11>>^ E disse: Este será o costume do rei que houver de reinar sobre vós: ele tomará os vossos filhos, e os  empregará para os seus carros, e para seus cavaleiros, para que corram adiante dos seus carros.
+
+[[v9-8-12]]
+
+^<<v9-8-12,12>>^ E os porá por príncipes de milhares e por cinquentenários; e para que lavrem a sua lavoura, e seguem a sua sega, e façam as suas armas de guerra e os petrechos de seus carros.
+
+[[v9-8-13]]
+
+^<<v9-8-13,13>>^ E tomará as vossas filhas para perfumistas, cozinheiras, e padeiras.
+
+[[v9-8-14]]
+
+^<<v9-8-14,14>>^ E tomará o melhor das vossas terras, e das vossas vinhas, e dos vossos olivais, e os  dará aos seus criados.
+
+[[v9-8-15]]
+
+^<<v9-8-15,15>>^ E as vossas sementes, e as vossas vinhas dizimará, para dar aos seus eunucos e aos seus criados.
+
+[[v9-8-16]]
+
+^<<v9-8-16,16>>^ Também os vossos criados, e as vossas criadas, e os vossos melhores mancebos, e os  vossos jumentos tomará, e os empregará no seu trabalho.
+
+[[v9-8-17]]
+
+^<<v9-8-17,17>>^ Dizimará o vosso rebanho, e vós lhe servireis de criados.
+
+[[v9-8-18]]
+
+^<<v9-8-18,18>>^ Então naquele dia clamareis por causa do vosso rei, que vós houverdes escolhido; mas o Senhor não vos ouvirá naquele dia.
+
+[[v9-8-19]]
+
+^<<v9-8-19,19>>^ Porém o povo não quis ouvir a voz de Samuel; e disseram: Não, mas haverá sobre nós um rei.
+
+[[v9-8-20]]
+
+^<<v9-8-20,20>>^ E nós também seremos como todas as outras  nações; e o nosso rei nos julgará, e sairá adiante de nós, e fará as nossas guerras.
+
+[[v9-8-21]]
+
+^<<v9-8-21,21>>^ Ouvindo pois Samuel todas as palavras do povo, as falou perante os ouvidos do Senhor.
+
+[[v9-8-22]]
+
+^<<v9-8-22,22>>^ Então o Senhor disse a Samuel: Dá ouvidos à sua voz, constitui-lhes rei. Então Samuel disse aos filhos de Israel: Vá-se cada qual à sua cidade.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-007.adoc#v9-7-0[&#60; Capítulo Anterior] | <<v9-8-0,Topo>> | xref:009-1-samuel/009-1-samuel-009.adoc#v9-9-0[Próximo Capítulo &#62;]

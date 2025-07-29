@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v24-40-0]]
+=== Jeremias, 40
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v24-40-1]]
+
+^<<v24-40-1,1>>^ A PALAVRA que veio a Jeremias da parte  do Senhor, depois que Nebuzaradão, capitão da guarda, o deixou ir de Ramá, quando o tomou, estando ele atado com cadeias no meio de todos os do cativeiro de Jerusalém e de Judá, que foram levados cativos para Babilônia;
+
+[[v24-40-2]]
+
+^<<v24-40-2,2>>^ Porque o capitão da guarda levou Jeremias, e lhe disse. O Senhor teu Deus pronunciou este mal contra este lugar;
+
+[[v24-40-3]]
+
+^<<v24-40-3,3>>^ E o Senhor o trouxe, e fez como havia dito: porque pecastes contra o Senhor, e não obedecestes à sua voz; pelo que vos sucedeu tudo isto.
+
+[[v24-40-4]]
+
+^<<v24-40-4,4>>^ Agora pois, eis que te soltei hoje das cadeias que estavam  sobre as tuas mãos. Se te apraz vir comigo para Babilônia, vem, e eu velarei por ti; mas, se te não apraz vir comigo para Babilônia, deixa de vir. Olha toda a terra está  diante de ti; para onde parecer bom e reto aos teus olhos que vás, para ali vai.
+
+[[v24-40-5]]
+
+^<<v24-40-5,5>>^ Mas, como ele ainda não tinha voltado, disse-lhe : Volta a Gedalias, filho de Aicão, filho de Safã, a quem o rei de Babilônia pôs sobre as cidades de Judá, e habita com ele no meio do povo; ou se para qualquer outra parte te aprouver ir, vai. E deu-lhe o capitão da guarda sustento para o caminho, e um presente, e o deixou ir.
+
+[[v24-40-6]]
+
+^<<v24-40-6,6>>^ Assim veio Jeremias a Gedalias, filho de Aicão, a Mizpá; e habitou com ele no meio do povo que havia ficado na terra.
+
+[[v24-40-7]]
+
+^<<v24-40-7,7>>^ Ouvindo pois todos os príncipes dos exércitos, que estavam  no campo, eles e os seus homens, que o rei de Babilônia tinha posto sobre a terra a Gedalias, filho de Aicão, e que lhe havia confiado os homens, e as mulheres, e os meninos, e os mais pobres da terra, que não foram levados cativos para Babilônia,
+
+[[v24-40-8]]
+
+^<<v24-40-8,8>>^ Vieram ter com Gedalias, a Mizpá; e eram: Ismael, filho de Netanias, e Joanã e Jônatas, filhos de Careá, e Seraías, filho de Tanumete, e os filhos de Efai, o netofatita, e Jezanias, filho d um  maacatita, eles e os seus homens.
+
+[[v24-40-9]]
+
+^<<v24-40-9,9>>^ Jurou Gedalias, filho de Aicão, filho de Safã, a eles, e aos seus homens, dizendo: Não temais servir aos caldeus: ficai na terra, e servi o rei de Babilônia, e bem vos irá.
+
+[[v24-40-10]]
+
+^<<v24-40-10,10>>^ Eu, porém, eis que habito em Mizpá, para estar às ordens dos caldeus que vierem a nós; e vós recolhei o vinho, e as frutas de verão, e o azeite, e metei-os nos vossos vasos, e habitai nas vossas cidades que tomastes.
+
+[[v24-40-11]]
+
+^<<v24-40-11,11>>^ Do mesmo modo, quando todos os judeus que estavam  em Moabe, e entre os filhos de Amom, e em Edom, e os que havia  em todas aquelas terras, ouviram que o rei de Babilônia havia deixado um resto em Judá, e que havia posto sobre eles a Gedalias, filho de Aicão, filho de Safã,
+
+[[v24-40-12]]
+
+^<<v24-40-12,12>>^ Tornaram então todos os judeus de todos os lugares, para onde foram lançados, e vieram à terra de Judá, a Gedalias, a Mizpá; e recolheram vinho e frutas do verão com muita abundância.
+
+[[v24-40-13]]
+
+^<<v24-40-13,13>>^ Joanã, filho de Careá, e todos os príncipes dos exércitos, que estavam  no campo, vieram a Gedalias, a Mizpá.
+
+[[v24-40-14]]
+
+^<<v24-40-14,14>>^ E disseram-lhe: Bem sabes que Baalis, rei dos filhos de Amom, enviou a Ismael, filho de Netanias, para te tirar a vida. Mas não lhes deu crédito Gedalias, filho de Aicão.
+
+[[v24-40-15]]
+
+^<<v24-40-15,15>>^ Todavia Joanã, filho de Careá, falou a Gedalias em segredo, em Mizpá, dizendo: Irei agora, e ferirei a Ismael, filho de Netanias, sem que ninguém o saiba: por que razão  te tiraria ele a vida, e todo o Judá que se tem congregado a ti seria disperso, e pereceria o resto de Judá?
+
+[[v24-40-16]]
+
+^<<v24-40-16,16>>^ Mas disse Gedalias, filho de Aicão, a Joanã, filho de Careá: Não faças tal cousa; por que falas falsamente contra Ismael.
+
+'''
+
+xref:024-jeremias/024-jeremias-039.adoc#v24-39-0[&#60; Capítulo Anterior] | <<v24-40-0,Topo>> | xref:024-jeremias/024-jeremias-041.adoc#v24-41-0[Próximo Capítulo &#62;]

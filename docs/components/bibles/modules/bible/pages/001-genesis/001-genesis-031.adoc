@@ -1,0 +1,229 @@
+include::./index.adoc[]
+
+[[v1-31-0]]
+=== Gênesis, 31
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-31-1]]
+
+^<<v1-31-1,1>>^ ENTÃO ouvia as palavras dos filhos de Labão, que diziam: Jacó tem tomado tudo o que era  de nosso pai, e do que era  de nosso pai fez ele toda esta glória.
+
+[[v1-31-2]]
+
+^<<v1-31-2,2>>^ Viu também Jacó o rosto de Labão e eis que não era  para com ele como dantes.
+
+[[v1-31-3]]
+
+^<<v1-31-3,3>>^ E disse o Senhor a Jacó: Torna à terra dos teus pais, e à tua parentela e eu serei contigo.
+
+[[v1-31-4]]
+
+^<<v1-31-4,4>>^ Então enviou Jacó, e chamou a Raquel e a Leia ao campo, ao seu rebanho.
+
+[[v1-31-5]]
+
+^<<v1-31-5,5>>^ E disse-lhes: Vejo que o rosto de vosso pai para comigo não é  como anteriormente; porém o Deus de meu pai esteve comigo;
+
+[[v1-31-6]]
+
+^<<v1-31-6,6>>^ E vós mesmas sabeis que com todo o meu poder tenho servido a vosso pai;
+
+[[v1-31-7]]
+
+^<<v1-31-7,7>>^ Mas vosso pai me enganou e mudou o salário dez vezes; porém Deus não lhe permitiu que me fizesse mal.
+
+[[v1-31-8]]
+
+^<<v1-31-8,8>>^ Quando ele dizia assim: Os salpicados serão o teu salário; então todos os rebanhos davam salpicados. E quando ele dizia assim: Os listrados serão o teu salário, então todos os rebanhos davam listrados.
+
+[[v1-31-9]]
+
+^<<v1-31-9,9>>^ Assim Deus tirou o gado de vosso pai, e mo deu a mim.
+
+[[v1-31-10]]
+
+^<<v1-31-10,10>>^ E sucedeu que, ao tempo em que o rebanho concebia, eu levantei os meus olhos, e vi em sonhos, e eis que os bodes que cobriam as ovelhas, eram  listrados, salpicados e malhados.
+
+[[v1-31-11]]
+
+^<<v1-31-11,11>>^ E disse-me o anjo de Deus em sonhos: Jacó. E eu disse: Eis-me aqui.
+
+[[v1-31-12]]
+
+^<<v1-31-12,12>>^ E disse ele: Levanta agora os teus olhos, e vê que todos os bodes que cobrem o rebanho, são  listrados, salpicados e malhados; porque tenho visto tudo o que Labão te fez.
+
+[[v1-31-13]]
+
+^<<v1-31-13,13>>^ Eu sou  o Deus de Betel, onde tens ungido uma coluna, onde me tens votado o voto; levanta-te agora, sai-te desta terra, e torna-te à terra da tua parentela.
+
+[[v1-31-14]]
+
+^<<v1-31-14,14>>^ Então responderam Raquel e Leia, e disseram-lhe: Há  ainda para nós parte ou herança na casa de nosso pai?
+
+[[v1-31-15]]
+
+^<<v1-31-15,15>>^ Não nos considera ele como estranhas? pois vendeu-nos, e comeu todo o nosso dinheiro.
+
+[[v1-31-16]]
+
+^<<v1-31-16,16>>^ Porque toda a riqueza, que Deus tirou de nosso pai, é nossa e de nossos filhos; agora, pois, faze tudo o que Deus te tem dito.
+
+[[v1-31-17]]
+
+^<<v1-31-17,17>>^ Então se levantou Jacó, pondo os seus filhos e as suas mulheres sobre os camelos;
+
+[[v1-31-18]]
+
+^<<v1-31-18,18>>^ E levou todo o seu gado, e toda a sua fazenda, que havia adquirido, o gado que possuía, que alcançara em Padã-Arã, para ir a Isaque, seu pai, à terra de Canaã.
+
+[[v1-31-19]]
+
+^<<v1-31-19,19>>^ E havendo Labão ido a tosquiar as suas ovelhas, furtou Raquel os ídolos que seu pai tinha.
+
+[[v1-31-20]]
+
+^<<v1-31-20,20>>^ E esquivou-se Jacó de Labão o arameu, porque não lhe fez saber que fugia.
+
+[[v1-31-21]]
+
+^<<v1-31-21,21>>^ E fugiu ele com tudo o que tinha, e levantou-se, e passou o rio; e pôs o seu rosto para a montanha de Gileade.
+
+[[v1-31-22]]
+
+^<<v1-31-22,22>>^ E no terceiro dia foi anunciado a Labão que Jacó tinha fugido.
+
+[[v1-31-23]]
+
+^<<v1-31-23,23>>^ Então tomou consigo os seus irmãos, e atrás dele seguiu o seu caminho por sete dias; e alcançou-o na montanha de Gileade.
+
+[[v1-31-24]]
+
+^<<v1-31-24,24>>^ Veio porém Deus a Labão, o arameu em sonhos de noite, e disse-lhe: Guarda-te que não fales a Jacó nem bem nem mal.
+
+[[v1-31-25]]
+
+^<<v1-31-25,25>>^ Alcançou pois Labão a Jacó, e armara Jacó a sua tenda naquela montanha: armou também Labão com os seus irmãos a sua  na montanha de Gileade.
+
+[[v1-31-26]]
+
+^<<v1-31-26,26>>^ Então disse Labão a Jacó: Que fizeste, que te esquivaste de mim, e levaste as minhas filhas como cativas pela espada?
+
+[[v1-31-27]]
+
+^<<v1-31-27,27>>^ Por que fugiste ocultamente, e te esquivaste de mim, e não me fizeste saber, para que eu te enviasse com alegria e com cânticos, e com tamboril e com harpa?
+
+[[v1-31-28]]
+
+^<<v1-31-28,28>>^ Também não me permitiste beijar os meus filhos e as minhas filhas. Loucamente pois  agora andaste, fazendo assim.
+
+[[v1-31-29]]
+
+^<<v1-31-29,29>>^ Poder havia em minha mão para vos fazer mal, mas o Deus de vosso pai me falou ontem à noite, dizendo: Guarda-te, que não fales a Jacó nem bem nem mal.
+
+[[v1-31-30]]
+
+^<<v1-31-30,30>>^ E agora, se te querias ir embora , porquanto tinhas saudades de voltar à casa de teu pai, por que furtaste os meus deuses?
+
+[[v1-31-31]]
+
+^<<v1-31-31,31>>^ Então respondeu Jacó, e disse a Labão: Porque temia; pois que dizia comigo , se porventura me não arrebatarias as tuas filhas.
+
+[[v1-31-32]]
+
+^<<v1-31-32,32>>^ Com quem achares os teus deuses, esse não viva; reconhece diante de nossos irmãos o que é  teu do que está comigo, e toma-o para ti. Pois Jacó não sabia que Raquel os tinha furtado.
+
+[[v1-31-33]]
+
+^<<v1-31-33,33>>^ Então entrou Labão na tenda de Jacó, e na tenda de Leia, e na tenda de ambas as servas e não os  achou; e saindo da tenda de Leia, entrou na tenda de Raquel.
+
+[[v1-31-34]]
+
+^<<v1-31-34,34>>^ Mas tinha tomado Raquel os ídolos, e os tinha posto na albarda de um camelo, e assentara-se sobre eles; e apalpou Labão toda a tenda, e não os  achou.
+
+[[v1-31-35]]
+
+^<<v1-31-35,35>>^ E ela disse a seu pai: Não se acenda a ira nos olhos de meu senhor, que não posso levantar-me diante da tua face; porquanto tenho  o costume das mulheres. E ele procurou, mas não achou os ídolos.
+
+[[v1-31-36]]
+
+^<<v1-31-36,36>>^ Então irou-se Jacó, e contendeu com Labão. E respondeu Jacó, e disse a Labão: Qual é  a minha transgressão? qual é  o meu pecado, que tão  furiosamente me tens perseguido?
+
+[[v1-31-37]]
+
+^<<v1-31-37,37>>^ Havendo apalpado todos os meus móveis, que achaste de todos os móveis da tua casa? Põe-no aqui diante dos meus irmãos, e teus irmãos; e que  julguem entre nós ambos.
+
+[[v1-31-38]]
+
+^<<v1-31-38,38>>^ Estes vinte anos eu estive  contigo, as tuas ovelhas e as tuas cabras nunca abortaram, e não comi os carneiros do teu rebanho.
+
+[[v1-31-39]]
+
+^<<v1-31-39,39>>^ Não te trouxe eu o despedaçado; eu o pagava; o furtado de dia e o furtado de noite da minha mão o requerias.
+
+[[v1-31-40]]
+
+^<<v1-31-40,40>>^ Estava eu de sorte que  de dia me consumia o calor, e de noite a geada; e o meu sono foi-se dos meus olhos.
+
+[[v1-31-41]]
+
+^<<v1-31-41,41>>^ Tenho estado agora vinte anos na tua casa; catorze te servi por tuas duas filhas, e seis anos por teu rebanho; mas o meu salário tens mudado dez vezes.
+
+[[v1-31-42]]
+
+^<<v1-31-42,42>>^ Se o Deus de meu pai, o Deus de Abraão, e o temor de Isaque não fora comigo, por certo me enviarias agora vazio. Deus atendeu à minha aflição, e ao trabalho das minhas mãos, e repreendeu- te  ontem à noite.
+
+[[v1-31-43]]
+
+^<<v1-31-43,43>>^ Então respondeu Labão, e disse a Jacó: Estas  filhas são  minhas filhas, e estes  filhos são  meus filhos, e este  rebanho é  o meu rebanho, e tudo o que vês, meu é ; e que farei hoje a estas minhas filhas, ou aos filhos que tiveram?
+
+[[v1-31-44]]
+
+^<<v1-31-44,44>>^ Agora pois vem, e façamos concerto eu e tu, que seja por testemunho entre mim e ti.
+
+[[v1-31-45]]
+
+^<<v1-31-45,45>>^ Então tomou Jacó uma pedra, e erigiu-a por  coluna.
+
+[[v1-31-46]]
+
+^<<v1-31-46,46>>^ E disse Jacó a seus irmãos: Ajuntai pedras. E tomaram pedras, e fizeram um montão, e comeram ali sobre aquele montão.
+
+[[v1-31-47]]
+
+^<<v1-31-47,47>>^ E chamou-lhe Labão Jegar-Saaduta; porém Jacó chamou-lhe Galeede.
+
+[[v1-31-48]]
+
+^<<v1-31-48,48>>^ Então disse Labão: Este montão seja  hoje por testemunha entre mim e ti: por isso se chamou o seu nome Galeede,
+
+[[v1-31-49]]
+
+^<<v1-31-49,49>>^ E Mispá, porquanto disse: Atente o Senhor entre mim e ti, quando nós estivermos apartados um do outro:
+
+[[v1-31-50]]
+
+^<<v1-31-50,50>>^ Se afligires as minhas filhas, e se tomares mulheres além das minhas filhas, ninguém está  conosco; atenta que Deus é  testemunha entre mim e ti.
+
+[[v1-31-51]]
+
+^<<v1-31-51,51>>^ Disse mais Labão a Jacó: Eis aqui este mesmo montão, e eis aqui essa coluna que levantei entre mim e ti.
+
+[[v1-31-52]]
+
+^<<v1-31-52,52>>^ Este montão seja  testemunha, e esta coluna seja  testemunha, que eu não passarei este montão para lá, e que tu não passarás este montão e esta coluna para cá, para mal.
+
+[[v1-31-53]]
+
+^<<v1-31-53,53>>^ O Deus de Abraão, e o Deus de Naor, o Deus de seu pai julgue entre nós. E jurou Jacó pelo temor de seu pai Isaque.
+
+[[v1-31-54]]
+
+^<<v1-31-54,54>>^ E sacrificou Jacó um sacrifício na montanha, e convidou seus irmãos, para comer pão; e comeram o pão, e passaram a noite na montanha.
+
+[[v1-31-55]]
+
+^<<v1-31-55,55>>^ E levantou-se Labão pela manhã de madrugada, e beijou seus filhos, e suas filhas, e abençoou-os, e partiu; e voltou Labão ao seu lugar.
+
+'''
+
+xref:001-genesis/001-genesis-030.adoc#v1-30-0[&#60; Capítulo Anterior] | <<v1-31-0,Topo>> | xref:001-genesis/001-genesis-032.adoc#v1-32-0[Próximo Capítulo &#62;]

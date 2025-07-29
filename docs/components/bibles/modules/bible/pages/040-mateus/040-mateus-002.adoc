@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v40-2-0]]
+=== Mateus, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v40-2-1]]
+
+^<<v40-2-1,1>>^ E, TENDO nascido Jesus em Belém de Judeia no tempo do rei Herodes, eis que uns  magos vieram do oriente a Jerusalém,
+
+[[v40-2-2]]
+
+^<<v40-2-2,2>>^ Dizendo: Onde está aquele que é nascido rei dos judeus? porque vimos a sua estrela no oriente, e viemos a adorá-lo.
+
+[[v40-2-3]]
+
+^<<v40-2-3,3>>^ E o rei Herodes, ouvindo isto , perturbou-se, e toda Jerusalém com ele.
+
+[[v40-2-4]]
+
+^<<v40-2-4,4>>^ E, congregados todos os príncipes dos sacerdotes, e os escribas do povo, perguntou-lhes onde havia de nascer o Cristo.
+
+[[v40-2-5]]
+
+^<<v40-2-5,5>>^ E eles lhe disseram: Em Belém de Judeia; porque assim está escrito pelo profeta:
+
+[[v40-2-6]]
+
+^<<v40-2-6,6>>^ E tu, Belém, terra de Judá, de modo nenhum és a menor entre as capitais de Judá; porque de ti sairá o Guia que há de apascentar o meu povo de Israel.
+
+[[v40-2-7]]
+
+^<<v40-2-7,7>>^ Então Herodes, chamando secretamente os magos, inquiriu exatamente deles acerca  do tempo em que a estrela lhes aparecera.
+
+[[v40-2-8]]
+
+^<<v40-2-8,8>>^ E, enviando-os a Belém, disse: Ide, e perguntai diligentemente pelo menino, e, quando o  achardes, participai-mo, para que também eu vá e o adore.
+
+[[v40-2-9]]
+
+^<<v40-2-9,9>>^ E, tendo eles ouvido o rei, partiram; e eis que a estrela, que tinham visto no oriente, ia adiante deles, até que, chegando, se deteve sobre o lugar  onde estava o menino.
+
+[[v40-2-10]]
+
+^<<v40-2-10,10>>^ E, vendo eles a estrela, alegraram-se muito com grande alegria.
+
+[[v40-2-11]]
+
+^<<v40-2-11,11>>^ E, entrando na casa, acharam o menino com Maria sua mãe, e prostrando-se, o adoraram; e, abrindo os seus tesouros, lhe ofertaram dádivas: ouro, incenso e mirra.
+
+[[v40-2-12]]
+
+^<<v40-2-12,12>>^ E, sendo por divina revelação avisados em sonhos para que não voltassem para junto de Herodes, partiram para a sua terra por outro caminho.
+
+[[v40-2-13]]
+
+^<<v40-2-13,13>>^ E, tendo-se eles retirado, eis que o anjo do Senhor apareceu a José em sonhos, dizendo: Levanta-te, e toma o menino e sua mãe, e foge para o Egito, e demora-te lá até que eu te diga; porque Herodes há de procurar o menino para o matar.
+
+[[v40-2-14]]
+
+^<<v40-2-14,14>>^ E, levantando-se ele, tomou o menino e sua mãe, de noite, e foi para o Egito.
+
+[[v40-2-15]]
+
+^<<v40-2-15,15>>^ E esteve lá até à morte de Herodes, para que se cumprisse o que foi dito da parte do Senhor pelo profeta, que diz: Do Egito chamei o meu Filho.
+
+[[v40-2-16]]
+
+^<<v40-2-16,16>>^ Então Herodes, vendo que tinha sido iludido pelos magos, irritou-se muito, e mandou matar todos os meninos que havia em Belém, e em todos os seus contornos, de dois anos para baixo, segundo o tempo que diligentemente inquirira dos magos.
+
+[[v40-2-17]]
+
+^<<v40-2-17,17>>^ Então se cumpriu o que foi dito pelo profeta Jeremias, que diz:
+
+[[v40-2-18]]
+
+^<<v40-2-18,18>>^ Em Rama se ouviu uma  voz, lamentação, choro e grande pranto: Raquel chorando os seus filhos, e não querendo ser consolada, porque já  não existem.
+
+[[v40-2-19]]
+
+^<<v40-2-19,19>>^ Morto porém Herodes, eis que o anjo do Senhor apareceu num sonho a José no Egito.
+
+[[v40-2-20]]
+
+^<<v40-2-20,20>>^ Dizendo: Levanta-te, e toma o menino e sua mãe, e vai para a terra d’Israel; porque já  estão mortos os que procuravam a morte do menino.
+
+[[v40-2-21]]
+
+^<<v40-2-21,21>>^ Então ele se levantou, e tomou o menino e sua mãe, e foi para a terra d’Israel.
+
+[[v40-2-22]]
+
+^<<v40-2-22,22>>^ E, ouvindo que Arquelau reinava na Judeia em lugar de Herodes, seu pai, receou ir para lá: mas avisado em sonhos por divina revelação, foi para as partes da Galileia.
+
+[[v40-2-23]]
+
+^<<v40-2-23,23>>^ E chegou, e habitou numa cidade chamada Nazaré, para que se cumprisse o que fora dito pelos profetas: Ele será chamado Nazareno.
+
+'''
+
+xref:040-mateus/040-mateus-001.adoc#v40-1-0[&#60; Capítulo Anterior] | <<v40-2-0,Topo>> | xref:040-mateus/040-mateus-003.adoc#v40-3-0[Próximo Capítulo &#62;]

@@ -1,0 +1,73 @@
+include::./index.adoc[]
+
+[[v33-6-0]]
+=== Miquéias, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v33-6-1]]
+
+^<<v33-6-1,1>>^ OUVI agora o que diz o Senhor: Levanta-te, contende com os montes, e ouçam os outeiros a tua voz.
+
+[[v33-6-2]]
+
+^<<v33-6-2,2>>^ Ouvi, montes, a contenda do Senhor, e vós, fortes fundamentos da terra; porque o Senhor tem uma contenda com o seu povo, e com Israel entrará em juízo.
+
+[[v33-6-3]]
+
+^<<v33-6-3,3>>^ Ó povo meu! que te tenho feito? e em que te enfadei? testifica contra mim.
+
+[[v33-6-4]]
+
+^<<v33-6-4,4>>^ Certamente te fiz subir da terra do Egito e da casa da servidão te remi; e pus diante de ti a Moisés, Aarão e Miriam.
+
+[[v33-6-5]]
+
+^<<v33-6-5,5>>^ Povo meu, ora lembra-te da consulta de Balaque, rei de Moabe, e do que lhe respondeu Balaão, filho de Beor, desde Sitim até Gilgal; para que conheças as justiças do Senhor.
+
+[[v33-6-6]]
+
+^<<v33-6-6,6>>^ Com que me apresentarei ao Senhor, e  me inclinarei ante o Deus altíssimo? virei perante ele com holocaustos? com bezerros de um  ano?
+
+[[v33-6-7]]
+
+^<<v33-6-7,7>>^ Agradar-se-á o Senhor de milhares de carneiros? de dez mil ribeiros de azeite? darei o meu primogênito pela minha transgressão? o fruto do meu ventre pelo  pecado da minha alma?
+
+[[v33-6-8]]
+
+^<<v33-6-8,8>>^ Ele te declarou, ó homem, o que é  bom; e que é o que o Senhor pede de ti, senão que pratiques a justiça, e ames a beneficência, e andes humildemente com o teu Deus?
+
+[[v33-6-9]]
+
+^<<v33-6-9,9>>^ A voz do Senhor clama à cidade, e o sábio verá o teu nome: Ouvi a vara, e quem a ordenou.
+
+[[v33-6-10]]
+
+^<<v33-6-10,10>>^ Ainda há na  casa do ímpio tesouros de impiedade? e efa pequeno, que é detestável?
+
+[[v33-6-11]]
+
+^<<v33-6-11,11>>^ Seria eu limpo com balanças falsas? e com um saco de pesos enganosos?
+
+[[v33-6-12]]
+
+^<<v33-6-12,12>>^ Porque os seus ricos estão cheios de violência, e os seus habitantes falam mentiras; e a sua língua é  enganosa na sua boca.
+
+[[v33-6-13]]
+
+^<<v33-6-13,13>>^ Assim eu também te  enfraquecerei, ferindo-te e  assolando- te  por causa dos teus pecados.
+
+[[v33-6-14]]
+
+^<<v33-6-14,14>>^ Tu comerás, mas não te fartarás; e a tua humilhação estará no meio de ti; removerás, mas não livrarás; e aquilo que livrares, eu o entregarei à espada.
+
+[[v33-6-15]]
+
+^<<v33-6-15,15>>^ Tu semearás, mas não segarás: pisarás a azeitona, mas não te ungirás com azeite; e o mosto, mas não beberás vinho.
+
+[[v33-6-16]]
+
+^<<v33-6-16,16>>^ Porque se observam os estatutos de Onri, e toda a obra da casa de Acabe, e vós andais nos conselhos deles; para que eu faça de ti uma desolação, e dos seus habitantes um assobio: assim trareis sobre vós o opróbrio do meu povo.
+
+'''
+
+xref:033-miqueias/033-miqueias-005.adoc#v33-5-0[&#60; Capítulo Anterior] | <<v33-6-0,Topo>> | xref:033-miqueias/033-miqueias-007.adoc#v33-7-0[Próximo Capítulo &#62;]

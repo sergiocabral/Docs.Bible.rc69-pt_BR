@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v44-23-0]]
+=== Atos, 23
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v44-23-1]]
+
+^<<v44-23-1,1>>^ E, PONDO Paulo os olhos no conselho, disse: Varões irmãos, até ao dia de hoje tenho andado diante de Deus com toda a boa consciência.
+
+[[v44-23-2]]
+
+^<<v44-23-2,2>>^ Mas o sumo sacerdote, Ananias, mandou aos que estavam junto dele que o ferissem na boca.
+
+[[v44-23-3]]
+
+^<<v44-23-3,3>>^ Então Paulo lhe disse: Deus te ferirá, parede branqueada: tu estás aqui  assentado para julgar-me conforme a lei, e contra a lei me mandas ferir?
+
+[[v44-23-4]]
+
+^<<v44-23-4,4>>^ E os que ali estavam disseram: Injurias o sumo sacerdote de Deus?
+
+[[v44-23-5]]
+
+^<<v44-23-5,5>>^ E Paulo disse: Não sabia, irmãos, que era o sumo sacerdote; porque está escrito: Não dirás mal do príncipe do teu povo.
+
+[[v44-23-6]]
+
+^<<v44-23-6,6>>^ E Paulo, sabendo que uma parte era de saduceus e outra de fariseus, clamou no conselho: Varões irmãos, eu sou fariseu, filho de fariseu, no tocante à esperança e ressurreição dos mortos sou julgado.
+
+[[v44-23-7]]
+
+^<<v44-23-7,7>>^ E, havendo dito isto, houve dissensão entre os fariseus e saduceus; e a multidão se dividiu.
+
+[[v44-23-8]]
+
+^<<v44-23-8,8>>^ Porque os saduceus dizem que não há ressurreição, nem anjo, nem espírito; mas os fariseus reconhecem uma e outra coisa.
+
+[[v44-23-9]]
+
+^<<v44-23-9,9>>^ E originou-se um  grande clamor; e, levantando-se os escribas da parte dos fariseus, contendiam, dizendo: Nenhum mal achamos neste homem, e se algum espírito ou anjo lhe falou, não resistamos a Deus.
+
+[[v44-23-10]]
+
+^<<v44-23-10,10>>^ E, havendo grande dissensão, o tribuno, temendo que Paulo fosse despedaçado por eles, mandou descer a soldadesca, para que o tirassem do meio deles, e o levassem para a fortaleza.
+
+[[v44-23-11]]
+
+^<<v44-23-11,11>>^ E na noite seguinte, apresentando-se-lhe o Senhor, disse: Paulo, tem ânimo: porque, como de mim testificaste em Jerusalém, assim importa que testifiques também em Roma.
+
+[[v44-23-12]]
+
+^<<v44-23-12,12>>^ E, quando já era dia, alguns dos judeus fizeram uma conspiração, e juraram dizendo que não comeriam nem beberiam enquanto não matassem a Paulo.
+
+[[v44-23-13]]
+
+^<<v44-23-13,13>>^ E eram mais de quarenta os que fizeram esta conjuração.
+
+[[v44-23-14]]
+
+^<<v44-23-14,14>>^ E estes foram ter com os principais dos sacerdotes e anciãos, e disseram: Conjuramo-nos, sob pena de maldição, a nada provarmos até que matemos a Paulo.
+
+[[v44-23-15]]
+
+^<<v44-23-15,15>>^ Agora, pois, vós, com o conselho, rogai ao tribuno que vo-lo traga amanhã, como que querendo saber mais alguma coisa de seus negócios, e, antes que chegue, estaremos prontos para o matar.
+
+[[v44-23-16]]
+
+^<<v44-23-16,16>>^ E o filho da irmã de Paulo, tendo ouvido acerca desta cilada, foi, e entrou na fortaleza, e o anunciou a Paulo.
+
+[[v44-23-17]]
+
+^<<v44-23-17,17>>^ E Paulo, chamando a si um dos centuriões, disse: Leva este mancebo ao tribuno, porque tem alguma coisa que lhe comunicar.
+
+[[v44-23-18]]
+
+^<<v44-23-18,18>>^ Tomando-o ele, pois, o levou ao tribuno, e disse: O preso Paulo chamando-me a si, me  rogou que te trouxesse este mancebo, que tem alguma coisa que dizer-te.
+
+[[v44-23-19]]
+
+^<<v44-23-19,19>>^ E o tribuno, tomando- o  pela mão, e pondo-se à parte, perguntou-lhe em particular: Que tens que me contar?
+
+[[v44-23-20]]
+
+^<<v44-23-20,20>>^ E disse ele: Os judeus se concertaram rogar-te que amanhã leves Paulo ao conselho como que tendo de inquirir dele mais alguma coisa ao certo:
+
+[[v44-23-21]]
+
+^<<v44-23-21,21>>^ Mas tu não os creias; porque mais de quarenta homens dentre eles lhe andam armando ciladas: os quais se obrigaram, sob pena de maldição, a não comerem nem beberem até que o tenham morto: e já estão apercebidos, esperando de ti promessa.
+
+[[v44-23-22]]
+
+^<<v44-23-22,22>>^ Então o tribuno despediu o mancebo, mandando-lhe que a ninguém dissesse que lhe havia contado aquilo.
+
+[[v44-23-23]]
+
+^<<v44-23-23,23>>^ E, chamando dois centuriões, lhes disse: Aprontai para as três horas da noite duzentos soldados, e setenta de cavalo, e duzentos archeiros para irem até Cesareia;
+
+[[v44-23-24]]
+
+^<<v44-23-24,24>>^ E aparelhai cavalgaduras, para que pondo nelas a Paulo, o levem salvo ao presidente Félix.
+
+[[v44-23-25]]
+
+^<<v44-23-25,25>>^ E escreveu uma carta que continha isto:
+
+[[v44-23-26]]
+
+^<<v44-23-26,26>>^ Cláudio Lísias, a Félix, potentíssimo presidente, saúde.
+
+[[v44-23-27]]
+
+^<<v44-23-27,27>>^ Esse homem foi preso pelos judeus; e, estando já  a ponto de ser morto por eles, sobrevim eu com a soldadesca, e o livrei, informado de que era romano.
+
+[[v44-23-28]]
+
+^<<v44-23-28,28>>^ E querendo saber a causa porque o acusavam, o levei ao seu conselho.
+
+[[v44-23-29]]
+
+^<<v44-23-29,29>>^ E achei que o acusavam de algumas  questões da sua lei: mas que nenhum crime havia nele digno de morte ou de prisão.
+
+[[v44-23-30]]
+
+^<<v44-23-30,30>>^ E, sendo-me notificado que os judeus haviam de armar  ciladas a esse homem, logo to enviei, mandando também aos acusadores que perante ti digam o que tiverem contra ele. Passa bem.
+
+[[v44-23-31]]
+
+^<<v44-23-31,31>>^ Tomando pois os soldados a Paulo, como lhe fora mandado, o  trouxeram de noite a Antipatris.
+
+[[v44-23-32]]
+
+^<<v44-23-32,32>>^ E no dia seguinte, deixando aos de cavalo irem com ele, tornaram à fortaleza.
+
+[[v44-23-33]]
+
+^<<v44-23-33,33>>^ Os quais, logo que chegaram a Cesareia, e entregaram a carta ao presidente, lhe apresentaram Paulo.
+
+[[v44-23-34]]
+
+^<<v44-23-34,34>>^ E o presidente, lida a carta , perguntou de que província era: e, sabendo que da Cilícia,
+
+[[v44-23-35]]
+
+^<<v44-23-35,35>>^ Ouvir-te-ei, disse, quando também aqui vierem os teus acusadores. E mandou que o guardassem no pretório de Herodes.
+
+'''
+
+xref:044-atos/044-atos-022.adoc#v44-22-0[&#60; Capítulo Anterior] | <<v44-23-0,Topo>> | xref:044-atos/044-atos-024.adoc#v44-24-0[Próximo Capítulo &#62;]

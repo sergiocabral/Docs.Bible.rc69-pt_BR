@@ -1,0 +1,57 @@
+include::./index.adoc[]
+
+[[v23-53-0]]
+=== Isaías, 53
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-53-1]]
+
+^<<v23-53-1,1>>^ QUEM deu crédito à nossa pregação? e a quem se manifestou o braço do Senhor?
+
+[[v23-53-2]]
+
+^<<v23-53-2,2>>^ Porque foi subindo como renovo perante ele, e como raiz duma  terra seca; não tinha parecer nem formosura; e, olhando nós para ele, nenhuma beleza víamos, para que o desejássemos.
+
+[[v23-53-3]]
+
+^<<v23-53-3,3>>^ Era  desprezado, e o mais indigno entre os homens, homem de dores, e experimentado nos trabalhos: e, como um de quem os homens escondiam o rosto, era  desprezado, e não fizemos dele caso algum.
+
+[[v23-53-4]]
+
+^<<v23-53-4,4>>^ Verdadeiramente ele tomou sobre si as nossas enfermidades, e as nossas dores levou sobre si; e nós o reputamos por aflito, ferido de Deus, e oprimido.
+
+[[v23-53-5]]
+
+^<<v23-53-5,5>>^ Mas ele foi  ferido pelas nossas transgressões, e  moído pelas nossas iniquidades: o castigo que nos traz a paz estava  sobre ele, e pelas suas pisaduras fomos sarados.
+
+[[v23-53-6]]
+
+^<<v23-53-6,6>>^ Todos nós andamos desgarrados como ovelhas; cada um se desviava pelo seu caminho: mas o Senhor fez cair sobre ele a iniquidade de nós todos.
+
+[[v23-53-7]]
+
+^<<v23-53-7,7>>^ Ele foi oprimido, mas não abriu a sua boca: como um  cordeiro foi levado ao matadouro, e, como a ovelha muda perante os seus tosquiadores, ele não abriu a sua boca.
+
+[[v23-53-8]]
+
+^<<v23-53-8,8>>^ Da opressão e do juízo foi tirado; e quem contará o tempo da sua vida? porquanto foi cortado da terra dos viventes: pela transgressão do meu povo foi ele atingido.
+
+[[v23-53-9]]
+
+^<<v23-53-9,9>>^ E puseram a sua sepultura com os ímpios, e com o rico na sua morte; porquanto nunca fez injustiça, nem houve  engano na sua boca.
+
+[[v23-53-10]]
+
+^<<v23-53-10,10>>^ Todavia, ao Senhor agradou o moê-lo, fazendo- o  enfermar; quando a sua alma se puser por expiação do pecado, verá a sua posteridade, prolongará os dias; e o bom prazer do Senhor prosperará na sua mão.
+
+[[v23-53-11]]
+
+^<<v23-53-11,11>>^ O trabalho da sua alma ele verá, e  ficará satisfeito; com o seu conhecimento o meu servo, o justo, justificará a muitos: porque as iniquidades deles levará sobre si.
+
+[[v23-53-12]]
+
+^<<v23-53-12,12>>^ Pelo que lhe darei a parte de muitos, e com os poderosos repartirá ele o despojo; porquanto derramou a sua alma na morte, e foi contado com os transgressores; mas ele levou sobre si o pecado de muitos, e pelos transgressores intercede.
+
+'''
+
+xref:023-isaias/023-isaias-052.adoc#v23-52-0[&#60; Capítulo Anterior] | <<v23-53-0,Topo>> | xref:023-isaias/023-isaias-054.adoc#v23-54-0[Próximo Capítulo &#62;]

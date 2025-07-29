@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v9-7-0]]
+=== 1 Samuel, 7
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-7-1]]
+
+^<<v9-7-1,1>>^ ENTÃO vieram os homens de Quiriate-Jearim, e levaram a arca do Senhor, e a trouxeram à casa de Abinadabe, no outeiro: e consagraram a Eleazar, seu filho, para que guardasse a arca do Senhor.
+
+[[v9-7-2]]
+
+^<<v9-7-2,2>>^ E sucedeu que , desde aquele dia, a arca ficou em Quiriate-Jearim, e tantos dias se passaram que chegaram até vinte anos, e lamentava toda a casa de Israel após o Senhor.
+
+[[v9-7-3]]
+
+^<<v9-7-3,3>>^ Então falou Samuel a toda a casa de Israel, dizendo: Se com todo o vosso coração vos converterdes ao Senhor, tirai dentre vós, os deuses estranhos e os astarotes e preparai o vosso coração ao Senhor, e servi a ele só, e vos livrará da mão dos filisteus.
+
+[[v9-7-4]]
+
+^<<v9-7-4,4>>^ Então os filhos de Israel tiraram dentre si  aos baalins e aos astarotes, e serviram só ao Senhor.
+
+[[v9-7-5]]
+
+^<<v9-7-5,5>>^ Disse mais Samuel: Congregai a todo o Israel em Mizpá: e orarei por vós ao Senhor.
+
+[[v9-7-6]]
+
+^<<v9-7-6,6>>^ E congregaram-se em Mizpá, e tiraram água, e a  derramaram perante o Senhor, e jejuaram aquele dia, e disseram ali: Pecamos contra o Senhor. E julgava Samuel os filhos de Israel em Mizpá.
+
+[[v9-7-7]]
+
+^<<v9-7-7,7>>^ Ouvindo pois os filisteus que os filhos de Israel estavam congregados em Mizpá, subiram os maiorais dos filisteus contra Israel: o que  ouvindo os filhos de Israel: temeram por causa dos filisteus.
+
+[[v9-7-8]]
+
+^<<v9-7-8,8>>^ Pelo que disseram os filhos de Israel a Samuel: Não cesses de clamar ao Senhor nosso Deus por nós, para que nos livre da mão dos filisteus.
+
+[[v9-7-9]]
+
+^<<v9-7-9,9>>^ Então tomou Samuel um cordeiro de mama, e sacrificou- o  inteiro em  holocausto ao Senhor: e clamou Samuel ao Senhor por Israel, e o Senhor lhe deu ouvidos.
+
+[[v9-7-10]]
+
+^<<v9-7-10,10>>^ E sucedeu que, estando Samuel sacrificando o holocausto, os filisteus chegaram à peleja contra Israel: e trovejou o Senhor aquele dia com grande trovoada sobre os filisteus, e os aterrou de tal modo  que foram derrotados diante dos filhos de Israel.
+
+[[v9-7-11]]
+
+^<<v9-7-11,11>>^ E os homens de Israel saíram de Mizpá, e perseguiram os filisteus, e os feriram até abaixo de Bete-Car.
+
+[[v9-7-12]]
+
+^<<v9-7-12,12>>^ Então tomou Samuel uma  pedra, e a pôs entre Mizpá e Sem, e chamou o seu nome Ebenézer: e disse: Até aqui nos ajudou o Senhor.
+
+[[v9-7-13]]
+
+^<<v9-7-13,13>>^ Assim os filisteus foram abatidos, e nunca mais vieram aos termos de Israel, porquanto foi a mão do Senhor contra os filisteus todos os dias de Samuel.
+
+[[v9-7-14]]
+
+^<<v9-7-14,14>>^ E as cidades que os filisteus tinham tomado a Israel foram restituídas a Israel, desde Ecrom até Gate, e até  os seus termos Israel arrebatou da mão dos filisteus; e  houve paz entre Israel e entre os amorreus.
+
+[[v9-7-15]]
+
+^<<v9-7-15,15>>^ E Samuel julgou a Israel todos os dias da sua vida.
+
+[[v9-7-16]]
+
+^<<v9-7-16,16>>^ E ia de ano em ano, e rodeava a Betel, e a Gilgal, e a Mizpá, e julgava a Israel em todos aqueles lugares.
+
+[[v9-7-17]]
+
+^<<v9-7-17,17>>^ Porém voltava a Ramá, porque estava  ali a sua casa, e ali julgava a Israel: e edificou ali um altar ao Senhor.
+
+'''
+
+xref:009-1-samuel/009-1-samuel-006.adoc#v9-6-0[&#60; Capítulo Anterior] | <<v9-7-0,Topo>> | xref:009-1-samuel/009-1-samuel-008.adoc#v9-8-0[Próximo Capítulo &#62;]

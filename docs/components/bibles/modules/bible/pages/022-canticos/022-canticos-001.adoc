@@ -1,0 +1,77 @@
+include::./index.adoc[]
+
+[[v22-1-0]]
+=== Cânticos, 1
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v22-1-1]]
+
+^<<v22-1-1,1>>^ CÂNTICO de cânticos, que é  de Salomão.
+
+[[v22-1-2]]
+
+^<<v22-1-2,2>>^ Beije-me ele com os beijos da sua boca; porque melhor é  o seu amor do que o vinho.
+
+[[v22-1-3]]
+
+^<<v22-1-3,3>>^ Para cheirar são  bons os teus unguentos; como  unguento derramado é o teu nome; por isso as virgens te amam.
+
+[[v22-1-4]]
+
+^<<v22-1-4,4>>^ Leva-me tu, correremos após ti. O rei me introduziu nas suas recâmaras: em ti nos regozijaremos e nos alegraremos; do teu amor nos lembraremos, mais do que do vinho: os retos te amam.
+
+[[v22-1-5]]
+
+^<<v22-1-5,5>>^ Eu sou morena, mas agradável, ó filhas de Jerusalém, como as tendas de Quedar, como as cortinas de Salomão.
+
+[[v22-1-6]]
+
+^<<v22-1-6,6>>^ Não olheis para o eu ser morena, porque o sol resplandeceu sobre mim: os filhos de minha mãe se indignaram contra mim, e me puseram por guarda de vinhas; a vinha que me pertence  não guardei.
+
+[[v22-1-7]]
+
+^<<v22-1-7,7>>^ Dize-me, ó tu , a quem ama a minha alma: Onde apascentas o teu rebanho , onde o recolhes pelo meio-dia: pois por que razão seria eu como a que erra ao pé dos rebanhos de teus companheiros?
+
+[[v22-1-8]]
+
+^<<v22-1-8,8>>^ Se tu o não sabes, ó mais formosa entre as mulheres, sai-te pelas pisadas das ovelhas, e apascenta as tuas cabras junto às moradas dos pastores.
+
+[[v22-1-9]]
+
+^<<v22-1-9,9>>^ Às éguas dos carros de Faraó te comparo, ó amiga minha.
+
+[[v22-1-10]]
+
+^<<v22-1-10,10>>^ Agradáveis são as tuas faces entre os teus  enfeites, o teu pescoço com os colares.
+
+[[v22-1-11]]
+
+^<<v22-1-11,11>>^ Enfeites de ouro te faremos, com pregos de prata.
+
+[[v22-1-12]]
+
+^<<v22-1-12,12>>^ Enquanto o rei está assentado  à sua mesa, dá o meu nardo o seu cheiro.
+
+[[v22-1-13]]
+
+^<<v22-1-13,13>>^ O meu amado é para mim um ramalhete de mirra; morará entre os meus seios.
+
+[[v22-1-14]]
+
+^<<v22-1-14,14>>^ Como  um cacho de Chipre nas vinhas de Engedi é para mim o meu amado.
+
+[[v22-1-15]]
+
+^<<v22-1-15,15>>^ Eis que és  formosa, ó amiga minha, eis que és  formosa: os teus olhos são  como os das pombas.
+
+[[v22-1-16]]
+
+^<<v22-1-16,16>>^ Eis que és  gentil e agradável, ó amado meu; o nosso leito é  viçoso.
+
+[[v22-1-17]]
+
+^<<v22-1-17,17>>^ As traves da nossa casa são  de cedro, as nossas varandas de cipreste.
+
+'''
+
+xref:021-eclesiastes/021-eclesiastes-012.adoc#v21-12-0[&#60; Capítulo Anterior] | <<v22-1-0,Topo>> | xref:022-canticos/022-canticos-002.adoc#v22-2-0[Próximo Capítulo &#62;]

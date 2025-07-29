@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v19-92-0]]
+=== Salmos, 92
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-92-1]]
+
+^<<v19-92-1,1>>^ BOM é  louvar ao Senhor, e cantar louvores ao teu nome, ó Altíssimo;
+
+[[v19-92-2]]
+
+^<<v19-92-2,2>>^ Para de manhã anunciar a tua benignidade, e todas as noites a tua fidelidade:
+
+[[v19-92-3]]
+
+^<<v19-92-3,3>>^ Sobre um  instrumento de dez cordas, e sobre o saltério: sobre a harpa com som solene.
+
+[[v19-92-4]]
+
+^<<v19-92-4,4>>^ Pois tu, Senhor, me alegraste com os teus feitos: exultarei nas obras das tuas mãos.
+
+[[v19-92-5]]
+
+^<<v19-92-5,5>>^ Quão grandes são, Senhor, as tuas obras! mui profundos são  os teus pensamentos.
+
+[[v19-92-6]]
+
+^<<v19-92-6,6>>^ O homem brutal nada sabe, e o louco não entende isto.
+
+[[v19-92-7]]
+
+^<<v19-92-7,7>>^ Brotam os ímpios como a erva, e florescem todos os que praticam a iniquidade, mas para serem destruídos para sempre.
+
+[[v19-92-8]]
+
+^<<v19-92-8,8>>^ Mas tu, Senhor, és  o Altíssimo para sempre.
+
+[[v19-92-9]]
+
+^<<v19-92-9,9>>^ Pois eis que os teus inimigos, Senhor, eis que os teus inimigos perecerão; serão dispersos todos os que praticam a iniquidade.
+
+[[v19-92-10]]
+
+^<<v19-92-10,10>>^ Mas tu exaltarás o meu poder, como o  do unicórnio: serei ungido com óleo fresco.
+
+[[v19-92-11]]
+
+^<<v19-92-11,11>>^ Os meus olhos verão cumprido o meu desejo  sobre os meus inimigos, e  os meus ouvidos dele se certificarão quanto aos malfeitores que se levantam contra mim.
+
+[[v19-92-12]]
+
+^<<v19-92-12,12>>^ O justo florescerá como a palmeira; crescerá como o cedro no Líbano.
+
+[[v19-92-13]]
+
+^<<v19-92-13,13>>^ Os que estão plantados na casa do Senhor florescerão nos átrios do nosso Deus.
+
+[[v19-92-14]]
+
+^<<v19-92-14,14>>^ Na velhice ainda darão frutos: serão viçosos e florescentes;
+
+[[v19-92-15]]
+
+^<<v19-92-15,15>>^ Para anunciarem que o Senhor é  reto: ele é  a minha rocha, e nele não há  injustiça.
+
+'''
+
+xref:019-salmos/019-salmos-091.adoc#v19-91-0[&#60; Capítulo Anterior] | <<v19-92-0,Topo>> | xref:019-salmos/019-salmos-093.adoc#v19-93-0[Próximo Capítulo &#62;]

@@ -1,0 +1,149 @@
+include::./index.adoc[]
+
+[[v19-104-0]]
+=== Salmos, 104
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-104-1]]
+
+^<<v19-104-1,1>>^ BENDIZE, ó minha alma ao Senhor: Senhor Deus meu, tu és magnificentíssimo, estás vestido de glória e de majestade.
+
+[[v19-104-2]]
+
+^<<v19-104-2,2>>^ Ele cobre-se de luz como de um vestido, estende os céus como uma cortina.
+
+[[v19-104-3]]
+
+^<<v19-104-3,3>>^ Põe nas águas os vigamentos das suas câmaras; faz das nuvens o seu carro, anda sobre as asas do vento.
+
+[[v19-104-4]]
+
+^<<v19-104-4,4>>^ Faz dos ventos seus mensageiros, dos seus ministros um fogo abrasador.
+
+[[v19-104-5]]
+
+^<<v19-104-5,5>>^ Lançou os fundamentos da terra, para que  não vacile em tempo algum.
+
+[[v19-104-6]]
+
+^<<v19-104-6,6>>^ Tu a cobres com o abismo, como com um vestido: as águas estavam sobre os montes;
+
+[[v19-104-7]]
+
+^<<v19-104-7,7>>^ À tua repreensão fugiram, à voz do teu trovão se apressaram.
+
+[[v19-104-8]]
+
+^<<v19-104-8,8>>^ Sobem aos montes, descem aos vales, até ao lugar que para elas fundaste.
+
+[[v19-104-9]]
+
+^<<v19-104-9,9>>^ Limite lhes traçaste, que não ultrapassarão, para que não tornem mais a cobrir a terra.
+
+[[v19-104-10]]
+
+^<<v19-104-10,10>>^ Tu, que nos vales fazes rebentar nascentes, que correm entre os montes.
+
+[[v19-104-11]]
+
+^<<v19-104-11,11>>^ Dão de beber a todos os animais do campo; os jumentos monteses matam com ela a sua sede.
+
+[[v19-104-12]]
+
+^<<v19-104-12,12>>^ Junto delas habitam as aves do céu, cantando entre os ramos.
+
+[[v19-104-13]]
+
+^<<v19-104-13,13>>^ Ele rega os montes desde as suas câmaras: a terra farta-se do fruto das suas obras.
+
+[[v19-104-14]]
+
+^<<v19-104-14,14>>^ Faz crescer a erva para os animais, e a verdura para o serviço do homem, para que tire da terra o alimento,
+
+[[v19-104-15]]
+
+^<<v19-104-15,15>>^ E o vinho que  alegra o coração do homem, e faz reluzir o seu  rosto como azeite, e o pão que  fortalece o seu coração.
+
+[[v19-104-16]]
+
+^<<v19-104-16,16>>^ Satisfazem-se as árvores do Senhor; os cedros do Líbano que ele plantou.
+
+[[v19-104-17]]
+
+^<<v19-104-17,17>>^ Onde as aves se aninham: quanto  à cegonha, a sua casa é nas faias.
+
+[[v19-104-18]]
+
+^<<v19-104-18,18>>^ Os altos montes são um refúgio  para as cabras monteses, e  as rochas para os coelhos.
+
+[[v19-104-19]]
+
+^<<v19-104-19,19>>^ Designou a lua para as estações: o sol conhece o seu ocaso.
+
+[[v19-104-20]]
+
+^<<v19-104-20,20>>^ Ordenas a escuridão, e faz-se noite, na qual saem todos os animais da selva.
+
+[[v19-104-21]]
+
+^<<v19-104-21,21>>^ Os leõezinhos bramam pela presa, e de Deus buscam o seu sustento.
+
+[[v19-104-22]]
+
+^<<v19-104-22,22>>^ Nasce o sol e logo  se recolhem, e se deitam nos seus covis.
+
+[[v19-104-23]]
+
+^<<v19-104-23,23>>^ Então  sai o homem para a sua lida e para o seu trabalho, até à tarde.
+
+[[v19-104-24]]
+
+^<<v19-104-24,24>>^ Ó Senhor, quão variadas são as tuas obras! todas as cousas fizeste com sabedoria; cheia está a terra das tuas riquezas.
+
+[[v19-104-25]]
+
+^<<v19-104-25,25>>^ Tal é  este vasto e espaçoso mar onde se movem seres inumeráveis, animais pequenos e grandes.
+
+[[v19-104-26]]
+
+^<<v19-104-26,26>>^ Ali passam os navios; e o leviatã que formaste para nele folgar.
+
+[[v19-104-27]]
+
+^<<v19-104-27,27>>^ Todos esperam de ti que lhes dês o seu sustento em tempo oportuno.
+
+[[v19-104-28]]
+
+^<<v19-104-28,28>>^ Dando-lho tu, eles  o recolhem; abres a tua mão, e  enchem-se de bens.
+
+[[v19-104-29]]
+
+^<<v19-104-29,29>>^ Escondes o teu rosto, e ficam perturbados: se lhes tiras a respiração, morrem, e voltam para o seu pó.
+
+[[v19-104-30]]
+
+^<<v19-104-30,30>>^ Envias o teu Espírito, e são criados, e assim  renovas a face da terra.
+
+[[v19-104-31]]
+
+^<<v19-104-31,31>>^ A glória do Senhor seja para sempre! Alegre-se o Senhor em suas obras!
+
+[[v19-104-32]]
+
+^<<v19-104-32,32>>^ Olhando ele para a terra, ela treme; tocando nos montes, logo  fumegam.
+
+[[v19-104-33]]
+
+^<<v19-104-33,33>>^ Cantarei ao Senhor enquanto eu viver; cantarei louvores ao meu Deus, enquanto existir.
+
+[[v19-104-34]]
+
+^<<v19-104-34,34>>^ A minha meditação a seu respeito será suave: eu me alegrarei no Senhor.
+
+[[v19-104-35]]
+
+^<<v19-104-35,35>>^ Desapareçam da terra os pecadores, e os ímpios não sejam mais. Bendize, ó minha alma, ao Senhor. Louvai ao Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-103.adoc#v19-103-0[&#60; Capítulo Anterior] | <<v19-104-0,Topo>> | xref:019-salmos/019-salmos-105.adoc#v19-105-0[Próximo Capítulo &#62;]

@@ -1,0 +1,93 @@
+include::./index.adoc[]
+
+[[v23-59-0]]
+=== Isaías, 59
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-59-1]]
+
+^<<v23-59-1,1>>^ EIS que a mão do Senhor não está encolhida, para que não possa salvar; nem o seu ouvido agravado, para não poder ouvir.
+
+[[v23-59-2]]
+
+^<<v23-59-2,2>>^ Mas as vossas iniquidades fazem divisão entre vós e o vosso Deus: e os vossos pecados encobrem o seu  rosto de vós, para que vos não ouça.
+
+[[v23-59-3]]
+
+^<<v23-59-3,3>>^ Porque as vossas mãos estão contaminadas de sangue, e os vossos dedos de iniquidade: os vossos lábios falam falsamente, a vossa língua pronuncia perversidade.
+
+[[v23-59-4]]
+
+^<<v23-59-4,4>>^ Ninguém há  que clame pela justiça, nem ninguém que compareça em juízo pela verdade; confiam na vaidade, e andam falando mentiras; concebem o trabalho, e produzem a iniquidade.
+
+[[v23-59-5]]
+
+^<<v23-59-5,5>>^ Chocam ovos de basilisco, e tecem teias de aranha: o que comer dos ovos deles morrerá; e, apertando-os, sai deles uma víbora.
+
+[[v23-59-6]]
+
+^<<v23-59-6,6>>^ As suas teias não prestam para vestidos, nem se poderão cobrir com as suas obras: as suas obras são  obras de iniquidade, e obra de violência há  nas suas mãos.
+
+[[v23-59-7]]
+
+^<<v23-59-7,7>>^ Os seus pés correm para o mal, e se apressam para derramarem o sangue inocente: os seus pensamentos são  pensamentos de iniquidade, destruição e quebrantamento há  nas suas estradas.
+
+[[v23-59-8]]
+
+^<<v23-59-8,8>>^ Não conhecem o caminho da paz, nem há  juízo nos seus passos: as suas veredas tortuosas as fizeram para si mesmos; todo aquele que anda por elas não tem conhecimento da paz.
+
+[[v23-59-9]]
+
+^<<v23-59-9,9>>^ Pelo que o juízo está longe de nós, e a justiça não nos alcança; esperamos pela luz, e eis que só há trevas; pelo resplendor, mas andamos em escuridão.
+
+[[v23-59-10]]
+
+^<<v23-59-10,10>>^ Apalpamos as paredes como cegos; sim, como os que não têm olhos andamos apalpando: tropeçamos ao meio-dia como nas trevas, e  nos lugares escuros somos como mortos.
+
+[[v23-59-11]]
+
+^<<v23-59-11,11>>^ Todos nós bramamos como ursos, e continuamente gememos como pombas: esperamos o juízo, e ele não aparece; pela salvação, e  está longe de nós.
+
+[[v23-59-12]]
+
+^<<v23-59-12,12>>^ Porque as nossas transgressões se multiplicaram perante ti, e os nossos pecados testificam contra nós; porque as nossas transgressões estão  conosco, e conhecemos as nossas iniquidades;
+
+[[v23-59-13]]
+
+^<<v23-59-13,13>>^ Como  o prevaricar, e mentir contra o Senhor, e o retirarmo-nos do nosso Deus, o falar de opressão e rebelião, e o conceber e expectorar do coração palavras de falsidade.
+
+[[v23-59-14]]
+
+^<<v23-59-14,14>>^ Pelo que o juízo se tornou atrás, e a justiça se pôs longe; porque a verdade anda tropeçando pelas ruas, e a equidade não pode entrar.
+
+[[v23-59-15]]
+
+^<<v23-59-15,15>>^ Sim, a verdade desfalece, e quem  se desvia do mal arrisca-se a ser despojado: e o Senhor o viu, e pareceu mal aos seus olhos que não houvesse justiça.
+
+[[v23-59-16]]
+
+^<<v23-59-16,16>>^ E viu que ninguém havia, e maravilhou-se de que não houvesse um intercessor; pelo que o seu próprio  braço lhe trouxe a salvação, e a sua própria justiça o susteve;
+
+[[v23-59-17]]
+
+^<<v23-59-17,17>>^ Porque se revestiu de justiça, como de uma  couraça, e pôs  o elmo da salvação na sua cabeça, e tomou vestidos de vingança por  vestidura, e cobriu-se de zelo, como de um  manto.
+
+[[v23-59-18]]
+
+^<<v23-59-18,18>>^ Conforme forem as obras deles, assim será a sua retribuição; furor aos seus adversários, e recompensa aos seus inimigos: às ilhas dará ele a sua recompensa.
+
+[[v23-59-19]]
+
+^<<v23-59-19,19>>^ Então temerão o nome do Senhor desde o poente, e a sua glória desde o nascimento do sol: vindo o inimigo como uma  corrente de águas, o Espírito do Senhor arvorará contra ele a sua bandeira.
+
+[[v23-59-20]]
+
+^<<v23-59-20,20>>^ E virá um Redentor a Sião e aos que se desviarem da transgressão em Jacó, diz o Senhor.
+
+[[v23-59-21]]
+
+^<<v23-59-21,21>>^ Quanto a mim, este é  o meu concerto com eles, diz o Senhor: o meu espírito, que está  sobre ti, e as minhas palavras, que pus na tua boca, não se desviarão da tua boca nem da boca da tua posteridade, nem da boca da posteridade da tua posteridade, diz o Senhor, desde agora e para todo o sempre.
+
+'''
+
+xref:023-isaias/023-isaias-058.adoc#v23-58-0[&#60; Capítulo Anterior] | <<v23-59-0,Topo>> | xref:023-isaias/023-isaias-060.adoc#v23-60-0[Próximo Capítulo &#62;]

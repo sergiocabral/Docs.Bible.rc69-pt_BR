@@ -1,0 +1,289 @@
+include::./index.adoc[]
+
+[[v15-2-0]]
+=== Esdras, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v15-2-1]]
+
+^<<v15-2-1,1>>^ ESTES são  os filhos da província que subiram do cativeiro, dos transportados, que Nabucodonosor, rei de Babilônia, tinha levado para Babilônia, e tornaram a Jerusalém e a Judá, cada um para a sua casa.
+
+[[v15-2-2]]
+
+^<<v15-2-2,2>>^ Os quais vieram com Zorobabel, Jesua, Neemias, Seraías, Reelaías, Mardoqueu, Bilsã, Mispar, Bigvai, Reum e  Baana. O número dos homens do povo de Israel:
+
+[[v15-2-3]]
+
+^<<v15-2-3,3>>^ Os filhos de Parós, dois mil cento e  setenta e dois.
+
+[[v15-2-4]]
+
+^<<v15-2-4,4>>^ Os filhos de Sefatias, trezentos e setenta e dois.
+
+[[v15-2-5]]
+
+^<<v15-2-5,5>>^ Os filhos de Ara, setecentos e  setenta e cinco.
+
+[[v15-2-6]]
+
+^<<v15-2-6,6>>^ Os filhos de Paate-Moabe, dos filhos de Jesua-Joabe, dois mil oitocentos e doze.
+
+[[v15-2-7]]
+
+^<<v15-2-7,7>>^ Os filhos de Elão, mil duzentos e cinquenta e quatro.
+
+[[v15-2-8]]
+
+^<<v15-2-8,8>>^ Os filhos de Zatu, novecentos e quarenta e cinco.
+
+[[v15-2-9]]
+
+^<<v15-2-9,9>>^ Os filhos de Zacai, setecentos e sessenta.
+
+[[v15-2-10]]
+
+^<<v15-2-10,10>>^ Os filhos de Bani, seiscentos e quarenta e dois.
+
+[[v15-2-11]]
+
+^<<v15-2-11,11>>^ Os filhos de Bebai, seiscentos e vinte e três.
+
+[[v15-2-12]]
+
+^<<v15-2-12,12>>^ Os filhos de Azgade, mil duzentos e vinte e dois.
+
+[[v15-2-13]]
+
+^<<v15-2-13,13>>^ Os filhos de Adonicão, seiscentos e  sessenta e seis.
+
+[[v15-2-14]]
+
+^<<v15-2-14,14>>^ Os filhos de Bigvai, dois mil e cinquenta e seis.
+
+[[v15-2-15]]
+
+^<<v15-2-15,15>>^ Os filhos de Adim, quatrocentos e  cinquenta e quatro.
+
+[[v15-2-16]]
+
+^<<v15-2-16,16>>^ Os filhos de Ater, de Hezequias, noventa e oito.
+
+[[v15-2-17]]
+
+^<<v15-2-17,17>>^ Os filhos de Besai, trezentos e  vinte e três.
+
+[[v15-2-18]]
+
+^<<v15-2-18,18>>^ Os filhos de Jora, cento e doze.
+
+[[v15-2-19]]
+
+^<<v15-2-19,19>>^ Os filhos de Hasum, duzentos e  vinte e três.
+
+[[v15-2-20]]
+
+^<<v15-2-20,20>>^ Os filhos de Gibar, noventa e cinco.
+
+[[v15-2-21]]
+
+^<<v15-2-21,21>>^ Os filhos de Belém, cento e vinte e três.
+
+[[v15-2-22]]
+
+^<<v15-2-22,22>>^ Os homens de Netofa, cinquenta e seis.
+
+[[v15-2-23]]
+
+^<<v15-2-23,23>>^ Os homens de Anatote, cento e  vinte e oito.
+
+[[v15-2-24]]
+
+^<<v15-2-24,24>>^ Os filhos de Azmavete, quarenta e dois.
+
+[[v15-2-25]]
+
+^<<v15-2-25,25>>^ Os filhos de Quiriate-Arim, Cefira e Bearote, setecentos e quarenta e três.
+
+[[v15-2-26]]
+
+^<<v15-2-26,26>>^ Os filhos de Ramá, e Gibeá, seiscentos e vinte e um.
+
+[[v15-2-27]]
+
+^<<v15-2-27,27>>^ Os homens de Micmas, cento e  vinte e dois.
+
+[[v15-2-28]]
+
+^<<v15-2-28,28>>^ Os homens de Betel e Ai, duzentos e  vinte e três.
+
+[[v15-2-29]]
+
+^<<v15-2-29,29>>^ Os filhos de Nebo, cinquenta e dois.
+
+[[v15-2-30]]
+
+^<<v15-2-30,30>>^ Os filhos de Magbis, cento e  cinquenta e seis.
+
+[[v15-2-31]]
+
+^<<v15-2-31,31>>^ Os filhos do outro Elão, mil duzentos e cinquenta e quatro.
+
+[[v15-2-32]]
+
+^<<v15-2-32,32>>^ Os filhos de Harim, trezentos e vinte.
+
+[[v15-2-33]]
+
+^<<v15-2-33,33>>^ Os filhos de Lode, Hadide e Ono, setecentos e  vinte e cinco.
+
+[[v15-2-34]]
+
+^<<v15-2-34,34>>^ Os filhos de Jericó, trezentos e  quarenta e cinco.
+
+[[v15-2-35]]
+
+^<<v15-2-35,35>>^ Os filhos de Senaa, três mil seiscentos e trinta.
+
+[[v15-2-36]]
+
+^<<v15-2-36,36>>^ Os sacerdotes: os filhos de Jedaías, da casa de Jesua, novecentos e setenta e três.
+
+[[v15-2-37]]
+
+^<<v15-2-37,37>>^ Os filhos de Imer, mil e  cinquenta e dois.
+
+[[v15-2-38]]
+
+^<<v15-2-38,38>>^ Os filhos de Pasur, mil duzentos e quarenta e sete.
+
+[[v15-2-39]]
+
+^<<v15-2-39,39>>^ Os filhos de Harim, mil e dezessete.
+
+[[v15-2-40]]
+
+^<<v15-2-40,40>>^ Os levitas: os filhos de Jesua e Cadmiel, dos filhos de Hodavias, setenta e quatro.
+
+[[v15-2-41]]
+
+^<<v15-2-41,41>>^ Os cantores: os filhos de Asafe, cento e  vinte e oito.
+
+[[v15-2-42]]
+
+^<<v15-2-42,42>>^ Os filhos dos porteiros: os filhos de Salum, os filhos de Ater, os filhos de Talmom, os filhos de Acube, os filhos de Hatita, os filhos de Sobai: por  todos, cento e  trinta e nove.
+
+[[v15-2-43]]
+
+^<<v15-2-43,43>>^ Os netineus: os filhos de Zia, os filhos de Hasufa, os filhos de Tabaote,
+
+[[v15-2-44]]
+
+^<<v15-2-44,44>>^ Os filhos de Queros, os filhos de Siaá, os filhos de Padom,
+
+[[v15-2-45]]
+
+^<<v15-2-45,45>>^ Os filhos de Lebana, os filhos de Hagaba, os filhos de Acube,
+
+[[v15-2-46]]
+
+^<<v15-2-46,46>>^ Os filhos de Hagabe, os filhos de Sanlai, os filhos de Hanã,
+
+[[v15-2-47]]
+
+^<<v15-2-47,47>>^ Os filhos de Gidel, os filhos de Gaar, os filhos de Reaías,
+
+[[v15-2-48]]
+
+^<<v15-2-48,48>>^ Os filhos de Resim, os filhos de Necoda, os filhos de Gazão,
+
+[[v15-2-49]]
+
+^<<v15-2-49,49>>^ Os filhos de Uzar, os filhos de Paseia, os filhos de Besai,
+
+[[v15-2-50]]
+
+^<<v15-2-50,50>>^ Os filhos de Asná, os filhos dos meunim, os filhos dos nefuseus,
+
+[[v15-2-51]]
+
+^<<v15-2-51,51>>^ Os filhos de Bacbuque, os filhos de Hacufa, os filhos de Harur,
+
+[[v15-2-52]]
+
+^<<v15-2-52,52>>^ Os filhos de Baslute, os filhos de Meida, os filhos de Harsa,
+
+[[v15-2-53]]
+
+^<<v15-2-53,53>>^ Os filhos de Barcos, os filhos de Sísera, os filhos de Temá,
+
+[[v15-2-54]]
+
+^<<v15-2-54,54>>^ Os filhos de Nesiá, os filhos de Hatifa,
+
+[[v15-2-55]]
+
+^<<v15-2-55,55>>^ Os filhos dos servos de Salomão, os filhos de Sotai, os filhos de Soferete, os filhos de Peruda,
+
+[[v15-2-56]]
+
+^<<v15-2-56,56>>^ Os filhos de Jaala, os filhos de Darcom, os filhos de Gidel,
+
+[[v15-2-57]]
+
+^<<v15-2-57,57>>^ Os filhos de Sefatias, os filhos de Hatil, os filhos de Poquerete-Hazebaim, os filhos de Ami.
+
+[[v15-2-58]]
+
+^<<v15-2-58,58>>^ Todos os netineus, e os filhos dos servos de Salomão, trezentos e  noventa e dois.
+
+[[v15-2-59]]
+
+^<<v15-2-59,59>>^ Também estes subiram de Tel-Mela e  Tel-Harsa, Querube, Adã e  Imer: porém não puderam mostrar a casa de seus pais, e sua linhagem, se de Israel eram.
+
+[[v15-2-60]]
+
+^<<v15-2-60,60>>^ Os filhos de Delaías, os filhos de Tobias, os filhos de Necoda, seiscentos e  cinquenta e dois.
+
+[[v15-2-61]]
+
+^<<v15-2-61,61>>^ E dos filhos dos sacerdotes: os filhos de Habaías, os filhos de Cós, os filhos de Barzilai, que tomou mulher das filhas de Barzilai, o gileadita, e que foi chamado do seu nome.
+
+[[v15-2-62]]
+
+^<<v15-2-62,62>>^ Estes buscaram o seu registro entre  os que estavam registrados nas genealogias, mas não se acharam nelas ; pelo que por imundos foram rejeitados do sacerdócio.
+
+[[v15-2-63]]
+
+^<<v15-2-63,63>>^ E o Tirsata lhes disse que não comessem das cousas sagradas até que houvesse sacerdote com Urim e com Tumim.
+
+[[v15-2-64]]
+
+^<<v15-2-64,64>>^ Toda esta congregação junta foi de  quarenta e dois mil trezentos e  sessenta,
+
+[[v15-2-65]]
+
+^<<v15-2-65,65>>^ Afora os seus servos e as suas servas, que foram  sete mil trezentos e  trinta e sete: também tinha duzentos cantores e cantoras.
+
+[[v15-2-66]]
+
+^<<v15-2-66,66>>^ Os seus cavalos, setecentos e  trinta e seis: os seus mulos, duzentos e  quarenta e cinco;
+
+[[v15-2-67]]
+
+^<<v15-2-67,67>>^ Os seus camelos, quatrocentos e  trinta e cinco: os jumentos, seis mil setecentos e vinte.
+
+[[v15-2-68]]
+
+^<<v15-2-68,68>>^ E alguns  dos chefes dos pais, vindo à casa do Senhor, que habita  em Jerusalém, deram voluntárias ofertas para a casa de Deus, para a fundarem no seu lugar.
+
+[[v15-2-69]]
+
+^<<v15-2-69,69>>^ Conforme ao seu poder, deram para o tesouro da obra, em ouro sessenta e uma mil dracmas, e em prata cinco mil arráteis, e cem vestes sacerdotais.
+
+[[v15-2-70]]
+
+^<<v15-2-70,70>>^ E habitaram os sacerdotes e os levitas, e alguns  do povo, tanto os cantores, como os porteiros, e os netineus, nas suas cidades; como também todo o Israel nas suas cidades.
+
+'''
+
+xref:015-esdras/015-esdras-001.adoc#v15-1-0[&#60; Capítulo Anterior] | <<v15-2-0,Topo>> | xref:015-esdras/015-esdras-003.adoc#v15-3-0[Próximo Capítulo &#62;]

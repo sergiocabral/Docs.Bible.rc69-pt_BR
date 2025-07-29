@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v13-24-0]]
+=== 1 Crônicas, 24
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v13-24-1]]
+
+^<<v13-24-1,1>>^ E QUANTO aos filhos de Aarão, estas foram  as suas divisões: os filhos de Aarão foram  Nadabe, e Abiú, e Eleazar e Itamar.
+
+[[v13-24-2]]
+
+^<<v13-24-2,2>>^ E morreram Nadabe e Abiú antes de seu pai, e não tiveram filhos: e Eleazar e Itamar administravam o sacerdócio.
+
+[[v13-24-3]]
+
+^<<v13-24-3,3>>^ E Davi os repartiu, como também a Zadoque, dos filhos de Eleazar, e a Aimeleque, dos filhos de Itamar, segundo o seu ofício no seu ministério.
+
+[[v13-24-4]]
+
+^<<v13-24-4,4>>^ E achou-se que eram muitos mais os filhos de Eleazar entre os chefes de famílias do que os filhos de Itamar, quando os repartiram: dos filhos de Eleazar dezesseis chefes das casas dos pais, mas dos filhos de Itamar, segundo as casas de seus pais, oito.
+
+[[v13-24-5]]
+
+^<<v13-24-5,5>>^ E os repartiram por sortes, uns com os outros; porque houve maiorais do santuário e maiorais da casa  de Deus, assim dentre os filhos de Eleazar, como dentre os filhos de Itamar.
+
+[[v13-24-6]]
+
+^<<v13-24-6,6>>^ E os registrou Semaías, filho de Natanael, o escrivão dentre os levitas, perante o rei, e os príncipes, e Zadoque, o sacerdote, e Aimeleque, filho de Abiatar, e os chefes dos pais entre os sacerdotes, e entre os levitas: uma dentre as casas dos pais se tomou para Eleazar, e se tomou outra para Itamar.
+
+[[v13-24-7]]
+
+^<<v13-24-7,7>>^ E saiu a primeira sorte a Joiaribe, a segunda a Jedaías,
+
+[[v13-24-8]]
+
+^<<v13-24-8,8>>^ A terceira a Harim, a quarta a Seorim,
+
+[[v13-24-9]]
+
+^<<v13-24-9,9>>^ A quinta a Malquias, a sexta a Miamim,
+
+[[v13-24-10]]
+
+^<<v13-24-10,10>>^ A sétima a Hacoz, a oitava a Abias,
+
+[[v13-24-11]]
+
+^<<v13-24-11,11>>^ A nona a Jesua, a décima a Secanias,
+
+[[v13-24-12]]
+
+^<<v13-24-12,12>>^ A undécima a Eliasibe, a duodécima a Jaquim,
+
+[[v13-24-13]]
+
+^<<v13-24-13,13>>^ A décima terceira a Hupá, a décima quarta a Jesebeabe,
+
+[[v13-24-14]]
+
+^<<v13-24-14,14>>^ A décima quinta a Bilgá, a décima sexta a Imer,
+
+[[v13-24-15]]
+
+^<<v13-24-15,15>>^ A décima sétima a Hezir, a décima oitava a Hapises,
+
+[[v13-24-16]]
+
+^<<v13-24-16,16>>^ A décima nona a Petaías, a vigésima a Jeezequel,
+
+[[v13-24-17]]
+
+^<<v13-24-17,17>>^ A vigésima primeira a Jaquim, a vigésima segunda a Gamul,
+
+[[v13-24-18]]
+
+^<<v13-24-18,18>>^ A vigésima terceira a Delaías, a vigésima quarta a Maazias.
+
+[[v13-24-19]]
+
+^<<v13-24-19,19>>^ O ofício destes no seu ministério era entrar na casa do Senhor, segundo lhes fora ordenado por Aarão seu pai, como o Senhor Deus de Israel lhe tinha ordenado.
+
+[[v13-24-20]]
+
+^<<v13-24-20,20>>^ E do resto dos filhos de Levi: dos filhos de Anrão, Subael: dos filhos de Subael, Jedias.
+
+[[v13-24-21]]
+
+^<<v13-24-21,21>>^ Quanto a Reabias: dos filhos de Reabias: Issias era  chefe;
+
+[[v13-24-22]]
+
+^<<v13-24-22,22>>^ Dos isaritas, Selomote; dos filhos de Selomote, Jaate;
+
+[[v13-24-23]]
+
+^<<v13-24-23,23>>^ E dos filhos de Hebrom , Jerias o primeiro , Amarias o segundo, Jaaziel o terceiro, Jecameão o quarto;
+
+[[v13-24-24]]
+
+^<<v13-24-24,24>>^ Dos filhos de Uziel, Mica; dos filhos de Mica, Samir;
+
+[[v13-24-25]]
+
+^<<v13-24-25,25>>^ O irmão de Mica, Issias; dos filhos de Issias, Zacarias;
+
+[[v13-24-26]]
+
+^<<v13-24-26,26>>^ Os filhos de Merari, Maeli e Musi; dos filhos de Jaazias, Beno;
+
+[[v13-24-27]]
+
+^<<v13-24-27,27>>^ Os filhos de Merari de Jaazias, Beno, e Soão, e Zacur, e Hibri;
+
+[[v13-24-28]]
+
+^<<v13-24-28,28>>^ De Maeli, Eleazar: e este não teve filhos.
+
+[[v13-24-29]]
+
+^<<v13-24-29,29>>^ Quanto a Quis: dos filhos de Quis, Jerameel;
+
+[[v13-24-30]]
+
+^<<v13-24-30,30>>^ E os filhos de Musi, Maeli, e Eder, e Jerimote: estes foram  os filhos dos levitas, segundo as suas casas paternas.
+
+[[v13-24-31]]
+
+^<<v13-24-31,31>>^ E também eles lançaram sortes igualmente com seus irmãos, os filhos de Aarão, perante o rei Davi, e Zadoque, e Aimeleque, e os chefes dos pais entre os sacerdotes e entre os levitas: o chefe da casa dos pais e bem assim seu irmão menor.
+
+'''
+
+xref:013-1-cronicas/013-1-cronicas-023.adoc#v13-23-0[&#60; Capítulo Anterior] | <<v13-24-0,Topo>> | xref:013-1-cronicas/013-1-cronicas-025.adoc#v13-25-0[Próximo Capítulo &#62;]

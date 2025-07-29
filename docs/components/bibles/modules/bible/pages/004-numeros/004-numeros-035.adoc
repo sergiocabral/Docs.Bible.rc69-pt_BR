@@ -1,0 +1,145 @@
+include::./index.adoc[]
+
+[[v4-35-0]]
+=== Números, 35
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v4-35-1]]
+
+^<<v4-35-1,1>>^ E FALOU o Senhor a Moisés nas campinas dos moabitas, junto ao Jordão de  Jericó, dizendo:
+
+[[v4-35-2]]
+
+^<<v4-35-2,2>>^ Dá ordem aos filhos de Israel que, da herança da sua possessão, deem cidades aos levitas, em que habitem: e também  aos levitas dareis arrabaldes ao redor delas.
+
+[[v4-35-3]]
+
+^<<v4-35-3,3>>^ E terão estas cidades para habitá-las: porém os seus arrabaldes serão para os seus gados e para a sua fazenda, e para todos os seus animais.
+
+[[v4-35-4]]
+
+^<<v4-35-4,4>>^ E os arrabaldes das cidades que dareis aos levitas, desde o muro da cidade e para fora, serão  de mil côvados em redor.
+
+[[v4-35-5]]
+
+^<<v4-35-5,5>>^ E de fora da cidade, da banda do oriente, medireis dois mil côvados, e da banda do sul dois mil côvados, e da banda do ocidente dois mil côvados, e da banda do norte dois mil côvados, e a cidade no meio: isto terão por arrabaldes das cidades.
+
+[[v4-35-6]]
+
+^<<v4-35-6,6>>^ Das cidades pois que dareis aos levitas haverá  seis cidades de refúgio, as quais dareis para que o homicida ali se acolha: e, além destas, lhes  dareis quarenta e duas cidades.
+
+[[v4-35-7]]
+
+^<<v4-35-7,7>>^ Todas as cidades que dareis aos levitas serão  quarenta e oito cidades, juntamente com os seus arrabaldes.
+
+[[v4-35-8]]
+
+^<<v4-35-8,8>>^ E as cidades que derdes da herança dos filhos de Israel, do que tiver  muito tomareis muito, e do que tiver  pouco tomareis pouco: cada um dará das suas cidades aos levitas, segundo a sua herança que herdar.
+
+[[v4-35-9]]
+
+^<<v4-35-9,9>>^ Falou mais o Senhor a Moisés, dizendo:
+
+[[v4-35-10]]
+
+^<<v4-35-10,10>>^ Fala aos filhos de Israel, e dize-lhes: Quando passardes o Jordão à terra de Canaã,
+
+[[v4-35-11]]
+
+^<<v4-35-11,11>>^ Fazei com que vos estejam à mão cidades que  vos sirvam de cidades de refúgio, para que ali se acolha o homicida que ferir a alguma alma por erro.
+
+[[v4-35-12]]
+
+^<<v4-35-12,12>>^ E estas cidades vos serão por refúgio do vingador do sangue ; para que o homicida não morra, até que esteja perante a congregação no juízo.
+
+[[v4-35-13]]
+
+^<<v4-35-13,13>>^ E das cidades que derdes haverá seis cidades de refúgio para vós.
+
+[[v4-35-14]]
+
+^<<v4-35-14,14>>^ Três destas cidades dareis daquém do Jordão, e três destas cidades dareis na terra de Canaã: cidades de refúgio serão.
+
+[[v4-35-15]]
+
+^<<v4-35-15,15>>^ Serão de refúgio estas seis cidades para os filhos de Israel, e para o estrangeiro, e para o que se hospedar no meio deles, para que ali se acolha aquele que ferir a alguma alma por erro.
+
+[[v4-35-16]]
+
+^<<v4-35-16,16>>^ Porém, se a ferir com instrumento de ferro, e morrer, homicida é : certamente o homicida morrerá.
+
+[[v4-35-17]]
+
+^<<v4-35-17,17>>^ Ou, se a ferir com pedra à mão, de que possa morrer, e ela  morrer, homicida é : certamente o homicida morrerá.
+
+[[v4-35-18]]
+
+^<<v4-35-18,18>>^ Ou, se a ferir com instrumento de pau que tiver  na mão, de que possa morrer, e ela  morrer, homicida é : certamente morrerá o homicida.
+
+[[v4-35-19]]
+
+^<<v4-35-19,19>>^ O vingador do sangue matará o homicida: encontrando-o, matá-lo-á.
+
+[[v4-35-20]]
+
+^<<v4-35-20,20>>^ Se também a empurrar com ódio, ou com intento lançar contra ela alguma cousa , e morrer;
+
+[[v4-35-21]]
+
+^<<v4-35-21,21>>^ Ou por inimizade a ferir com a sua mão, e morrer, certamente morrerá o feridor; homicida é : o vingador do sangue, encontrando o homicida, o matará.
+
+[[v4-35-22]]
+
+^<<v4-35-22,22>>^ Porém, se a empurrar de improviso, sem inimizade, ou contra ela lançar algum instrumento sem desígnio;
+
+[[v4-35-23]]
+
+^<<v4-35-23,23>>^ Ou, sobre ela fizer cair alguma pedra sem o ver, de que possa morrer, e ela morrer, e ele não era  seu inimigo nem procurava o seu mal;
+
+[[v4-35-24]]
+
+^<<v4-35-24,24>>^ Então a congregação julgará entre o feridor e entre o vingador do sangue, segundo estas leis.
+
+[[v4-35-25]]
+
+^<<v4-35-25,25>>^ E a congregação livrará o homicida da mão do vingador do sangue, e a congregação o fará voltar à cidade do seu refúgio onde se tinha acolhido: e ali ficará até a morte do sumo sacerdote, a quem ungiram com o santo óleo.
+
+[[v4-35-26]]
+
+^<<v4-35-26,26>>^ Porém, se de alguma maneira o homicida sair dos termos da cidade do seu refúgio, onde se tinha acolhido,
+
+[[v4-35-27]]
+
+^<<v4-35-27,27>>^ E o vingador do sangue o achar fora dos termos da cidade do seu refúgio, se o vingador do sangue matar o homicida, não será culpado  do sangue.
+
+[[v4-35-28]]
+
+^<<v4-35-28,28>>^ Pois deve ficar na cidade do seu refúgio, até à morte do sumo sacerdote: mas, depois da morte do sumo sacerdote, o homicida voltará à terra da sua possessão.
+
+[[v4-35-29]]
+
+^<<v4-35-29,29>>^ E estas cousas  vos serão por estatuto de direito a vossas gerações, em todas as vossas habitações.
+
+[[v4-35-30]]
+
+^<<v4-35-30,30>>^ Todo aquele que ferir a alguma pessoa, conforme ao dito das testemunhas, matarão o homicida: mas uma só  testemunha não testemunhará contra alguém para que morra,
+
+[[v4-35-31]]
+
+^<<v4-35-31,31>>^ E não tomareis expiação pela vida do homicida, que culpado está  de morte: antes certamente morrerá.
+
+[[v4-35-32]]
+
+^<<v4-35-32,32>>^ Também não tomareis expiação por aquele que se acolher à cidade do seu refúgio, para tornar a habitar na terra, até à morte do sumo  sacerdote.
+
+[[v4-35-33]]
+
+^<<v4-35-33,33>>^ Assim não profanareis a terra em que estais ; porque o sangue faz profanar a terra: e nenhuma expiação se fará pela terra por causa do sangue que se derramar nela, senão com o sangue daquele que o derramou.
+
+[[v4-35-34]]
+
+^<<v4-35-34,34>>^ Não contaminareis pois a terra na qual vós habitareis, no meio da qual eu habitarei: pois eu, o Senhor, habito no meio dos filhos de Israel.
+
+'''
+
+xref:004-numeros/004-numeros-034.adoc#v4-34-0[&#60; Capítulo Anterior] | <<v4-35-0,Topo>> | xref:004-numeros/004-numeros-036.adoc#v4-36-0[Próximo Capítulo &#62;]

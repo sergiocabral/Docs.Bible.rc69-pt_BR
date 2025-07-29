@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v5-6-0]]
+=== Deuteronômio, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v5-6-1]]
+
+^<<v5-6-1,1>>^ ESTES, pois, são  os mandamentos, os estatutos e os juízos que mandou o Senhor vosso Deus para se vos ensinar, para que os  fizésseis na terra a que passais a possuir;
+
+[[v5-6-2]]
+
+^<<v5-6-2,2>>^ Para que temas ao Senhor teu Deus, e guardes todos os seus estatutos e mandamentos, que eu te ordeno, tu, e teu filho, e o filho de teu filho, todos os dias da tua vida, e que teus dias sejam prolongados.
+
+[[v5-6-3]]
+
+^<<v5-6-3,3>>^ Ouve pois, ó Israel, e atenta que os  guardes, para que bem te suceda, e muito te multipliques, como te disse o Senhor Deus de teus pais, na terra que mana leite e mel.
+
+[[v5-6-4]]
+
+^<<v5-6-4,4>>^ Ouve, Israel, o Senhor nosso Deus é  o único Senhor.
+
+[[v5-6-5]]
+
+^<<v5-6-5,5>>^ Amarás pois o Senhor teu Deus de todo o teu coração, e de toda a tua alma, e de todo o teu poder.
+
+[[v5-6-6]]
+
+^<<v5-6-6,6>>^ E estas palavras, que hoje te ordeno, estarão no teu coração;
+
+[[v5-6-7]]
+
+^<<v5-6-7,7>>^ E as intimarás a teus filhos, e delas falarás assentado em tua casa, e andando pelo caminho, e deitando-te e levantando-te.
+
+[[v5-6-8]]
+
+^<<v5-6-8,8>>^ Também as atarás por sinal na tua mão e te  serão por testeiras entre os teus olhos.
+
+[[v5-6-9]]
+
+^<<v5-6-9,9>>^ E as escreverás nos umbrais de tua casa, e nas tuas portas.
+
+[[v5-6-10]]
+
+^<<v5-6-10,10>>^ Havendo-te pois o Senhor teu Deus introduzido na terra que jurou a teus pais, Abraão, Isaque e Jacó, te daria, grandes e boas cidades que tu não edificaste.
+
+[[v5-6-11]]
+
+^<<v5-6-11,11>>^ E casas cheias de todo o bem, que tu não encheste, e poços cavados, que tu não cavaste, vinhas e olivais, que tu não plantaste, e comeres, e te fartares,
+
+[[v5-6-12]]
+
+^<<v5-6-12,12>>^ Guarda-te, e que te não esqueças do Senhor, que te tirou da terra do Egito da casa da servidão.
+
+[[v5-6-13]]
+
+^<<v5-6-13,13>>^ O Senhor teu Deus temerás, e a ele servirás, e pelo seu nome jurarás.
+
+[[v5-6-14]]
+
+^<<v5-6-14,14>>^ Não seguireis outros deuses, os deuses dos povos que houver  à roda de vós;
+
+[[v5-6-15]]
+
+^<<v5-6-15,15>>^ Porque o Senhor vosso Deus é  um Deus zeloso no meio de ti, para que a ira do Senhor teu Deus se não acenda contra ti, e te destrua de sobre a face da terra.
+
+[[v5-6-16]]
+
+^<<v5-6-16,16>>^ Não tentareis o Senhor vosso Deus, como o  tentaste em Massá.
+
+[[v5-6-17]]
+
+^<<v5-6-17,17>>^ Diligentemente guardareis os mandamentos do Senhor vosso Deus; como também os seus testemunhos, e seus estatutos, que te tem mandado.
+
+[[v5-6-18]]
+
+^<<v5-6-18,18>>^ E farás o que é reto e bom aos olhos do Senhor: para que bem te suceda, e entres, e possuas a boa terra, sobre  a qual o Senhor jurou a teus pais.
+
+[[v5-6-19]]
+
+^<<v5-6-19,19>>^ Para que lance fora a todos os teus inimigos de diante de ti, como o Senhor tem dito.
+
+[[v5-6-20]]
+
+^<<v5-6-20,20>>^ Quando teu filho te perguntar pelo tempo adiante, dizendo: Quais são  os testemunhos, e estatutos e juízos que o Senhor nosso Deus vos ordenou?
+
+[[v5-6-21]]
+
+^<<v5-6-21,21>>^ Então dirás a teu filho: Éramos servos de Faraó no Egito, porém o Senhor nos tirou com mão forte do Egito;
+
+[[v5-6-22]]
+
+^<<v5-6-22,22>>^ E o Senhor fez sinais grandes, e penosas maravilhas no Egito, a Faraó e a toda a sua casa, aos nossos olhos;
+
+[[v5-6-23]]
+
+^<<v5-6-23,23>>^ E dali nos tirou, para nos levar, e nos dar a terra que jurara a nossos pais.
+
+[[v5-6-24]]
+
+^<<v5-6-24,24>>^ E o Senhor nos ordenou que fizéssemos todos estes estatutos, para temer ao Senhor nosso Deus, para o nosso perpétuo bem, para nos guardar em vida, como no dia de  hoje.
+
+[[v5-6-25]]
+
+^<<v5-6-25,25>>^ E será para nós justiça quando tivermos cuidado de fazer todos estes mandamentos perante o Senhor nosso Deus, como nos tem ordenado.
+
+'''
+
+xref:005-deuteronomio/005-deuteronomio-005.adoc#v5-5-0[&#60; Capítulo Anterior] | <<v5-6-0,Topo>> | xref:005-deuteronomio/005-deuteronomio-007.adoc#v5-7-0[Próximo Capítulo &#62;]

@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v49-6-0]]
+=== Efésios, 6
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v49-6-1]]
+
+^<<v49-6-1,1>>^ VÓS, filhos, sede obedientes a vossos pais no Senhor, porque isto é justo.
+
+[[v49-6-2]]
+
+^<<v49-6-2,2>>^ Honra a teu pai e a tua mãe que é o primeiro mandamento com promessa;
+
+[[v49-6-3]]
+
+^<<v49-6-3,3>>^ Para que te vá bem, e vivas muito tempo sobre a terra.
+
+[[v49-6-4]]
+
+^<<v49-6-4,4>>^ E vós, pais, não provoqueis a ira a vossos filhos, mas criai-os na doutrina e admoestação do Senhor.
+
+[[v49-6-5]]
+
+^<<v49-6-5,5>>^ Vós, servos, obedecei a vossos  senhores segundo a carne, com temor e tremor, na sinceridade de vosso coração, como a Cristo;
+
+[[v49-6-6]]
+
+^<<v49-6-6,6>>^ Não servindo à vista, como para agradar aos homens, mas como servos de Cristo, fazendo de coração a vontade de Deus;
+
+[[v49-6-7]]
+
+^<<v49-6-7,7>>^ Servindo de boa vontade como ao Senhor, e não como aos homens.
+
+[[v49-6-8]]
+
+^<<v49-6-8,8>>^ Sabendo que cada um receberá do Senhor todo o bem que fizer, seja servo, seja  livre.
+
+[[v49-6-9]]
+
+^<<v49-6-9,9>>^ E vós senhores, fazei o mesmo para com eles, deixando as ameaças, sabendo também que o Senhor deles e vosso está no céu, e que  para com ele não há acepção de pessoas.
+
+[[v49-6-10]]
+
+^<<v49-6-10,10>>^ No demais, irmãos meus, fortalecei-vos no Senhor e na força do seu poder.
+
+[[v49-6-11]]
+
+^<<v49-6-11,11>>^ Revesti-vos de toda a armadura de Deus, para que possais estar firmes contra as astutas ciladas do diabo.
+
+[[v49-6-12]]
+
+^<<v49-6-12,12>>^ Porque não temos que lutar contra a carne e o sangue, mas sim contra os principados, contra as potestades, contra os príncipes das trevas deste século, contra as hostes espirituais da maldade, nos lugares  celestiais.
+
+[[v49-6-13]]
+
+^<<v49-6-13,13>>^ Portanto tomai toda a armadura de Deus, para que possais resistir no dia mau, e, havendo feito tudo, ficar firmes.
+
+[[v49-6-14]]
+
+^<<v49-6-14,14>>^ Estai pois firmes, tendo cingidos os vossos lombos com a verdade, e vestida a couraça da justiça;
+
+[[v49-6-15]]
+
+^<<v49-6-15,15>>^ E calçados os pés na preparação do Evangelho da paz;
+
+[[v49-6-16]]
+
+^<<v49-6-16,16>>^ Tomando sobretudo o escudo da fé, com o qual podereis apagar todos os dardos inflamados do maligno.
+
+[[v49-6-17]]
+
+^<<v49-6-17,17>>^ Tomai também o capacete da salvação, e a espada do Espírito, que é a palavra de Deus;
+
+[[v49-6-18]]
+
+^<<v49-6-18,18>>^ Orando em todo o tempo com toda a oração e súplica no Espírito, e vigiando nisto com toda a perseverança e súplica por todos os santos,
+
+[[v49-6-19]]
+
+^<<v49-6-19,19>>^ E por mim; para que me seja dada, no abrir da minha boca, a palavra com confiança, para fazer notório o mistério do evangelho,
+
+[[v49-6-20]]
+
+^<<v49-6-20,20>>^ Pelo qual sou embaixador em cadeias; para que possa falar dele livremente, como me convém falar.
+
+[[v49-6-21]]
+
+^<<v49-6-21,21>>^ Ora, para que vós também possais saber dos meus negócios, e  o que eu faço, Tíquico, irmão amado, e fiel ministro do Senhor, vos informará de tudo.
+
+[[v49-6-22]]
+
+^<<v49-6-22,22>>^ O qual vos enviei para o mesmo fim, para que saibais do nosso estado, e ele console os vossos corações.
+
+[[v49-6-23]]
+
+^<<v49-6-23,23>>^ Paz seja  com os irmãos, e caridade com fé da parte de Deus Pai e da do Senhor Jesus Cristo.
+
+[[v49-6-24]]
+
+^<<v49-6-24,24>>^ A graça seja  com todos os que amam a nosso Senhor Jesus Cristo em sinceridade. Amém.
+
+'''
+
+xref:049-efesios/049-efesios-005.adoc#v49-5-0[&#60; Capítulo Anterior] | <<v49-6-0,Topo>> | xref:050-filipenses/050-filipenses-001.adoc#v50-1-0[Próximo Capítulo &#62;]

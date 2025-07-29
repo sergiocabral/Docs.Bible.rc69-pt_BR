@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v19-31-0]]
+=== Salmos, 31
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-31-1]]
+
+^<<v19-31-1,1>>^ EM ti, Senhor, confio; nunca me deixes confundido: livra-me pela tua justiça.
+
+[[v19-31-2]]
+
+^<<v19-31-2,2>>^ Inclina para mim os teus ouvidos, livra-me depressa; sê a minha firme rocha, uma casa fortíssima que me salve.
+
+[[v19-31-3]]
+
+^<<v19-31-3,3>>^ Porque tu és  a minha rocha e a minha fortaleza; pelo que, por amor do teu nome, guia-me e encaminha-me.
+
+[[v19-31-4]]
+
+^<<v19-31-4,4>>^ Tira-me da rede que para mim esconderam, pois tu és  a minha força.
+
+[[v19-31-5]]
+
+^<<v19-31-5,5>>^ Nas tuas mãos encomendo o meu espírito; tu me remiste Senhor Deus da verdade.
+
+[[v19-31-6]]
+
+^<<v19-31-6,6>>^ Aborreço aqueles que se entregam a vaidades enganosas; eu porém confio no Senhor.
+
+[[v19-31-7]]
+
+^<<v19-31-7,7>>^ Eu me alegrarei e regozijarei na tua benignidade, pois consideraste a minha aflição: conheceste a minha alma nas angústias.
+
+[[v19-31-8]]
+
+^<<v19-31-8,8>>^ E não me entregaste nas mãos do inimigo; puseste os meus pés num lugar espaçoso.
+
+[[v19-31-9]]
+
+^<<v19-31-9,9>>^ Tem misericórdia de mim, ó Senhor, porque estou angustiado: consumidos estão de tristeza os meus olhos, a minha alma e o meu corpo.
+
+[[v19-31-10]]
+
+^<<v19-31-10,10>>^ Porque a minha vida está gasta de tristeza, e os meus anos de suspiros; a minha força descai por causa da minha iniquidade, e os meus ossos se consomem.
+
+[[v19-31-11]]
+
+^<<v19-31-11,11>>^ Por causa de todos os meus inimigos, fui o opróbrio dos meus vizinhos, e um horror para os meus conhecidos: os que me viam na rua fugiam de mim.
+
+[[v19-31-12]]
+
+^<<v19-31-12,12>>^ Estou esquecido no coração deles, como um morto; sou como um vaso quebrado.
+
+[[v19-31-13]]
+
+^<<v19-31-13,13>>^ Pois ouvi a murmuração de muitos; temor havia  ao redor; porquanto todos se conluiavam contra mim; intentam tirar-me a vida.
+
+[[v19-31-14]]
+
+^<<v19-31-14,14>>^ Mas eu confiei em ti, Senhor; e disse: Tu és  o meu Deus.
+
+[[v19-31-15]]
+
+^<<v19-31-15,15>>^ Os meus tempos estão  nas tuas mãos: livra-me das mãos dos meus inimigos e dos que me perseguem.
+
+[[v19-31-16]]
+
+^<<v19-31-16,16>>^ Faze resplandecer o teu rosto sobre o teu servo: salva-me por tuas misericórdias.
+
+[[v19-31-17]]
+
+^<<v19-31-17,17>>^ Não me deixes confundido, Senhor, porque te tenho invocado; deixa confundidos os ímpios; emudeçam na sepultura.
+
+[[v19-31-18]]
+
+^<<v19-31-18,18>>^ Emudeçam os lábios mentirosos que dizem cousas más com arrogância e desprezo contra o justo.
+
+[[v19-31-19]]
+
+^<<v19-31-19,19>>^ Oh ! quão grande é  a tua bondade, que guardaste para os que te temem, e que tu mostraste àqueles que em ti confiam na presença dos filhos dos homens!
+
+[[v19-31-20]]
+
+^<<v19-31-20,20>>^ Tu os esconderás, no secreto da tua presença, das intrigas dos homens: ocultá-los-ás em um pavilhão da contenda das línguas.
+
+[[v19-31-21]]
+
+^<<v19-31-21,21>>^ Bendito seja  o Senhor, pois fez maravilhosa a sua misericórdia para comigo em cidade segura.
+
+[[v19-31-22]]
+
+^<<v19-31-22,22>>^ Pois eu dizia na minha pressa: Estou cortado de diante dos teus olhos; não obstante, tu ouviste a voz das minhas súplicas, quando eu a ti clamei.
+
+[[v19-31-23]]
+
+^<<v19-31-23,23>>^ Amai ao Senhor, vós todos que sois seus santos; porque  o Senhor guarda os fiéis e retribui com abundância aos soberbos.
+
+[[v19-31-24]]
+
+^<<v19-31-24,24>>^ Esforçai-vos, e ele fortalecerá o vosso coração, vós todos que esperais no Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-030.adoc#v19-30-0[&#60; Capítulo Anterior] | <<v19-31-0,Topo>> | xref:019-salmos/019-salmos-032.adoc#v19-32-0[Próximo Capítulo &#62;]

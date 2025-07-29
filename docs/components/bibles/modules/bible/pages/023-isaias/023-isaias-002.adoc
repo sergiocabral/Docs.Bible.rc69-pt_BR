@@ -1,0 +1,97 @@
+include::./index.adoc[]
+
+[[v23-2-0]]
+=== Isaías, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-2-1]]
+
+^<<v23-2-1,1>>^ VISÃO que teve Isaías, filho de Amós, a respeito de Judá e de Jerusalém.
+
+[[v23-2-2]]
+
+^<<v23-2-2,2>>^ E acontecerá nos últimos dias que se firmará o monte da casa do Senhor no cume dos montes e se exalçará por cima dos outeiros: e concorrerão a ele todas as nações.
+
+[[v23-2-3]]
+
+^<<v23-2-3,3>>^ E virão muitos povos, e dirão: Vinde, subamos ao monte do Senhor, à casa do Deus de Jacó, para que nos ensine o que concerne aos seus caminhos, e andemos nas suas veredas; porque de Sião sairá a lei, e de Jerusalém a palavra do Senhor.
+
+[[v23-2-4]]
+
+^<<v23-2-4,4>>^ E ele exercerá o seu juízo sobre as gentes, e repreenderá a muitos povos; e estes converterão as suas espadas em enxadões e as suas lanças em foices: não levantará espada nação contra nação, nem aprenderão mais a guerrear.
+
+[[v23-2-5]]
+
+^<<v23-2-5,5>>^ Vinde, ó casa de Jacó: e andemos na luz do Senhor.
+
+[[v23-2-6]]
+
+^<<v23-2-6,6>>^ Mas tu desamparaste o teu povo, a casa de Jacó; porque se encheram dos costumes do oriente e são  agoureiros como os filisteus; e se associam com os filhos dos estranhos.
+
+[[v23-2-7]]
+
+^<<v23-2-7,7>>^ E a sua terra está cheia de prata e ouro, e não têm fim os seus tesouros: também está cheia a sua terra de cavalos, e os seus carros não têm fim.
+
+[[v23-2-8]]
+
+^<<v23-2-8,8>>^ Também está cheia a sua terra de ídolos: inclinaram-se perante a obra das suas mãos, diante daquilo que fabricaram os seus dedos.
+
+[[v23-2-9]]
+
+^<<v23-2-9,9>>^ Ali o povo se abate, e os nobres se humilham: portanto lhes não perdoarás.
+
+[[v23-2-10]]
+
+^<<v23-2-10,10>>^ Vai, entra nas rochas, e esconde-te no pó, da presença espantosa do Senhor e da glória da sua majestade.
+
+[[v23-2-11]]
+
+^<<v23-2-11,11>>^ Os olhos altivos dos homens serão abatidos, e a altivez dos varões será humilhada: e só o Senhor será exaltado naquele dia.
+
+[[v23-2-12]]
+
+^<<v23-2-12,12>>^ Porque o dia do Senhor dos Exércitos será contra todo o soberbo e altivo, e contra todo o que se exalta, para que seja abatido;
+
+[[v23-2-13]]
+
+^<<v23-2-13,13>>^ E contra todos os cedros do Líbano, altos e sublimes; e contra todos os carvalhos de Basã;
+
+[[v23-2-14]]
+
+^<<v23-2-14,14>>^ E contra todos os montes altos, e contra todos os outeiros elevados;
+
+[[v23-2-15]]
+
+^<<v23-2-15,15>>^ E contra toda a torre alta, e contra todo o muro firme;
+
+[[v23-2-16]]
+
+^<<v23-2-16,16>>^ E contra todos os navios de Tarsis, e contra todas as pinturas desejáveis.
+
+[[v23-2-17]]
+
+^<<v23-2-17,17>>^ E a altivez do homem será humilhada, e a altivez dos varões se abaterá, e só o Senhor será exaltado naquele dia.
+
+[[v23-2-18]]
+
+^<<v23-2-18,18>>^ E todos os ídolos totalmente desaparecerão.
+
+[[v23-2-19]]
+
+^<<v23-2-19,19>>^ Então os homens se meterão nas concavidades das rochas, e nas cavernas da terra, por causa da presença espantosa do Senhor, e por causa da glória da sua majestade, quando ele se levantar para assombrar a terra.
+
+[[v23-2-20]]
+
+^<<v23-2-20,20>>^ Naquele dia o homem lançará às toupeiras e aos morcegos os seus ídolos de prata, e os seus ídolos de ouro, que fizeram para ante eles se prostrarem.
+
+[[v23-2-21]]
+
+^<<v23-2-21,21>>^ E meter-se-á pelas fendas das rochas, e pelas cavernas das penhas, por causa da presença espantosa do Senhor, e por causa da glória da sua majestade, quando ele se levantar para assombrar a terra.
+
+[[v23-2-22]]
+
+^<<v23-2-22,22>>^ Deixai-vos pois do homem cujo fôlego está  no seu nariz; porque em que se deve ele estimar?
+
+'''
+
+xref:023-isaias/023-isaias-001.adoc#v23-1-0[&#60; Capítulo Anterior] | <<v23-2-0,Topo>> | xref:023-isaias/023-isaias-003.adoc#v23-3-0[Próximo Capítulo &#62;]

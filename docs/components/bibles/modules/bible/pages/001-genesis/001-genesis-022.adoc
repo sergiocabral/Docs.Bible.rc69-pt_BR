@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v1-22-0]]
+=== Gênesis, 22
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v1-22-1]]
+
+^<<v1-22-1,1>>^ E ACONTECEU depois destas coisas, que tentou Deus a Abraão, e disse-lhe: Abraão! E ele disse: Eis me aqui.
+
+[[v1-22-2]]
+
+^<<v1-22-2,2>>^ E disse: Toma agora o teu filho, o teu único filho, Isaque, a quem amas, e vai-te à terra de Moriá, e oferece-o ali em holocausto sobre uma das montanhas, que eu te direi.
+
+[[v1-22-3]]
+
+^<<v1-22-3,3>>^ Então se levantou Abraão pela manhã de madrugada, e albardou o seu jumento, e tomou consigo dois de seus moços e Isaque, seu filho; e fendeu lenha para o holocausto, e levantou-se, e foi ao lugar que Deus lhe dissera.
+
+[[v1-22-4]]
+
+^<<v1-22-4,4>>^ Ao terceiro dia levantou Abraão os seus olhos, e viu o lugar de longe.
+
+[[v1-22-5]]
+
+^<<v1-22-5,5>>^ E disse Abraão a seus moços: Ficai-vos aqui com o jumento, e eu e o moço iremos até ali; e havendo adorado, tornaremos a vós.
+
+[[v1-22-6]]
+
+^<<v1-22-6,6>>^ E tomou Abraão a lenha do holocausto, e pô-la sobre Isaque, seu filho; e ele tomou o fogo e o cutelo na sua mão, e foram ambos juntos.
+
+[[v1-22-7]]
+
+^<<v1-22-7,7>>^ Então falou Isaque a Abraão seu pai e disse: Meu pai! E ele disse: Eis-me aqui  meu filho! E ele disse: Eis aqui o fogo e a lenha, mas onde está  o cordeiro para o holocausto?
+
+[[v1-22-8]]
+
+^<<v1-22-8,8>>^ E disse Abraão: Deus proverá para si o cordeiro para o holocausto, meu filho. Assim caminharam ambos juntos.
+
+[[v1-22-9]]
+
+^<<v1-22-9,9>>^ E vieram ao lugar que Deus lhes dissera, e edificou Abraão ali um altar, e pôs em ordem a lenha, e amarrou a Isaque seu filho, e deitou-o sobre o altar em cima da lenha.
+
+[[v1-22-10]]
+
+^<<v1-22-10,10>>^ E estendeu Abraão a sua mão, e tomou o cutelo para imolar o seu filho;
+
+[[v1-22-11]]
+
+^<<v1-22-11,11>>^ Mas o anjo do Senhor lhe bradou desde os céus, e disse: Abraão, Abraão! E ele disse: Eis-me aqui.
+
+[[v1-22-12]]
+
+^<<v1-22-12,12>>^ Então disse: Não estendas a tua mão sobre o moço, e não lhe faças nada; porquanto agora sei que temes a Deus, e não me negaste o teu filho, o teu único.
+
+[[v1-22-13]]
+
+^<<v1-22-13,13>>^ Então levantou Abraão os seus olhos, e olhou; e eis um carneiro detrás dele , travado pelas suas pontas num mato; e foi Abraão, e tomou o carneiro, e ofereceu-o em holocausto, em lugar de seu filho.
+
+[[v1-22-14]]
+
+^<<v1-22-14,14>>^ E chamou Abraão o nome daquele lugar, o Senhor proverá; donde se diz até  ao dia de hoje: No monte do Senhor se proverá.
+
+[[v1-22-15]]
+
+^<<v1-22-15,15>>^ Então o anjo do Senhor bradou a Abraão pela segunda vez desde os céus,
+
+[[v1-22-16]]
+
+^<<v1-22-16,16>>^ E disse: Por mim mesmo, jurei, diz o Senhor: Porquanto fizeste esta ação, e não me negaste o teu filho, o teu único,
+
+[[v1-22-17]]
+
+^<<v1-22-17,17>>^ Que deveras te abençoarei, e grandissimamente multiplicarei a tua semente como as estrelas dos céus, e como a areia que está  na praia do mar; e a tua semente possuirá a porta dos seus inimigos.
+
+[[v1-22-18]]
+
+^<<v1-22-18,18>>^ E em tua semente serão benditas todas as nações da terra; porquanto obedeceste à minha voz.
+
+[[v1-22-19]]
+
+^<<v1-22-19,19>>^ Então Abraão tornou aos seus moços, e levantaram-se, e foram juntos para Berseba; e Abraão habitou em Berseba.
+
+[[v1-22-20]]
+
+^<<v1-22-20,20>>^ E sucedeu depois destas cousas, que anunciaram a Abraão, dizendo: Eis que também Milca deu filhos a Naor teu irmão:
+
+[[v1-22-21]]
+
+^<<v1-22-21,21>>^ Uz o seu primogênito, e Buz seu irmão, e Quemuel, pai de Arã,
+
+[[v1-22-22]]
+
+^<<v1-22-22,22>>^ E Quesede, e Hazo, e Pildas, e Jidlafe, e Betuel.
+
+[[v1-22-23]]
+
+^<<v1-22-23,23>>^ E Betuel gerou Rebeca. Estes oito deu Milca a Naor, irmão de Abraão.
+
+[[v1-22-24]]
+
+^<<v1-22-24,24>>^ E a sua concubina, cujo nome era  Reumá, ela lhe deu também a Tebá, e Gaã, e Taás e Maaca.
+
+'''
+
+xref:001-genesis/001-genesis-021.adoc#v1-21-0[&#60; Capítulo Anterior] | <<v1-22-0,Topo>> | xref:001-genesis/001-genesis-023.adoc#v1-23-0[Próximo Capítulo &#62;]

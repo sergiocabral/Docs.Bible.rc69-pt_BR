@@ -1,0 +1,85 @@
+include::./index.adoc[]
+
+[[v19-116-0]]
+=== Salmos, 116
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v19-116-1]]
+
+^<<v19-116-1,1>>^ AMO ao Senhor, porque ele ouviu a minha voz e  a minha súplica.
+
+[[v19-116-2]]
+
+^<<v19-116-2,2>>^ Porque inclinou para mim os seus ouvidos; portanto invocá-lo-ei enquanto viver.
+
+[[v19-116-3]]
+
+^<<v19-116-3,3>>^ Cordéis da morte me cercaram, e angústias do inferno se apoderaram de mim: encontrei aperto e tristeza.
+
+[[v19-116-4]]
+
+^<<v19-116-4,4>>^ Então invoquei o nome do Senhor, dizendo : Ó Senhor, livra a minha alma.
+
+[[v19-116-5]]
+
+^<<v19-116-5,5>>^ Piedoso é  o Senhor e justo: o nosso Deus tem misericórdia.
+
+[[v19-116-6]]
+
+^<<v19-116-6,6>>^ O Senhor guarda aos símplices: estava abatido, mas ele me livrou.
+
+[[v19-116-7]]
+
+^<<v19-116-7,7>>^ Volta, minha alma, a teu repouso, pois o Senhor te fez bem.
+
+[[v19-116-8]]
+
+^<<v19-116-8,8>>^ Porque tu, Senhor , livraste a minha alma da morte, os meus olhos das lágrimas, e os meus pés da queda.
+
+[[v19-116-9]]
+
+^<<v19-116-9,9>>^ Andarei perante a face do Senhor, na terra dos viventes.
+
+[[v19-116-10]]
+
+^<<v19-116-10,10>>^ Cri, por isso falei: estive muito aflito.
+
+[[v19-116-11]]
+
+^<<v19-116-11,11>>^ Eu dizia na minha precipitação: Todo o homem é mentira.
+
+[[v19-116-12]]
+
+^<<v19-116-12,12>>^ Que darei eu ao Senhor, por todos os benefícios que me tem feito?
+
+[[v19-116-13]]
+
+^<<v19-116-13,13>>^ Tomarei o cálice da salvação, e invocarei o nome do Senhor.
+
+[[v19-116-14]]
+
+^<<v19-116-14,14>>^ Pagarei os meus votos ao Senhor, agora, na presença de todo o seu povo.
+
+[[v19-116-15]]
+
+^<<v19-116-15,15>>^ Preciosa é  à vista do Senhor a morte dos seus santos.
+
+[[v19-116-16]]
+
+^<<v19-116-16,16>>^ Ó Senhor, deveras sou  teu servo: sou  teu servo, filho da tua serva; soltaste as minhas ataduras.
+
+[[v19-116-17]]
+
+^<<v19-116-17,17>>^ Oferecer-te-ei sacrifícios de louvor, e invocarei o nome do Senhor.
+
+[[v19-116-18]]
+
+^<<v19-116-18,18>>^ Pagarei os meus votos ao Senhor: que eu possa fazê-lo na presença de todo o meu povo.
+
+[[v19-116-19]]
+
+^<<v19-116-19,19>>^ Nos átrios da casa do Senhor, no meio de ti, ó Jerusalém! Louvai ao Senhor.
+
+'''
+
+xref:019-salmos/019-salmos-115.adoc#v19-115-0[&#60; Capítulo Anterior] | <<v19-116-0,Topo>> | xref:019-salmos/019-salmos-117.adoc#v19-117-0[Próximo Capítulo &#62;]

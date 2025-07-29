@@ -1,0 +1,101 @@
+include::./index.adoc[]
+
+[[v8-2-0]]
+=== Rute, 2
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v8-2-1]]
+
+^<<v8-2-1,1>>^ E TINHA Noemi um parente de seu marido, homem valente e  poderoso, da geração de Elimeleque: e era  o seu nome Boaz.
+
+[[v8-2-2]]
+
+^<<v8-2-2,2>>^ E Rute a moabita disse a Noemi: Deixa-me ir ao campo, e apanharei espigas atrás daquele em cujos olhos eu achar graça. E ela lhe disse: Vai, minha filha.
+
+[[v8-2-3]]
+
+^<<v8-2-3,3>>^ Foi pois, e chegou, e apanhava espigas  no campo após os segadores: e caiu-lhe em sorte uma parte do campo de Boaz, que era  da geração de Elimeleque.
+
+[[v8-2-4]]
+
+^<<v8-2-4,4>>^ E eis que Boaz veio de Belém, e disse aos segadores: O Senhor seja  convosco. E disseram-lhe eles: O Senhor te abençoe.
+
+[[v8-2-5]]
+
+^<<v8-2-5,5>>^ Depois disse Boaz a seu moço, que estava posto sobre os segadores: De quem é  esta moça?
+
+[[v8-2-6]]
+
+^<<v8-2-6,6>>^ E respondeu o moço, que estava posto sobre os segadores, e disse: Esta é  a moça moabita que voltou com Noemi dos campos de Moabe.
+
+[[v8-2-7]]
+
+^<<v8-2-7,7>>^ Disse-me ela: Deixa-me colher espigas , e ajuntá- las  entre as gavelas após dos segadores. Assim ela veio, e desde pela manhã está aqui  até agora, a não ser um pouco que esteve sentada em casa.
+
+[[v8-2-8]]
+
+^<<v8-2-8,8>>^ Então disse Boaz a Rute: Não ouves, filha minha? não vás colher a outro campo, nem tão pouco passes daqui: porém aqui te ajuntarás com as minhas moças.
+
+[[v8-2-9]]
+
+^<<v8-2-9,9>>^ Os teus olhos estarão atentos  no campo que segarem, e irás após delas; não dei ordem aos moços, que te não toquem? Tendo tu sede, vai aos vasos, e bebe do que os moços tirarem.
+
+[[v8-2-10]]
+
+^<<v8-2-10,10>>^ Então ela caiu sobre o seu rosto, e se inclinou à terra: e disse-lhe: Por que achei graça em teus olhos, para que faças caso de mim, sendo eu uma  estrangeira?
+
+[[v8-2-11]]
+
+^<<v8-2-11,11>>^ E respondeu Boaz, e disse-lhe: Bem se me contou quanto fizeste a tua sogra, depois da morte de teu marido: e deixaste a teu pai e a tua mãe, e a terra onde nasceste, e vieste para um povo que dantes não conheceste.
+
+[[v8-2-12]]
+
+^<<v8-2-12,12>>^ O Senhor galardoe o teu feito: e seja cumprido o teu galardão do Senhor Deus de Israel, sob cujas asas te vieste abrigar.
+
+[[v8-2-13]]
+
+^<<v8-2-13,13>>^ E disse ela: Ache eu graça em teus olhos, senhor meu, pois me consolaste, e falaste ao coração da tua serva, não sendo eu nem ainda  como uma das tuas criadas.
+
+[[v8-2-14]]
+
+^<<v8-2-14,14>>^ E sendo já horas de comer, disse-lhe Boaz: Achega-te aqui, e come do pão, e molha o teu bocado no vinagre. E ela se assentou ao lado dos segadores, e ele lhe deu do trigo  tostado, e comeu, e se fartou, e ainda  lhe sobejou.
+
+[[v8-2-15]]
+
+^<<v8-2-15,15>>^ E, levantando-se ela a colher, Boaz deu ordem aos seus moços, dizendo: Até entre as gavelas deixai-a colher, e não lho embaraceis.
+
+[[v8-2-16]]
+
+^<<v8-2-16,16>>^ E deixai cair alguns punhados, e deixai-os ficar, para que os  colha, e não a repreendais.
+
+[[v8-2-17]]
+
+^<<v8-2-17,17>>^ E esteve ela apanhando naquele campo até à tarde: e debulhou o que apanhou e foi quase um efa de cevada.
+
+[[v8-2-18]]
+
+^<<v8-2-18,18>>^ E tomou-o, e veio à cidade; e viu sua sogra o que tinha apanhado: também tirou, e deu-lhe o que lhe sobejara depois de fartar-se.
+
+[[v8-2-19]]
+
+^<<v8-2-19,19>>^ Então disse-lhe sua sogra: Onde colheste hoje, e onde trabalhaste? Bendito seja aquele que te reconheceu. E relatou à sua sogra com quem tinha trabalhado, e disse: O nome do homem com quem hoje trabalhei é  Boaz.
+
+[[v8-2-20]]
+
+^<<v8-2-20,20>>^ Então Noemi disse a sua nora: Bendito seja  do Senhor, que ainda  não tem deixado a sua beneficência nem para com os vivos nem para com os mortos. Disse-lhe mais Noemi: Este homem é nosso parente  chegado, e  um dentre os nossos remidores.
+
+[[v8-2-21]]
+
+^<<v8-2-21,21>>^ E disse Rute, a moabita: Também ainda me disse: Com os moços que tenho te ajuntarás, até que acabem toda a sega que tenho.
+
+[[v8-2-22]]
+
+^<<v8-2-22,22>>^ E disse Noemi, a sua nora, Rute: Melhor é , filha minha, que saias com as suas moças, para que noutro campo não te encontrem.
+
+[[v8-2-23]]
+
+^<<v8-2-23,23>>^ Assim, ajuntou-se com as moças de Boaz, para colher até que a sega das cevadas e dos trigos se acabou; e ficou com a sua sogra.
+
+'''
+
+xref:008-rute/008-rute-001.adoc#v8-1-0[&#60; Capítulo Anterior] | <<v8-2-0,Topo>> | xref:008-rute/008-rute-003.adoc#v8-3-0[Próximo Capítulo &#62;]

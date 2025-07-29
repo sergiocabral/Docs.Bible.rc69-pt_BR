@@ -1,0 +1,69 @@
+include::./index.adoc[]
+
+[[v9-21-0]]
+=== 1 Samuel, 21
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v9-21-1]]
+
+^<<v9-21-1,1>>^ ENTÃO veio Davi a Nobe, ao sacerdote Aquimeleque; e Aquimeleque, tremendo, saiu ao encontro de Davi, e disse-lhe: Por que vens  só, e ninguém contigo?
+
+[[v9-21-2]]
+
+^<<v9-21-2,2>>^ E disse Davi ao sacerdote Aquimeleque: O rei me encomendou um  negócio, e me disse: Ninguém saiba deste negócio, pelo qual eu te enviei, e o qual te ordenei: quanto aos mancebos, apontei-lhes tal e tal lugar.
+
+[[v9-21-3]]
+
+^<<v9-21-3,3>>^ Agora, pois, que tens à mão? dá-me cinco pães na minha mão, ou o que se achar.
+
+[[v9-21-4]]
+
+^<<v9-21-4,4>>^ E, respondendo o sacerdote a Davi, disse: Não tenho pão comum à mão; há porém pão sagrado, se ao menos os mancebos se abstiveram das mulheres.
+
+[[v9-21-5]]
+
+^<<v9-21-5,5>>^ E respondeu Davi ao sacerdote, e lhe disse: Sim, em boa fé, as mulheres se nos vedaram desde ontem: e, anteontem, quando eu saí, os vasos dos mancebos também eram santos: e em alguma  maneira é pão  comum, quanto mais que hoje se santificará outro  nos vasos.
+
+[[v9-21-6]]
+
+^<<v9-21-6,6>>^ Então o sacerdote lhe deu o pão  sagrado, porquanto não havia ali outro  pão senão os pães da proposição, que se tiraram de diante do Senhor para se pôr ali pão quente no dia em que aquele se tirasse.
+
+[[v9-21-7]]
+
+^<<v9-21-7,7>>^ Estava , porém, ali naquele dia um dos criados de Saul, detido perante o Senhor, e era  seu nome Doegue, idumeu, o mais poderoso dos pastores de Saul.
+
+[[v9-21-8]]
+
+^<<v9-21-8,8>>^ E disse Davi a Aquimeleque: Não tens aqui à mão lança ou espada alguma? porque não trouxe à mão nem a minha espada nem as minhas armas, porque o negócio do rei era apressado.
+
+[[v9-21-9]]
+
+^<<v9-21-9,9>>^ E disse o sacerdote: A espada de Golias, o filisteu, a quem tu feriste no vale do carvalho, eis que ela aqui  está envolta num pano detrás do éfode: se tu a queres tomar, toma- a , porque nenhuma outra há  aqui, senão aquela. E disse Davi: Não há  outra semelhante; dá-ma.
+
+[[v9-21-10]]
+
+^<<v9-21-10,10>>^ E Davi levantou-se, e fugiu aquele dia de diante de Saul, e veio a Áquis, rei de Gate.
+
+[[v9-21-11]]
+
+^<<v9-21-11,11>>^ Porém os criados de Áquis lhe disseram: Não é  este Davi, o rei da terra? não se cantava deste nas danças, dizendo: Saul feriu os seus milhares, porém Davi os seus dez milhares?
+
+[[v9-21-12]]
+
+^<<v9-21-12,12>>^ E Davi considerou estas palavras no seu ânimo, e temeu muito diante de Áquis, rei de Gate.
+
+[[v9-21-13]]
+
+^<<v9-21-13,13>>^ Pelo que se contrafez diante dos olhos deles, e fez-se como doido entre as suas mãos, e esgravatava nas portas do portal, e deixava correr a saliva pela barba.
+
+[[v9-21-14]]
+
+^<<v9-21-14,14>>^ Então disse Áquis aos seus criados: Eis que bem  vedes que este homem está louco; porque mo trouxestes a mim?
+
+[[v9-21-15]]
+
+^<<v9-21-15,15>>^ Faltam-me a mim doidos, para que trouxésseis a este que fizesse doidices diante de mim? há de este entrar na minha casa?
+
+'''
+
+xref:009-1-samuel/009-1-samuel-020.adoc#v9-20-0[&#60; Capítulo Anterior] | <<v9-21-0,Topo>> | xref:009-1-samuel/009-1-samuel-022.adoc#v9-22-0[Próximo Capítulo &#62;]

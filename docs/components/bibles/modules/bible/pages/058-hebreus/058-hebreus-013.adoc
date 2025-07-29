@@ -1,0 +1,109 @@
+include::./index.adoc[]
+
+[[v58-13-0]]
+=== Hebreus, 13
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v58-13-1]]
+
+^<<v58-13-1,1>>^ PERMANEÇA a caridade fraternal.
+
+[[v58-13-2]]
+
+^<<v58-13-2,2>>^ Não vos esqueçais da hospitalidade, porque por ela alguns, não o sabendo, hospedaram anjos.
+
+[[v58-13-3]]
+
+^<<v58-13-3,3>>^ Lembrai-vos dos presos, como se estivésseis presos com eles, e dos maltratados, como sendo-o vós mesmos também no corpo.
+
+[[v58-13-4]]
+
+^<<v58-13-4,4>>^ Venerado seja entre todos o matrimônio e o leito sem mácula; porém aos que se dão à prostituição e aos adúlteros Deus os julgará.
+
+[[v58-13-5]]
+
+^<<v58-13-5,5>>^ Sejam vossos costumes sem avareza, contentando-vos com o que tendes; porque ele disse: Não te deixarei, nem te desampararei.
+
+[[v58-13-6]]
+
+^<<v58-13-6,6>>^ E assim com confiança ousemos dizer: O Senhor é o meu ajudador, e não temerei o que me possa  fazer o homem.
+
+[[v58-13-7]]
+
+^<<v58-13-7,7>>^ Lembrai-vos dos vossos pastores, que vos falaram a palavra de Deus, a fé dos quais imitai, atentando para a sua maneira de viver.
+
+[[v58-13-8]]
+
+^<<v58-13-8,8>>^ Jesus Cristo é  o mesmo ontem, e hoje, e eternamente.
+
+[[v58-13-9]]
+
+^<<v58-13-9,9>>^ Não vos deixeis levar em redor por doutrinas várias e estranhas, porque bom é que o coração se fortifique com graça, e  não com manjares, que de nada aproveitaram aos que a eles  se entregaram.
+
+[[v58-13-10]]
+
+^<<v58-13-10,10>>^ Temos um altar, de que não têm direito de comer os que servem ao tabernáculo.
+
+[[v58-13-11]]
+
+^<<v58-13-11,11>>^ Porque os corpos dos animais, cujo sangue é, pelo pecado, trazido pelo sumo sacerdote para o santuário, são queimados fora do arraial.
+
+[[v58-13-12]]
+
+^<<v58-13-12,12>>^ E por isso também Jesus, para santificar o povo pelo seu próprio sangue, padeceu fora da porta.
+
+[[v58-13-13]]
+
+^<<v58-13-13,13>>^ Saiamos pois a ele fora do arraial, levando o seu vitupério.
+
+[[v58-13-14]]
+
+^<<v58-13-14,14>>^ Porque não temos aqui cidade permanente, mas buscamos a futura.
+
+[[v58-13-15]]
+
+^<<v58-13-15,15>>^ Portanto ofereçamos sempre por ele a Deus sacrifício de louvor, isto é, o fruto dos lábios que confessam o seu nome.
+
+[[v58-13-16]]
+
+^<<v58-13-16,16>>^ E não vos esqueçais da beneficência e comunicação, porque com tais sacrifícios Deus se agrada.
+
+[[v58-13-17]]
+
+^<<v58-13-17,17>>^ Obedecei a vossos pastores, e sujeitai-vos a eles; porque velam por vossas almas, como aqueles que hão da dar conta delas ; para que o façam com alegria e não gemendo, porque isso não vos seria  útil.
+
+[[v58-13-18]]
+
+^<<v58-13-18,18>>^ Orai por nós, porque confiamos que temos boa consciência, como aqueles que em tudo querem portar-se honestamente.
+
+[[v58-13-19]]
+
+^<<v58-13-19,19>>^ E rogo- vos  com instância que assim  o façais para que eu mais depressa vos seja restituído.
+
+[[v58-13-20]]
+
+^<<v58-13-20,20>>^ Ora o Deus de paz, que pelo sangue do concerto eterno tornou a trazer dos mortos a nosso Senhor Jesus Cristo, grande pastor das ovelhas,
+
+[[v58-13-21]]
+
+^<<v58-13-21,21>>^ Vos aperfeiçoe em toda a boa obra, para fazerdes a sua vontade, operando em vós o que perante ele é agradável por Cristo Jesus, ao qual seja glória para todo o sempre. Amém.
+
+[[v58-13-22]]
+
+^<<v58-13-22,22>>^ Rogo-vos, porém, irmãos, que  suporteis a palavra desta exortação; porque abreviadamente vos escrevi.
+
+[[v58-13-23]]
+
+^<<v58-13-23,23>>^ Sabei que já  está solto o irmão Timóteo, com o qual (se vier depressa) vos verei.
+
+[[v58-13-24]]
+
+^<<v58-13-24,24>>^ Saudai a todos os vossos chefes e a todos os santos. Os de Itália vos saúdam.
+
+[[v58-13-25]]
+
+^<<v58-13-25,25>>^ A graça seja com todos vós. Amém.
+
+'''
+
+xref:058-hebreus/058-hebreus-012.adoc#v58-12-0[&#60; Capítulo Anterior] | <<v58-13-0,Topo>> | xref:059-tiago/059-tiago-001.adoc#v59-1-0[Próximo Capítulo &#62;]

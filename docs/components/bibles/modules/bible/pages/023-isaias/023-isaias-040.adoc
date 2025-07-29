@@ -1,0 +1,133 @@
+include::./index.adoc[]
+
+[[v23-40-0]]
+=== Isaías, 40
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v23-40-1]]
+
+^<<v23-40-1,1>>^ CONSOLAI, consolai o meu povo, diz o vosso Deus.
+
+[[v23-40-2]]
+
+^<<v23-40-2,2>>^ Falai benignamente a Jerusalém, e bradai-lhe que já  a sua malícia é acabada, que a sua iniquidade está expiada e  que já  recebeu em dobro da mão do Senhor, por todos os seus pecados.
+
+[[v23-40-3]]
+
+^<<v23-40-3,3>>^ Voz do que clama no deserto: Preparai o caminho do Senhor: endireitai no ermo vereda a nosso Deus.
+
+[[v23-40-4]]
+
+^<<v23-40-4,4>>^ Todo o vale será exaltado, e todo o monte e todo  o outeiro serão abatidos: e o que está torcido se endireitará, e o que é áspero se aplainará.
+
+[[v23-40-5]]
+
+^<<v23-40-5,5>>^ E a glória do Senhor se manifestará, e toda a carne juntamente verá que foi a boca do Senhor que isto disse.
+
+[[v23-40-6]]
+
+^<<v23-40-6,6>>^ Voz que diz: Clama; e alguém disse: Que hei de clamar? Toda a carne é  erva e toda a sua beleza como as flores do campo.
+
+[[v23-40-7]]
+
+^<<v23-40-7,7>>^ Seca-se a erva, e  caem as flores, soprando nelas o hálito do Senhor. Na verdade o povo é erva.
+
+[[v23-40-8]]
+
+^<<v23-40-8,8>>^ Seca-se a erva, e  caem as flores, mas a palavra de nosso Deus subsiste eternamente.
+
+[[v23-40-9]]
+
+^<<v23-40-9,9>>^ Tu, anunciador de boas novas a Sião, sobe tu a um monte alto. Tu, anunciador de boas novas a Jerusalém, levanta a tua voz fortemente; levanta-a, não temas, e  dize às cidades de Judá: Eis aqui está o  vosso Deus.
+
+[[v23-40-10]]
+
+^<<v23-40-10,10>>^ Eis que o Senhor Jeová  virá como o forte, e o seu braço dominará: eis que o seu galardão vem  com ele, e o seu salário diante da sua face.
+
+[[v23-40-11]]
+
+^<<v23-40-11,11>>^ Como pastor apascentará o seu rebanho; entre os seus braços recolherá os cordeirinhos, e os  levará no seu regaço: as que amamentam, ele guiará mansamente.
+
+[[v23-40-12]]
+
+^<<v23-40-12,12>>^ Quem mediu com o seu punho as águas, e tomou a medida dos céus aos palmos, e recolheu numa medida o pó da terra e pesou os montes e os outeiros em balanças?
+
+[[v23-40-13]]
+
+^<<v23-40-13,13>>^ Quem guiou o Espírito do Senhor? e que conselheiro o ensinou?
+
+[[v23-40-14]]
+
+^<<v23-40-14,14>>^ Com quem tomou conselho, para que lhe desse entendimento, e lhe mostrasse as veredas do juízo e lhe ensinasse sabedoria, e lhe fizesse notório o caminho da ciência?
+
+[[v23-40-15]]
+
+^<<v23-40-15,15>>^ Eis que as nações são  consideradas por ele como a gota dum balde, e como o pó miúdo das balanças: eis que lança por aí as ilhas como a uma cousa pequeníssima.
+
+[[v23-40-16]]
+
+^<<v23-40-16,16>>^ Nem todo  o Líbano basta para o fogo, nem os seus animais bastam para holocaustos.
+
+[[v23-40-17]]
+
+^<<v23-40-17,17>>^ Todas as nações são  como nada perante ele; ele considera-as menos do que nada e como uma  cousa vã.
+
+[[v23-40-18]]
+
+^<<v23-40-18,18>>^ A quem pois fareis semelhante a Deus: ou com que o comparareis?
+
+[[v23-40-19]]
+
+^<<v23-40-19,19>>^ O artífice grava a imagem, e o ourives a cobre de ouro, e cadeias de prata funde para ela.
+
+[[v23-40-20]]
+
+^<<v23-40-20,20>>^ O empobrecido, que não pode oferecer tanto, escolhe madeira que  não se corrompe: artífice sábio busca para gravar uma  imagem que  se não pode mover.
+
+[[v23-40-21]]
+
+^<<v23-40-21,21>>^ Porventura  não sabeis? porventura  não ouvis? ou desde o princípio se vos não notificou isto mesmo? ou não atentastes para os fundamentos da terra?
+
+[[v23-40-22]]
+
+^<<v23-40-22,22>>^ Ele é  o que está assentado sobre o globo da terra, cujos moradores são para ele  como gafanhotos: ele é  o que estende os céus como cortina, e os desenrola como tenda para neles habitar:
+
+[[v23-40-23]]
+
+^<<v23-40-23,23>>^ O que faz voltar ao nada os príncipes e  torna cousa vã os juízes da terra.
+
+[[v23-40-24]]
+
+^<<v23-40-24,24>>^ E não se plantam, nem se semeiam, nem se arraiga na terra o seu tronco cortado; sopra sobre eles e secam-se, e um tufão como pragana os levará.
+
+[[v23-40-25]]
+
+^<<v23-40-25,25>>^ A quem pois me fareis semelhante, para que lhe seja semelhante? diz o Santo.
+
+[[v23-40-26]]
+
+^<<v23-40-26,26>>^ Levantai ao alto os vossos olhos, e vede quem criou estas cousas, quem produz por conta o seu exército, quem a todas chama pelos seus  nomes; por causa da grandeza das suas  forças, e pela fortaleza do seu poder, nenhuma faltará.
+
+[[v23-40-27]]
+
+^<<v23-40-27,27>>^ Porque pois  dizes, ó Jacó, e tu  falas, ó Israel: O meu caminho está encoberto ao Senhor, e o meu juízo passa de largo pelo meu Deus?
+
+[[v23-40-28]]
+
+^<<v23-40-28,28>>^ Não sabes, não ouviste que o eterno Deus, o Senhor, o Criador dos fins da terra, nem se cansa nem se fatiga? não há esquadrinhação do seu entendimento.
+
+[[v23-40-29]]
+
+^<<v23-40-29,29>>^ Dá esforço ao cansado, e multiplica as forças ao que não tem nenhum vigor.
+
+[[v23-40-30]]
+
+^<<v23-40-30,30>>^ Os jovens se cansarão e se fatigarão, e os mancebos certamente cairão.
+
+[[v23-40-31]]
+
+^<<v23-40-31,31>>^ Mas os que esperam no Senhor renovarão as suas forças, subirão com asas como águias: correrão e não se cansarão; caminharão, e não se fatigarão.
+
+'''
+
+xref:023-isaias/023-isaias-039.adoc#v23-39-0[&#60; Capítulo Anterior] | <<v23-40-0,Topo>> | xref:023-isaias/023-isaias-041.adoc#v23-41-0[Próximo Capítulo &#62;]

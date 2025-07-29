@@ -1,0 +1,105 @@
+include::./index.adoc[]
+
+[[v11-17-0]]
+=== 1 Reis, 17
+// rc69 ?, RC69 - Almeida Revista e Corrigida 1969
+
+[[v11-17-1]]
+
+^<<v11-17-1,1>>^ ENTÃO Elias, o tesbita, dos moradores de Gileade, disse a Acabe: Vive o Senhor, Deus de Israel, perante cuja face estou, que nestes anos nem orvalho nem chuva haverá senão segundo a minha palavra.
+
+[[v11-17-2]]
+
+^<<v11-17-2,2>>^ Depois veio a ele a palavra do Senhor, dizendo:
+
+[[v11-17-3]]
+
+^<<v11-17-3,3>>^ Vai-te daqui, e vira-te para o oriente, e esconde-te junto ao ribeiro de Carite, que está  diante do Jordão.
+
+[[v11-17-4]]
+
+^<<v11-17-4,4>>^ E há de ser que  beberás do ribeiro: e eu tenho ordenado aos corvos que ali te sustentem.
+
+[[v11-17-5]]
+
+^<<v11-17-5,5>>^ Foi pois, e fez conforme à palavra do Senhor: porque foi, e habitou junto ao ribeiro de Carite, que está  diante do Jordão.
+
+[[v11-17-6]]
+
+^<<v11-17-6,6>>^ E os corvos lhe traziam pão e carne pela manhã; como também pão e carne à noite: e bebia do ribeiro.
+
+[[v11-17-7]]
+
+^<<v11-17-7,7>>^ E sucedeu que, passados dias, o ribeiro se secou; porque não tinha havido chuva na terra.
+
+[[v11-17-8]]
+
+^<<v11-17-8,8>>^ Então veio a ele a palavra do Senhor, dizendo:
+
+[[v11-17-9]]
+
+^<<v11-17-9,9>>^ Levanta-te, e vai a Sarepta, que é  de Sidom, e habita ali, eis que eu ordenei ali a uma mulher viúva que te sustente.
+
+[[v11-17-10]]
+
+^<<v11-17-10,10>>^ Então ele se levantou, e se foi a Sarepta; e, chegando à porta da cidade, eis que estava  ali uma  mulher viúva apanhando lenha; e ele a chamou, e lhe  disse: Traze-me, peço-te, num vaso um pouco de água que beba.
+
+[[v11-17-11]]
+
+^<<v11-17-11,11>>^ E, indo ela a buscá-la, ele a chamou e lhe  disse: Traze-me agora também  um bocado de pão na tua mão.
+
+[[v11-17-12]]
+
+^<<v11-17-12,12>>^ Porém ela disse: Vive o Senhor teu Deus, que nem um bolo tenho, senão somente um punhado de farinha numa panela, e um pouco de azeite numa botija; e vês aqui, apanhei dois cavacos, e vou prepará-lo para mim e para o meu filho, para que o comamos, e morramos.
+
+[[v11-17-13]]
+
+^<<v11-17-13,13>>^ E Elias lhe disse: Não temas; vai, faze conforme à tua palavra: porém faze disso primeiro para mim um bolo pequeno e traze-mo para fora; depois farás para ti e para teu filho.
+
+[[v11-17-14]]
+
+^<<v11-17-14,14>>^ Porque assim diz o Senhor Deus de Israel: A farinha da panela não se acabará, e o azeite da botija não faltará, até ao dia em que o Senhor dê chuva sobre a terra.
+
+[[v11-17-15]]
+
+^<<v11-17-15,15>>^ E foi ela, e fez conforme à palavra de Elias: e assim comeu ela, e ele, e a sua casa muitos  dias.
+
+[[v11-17-16]]
+
+^<<v11-17-16,16>>^ Da panela a farinha se não acabou, e da botija o azeite não faltou: Conforme à palavra do Senhor, que falara pelo ministério de Elias.
+
+[[v11-17-17]]
+
+^<<v11-17-17,17>>^ E depois destas cousas sucedeu que , adoeceu o filho desta mulher, da dona da casa: e a sua doença se agravou muito, até que nele nenhum fôlego ficou.
+
+[[v11-17-18]]
+
+^<<v11-17-18,18>>^ Então ela disse a Elias: Que tenho eu contigo, homem de Deus? Vieste tu a mim para trazeres à memória a minha iniquidade, e matares a meu filho?
+
+[[v11-17-19]]
+
+^<<v11-17-19,19>>^ E ele lhe disse: Dá-me o teu filho. E ele o tomou do seu regaço, e o levou para cima, ao quarto, onde ele mesmo  habitava, e o deitou em sua cama,
+
+[[v11-17-20]]
+
+^<<v11-17-20,20>>^ E clamou ao Senhor e disse: Ó Senhor meu Deus, também até a esta viúva, com quem eu moro, afligiste, matando-lhe seu filho?
+
+[[v11-17-21]]
+
+^<<v11-17-21,21>>^ Então se mediu sobre o menino três vezes, e clamou ao Senhor, e disse: Ó Senhor meu Deus, rogo-te que torne a alma deste menino a entrar nele.
+
+[[v11-17-22]]
+
+^<<v11-17-22,22>>^ E o Senhor ouviu a voz de Elias; e a alma do menino tornou a entrar nele, e  reviveu.
+
+[[v11-17-23]]
+
+^<<v11-17-23,23>>^ E Elias tomou o menino, e o trouxe do quarto à casa, e o deu a sua mãe; e disse Elias: Vês aí , teu filho vive.
+
+[[v11-17-24]]
+
+^<<v11-17-24,24>>^ Então a mulher disse a Elias: Nisto conheço agora que tu és  homem de Deus, e  que a palavra do Senhor na tua boca é  verdade.
+
+'''
+
+xref:011-1-reis/011-1-reis-016.adoc#v11-16-0[&#60; Capítulo Anterior] | <<v11-17-0,Topo>> | xref:011-1-reis/011-1-reis-018.adoc#v11-18-0[Próximo Capítulo &#62;]
