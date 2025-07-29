@@ -1,6 +1,6 @@
-# 📖 Traduções da Bíblia
+# 📖 Tradução da Bíblia: Almeida Revista e Corrigida 1969 (rc69, pt_BR, 1969)
 
-Este repositório pode ser acessado online no endereço: https://www.raciocinios.com.br/
+Este repositório pode ser acessado online no endereço: https://rc69-pt-br.bible.raciocinios.com.br/
 
 ---
 

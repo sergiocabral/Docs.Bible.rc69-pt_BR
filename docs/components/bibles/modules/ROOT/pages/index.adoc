@@ -1,4 +1,52 @@
-= Bem-vindo!
+= Bem-vindo
 
-Aqui você encontra uma ou mais traduções da Bíblia organizadas de forma clara e acessível.
-Este espaço foi feito para facilitar a leitura e o compartilhamento das Escrituras.
+[cols="1h,3", options="header"]
+|===
+2+|📚 *Sobre esta tradução da Bíblia* +
+🔗 xref:bible:001-genesis/001-genesis-001.adoc[]
+
+|📛 Sigla   |rc69
+|🌐 Idioma  |Português (Brasil)
+|📅 Ano     |1969 (revisão da ARC 1898)
+|📖 Título  |Almeida Revista e Corrigida 1969
+|===
+
+A *Almeida Revista e Corrigida 1969* (sigla informal: **RC69**) é uma revisão brasileira da clássica *Almeida Revista e Corrigida (ARC)*, publicada em **1969** pela *Sociedade Bíblica do Brasil (SBB)*. Esta edição mantém o texto-base da ARC de 1898, preservando a estrutura e estilo tradicionais da tradução de João Ferreira de Almeida.
+
+== Base textual
+
+* **Antigo Testamento**: Texto Massorético
+* **Novo Testamento**: Textus Receptus
+
+== Método de tradução
+
+Adota a **equivalência formal**, priorizando tradução palavra por palavra, com mínimo de interpretação do tradutor. Palavras inseridas para fluidez são geralmente marcadas em *itálico*, prática herdada da versão original de Almeida.
+
+== Histórico editorial
+
+1. 1898 — Publicação da edição original da *Almeida Revista e Corrigida* em Lisboa.
+2. 1969 — Revisão realizada pela SBB no Brasil, com ajustes ortográficos, gramaticais e de fluidez, mas sem mudanças substanciais no conteúdo doutrinário ou na base textual.
+3. Revisões posteriores (ex.: 1995, 2009) mantiveram essa base, aplicando apenas reformas gráficas e ortográficas.
+
+== Características principais
+
+* Linguagem erudita e reverente, com pronomes “tu” e “vós”, e sintaxe mais formal.
+* Frases longas, construções subordinadas e fidelidade à estrutura do hebraico e grego tradicionais.
+* Preserva acrósticos, como o do Salmo 119, e o estilo poético dos Salmos e Profetas.
+* Adaptações ortográficas de 1969 seguem as regras vigentes na época (pré-Acordo Ortográfico de 2009).
+* Não incorpora variantes do texto crítico (como Nestlé-Aland), ao contrário de versões como ARA ou NAA.
+
+== Fontes e referências
+
+* Bíblia RC69 na Bíblia Online: https://www.bibliaonline.com.br/rc69
+* Wikipédia – Almeida Revista e Corrigida: https://pt.wikipedia.org/wiki/Almeida_Revista_e_Corrigida
+* Produto oficial na SBB: https://www.sbb.com.br/produto/biblia-almeida-revista-e-corrigida-1969-151060
+* Artigo explicativo (Scribd): https://pt.scribd.com/document/691924252/Diferencas-entre-a-Almeida-Revista-e-Corrigida-e-a-Almeida-Fiel-ACF-Porque-ha-diferenca-entre-a-ARC-e-ACF-Eis-me-Aqui
+* Amazon (edição digital): https://www.amazon.com.br/dp/B01IUC2PIY
+
+== Observações finais
+
+* A sigla **RC69** não faz parte do título original, mas é amplamente usada em plataformas digitais para distinguir esta edição da ARC revisada no Brasil em 1969.
+* É indicada para leitores que preferem fidelidade à linguagem clássica, sem inserções do texto crítico, mantendo a estrutura tradicional da tradução de João Ferreira de Almeida.
+
+:include: https://www.raciocinios.com.br/support-projects.adoc
